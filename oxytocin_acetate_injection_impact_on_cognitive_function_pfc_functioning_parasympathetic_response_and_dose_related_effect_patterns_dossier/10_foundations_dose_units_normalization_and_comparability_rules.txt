@@ -1,0 +1,26 @@
+TITLE: Dose units, normalization, and comparability rules
+PURPOSE: Preserve raw dosing information and prevent invalid cross-route comparisons.
+STATUS: SUBSTANTIVE_DRAFT
+SCOPE: Dose extraction and comparability rules.
+DEPENDENCIES: 30b_dose_response_matrix_by_route_species_outcome.txt
+KEY_QUESTIONS: How should raw units be handled and compared?
+EVIDENCE_TIER: RULESET
+SOURCE_IDS_USED: S2; S4; S5
+OPEN_ISSUES: Human dose units missing from some abstract-only sources.
+LAST_UPDATED: 2026-03-27
+
+RULES:
+- Keep original units exactly as reported.
+- Add conversions only as secondary information.
+- Do not infer equivalence across IU, mcg, mg/kg, or ng ICV without explicit support.
+- Distinguish total dose from infusion rate and from peak exposure timing.
+- Distinguish dose associated with effect from proven optimal dose.
+
+EXAMPLES_FROM_OPENED_SOURCES:
+- S4: 0.03, 0.1, 0.3 mg/kg s.c.; doses expressed as oxytocin acetate salt.
+- S5: 2 ng ICV before in vivo LTP induction; 1 uM slice bath application for ex vivo LTP context.
+- S2: 80 IU d5-oxytocin via IV and IN in rhesus macaques.
+
+NEXT_ACTIONS:
+- Continue targeted searches for route-matched full texts, especially human peripheral injection PFC and parasympathetic studies.
+- Maintain separation between oxytocin acetate-specified studies and generic oxytocin formulations.

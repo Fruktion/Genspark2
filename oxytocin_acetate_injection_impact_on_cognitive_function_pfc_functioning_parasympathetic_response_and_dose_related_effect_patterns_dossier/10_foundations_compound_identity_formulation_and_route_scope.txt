@@ -1,0 +1,27 @@
+TITLE: Compound identity, formulation, and route scope
+PURPOSE: Resolve the formulation problem before interpreting efficacy claims.
+STATUS: SUBSTANTIVE_DRAFT
+SCOPE: Oxytocin acetate vs generic oxytocin vs obstetric formulations vs intranasal oxytocin.
+DEPENDENCIES: 04_source_register.txt
+KEY_QUESTIONS: Is "oxytocin acetate injection" consistently specified in the literature?
+EVIDENCE_TIER: FOUNDATIONAL_SYNTHESIS
+SOURCE_IDS_USED: S1; S3; S4; S5
+OPEN_ISSUES: Many human studies do not specify salt/formulation in accessible abstracts.
+LAST_UPDATED: 2026-03-27
+
+FORMULATION_IDENTITY_NOTE:
+- The opened literature does NOT show consistent specification of "oxytocin acetate injection" across human and animal studies.
+- S4 explicitly states oxytocin acetate (Bachem), doses expressed as the salt, administered s.c. in rats.
+- S1 and S3 refer generically to intravenous oxytocin without salt/formulation detail in the inspected abstracts.
+- Obstetric oxytocin/Pitocin/Syntocinon-type preparations should not be silently equated with oxytocin acetate unless formulation documentation is explicit.
+- Intranasal oxytocin studies are adjacent only and not direct support for injection claims.
+
+ROUTE_SCOPE:
+A. Peripheral systemic injection in humans: IV directly observed; IM/SC not yet directly evidenced in opened cognition/PFC/autonomic studies.
+B. Peripheral systemic injection in animals: s.c. directly evidenced in opened full text; IP appears in searches but not yet opened as direct key evidence here.
+C. Central injection in animals: ICV directly evidenced in opened full text.
+D. Intranasal context: adjacent only.
+
+NEXT_ACTIONS:
+- Continue targeted searches for route-matched full texts, especially human peripheral injection PFC and parasympathetic studies.
+- Maintain separation between oxytocin acetate-specified studies and generic oxytocin formulations.

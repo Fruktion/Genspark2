@@ -1,0 +1,19 @@
+TITLE: Adjacent evidence - obstetric and peripartum contexts
+PURPOSE: Distinguish labor-induction physiology from general cognitive-neuroscience contexts.
+STATUS: SUBSTANTIVE_DRAFT
+SCOPE: Obstetric/peripartum context as separate scenario.
+DEPENDENCIES: 30_direct_evidence_humans_peripheral_injection_parasympathetic.txt
+KEY_QUESTIONS: Why should obstetric findings not be generalized casually?
+EVIDENCE_TIER: ADJACENT_AND_DIRECT_CONTEXTUAL
+SOURCE_IDS_USED: S3
+OPEN_ISSUES: Full-text protocol not opened.
+LAST_UPDATED: 2026-03-27
+
+KEY POINTS:
+- Pregnancy/labor changes baseline autonomic state, cardiovascular dynamics, and endogenous oxytocin physiology.
+- Dose titration during labor induction is clinically constrained and not analogous to psychiatric/neurocognitive dosing.
+- Therefore S3 informs only the obstetric/peripartum stratum, not general adult parasympathetic optimization.
+
+NEXT_ACTIONS:
+- Continue targeted searches for route-matched full texts, especially human peripheral injection PFC and parasympathetic studies.
+- Maintain separation between oxytocin acetate-specified studies and generic oxytocin formulations.

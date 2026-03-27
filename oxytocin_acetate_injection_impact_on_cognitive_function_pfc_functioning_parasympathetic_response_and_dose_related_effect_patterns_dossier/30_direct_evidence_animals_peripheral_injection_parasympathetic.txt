@@ -1,0 +1,19 @@
+TITLE: Direct evidence - animals - peripheral injection - parasympathetic
+PURPOSE: Summarize animal peripheral injection evidence for parasympathetic response.
+STATUS: SUBSTANTIVE_DRAFT
+SCOPE: Animal peripheral injection autonomic outcomes.
+DEPENDENCIES: 43_measurement_and_controller_limitations_cognition_pfc_hrv_respiration_handling.txt
+KEY_QUESTIONS: Are there opened peripheral animal studies with validated vagal metrics?
+EVIDENCE_TIER: UNSUPPORTED_FOR_MAIN_QUESTION_CURRENT_RUN
+SOURCE_IDS_USED: S4
+OPEN_ISSUES: S4 measured temperature and locomotion, not HRV/RSA/baroreflex.
+LAST_UPDATED: 2026-03-27
+
+CURRENT_FINDING:
+- No opened peripheral animal study in this run provided validated parasympathetic metrics such as HF-HRV, RMSSD, RSA, or baroreflex.
+- Therefore this stratum is currently UNSUPPORTED FOR MAIN QUESTION.
+- S4 only contributes adverse physiology context (hypothermia/hypoactivity), not parasympathetic proof.
+
+NEXT_ACTIONS:
+- Continue targeted searches for route-matched full texts, especially human peripheral injection PFC and parasympathetic studies.
+- Maintain separation between oxytocin acetate-specified studies and generic oxytocin formulations.

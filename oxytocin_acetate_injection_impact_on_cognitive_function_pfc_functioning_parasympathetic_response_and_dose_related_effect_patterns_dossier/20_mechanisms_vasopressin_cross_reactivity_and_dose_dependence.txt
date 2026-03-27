@@ -1,0 +1,23 @@
+TITLE: Vasopressin cross-reactivity and dose dependence
+PURPOSE: Evaluate whether higher-dose effects may reflect non-OXTR mechanisms.
+STATUS: SUBSTANTIVE_DRAFT
+SCOPE: V1a cross-reactivity, especially at higher peripheral doses.
+DEPENDENCIES: 34_disconfirming_evidence_and_red_team_dose_response_claims.txt
+KEY_QUESTIONS: Could some observed effects be vasopressin-receptor mediated?
+EVIDENCE_TIER: MECHANISTIC_AND_DIRECT_PRECLINICAL
+SOURCE_IDS_USED: S4
+OPEN_ISSUES: Human relevance uncertain.
+LAST_UPDATED: 2026-03-27
+
+S4 DIRECTLY SHOWS:
+- 0.3 mg/kg s.c. oxytocin-induced hypothermia was attenuated by V1a antagonist SR49059.
+- Same hypothermia was not attenuated by oxytocin antagonist L-368,899 under that protocol.
+
+INTERPRETATION:
+- At least some high-dose peripheral physiological effects are plausibly V1a-mediated or V1a-influenced.
+- This directly weakens simplistic "more oxytocin = more beneficial oxytocin receptor effect" reasoning.
+- High-dose adverse/countervailing effects can emerge before any universal cognitive optimum is demonstrated.
+
+NEXT_ACTIONS:
+- Continue targeted searches for route-matched full texts, especially human peripheral injection PFC and parasympathetic studies.
+- Maintain separation between oxytocin acetate-specified studies and generic oxytocin formulations.

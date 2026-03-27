@@ -1,0 +1,27 @@
+TITLE: Source register
+PURPOSE: Canonical source list with access grades and decisiveness.
+STATUS: SUBSTANTIVE_DRAFT
+SCOPE: Sources actually opened in this run.
+DEPENDENCIES: 05_source_access_and_verification_log.txt
+KEY_QUESTIONS: Which sources were full text versus abstract only, and which are decisive?
+EVIDENCE_TIER: PRIMARY_AND_ADJACENT_SOURCE_INDEX
+SOURCE_IDS_USED: S1; S2; S3; S4; S5
+OPEN_ISSUES: Several high-value sources remain inaccessible or not yet located in full text.
+LAST_UPDATED: 2026-03-27
+
+| source_id | citation_or_document_name | source_type | opened_where | access_grade | decisive_for_major_claims | notes_on_limitations |
+|---|---|---|---|---|---|---|
+| S1 | Hollander et al. 2007. Oxytocin increases retention of social cognition in autism. Biol Psychiatry. PMID 16904652 | Human primary study | PubMed landing via crawler | ABSTRACT_ONLY | NO | IV route confirmed; dose details absent from abstract, so major dose claims downgraded. |
+| S2 | Lee et al. 2018. Oxytocin by intranasal and intravenous routes reaches the CSF in rhesus macaques. Mol Psychiatry. PMID 28289281 PMCID PMC5862033 | Animal PK primary study | PubMed/PMC via crawler | FULL_TEXT_OPENED | YES | Adjacent for brain-access, not direct cognition/PFC outcome support. |
+| S3 | Makhseed et al./J Matern Fetal Neonatal Med 2017. Effects of oxytocin and atosiban on modulation of heart rate in pregnant women. PMID 27030149 | Human obstetric autonomic study | PubMed landing via crawler | ABSTRACT_ONLY | NO | Shows dose-dependent HR and spectral HRV changes; detailed dose protocol and respiration control not inspected. |
+| S4 | Hicks et al. 2018. Oxytocin attenuates phencyclidine hyperactivity and increases social interaction and nucleus accumbens dopamine release in rats. Neuropsychopharmacology/PMC6300530 | Animal peripheral primary study | PMC via crawler | FULL_TEXT_OPENED | YES | Explicitly used oxytocin acetate; doses expressed as salt; no direct PFC effect despite PFC microdialysis. |
+| S5 | Harony-Nicolas et al. 2017. Oxytocin improves behavioral and electrophysiological deficits in a novel Shank3-deficient rat. eLife PMCID PMC5283828 | Animal central primary study | PMC via crawler | FULL_TEXT_OPENED | YES | ICV route only; strong for central injection cognition/PFC plasticity, not peripheral injection. |
+
+UNOPENED_OR_PARTIAL_CANDIDATES_FOR_PRIORITY_QUEUE:
+- Human IV oxytocin cognition full text beyond abstract for S1.
+- Human direct peripheral PFC imaging studies if any exist.
+- Additional autonomic injection studies with validated vagal metrics and respiration handling.
+
+NEXT_ACTIONS:
+- Continue targeted searches for route-matched full texts, especially human peripheral injection PFC and parasympathetic studies.
+- Maintain separation between oxytocin acetate-specified studies and generic oxytocin formulations.

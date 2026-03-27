@@ -1,0 +1,25 @@
+TITLE: Dose-response, exposure, and receptor occupancy limits
+PURPOSE: Explain why sparse dose-response data cannot support fine-grained optimization.
+STATUS: SUBSTANTIVE_DRAFT
+SCOPE: Exposure-response limitations.
+DEPENDENCIES: 30c_minimum_effective_no_effect_and_adverse_dose_ranges.txt
+KEY_QUESTIONS: What prevents robust receptor-occupancy-based dose inference?
+EVIDENCE_TIER: MECHANISTIC_SYNTHESIS
+SOURCE_IDS_USED: S2; S4; S5
+OPEN_ISSUES: No opened receptor occupancy studies tied to PFC or vagal nuclei in relevant peripheral human strata.
+LAST_UPDATED: 2026-03-27
+
+KEY LIMITS:
+- Peripheral peptide PK is short in blood and route-specific.
+- Central exposure is tiny relative to peripheral dose and likely nonlinear by route/time.
+- Behavioral effects may arise from small central exposure, peripheral afferent pathways, or endogenous release loops.
+- Above-threshold doses may recruit off-target vasopressin signaling or produce countervailing physiological effects.
+
+CURRENT JUDGMENT:
+- Human peripheral dose-response: DOSE_RESPONSE_INDETERMINATE.
+- Rat s.c. behavior in S4: PRELIMINARY_DOSE_RESPONSE with threshold-like pattern between 0.03 and 0.1 mg/kg and adverse physiology at 0.3 mg/kg.
+- Central ICV in S5: effect shown at tested dose, but no within-study dose-response curve.
+
+NEXT_ACTIONS:
+- Continue targeted searches for route-matched full texts, especially human peripheral injection PFC and parasympathetic studies.
+- Maintain separation between oxytocin acetate-specified studies and generic oxytocin formulations.

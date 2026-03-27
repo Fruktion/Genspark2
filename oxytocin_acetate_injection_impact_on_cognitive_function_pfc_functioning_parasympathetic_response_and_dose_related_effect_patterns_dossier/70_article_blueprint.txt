@@ -1,0 +1,23 @@
+TITLE: Article blueprint
+PURPOSE: Prepare eventual specialist article structure without writing the article now.
+STATUS: SUBSTANTIVE_DRAFT
+SCOPE: Future synthesis blueprint.
+DEPENDENCIES: 41_scenario_specific_verdicts_by_route_species_population_outcome_and_dose_band.txt
+KEY_QUESTIONS: How would a later article be organized honestly?
+EVIDENCE_TIER: BLUEPRINT
+SOURCE_IDS_USED: S1; S2; S3; S4; S5
+OPEN_ISSUES: Article not ready until human evidence gaps close.
+LAST_UPDATED: 2026-03-27
+
+PROPOSED SECTIONS:
+1. Formulation identity and route problem.
+2. Human peripheral injection evidence.
+3. Animal peripheral injection evidence.
+4. Animal central injection evidence.
+5. Parasympathetic/autonomic claims and measurement caveats.
+6. Dose-response and why optimal-dose claims fail.
+7. Red-team and reproducibility constraints.
+
+NEXT_ACTIONS:
+- Continue targeted searches for route-matched full texts, especially human peripheral injection PFC and parasympathetic studies.
+- Maintain separation between oxytocin acetate-specified studies and generic oxytocin formulations.

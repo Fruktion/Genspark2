@@ -1,0 +1,54 @@
+TITLE: Review packet
+PURPOSE: One-screen high-consequence summary for rapid auditing.
+STATUS: SUBSTANTIVE_DRAFT
+SCOPE: Highest-consequence claims, contradictions, and matrices.
+DEPENDENCIES: Entire dossier
+KEY_QUESTIONS: What should an auditor check first?
+EVIDENCE_TIER: REVIEW_LAYER
+SOURCE_IDS_USED: S1; S2; S3; S4; S5
+OPEN_ISSUES: Human full-text gaps.
+LAST_UPDATED: 2026-03-27
+
+15_HIGHEST_CONSEQUENCE_CLAIMS:
+1. Literature does not consistently specify oxytocin acetate; formulation ambiguity is real. [S1,S3,S4,S5]
+2. Opened direct human peripheral cognition evidence is sparse and narrow. [S1]
+3. Opened human peripheral PFC evidence is absent. [no direct source]
+4. Opened human peripheral autonomic evidence is mainly obstetric and abstract-only. [S3]
+5. Rat peripheral full-text evidence explicitly used oxytocin acetate. [S4]
+6. In that rat study, 0.1 mg/kg s.c. had behavioral effects. [S4]
+7. 0.03 mg/kg s.c. did not show the same key effect. [S4]
+8. 0.3 mg/kg s.c. caused hypothermia / adverse physiology. [S4]
+9. Same rat study did not show significant PFC dopamine increase at 0.1 mg/kg. [S4]
+10. Central ICV oxytocin rescued social memory, attention, and hippocampal-prefrontal LTP in Shank3-deficient rats. [S5]
+11. WT rats in S5 did not show clear behavioral enhancement, limiting generalization. [S5]
+12. IV exogenous OT can reach CSF in macaques. [S2]
+13. CSF access does not prove human PFC efficacy. [S2 + inference]
+14. No opened evidence supports a universal optimal injected dose. [S1,S3,S4,S5]
+15. Dose used in positive studies must be separated from dose proven best. [S4,S5]
+
+STRONGEST_CONTRADICTORY_STUDIES/POINTS:
+- S4 contradicts simple peripheral-PFC enhancement by showing no significant PFC dopamine rise at active dose.
+- S4 contradicts monotonic dosing by showing adverse physiology at 0.3 mg/kg.
+- S5 limits generalization by showing rescue in disease model rather than broad WT enhancement.
+
+MOST_IMPORTANT_INACCESSIBLE_STUDIES:
+- Full text for S1 and S3.
+
+ONE-SCREEN_VERDICT_MATRIX:
+- Human peripheral cognition: WEAK/PRELIMINARY, social-cognition-specific, dose unresolved.
+- Human peripheral PFC: UNSUPPORTED FOR MAIN QUESTION.
+- Human peripheral autonomic: WEAK/PRELIMINARY in obstetric context only.
+- Animal peripheral cognition/social behavior: MODERATE in one full-text rat study with oxytocin acetate.
+- Animal peripheral direct PFC: weak/null-informative.
+- Animal central cognition/PFC: MODERATE to STRONG within disease-model stratum.
+
+ONE-SCREEN_DOSE_MATRIX:
+- Human peripheral: dose-response indeterminate.
+- Rat s.c. oxytocin acetate: 0.03 no key effect; 0.1 effect-associated; 0.3 adverse/confounded.
+- Rat ICV: effect at tested dose, but no optimal-dose proof.
+
+SINGLE_MOST_LIKELY_WAY_DOSSIER_IS_STILL_WRONG:
+- Missing human full texts may materially change dose and autonomic interpretation.
+
+SINGLE_MOST_LIKELY_WAY_DOSE_SYNTHESIS_IS_WRONG:
+- The apparent 0.1 mg/kg rat "sweet spot" may reflect sparse dose sampling rather than true optimum.

@@ -1,0 +1,21 @@
+TITLE: Sensitivity analysis - dose, timing, exposure, and context
+PURPOSE: Examine how timing/context can flip interpretation.
+STATUS: SUBSTANTIVE_DRAFT
+SCOPE: Exposure sensitivity.
+DEPENDENCIES: 20_mechanisms_pk_pd_brain_access_and_timecourse.txt
+KEY_QUESTIONS: How sensitive are conclusions to timing and context?
+EVIDENCE_TIER: SENSITIVITY_ANALYSIS
+SOURCE_IDS_USED: S2; S4; S5; S3
+OPEN_ISSUES: Human timing details often missing.
+LAST_UPDATED: 2026-03-27
+
+SENSITIVITY_FACTORS:
+- Peak vs cumulative exposure may differ between bolus and infusion.
+- Behavioral assays in S4 occurred ~30-45 min after s.c. injection, not immediately.
+- S2 CSF sampling suggests IV-related central exposure can be time-limited within first hour.
+- Obstetric infusions involve ongoing titration and changing physiological state.
+- Central ICV timing in S5 was tightly linked to LTP induction and task windows, making it poorly comparable with peripheral routes.
+
+NEXT_ACTIONS:
+- Continue targeted searches for route-matched full texts, especially human peripheral injection PFC and parasympathetic studies.
+- Maintain separation between oxytocin acetate-specified studies and generic oxytocin formulations.

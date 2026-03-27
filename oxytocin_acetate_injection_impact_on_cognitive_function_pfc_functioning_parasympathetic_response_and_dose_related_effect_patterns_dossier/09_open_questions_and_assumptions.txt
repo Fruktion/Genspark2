@@ -1,0 +1,24 @@
+TITLE: Open questions and assumptions
+PURPOSE: List unresolved issues and explicit assumptions preventing overconfidence.
+STATUS: SUBSTANTIVE_DRAFT
+SCOPE: Current uncertainties.
+DEPENDENCIES: 80_gap_log_and_next_searches.txt
+KEY_QUESTIONS: What could still materially change the verdict?
+EVIDENCE_TIER: UNCERTAINTY_LOG
+SOURCE_IDS_USED: S1; S2; S3; S4; S5
+OPEN_ISSUES: Multiple unresolved.
+LAST_UPDATED: 2026-03-27
+
+OPEN_QUESTIONS:
+- What exact IV dose and infusion rate were used in S1, and is there a comparator dose?
+- Are there any full-text human IV/IM/SC studies measuring direct PFC neural outcomes after oxytocin injection?
+- Do any injection studies measure RMSSD/RSA/recovery with respiration control outside pregnancy/labor contexts?
+- Are repeated peripheral injections associated with tolerance, sensitization, or sex-specific reversals?
+
+ASSUMPTIONS_LABELLED_AS_INFERENCE:
+- S2 suggests IV can produce some CSF exposure, but this does not prove sufficient PFC receptor occupancy for behavioral effects in humans.
+- Rat threshold patterns in S4 cannot be translated directly to human dosing.
+
+NEXT_ACTIONS:
+- Continue targeted searches for route-matched full texts, especially human peripheral injection PFC and parasympathetic studies.
+- Maintain separation between oxytocin acetate-specified studies and generic oxytocin formulations.

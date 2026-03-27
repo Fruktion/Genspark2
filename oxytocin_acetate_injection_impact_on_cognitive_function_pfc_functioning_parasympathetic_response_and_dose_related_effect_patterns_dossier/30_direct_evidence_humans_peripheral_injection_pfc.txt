@@ -1,0 +1,21 @@
+TITLE: Direct evidence - humans - peripheral injection - PFC
+PURPOSE: Evaluate direct human peripheral injection evidence for PFC functioning.
+STATUS: SUBSTANTIVE_DRAFT
+SCOPE: Human IV/IM/SC PFC outcomes only.
+DEPENDENCIES: 04_source_register.txt
+KEY_QUESTIONS: Are there opened direct neural PFC studies after peripheral injected oxytocin in humans?
+EVIDENCE_TIER: UNSUPPORTED_FOR_MAIN_QUESTION_CURRENT_RUN
+SOURCE_IDS_USED: NONE_DIRECT
+OPEN_ISSUES: Search results suggested possible intranasal and review material, but no opened direct human peripheral-injection PFC primary full text was identified here.
+LAST_UPDATED: 2026-03-27
+
+CURRENT_FINDING:
+- No opened direct human peripheral injection study in this run demonstrated PFC functioning by fMRI, electrophysiology, connectivity, neurochemistry, or receptor measures.
+- Therefore this stratum is UNSUPPORTED FOR MAIN QUESTION in the present dossier version.
+
+RED-TEAM NOTE:
+- Any temptation to import intranasal amygdala-prefrontal findings here must be resisted.
+
+NEXT_ACTIONS:
+- Continue targeted searches for route-matched full texts, especially human peripheral injection PFC and parasympathetic studies.
+- Maintain separation between oxytocin acetate-specified studies and generic oxytocin formulations.

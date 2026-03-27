@@ -1,0 +1,16 @@
+TITLE: Measurement and controller limitations
+PURPOSE: Cross-reference general measurement limitations.
+STATUS: SUBSTANTIVE_DRAFT
+SCOPE: General methods caveats.
+DEPENDENCIES: 43_measurement_and_controller_limitations_cognition_pfc_hrv_respiration_handling.txt
+KEY_QUESTIONS: Where are claims most vulnerable to measurement error?
+EVIDENCE_TIER: METHODS_CRITIQUE
+SOURCE_IDS_USED: S1; S3; S4; S5
+OPEN_ISSUES: None additional.
+LAST_UPDATED: 2026-03-27
+
+See detailed companion file for domain-specific cautions. Main vulnerabilities are route mismatch, PFC over-inference, and autonomic over-interpretation.
+
+NEXT_ACTIONS:
+- Continue targeted searches for route-matched full texts, especially human peripheral injection PFC and parasympathetic studies.
+- Maintain separation between oxytocin acetate-specified studies and generic oxytocin formulations.

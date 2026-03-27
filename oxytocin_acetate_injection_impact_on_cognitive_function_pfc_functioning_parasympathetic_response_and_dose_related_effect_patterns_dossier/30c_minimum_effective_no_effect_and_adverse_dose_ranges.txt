@@ -1,0 +1,35 @@
+TITLE: Minimum effective, no-effect, and adverse dose ranges
+PURPOSE: State the most defensible dose conclusions and where they fail.
+STATUS: SUBSTANTIVE_DRAFT
+SCOPE: Dose-specific conclusions from opened direct evidence.
+DEPENDENCIES: 30b_dose_response_matrix_by_route_species_outcome.txt
+KEY_QUESTIONS: Which dose claims can actually be made?
+EVIDENCE_TIER: DOSE_SYNTHESIS
+SOURCE_IDS_USED: S1; S3; S4; S5
+OPEN_ISSUES: Human minimum effective dose unresolved.
+LAST_UPDATED: 2026-03-27
+
+DIRECT_DOSE_CONCLUSIONS:
+1. Human peripheral injection cognition:
+   - Minimum effective dose: not supported from opened evidence.
+   - Highest no-effect dose: not supported.
+   - Optimal dose: not established.
+
+2. Human peripheral injection parasympathetic/autonomic in pregnancy:
+   - Dose-dependent pattern reported in abstract, but exact minimum effective dose and no-effect range not extractable here.
+   - Optimal dose: not established.
+
+3. Rat peripheral s.c. oxytocin acetate (S4):
+   - Lowest effect-associated dose in opened study: 0.1 mg/kg s.c. for increased social interaction / PCP-hyperactivity attenuation.
+   - Highest no-effect dose for PCP attenuation: 0.03 mg/kg s.c.
+   - Adverse/countervailing dose observed: 0.3 mg/kg s.c. caused marked hypothermia and some hypoactivity.
+   - Dose-response shape: threshold-like with high-dose liability; ceiling vs inversion cannot be fully determined.
+   - Claim category: PRELIMINARY_DOSE_RESPONSE, OPTIMAL_DOSE_NOT_ESTABLISHED.
+
+4. Rat central ICV (S5):
+   - Effect present at tested central dose(s), but minimum effective and no-effect doses not defined.
+   - No optimal dose claim support.
+
+NEXT_ACTIONS:
+- Continue targeted searches for route-matched full texts, especially human peripheral injection PFC and parasympathetic studies.
+- Maintain separation between oxytocin acetate-specified studies and generic oxytocin formulations.

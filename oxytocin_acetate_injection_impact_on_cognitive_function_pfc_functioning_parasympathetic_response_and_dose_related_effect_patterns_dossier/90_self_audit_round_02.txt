@@ -1,0 +1,17 @@
+TITLE: Self-audit round 02
+PURPOSE: Second audit focusing on dose logic and red-team sufficiency.
+STATUS: COMPLETE
+SCOPE: Dose and falsification audit.
+DEPENDENCIES: Revised dossier v2
+KEY_QUESTIONS: Are optimal-dose claims suppressed appropriately?
+EVIDENCE_TIER: META_AUDIT
+SOURCE_IDS_USED: S4; S5
+OPEN_ISSUES: Need even clearer distinction between effect-associated dose and best dose.
+LAST_UPDATED: 2026-03-27
+
+FINDINGS:
+- Strength: S4 supports preliminary dose-response only.
+- Defect: review packet needed one-screen summary of strongest and weakest claims.
+
+REPAIRS_REQUESTED:
+- Enrich 00_review_packet and 99_manifest_final.

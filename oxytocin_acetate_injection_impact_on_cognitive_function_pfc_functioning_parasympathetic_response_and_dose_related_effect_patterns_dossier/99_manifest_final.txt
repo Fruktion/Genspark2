@@ -1,0 +1,24 @@
+TITLE: Final manifest
+PURPOSE: Final status, readiness flags, and file inventory summary.
+STATUS: FINAL_DRAFT
+SCOPE: Manifest and readiness summary.
+DEPENDENCIES: Entire dossier
+KEY_QUESTIONS: Is the dossier ready for article drafting?
+EVIDENCE_TIER: META_SUMMARY
+SOURCE_IDS_USED: S1; S2; S3; S4; S5
+OPEN_ISSUES: Human full-text and direct PFC/autonomic gaps remain.
+LAST_UPDATED: 2026-03-27
+
+READINESS_FLAGS:
+- STRUCTURE_READY: YES
+- TRACEABILITY_READY: YES
+- RED_TEAM_READY: YES
+- PRIMARY_EVIDENCE_READY: PARTIAL
+- SCENARIO_VERDICT_READY: YES_WITH_LIMITATIONS
+- DOSE_RESPONSE_READY: PARTIAL
+- ARTICLE_READY: NO
+
+FINAL_STATUS_SUMMARY:
+- Best-supported direct evidence: rat peripheral oxytocin acetate social-behavior study (S4) and rat central ICV Shank3 rescue/PFC-LTP study (S5).
+- Weakest domain: human peripheral injection PFC and rigorous parasympathetic evidence.
+- Dose conclusion: no proven optimal injected dose across strata.

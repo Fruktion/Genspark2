@@ -1,0 +1,43 @@
+TITLE: Route, species/population, and outcome taxonomy
+PURPOSE: Lock the dossier into strict stratification.
+STATUS: SUBSTANTIVE_DRAFT
+SCOPE: Taxonomy used throughout the dossier.
+DEPENDENCIES: 01_scope_and_objectives.txt
+KEY_QUESTIONS: How are evidence strata defined?
+EVIDENCE_TIER: FRAMEWORK
+SOURCE_IDS_USED: NONE_INFERENCE_ONLY
+OPEN_ISSUES: None.
+LAST_UPDATED: 2026-03-27
+
+ROUTE STRATA:
+1. Humans peripheral systemic injection (IV/IM/SC)
+2. Animals peripheral systemic injection
+3. Animals central injection (ICV/local brain)
+4. Adjacent intranasal/non-injection context
+
+POPULATION STRATA:
+- Human healthy adults
+- Human clinical populations
+- Human obstetric/peripartum populations
+- Animals by species/sex where available
+
+OUTCOME STRATA:
+COGNITION:
+- social cognition
+- executive function / inhibitory control / working memory
+- learning and memory
+- attention/arousal/decision tasks
+
+PFC FUNCTION:
+- direct neural measures
+- PFC-inferred behavioral tasks
+
+PARASYMPATHETIC RESPONSE:
+- resting tone
+- challenge reactivity
+- recovery
+- metric-specific interpretation
+
+NEXT_ACTIONS:
+- Continue targeted searches for route-matched full texts, especially human peripheral injection PFC and parasympathetic studies.
+- Maintain separation between oxytocin acetate-specified studies and generic oxytocin formulations.

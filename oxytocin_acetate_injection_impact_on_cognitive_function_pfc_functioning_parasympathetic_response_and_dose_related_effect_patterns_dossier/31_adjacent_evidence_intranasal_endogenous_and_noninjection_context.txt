@@ -1,0 +1,19 @@
+TITLE: Adjacent evidence - intranasal, endogenous, and non-injection context
+PURPOSE: Fence off adjacent literatures so they do not dominate the dossier.
+STATUS: SUBSTANTIVE_DRAFT
+SCOPE: Context only.
+DEPENDENCIES: 10_foundations_direct_vs_adjacent_evidence_rules.txt
+KEY_QUESTIONS: What adjacent evidence matters without being allowed to prove the main question?
+EVIDENCE_TIER: ADJACENT_ONLY
+SOURCE_IDS_USED: S2
+OPEN_ISSUES: Large intranasal literature intentionally not expanded here.
+LAST_UPDATED: 2026-03-27
+
+ADJACENT_ONLY_POINTS:
+- Intranasal oxytocin studies are numerous but route-mismatched.
+- Endogenous oxytocin correlations do not establish effects of injected formulations.
+- S2 matters because it shows IV exogenous OT can reach CSF in macaques, but it does not demonstrate cognition/PFC/autonomic benefit.
+
+NEXT_ACTIONS:
+- Continue targeted searches for route-matched full texts, especially human peripheral injection PFC and parasympathetic studies.
+- Maintain separation between oxytocin acetate-specified studies and generic oxytocin formulations.

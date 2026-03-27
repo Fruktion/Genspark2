@@ -1,0 +1,21 @@
+TITLE: Learning design, memory bridges, and recap plan
+PURPOSE: Make dossier auditable and teachable later.
+STATUS: SUBSTANTIVE_DRAFT
+SCOPE: Educational scaffolding.
+DEPENDENCIES: 00_review_packet.txt
+KEY_QUESTIONS: How should a later auditor learn from this efficiently?
+EVIDENCE_TIER: PEDAGOGICAL
+SOURCE_IDS_USED: NONE_INFERENCE_ONLY
+OPEN_ISSUES: None critical.
+LAST_UPDATED: 2026-03-27
+
+MEMORY BRIDGES:
+- First separate route.
+- Then separate outcome domain.
+- Then ask whether formulation identity is explicit.
+- Then ask whether dose-response is actually shown.
+- Finally ask whether adjacent evidence is being misused.
+
+NEXT_ACTIONS:
+- Continue targeted searches for route-matched full texts, especially human peripheral injection PFC and parasympathetic studies.
+- Maintain separation between oxytocin acetate-specified studies and generic oxytocin formulations.

@@ -1,0 +1,24 @@
+TITLE: System-level synthesis linking cognition, PFC, autonomics, and dose
+PURPOSE: Integrate route-matched findings without collapsing across strata.
+STATUS: SUBSTANTIVE_DRAFT
+SCOPE: Scenario-specific causal synthesis.
+DEPENDENCIES: 30_* direct evidence; 20_* mechanisms
+KEY_QUESTIONS: What causal paths are best supported and where do they break?
+EVIDENCE_TIER: SYNTHESIS
+SOURCE_IDS_USED: S1; S2; S3; S4; S5
+OPEN_ISSUES: Human causal chain remains incomplete.
+LAST_UPDATED: 2026-03-27
+
+SUPPORTED_PATHS:
+- Animal central route: ICV OT -> improved long-term social memory/attention in Shank3-deficient rats + rescued hippocampal-prefrontal LTP (S5).
+- Animal peripheral route: s.c. oxytocin acetate at 0.1 mg/kg -> increased social interaction and reduced PCP hyperactivity, with NAc dopamine increase but no significant PFC dopamine increase (S4).
+- PK adjacent: IV can place exogenous OT into CSF in macaques (S2), preserving plausibility but not proving region-specific efficacy.
+
+WEAK_OR_BROKEN_PATHS:
+- Human peripheral injection -> direct PFC change: not supported in opened evidence.
+- Human peripheral injection -> robust parasympathetic activation beyond obstetric spectral HRV context: weak.
+- Human peripheral injection -> broad cognitive enhancement: not supported.
+
+NEXT_ACTIONS:
+- Continue targeted searches for route-matched full texts, especially human peripheral injection PFC and parasympathetic studies.
+- Maintain separation between oxytocin acetate-specified studies and generic oxytocin formulations.

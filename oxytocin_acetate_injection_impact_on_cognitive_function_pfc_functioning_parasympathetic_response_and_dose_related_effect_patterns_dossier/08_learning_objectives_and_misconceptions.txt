@@ -1,0 +1,26 @@
+TITLE: Learning objectives and misconceptions
+PURPOSE: Prevent overgeneralization from route-mismatched or task-mismatched evidence.
+STATUS: SUBSTANTIVE_DRAFT
+SCOPE: Reader guidance.
+DEPENDENCIES: 07_glossary_and_prerequisites.txt
+KEY_QUESTIONS: What are the main traps in reading this literature?
+EVIDENCE_TIER: SYNTHESIS
+SOURCE_IDS_USED: S1; S3; S4; S5
+OPEN_ISSUES: None critical.
+LAST_UPDATED: 2026-03-27
+
+LEARNING_OBJECTIVES:
+- Distinguish oxytocin acetate-specified evidence from unspecified generic formulations.
+- Keep peripheral human injection evidence separate from animal central injection evidence.
+- Distinguish social cognition effects from broad cognitive enhancement.
+- Evaluate whether a parasympathetic claim uses appropriate metrics.
+
+COMMON_MISCONCEPTIONS:
+1. "Intranasal oxytocin literature proves injected oxytocin works." False; route mismatch.
+2. "Any HRV increase means parasympathetic activation." Incomplete without method details and respiration context.
+3. "A dose used in a positive study is the optimal dose." False unless superiority is directly demonstrated.
+4. "If oxytocin changes behavior, it must act in PFC." False; may reflect broader salience/reward/arousal pathways.
+
+NEXT_ACTIONS:
+- Continue targeted searches for route-matched full texts, especially human peripheral injection PFC and parasympathetic studies.
+- Maintain separation between oxytocin acetate-specified studies and generic oxytocin formulations.

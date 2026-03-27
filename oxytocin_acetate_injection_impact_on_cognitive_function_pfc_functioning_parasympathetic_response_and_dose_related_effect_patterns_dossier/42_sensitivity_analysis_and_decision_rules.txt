@@ -1,0 +1,19 @@
+TITLE: Sensitivity analysis and decision rules
+PURPOSE: Provide rules for updating verdicts when new evidence appears.
+STATUS: SUBSTANTIVE_DRAFT
+SCOPE: Decision logic.
+DEPENDENCIES: 42_sensitivity_analysis_dose_timing_exposure_and_context.txt
+KEY_QUESTIONS: What new evidence would upgrade or downgrade confidence?
+EVIDENCE_TIER: DECISION_FRAMEWORK
+SOURCE_IDS_USED: NONE_INFERENCE_ONLY
+OPEN_ISSUES: None.
+LAST_UPDATED: 2026-03-27
+
+UPGRADE RULES:
+- Upgrade human peripheral cognition from WEAK to MODERATE only with at least one full-text direct study plus corroboration.
+- Upgrade dose-response to SUPPORTED only with within-study multi-dose evidence or highly comparable replicated studies in same stratum.
+- Upgrade optimal-dose claim only with direct superiority evidence, not just one positive tested dose.
+
+NEXT_ACTIONS:
+- Continue targeted searches for route-matched full texts, especially human peripheral injection PFC and parasympathetic studies.
+- Maintain separation between oxytocin acetate-specified studies and generic oxytocin formulations.

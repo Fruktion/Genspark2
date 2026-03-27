@@ -1,0 +1,31 @@
+TITLE: Evidence depth scorecard
+PURPOSE: Separate structural completeness from evidentiary depth.
+STATUS: SUBSTANTIVE_DRAFT
+SCOPE: Readiness flags with justification.
+DEPENDENCIES: 04_source_register.txt; 95_final_red_team_audit.txt
+KEY_QUESTIONS: Is the dossier article-ready or still limited by sparse direct evidence?
+EVIDENCE_TIER: META_EVALUATION
+SOURCE_IDS_USED: S1; S2; S3; S4; S5
+OPEN_ISSUES: Human peripheral injection evidence for PFC and dose-response remains thin.
+LAST_UPDATED: 2026-03-27
+
+STRUCTURE_READY: YES
+JUSTIFICATION: Required file architecture exists and route/dose/species separation is implemented.
+
+TRACEABILITY_READY: YES
+JUSTIFICATION: Major claims in current draft map to actual opened sources or are clearly labeled inference.
+
+RED_TEAM_READY: YES
+JUSTIFICATION: Dedicated contradiction/red-team files exist and specifically challenge overgeneralization, parasympathetic inference, PFC inference, and dose-optimism.
+
+PRIMARY_EVIDENCE_READY: PARTIAL
+JUSTIFICATION: Stronger for animal peripheral and central strata (S4, S5) and PK adjacent (S2); weak for human peripheral cognition/autonomic because opened evidence is mainly abstract-only.
+
+SCENARIO_VERDICT_READY: YES_WITH_LIMITATIONS
+DOSE_RESPONSE_READY: PARTIAL
+ARTICLE_READY: NO
+ARTICLE_READY_JUSTIFICATION: Route/formulation ambiguity remains, direct human injection evidence is sparse, and dose claims rely heavily on isolated positive studies plus limited within-study multi-dose data.
+
+NEXT_ACTIONS:
+- Continue targeted searches for route-matched full texts, especially human peripheral injection PFC and parasympathetic studies.
+- Maintain separation between oxytocin acetate-specified studies and generic oxytocin formulations.

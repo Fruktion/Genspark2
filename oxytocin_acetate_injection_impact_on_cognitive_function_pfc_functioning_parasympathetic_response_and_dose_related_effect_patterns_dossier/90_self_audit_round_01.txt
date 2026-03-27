@@ -1,0 +1,19 @@
+TITLE: Self-audit round 01
+PURPOSE: First audit of completeness and source honesty.
+STATUS: COMPLETE
+SCOPE: Structural and evidentiary audit.
+DEPENDENCIES: Entire dossier v1
+KEY_QUESTIONS: Are route and formulation rules enforced?
+EVIDENCE_TIER: META_AUDIT
+SOURCE_IDS_USED: S1; S2; S3; S4; S5
+OPEN_ISSUES: Human evidence still sparse.
+LAST_UPDATED: 2026-03-27
+
+FINDINGS:
+- Strength: route separation implemented.
+- Strength: formulation ambiguity explicitly noted.
+- Defect: needed stronger tables and explicit verdicts by stratum.
+- Defect: needed explicit dose-claim threshold language.
+
+REPAIRS_REQUESTED:
+- Add more matrix content to review packet and final manifest.

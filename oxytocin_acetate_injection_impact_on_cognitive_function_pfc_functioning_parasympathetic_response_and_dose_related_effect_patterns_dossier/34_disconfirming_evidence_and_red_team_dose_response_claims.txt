@@ -1,0 +1,20 @@
+TITLE: Red-team dose-response claims
+PURPOSE: Challenge any temptation to infer an optimal dose.
+STATUS: SUBSTANTIVE_DRAFT
+SCOPE: Dose-optimism skepticism.
+DEPENDENCIES: 30b_dose_response_matrix_by_route_species_outcome.txt
+KEY_QUESTIONS: Are apparent effective doses just the most-studied doses?
+EVIDENCE_TIER: RED_TEAM
+SOURCE_IDS_USED: S4; S5; S1; S3
+OPEN_ISSUES: Human same-stratum multi-dose studies lacking.
+LAST_UPDATED: 2026-03-27
+
+RED-TEAM SUMMARY:
+- Human positive findings do not provide enough dose granularity.
+- S4 supports only a narrow threshold-like pattern in one rat model and outcome set.
+- S5 demonstrates efficacy at a central dose, not superiority over alternatives.
+- Therefore any claim of "optimal injected oxytocin dose" would currently be overreach.
+
+NEXT_ACTIONS:
+- Continue targeted searches for route-matched full texts, especially human peripheral injection PFC and parasympathetic studies.
+- Maintain separation between oxytocin acetate-specified studies and generic oxytocin formulations.

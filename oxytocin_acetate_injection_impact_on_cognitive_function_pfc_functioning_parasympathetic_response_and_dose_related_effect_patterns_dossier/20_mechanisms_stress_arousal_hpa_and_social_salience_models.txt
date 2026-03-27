@@ -1,0 +1,22 @@
+TITLE: Stress, arousal, HPA, and social salience models
+PURPOSE: Contrast cognitive-enhancement interpretations with salience/arousal alternatives.
+STATUS: SUBSTANTIVE_DRAFT
+SCOPE: Alternative causal models.
+DEPENDENCIES: 34_disconfirming_evidence_and_red_team_behavioral_claims.txt
+KEY_QUESTIONS: Are behavioral effects specific cognition changes or shifts in salience/stress/arousal?
+EVIDENCE_TIER: SYNTHESIS
+SOURCE_IDS_USED: S1; S4; S5
+OPEN_ISSUES: Human direct physiological-cognitive joint measurements are sparse.
+LAST_UPDATED: 2026-03-27
+
+ALTERNATIVE_MODEL:
+- Oxytocin may alter salience of social cues, anxiety, reward valuation, or arousal regulation rather than broad cognition.
+
+EVIDENCE:
+- S1 outcome is retention of affective speech comprehension in autism, a social-cognition-specific task, not broad cognition.
+- S4 improved social interaction and PCP-hyperactivity attenuation could reflect salience/arousal modulation, reward-circuit shifts, or antipsychotic-like effects rather than generalized cognitive enhancement.
+- S5 improved attention-like behavior and PFC-linked LTP in a disease model, but this does not establish broad enhancement in WT animals.
+
+NEXT_ACTIONS:
+- Continue targeted searches for route-matched full texts, especially human peripheral injection PFC and parasympathetic studies.
+- Maintain separation between oxytocin acetate-specified studies and generic oxytocin formulations.

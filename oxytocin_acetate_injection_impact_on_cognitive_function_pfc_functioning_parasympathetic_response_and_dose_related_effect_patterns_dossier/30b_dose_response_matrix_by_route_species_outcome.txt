@@ -1,0 +1,30 @@
+TITLE: Dose-response matrix by route, species, and outcome
+PURPOSE: Summarize tested doses, effects, and dose-claim strength by stratum.
+STATUS: SUBSTANTIVE_DRAFT
+SCOPE: All currently opened direct strata.
+DEPENDENCIES: 30_* direct evidence files
+KEY_QUESTIONS: Where is dose-response actually supported?
+EVIDENCE_TIER: SYNTHESIS_MATRIX
+SOURCE_IDS_USED: S1; S3; S4; S5
+OPEN_ISSUES: Human dose details sparse.
+LAST_UPDATED: 2026-03-27
+
+| stratum | doses tested | effect present? | best-supported dose range if any | highest no-effect dose | lowest effect-associated dose | nonlinearity suspected? | optimal-dose justified? |
+|---|---|---|---|---|---|---|---|
+| Human clinical adults, IV, social cognition | not extractable from opened abstract | Y | unresolved | unresolved | unresolved | indeterminate | N |
+| Human obstetric/peripartum, IV, autonomic spectral HRV | abstract says dose-dependent, exact doses not extracted | Y/mixed interpretation | unresolved | unresolved | unresolved | possible | N |
+| Rat male, s.c. oxytocin acetate, social interaction/PCP hyperactivity | 0.03, 0.1, 0.3 mg/kg | Y at 0.1; adverse at 0.3 | 0.1 mg/kg tested-effective | 0.03 mg/kg for PCP attenuation | 0.1 mg/kg | Y threshold/adverse-high-dose | N |
+| Rat male, s.c. oxytocin acetate, PFC dopamine | 0.1 mg/kg microdialysis arm | N (non-significant trend) | none | 0.1 mg/kg | none | indeterminate | N |
+| Shank3-deficient rat, ICV, social memory/attention/PFC LTP | 2 ng ICV for in vivo LTP context; behavioral dose central but not fully extracted here | Y | tested dose only | none established | tested dose only | indeterminate | N |
+
+CLAIM DISTINCTION TABLE:
+| statement category | human peripheral | animal peripheral | animal central |
+|---|---|---|---|
+| effect observed at this dose | yes but human dose details unresolved | yes at 0.1 mg/kg s.c. in S4 | yes at tested ICV dose(s) in S5 |
+| replicated effect at this dose | not established from opened sources | not established across independent labs in this run | not established across multiple labs in this run |
+| dose-response supported | no | preliminary only | no |
+| optimal dose supported | no | no | no |
+
+NEXT_ACTIONS:
+- Continue targeted searches for route-matched full texts, especially human peripheral injection PFC and parasympathetic studies.
+- Maintain separation between oxytocin acetate-specified studies and generic oxytocin formulations.

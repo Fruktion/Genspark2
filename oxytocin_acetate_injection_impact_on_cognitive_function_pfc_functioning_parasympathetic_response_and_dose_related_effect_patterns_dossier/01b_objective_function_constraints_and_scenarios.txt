@@ -1,0 +1,29 @@
+TITLE: Objective function, constraints, and scenarios
+PURPOSE: Frame dose interpretation as a constrained optimization problem rather than a universal best-dose claim.
+STATUS: SUBSTANTIVE_DRAFT
+SCOPE: Scenario-dependent evidence synthesis by route, species, outcome, and time window.
+DEPENDENCIES: 30b_dose_response_matrix_by_route_species_outcome.txt; 41_scenario_specific_verdicts_by_route_species_population_outcome_and_dose_band.txt
+KEY_QUESTIONS: Under what scenario would a dose be considered preferable? What constraints prevent a single optimum?
+EVIDENCE_TIER: SYNTHESIS
+SOURCE_IDS_USED: S1; S2; S3; S4; S5
+OPEN_ISSUES: No same-stratum multi-dose human cognition trial with peripheral injection has yet been opened.
+LAST_UPDATED: 2026-03-27
+
+OBJECTIVE_FUNCTIONS_BY_DOMAIN:
+- Cognition: improve task-specific performance without confounding sedation, hypothermia, or generalized arousal changes.
+- PFC function: improve direct neural measures or circuit plasticity without overinterpreting task inference.
+- Parasympathetic response: increase validated vagal indices or improve recovery while accounting for respiration, posture, and context.
+
+CONSTRAINTS:
+- Route non-equivalence.
+- Species non-equivalence.
+- Acute vs repeated exposure non-equivalence.
+- BBB penetration and receptor cross-reactivity uncertainty.
+- Obstetric/peripartum physiology differs from healthy adults.
+
+CURRENT_OPTIMIZATION_VERDICT:
+No universal optimal injected oxytocin dose is supportable across strata. At most, a few strata show DOSE_ASSOCIATED_EFFECT or PRELIMINARY_DOSE_RESPONSE.
+
+NEXT_ACTIONS:
+- Continue targeted searches for route-matched full texts, especially human peripheral injection PFC and parasympathetic studies.
+- Maintain separation between oxytocin acetate-specified studies and generic oxytocin formulations.

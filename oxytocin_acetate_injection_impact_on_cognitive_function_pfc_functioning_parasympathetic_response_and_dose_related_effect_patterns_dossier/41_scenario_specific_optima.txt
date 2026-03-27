@@ -1,0 +1,19 @@
+TITLE: Scenario-specific optima
+PURPOSE: State whether any scenario-specific optimum can be defended.
+STATUS: SUBSTANTIVE_DRAFT
+SCOPE: Dose optimization claims.
+DEPENDENCIES: 01b_objective_function_constraints_and_scenarios.txt
+KEY_QUESTIONS: Is any best dose supported within a stratum?
+EVIDENCE_TIER: OPTIMIZATION_SYNTHESIS
+SOURCE_IDS_USED: S4; S5
+OPEN_ISSUES: Human data insufficient.
+LAST_UPDATED: 2026-03-27
+
+CURRENT_POSITION:
+- No universal or even route-specific optimal injected oxytocin dose is established.
+- Narrowest arguable statement: in male Lister-hooded rats under S4 conditions, 0.1 mg/kg s.c. is the best-supported tested dose for the specific outcomes examined because 0.03 mg/kg lacked key effect and 0.3 mg/kg caused adverse physiology.
+- This is NOT the same as proving 0.1 mg/kg is the true optimum.
+
+NEXT_ACTIONS:
+- Continue targeted searches for route-matched full texts, especially human peripheral injection PFC and parasympathetic studies.
+- Maintain separation between oxytocin acetate-specified studies and generic oxytocin formulations.

@@ -1,0 +1,19 @@
+TITLE: Final red-team audit
+PURPOSE: Final attempt to break the favored synthesis.
+STATUS: COMPLETE
+SCOPE: Cross-domain red-team.
+DEPENDENCIES: 34_disconfirming_evidence_and_red_team_*.txt
+KEY_QUESTIONS: What is the single most likely way the dossier is still wrong?
+EVIDENCE_TIER: FINAL_RED_TEAM
+SOURCE_IDS_USED: S1; S3; S4; S5; S2
+OPEN_ISSUES: Missing full-text human studies could materially shift dose conclusions.
+LAST_UPDATED: 2026-03-27
+
+MOST_LIKELY_WAY_DOSSIER_IS_WRONG:
+- Hidden full-text human IV studies may show clearer dosing details, null findings, or direct neural/autonomic outcomes that materially change the human verdict.
+
+MOST_LIKELY_WAY_DOSE_SYNTHESIS_IS_WRONG:
+- The currently highlighted 0.1 mg/kg s.c. rat dose may simply be the most informative tested dose in one study, not a reproducible best range; nearby doses could outperform it in other strains, sexes, or tasks.
+
+FINAL_RED_TEAM_VERDICT:
+- The dossier is strongest in saying what is NOT established: no broad human peripheral injection PFC conclusion and no optimal-dose conclusion.
