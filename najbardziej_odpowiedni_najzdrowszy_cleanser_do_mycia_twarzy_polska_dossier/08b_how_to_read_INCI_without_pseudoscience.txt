@@ -1,0 +1,18 @@
+TITLE: How to read INCI without pseudoscience
+PURPOSE: Give a short practical guide to reading cleanser ingredient lists rationally.
+STATUS: DRAFT_IN_PROGRESS
+SCOPE: Consumer-facing interpretation discipline.
+DEPENDENCIES: 07_glossary_and_prerequisites.txt, 08_learning_objectives_and_misconceptions.txt
+KEY_QUESTIONS: How should INCI be read without overclaiming?
+EVIDENCE_TIER: LEARNING_SYNTHESIS
+SOURCE_IDS_USED: S01,S02,S04,S07
+OPEN_ISSUES: Product examples still need verified current INCI.
+LAST_UPDATED: 2026-03-31
+
+Rules of thumb:
+- Read the formula as a system, not as one hero or villain ingredient.
+- Presence of a surfactant name does not reveal concentration.
+- “No fragrance” is usually more actionable for reactive skin than “contains botanical extracts”.
+- Low pH claim is useful only if sourced and interpreted together with surfactant system.
+- Preservatives are normal and often necessary; assess specific risk, not internet fear.
+- Rinse-off exposure lowers risk relative to leave-on, but does not reduce it to zero.

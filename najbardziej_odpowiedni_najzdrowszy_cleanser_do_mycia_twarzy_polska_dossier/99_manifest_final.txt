@@ -1,0 +1,12 @@
+TITLE: Final manifest
+PURPOSE: Summarize final dossier state.
+STATUS: PRELIMINARY_NOT_FINAL
+SCOPE: Whole dossier.
+DEPENDENCIES: 00_manifest.txt, 00_directory_tree.txt
+KEY_QUESTIONS: What is the current final-state summary?
+EVIDENCE_TIER: META
+SOURCE_IDS_USED: NONE
+OPEN_ISSUES: Manifest must be regenerated after stable completion.
+LAST_UPDATED: 2026-03-31
+
+This file is currently provisional because the dossier is not article-ready and the final stable file set is still incomplete.

@@ -1,0 +1,31 @@
+TITLE: Evidence depth scorecard
+PURPOSE: Rate dossier readiness dimensions honestly.
+STATUS: DRAFT_IN_PROGRESS
+SCOPE: Meta-evaluation of evidence depth.
+DEPENDENCIES: 04_source_register.txt, 04b_claim_to_source_traceability_matrix.txt
+KEY_QUESTIONS: How ready is the dossier really?
+EVIDENCE_TIER: META
+SOURCE_IDS_USED: S01,S02,S03,S04,S05,S06,S07,S08
+OPEN_ISSUES: Product verification remains the main bottleneck.
+LAST_UPDATED: 2026-03-31
+
+STRUCTURE_READY: PARTIAL
+Justification: Core file framework exists but many required topic files still need filling.
+
+TRACEABILITY_READY: PARTIAL
+Justification: General claims mapped; product-level traceability not yet complete.
+
+RED_TEAM_READY: PARTIAL
+Justification: Some contradiction handling identified, but not yet fully executed.
+
+PRIMARY_EVIDENCE_READY: PARTIAL_LOW
+Justification: Several decisive pillars still rely on full-text reviews plus abstract-only primary studies rather than fully opened primary trials.
+
+MARKET_VERIFICATION_READY: LOW
+Justification: Poland-market product pages and INCI cross-checks are not yet complete.
+
+PRODUCT_DATA_READY: LOW
+Justification: No fully populated 25-50 product longlist yet.
+
+ARTICLE_READY: NO
+Justification: Market/product verification not sufficient.

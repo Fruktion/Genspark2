@@ -1,0 +1,21 @@
+TITLE: Research questions
+PURPOSE: Break the dossier into auditable questions.
+STATUS: DRAFT_IN_PROGRESS
+SCOPE: Cleanser science and market verification.
+DEPENDENCIES: 01_scope_and_objectives.txt
+KEY_QUESTIONS: Listed below.
+EVIDENCE_TIER: MIXED
+SOURCE_IDS_USED: NONE
+OPEN_ISSUES: Some questions require more full-text primary studies.
+LAST_UPDATED: 2026-03-31
+
+Primary questions:
+1. What cleanser properties are most consistently associated with lower irritation/barrier disruption in human dermatology literature?
+2. How strongly does cleanser pH matter relative to surfactant system and overall formula?
+3. Which surfactant families are generally milder vs harsher, and what are key exceptions?
+4. Which allergens/sensitizers in rinse-off cleansers matter most in practice?
+5. What do guidelines/reviews suggest for AD, rosacea, acne, sensitive skin, and dry skin?
+6. When do very mild cleansers become underpowered for sunscreen/makeup removal?
+7. Which products are actually sold in Poland right now, with current INCI verifiable in >=2 sources?
+8. Among Polish-market products, which cleanser families best fit each scenario?
+9. What evidence could overturn provisional favorites (reformulation, allergen findings, weak cleansing, etc.)?

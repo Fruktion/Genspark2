@@ -1,0 +1,19 @@
+TITLE: Final red-team audit
+PURPOSE: Stress-test the current preferred synthesis.
+STATUS: PRELIMINARY_NOT_FINAL
+SCOPE: Dossier-wide contradiction handling.
+DEPENDENCIES: 50_competing_hypotheses_and_falsifiers.txt
+KEY_QUESTIONS: What are the biggest current reasons the recommendation could be wrong?
+EVIDENCE_TIER: RED_TEAM
+SOURCE_IDS_USED: S05,S06,S07,S08
+OPEN_ISSUES: More full-text contrarian evidence needed.
+LAST_UPDATED: 2026-03-31
+
+Current red-team concerns:
+- Top gentle favorites may be insufficient for resistant sunscreen/makeup removal.
+- Product formulas may have drifted since older reputation-based recommendations.
+- Some “mild” formulas may still include CAPB, fragrance, or other relevant sensitizer signals.
+- Acne-specific cleanser superiority remains weakly evidenced.
+
+Conclusion at this stage:
+Any strong single-winner claim would be overconfident.

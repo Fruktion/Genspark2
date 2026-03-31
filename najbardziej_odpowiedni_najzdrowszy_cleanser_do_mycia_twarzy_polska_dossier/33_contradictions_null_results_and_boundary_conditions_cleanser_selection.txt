@@ -1,0 +1,16 @@
+TITLE: Contradictions, null results, and boundary conditions
+PURPOSE: Record where evidence is mixed or non-decisive.
+STATUS: DRAFT_IN_PROGRESS
+SCOPE: Contradictions relevant to cleanser choice.
+DEPENDENCIES: 31_adjacent_evidence_allergy_irritation_and_acne_gaps.txt
+KEY_QUESTIONS: Where could overconfident recommendations go wrong?
+EVIDENCE_TIER: CONTRADICTION_HANDLING
+SOURCE_IDS_USED: S02,S04,S07,S08
+OPEN_ISSUES: More direct product comparison evidence needed.
+LAST_UPDATED: 2026-03-31
+
+Contradictions / caveats:
+- Low pH is not a reliable standalone superiority marker.
+- Very mild cleansers may preserve barrier better yet clean heavy SPF less effectively.
+- Acne-specific cleanser superiority evidence is limited.
+- Rinse-off exposure lowers but does not eliminate fragrance/allergen concerns.

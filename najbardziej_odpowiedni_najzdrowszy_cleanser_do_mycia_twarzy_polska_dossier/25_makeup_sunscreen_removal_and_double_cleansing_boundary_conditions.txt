@@ -1,0 +1,18 @@
+TITLE: Makeup, sunscreen removal, and double-cleansing boundary conditions
+PURPOSE: Clarify when mild cleansers may be insufficient alone.
+STATUS: DRAFT_IN_PROGRESS
+SCOPE: Practical cleansing adequacy.
+DEPENDENCIES: 24_acne_rosacea_atopy_sensitive_skin_scenario_requirements.txt
+KEY_QUESTIONS: When is one gentle wash enough and when not?
+EVIDENCE_TIER: INFERENCE_PLUS_ADJACENT
+SOURCE_IDS_USED: S01,S02,S04
+OPEN_ISSUES: Direct comparative evidence still needed.
+LAST_UPDATED: 2026-03-31
+
+Working synthesis:
+- Very mild lotion/emulsion cleansers may be ideal for barrier preservation yet weaker for resistant SPF or makeup.
+- This does not make them inferior universally; it makes them scenario-dependent.
+- For heavy SPF/light makeup users, a no-regret path may be either: (a) gentle cleanser used twice, or (b) compatible first cleanse + mild second cleanse.
+
+Research gap:
+Need stronger opened evidence directly comparing cleanser adequacy for sunscreen and makeup films.

@@ -1,0 +1,98 @@
+TITLE: Source register
+PURPOSE: Register opened sources with access grading and limitations.
+STATUS: DRAFT_IN_PROGRESS
+SCOPE: Academic, guideline, official market, retailer sources.
+DEPENDENCIES: 03_search_strategy_and_queries.txt
+KEY_QUESTIONS: What was opened, and what grade of access was obtained?
+EVIDENCE_TIER: INDEX
+SOURCE_IDS_USED: NONE
+OPEN_ISSUES: Market sources incomplete; many product pages not yet opened.
+LAST_UPDATED: 2026-03-31
+
+source_id: S01
+citation_or_document_name: Skin Cleansing without or with Compromise: Soaps and Syndets
+source_type: review / PMC
+opened_where: PMC
+access_grade: FULL_TEXT_OPENED
+decisive_for_major_claims: YES
+notes_on_limitations: Review, not product-specific.
+
+source_id: S02
+citation_or_document_name: Cleansers and their role in various dermatological disorders
+source_type: review / PMC
+opened_where: PMC
+access_grade: FULL_TEXT_OPENED
+decisive_for_major_claims: YES
+notes_on_limitations: Older review; includes expert synthesis.
+
+source_id: S03
+citation_or_document_name: Management of Patients with Atopic Dermatitis: The Role of Emollient Therapy
+source_type: review / PMC
+opened_where: PMC
+access_grade: FULL_TEXT_OPENED
+decisive_for_major_claims: YES
+notes_on_limitations: Broad AD review; cleanser guidance is one section.
+
+source_id: S04
+citation_or_document_name: A Guide to the Ingredients and Potential Benefits of OTC Cleansers and Moisturizers for Rosacea Patients
+source_type: review / PMC
+opened_where: PMC
+access_grade: FULL_TEXT_OPENED
+decisive_for_major_claims: YES
+notes_on_limitations: Some product examples older and brand-specific.
+
+source_id: S05
+citation_or_document_name: Contact Dermatitis Associated With Skin Cleansers
+source_type: retrospective study / PubMed abstract
+opened_where: PubMed
+access_grade: ABSTRACT_ONLY
+decisive_for_major_claims: NO
+notes_on_limitations: Useful for signal detection on common allergens; not full text.
+
+source_id: S06
+citation_or_document_name: Methylisothiazolinone in rinse-off products causes allergic contact dermatitis
+source_type: randomized controlled repeated open-application study / PubMed abstract
+opened_where: PubMed
+access_grade: ABSTRACT_ONLY
+decisive_for_major_claims: NO
+notes_on_limitations: Strong abstract signal, but major claims should be tempered without full text.
+
+source_id: S07
+citation_or_document_name: Role of pH in skin cleansing
+source_type: clinical comparison study / PubMed abstract
+opened_where: PubMed
+access_grade: ABSTRACT_ONLY
+decisive_for_major_claims: NO
+notes_on_limitations: Important corrective evidence against simplistic “low pH = mild” narratives.
+
+source_id: S08
+citation_or_document_name: Clinical evidence for washing and cleansers in acne vulgaris: a systematic review
+source_type: systematic review / PubMed abstract
+opened_where: PubMed
+access_grade: ABSTRACT_ONLY
+decisive_for_major_claims: NO
+notes_on_limitations: Review indicates evidence scarcity in acne-specific cleanser data.
+
+source_id: M01
+citation_or_document_name: Rossmann category/search pages for face cleansers
+source_type: Polish retailer pages
+opened_where: Web search snippets
+access_grade: OFFICIAL_DOCUMENT_OPENED
+decisive_for_major_claims: NO
+notes_on_limitations: Mostly category-level and snippets; product pages still needed.
+
+source_id: M02
+citation_or_document_name: Hebe category/search pages for dermocosmetic face cleansers
+source_type: Polish retailer pages
+opened_where: Web search snippets
+access_grade: OFFICIAL_DOCUMENT_OPENED
+decisive_for_major_claims: NO
+notes_on_limitations: Confirms product families in Poland, not enough for INCI.
+
+source_id: M03
+citation_or_document_name: Super-Pharm category/search pages for face cleansers
+source_type: Polish retailer pages
+opened_where: Web search snippets
+access_grade: OFFICIAL_DOCUMENT_OPENED
+decisive_for_major_claims: NO
+notes_on_limitations: Product availability signal only.

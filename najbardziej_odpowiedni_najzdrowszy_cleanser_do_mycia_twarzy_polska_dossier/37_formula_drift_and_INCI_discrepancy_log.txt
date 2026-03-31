@@ -1,0 +1,18 @@
+TITLE: Formula drift and INCI discrepancy log
+PURPOSE: Track reformulations and cross-source ingredient mismatches.
+STATUS: ACTIVE_EMPTY_LOG
+SCOPE: Top candidates and any flagged longlist product.
+DEPENDENCIES: 14_product_data_capture_protocol.txt
+KEY_QUESTIONS: Where might outdated recommendations fail due to reformulation?
+EVIDENCE_TIER: MARKET_VERIFICATION
+SOURCE_IDS_USED: NONE
+OPEN_ISSUES: Need product-page opening work.
+LAST_UPDATED: 2026-03-31
+
+Initial rule:
+Any product with unresolved INCI discrepancy is excluded from strict top-tier recommendation until resolved.
+
+Current known issue classes to watch:
+- old blog/forum INCI vs current retailer/official INCI
+- fragrance-free variants vs fragranced variants under similar names
+- face+body global formulas differing by region

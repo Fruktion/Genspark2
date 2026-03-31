@@ -1,0 +1,16 @@
+TITLE: EU/Poland regulatory and labeling context
+PURPOSE: Frame what label claims can and cannot prove.
+STATUS: DRAFT_IN_PROGRESS
+SCOPE: Cosmetics regulatory interpretation.
+DEPENDENCIES: 11_market_definition_and_boundary_conditions.txt
+KEY_QUESTIONS: How should claims like soap-free, pH, sensitive skin be interpreted?
+EVIDENCE_TIER: REGULATORY_CONTEXT
+SOURCE_IDS_USED: NONE
+OPEN_ISSUES: Needs direct official regulatory sources if expanded.
+LAST_UPDATED: 2026-03-31
+
+Practical rules for this dossier:
+- Marketing claims are not accepted as proof of superiority.
+- “Apteczny” status is not a scientific quality proxy.
+- “Hypoallergenic”, “sensitive”, and “for atopy” are weak signals unless compatible with actual formula and broader evidence.
+- pH claims require explicit source; otherwise mark unknown.

@@ -1,0 +1,16 @@
+TITLE: Concept dependency graph
+PURPOSE: Show how the logic of the dossier hangs together.
+STATUS: DRAFT_IN_PROGRESS
+SCOPE: Topic reasoning map.
+DEPENDENCIES: 02_research_questions.txt
+KEY_QUESTIONS: Which concepts depend on which prior concepts?
+EVIDENCE_TIER: META
+SOURCE_IDS_USED: NONE
+OPEN_ISSUES: Could be expanded into a more formal graph.
+LAST_UPDATED: 2026-03-31
+
+Barrier-safe product recommendation depends on:
+skin barrier biology -> cleanser/surfactant mechanisms -> irritancy/allergen risk -> scenario constraints -> verified current formula -> Polish availability
+
+Single-winner decision depends on:
+all above + sensitivity analysis + contradiction handling + market verification

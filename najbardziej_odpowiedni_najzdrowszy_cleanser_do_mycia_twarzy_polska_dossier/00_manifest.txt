@@ -1,0 +1,67 @@
+TITLE: Manifest
+PURPOSE: List dossier files and approximate sizes.
+STATUS: DRAFT_STABLE_FOR_THIS_ROUND
+SCOPE: Whole dossier
+DEPENDENCIES: Entire dossier
+KEY_QUESTIONS: What files are present?
+EVIDENCE_TIER: META
+SOURCE_IDS_USED: NONE
+OPEN_ISSUES: Regenerate after major revisions.
+LAST_UPDATED: 2026-03-31
+
+00_directory_tree.txt	2816 bytes
+00_manifest.txt	3023 bytes
+00_review_packet.txt	1644 bytes
+01_scope_and_objectives.txt	1117 bytes
+01b_objective_function_constraints_and_scenarios.txt	1242 bytes
+02_research_questions.txt	1244 bytes
+03_search_strategy_and_queries.txt	1500 bytes
+04_source_register.txt	3880 bytes
+04b_claim_to_source_traceability_matrix.txt	1815 bytes
+04c_evidence_depth_scorecard.txt	1247 bytes
+05_source_access_and_verification_log.txt	942 bytes
+06_concept_dependency_graph.txt	693 bytes
+07_glossary_and_prerequisites.txt	1205 bytes
+08_learning_objectives_and_misconceptions.txt	1036 bytes
+08b_how_to_read_INCI_without_pseudoscience.txt	1044 bytes
+08c_what_really_matters_in_a_cleanser_vs_secondary_features.txt	864 bytes
+09_open_questions_and_assumptions.txt	833 bytes
+10_foundations_cleanser_science.txt	839 bytes
+11_market_definition_and_boundary_conditions.txt	1004 bytes
+12_polish_market_longlist.txt	2673 bytes
+13_screening_rubric_and_weights.txt	1696 bytes
+14_product_data_capture_protocol.txt	1076 bytes
+15_market_sampling_frame_and_retail_channels.txt	898 bytes
+21_skin_barrier_pH_and_cleanser_mechanisms.txt	1148 bytes
+22_surfactant_taxonomy_and_irritancy.txt	1163 bytes
+23_preservatives_fragrance_essential_oils_and_allergen_risk.txt	1175 bytes
+24_acne_rosacea_atopy_sensitive_skin_scenario_requirements.txt	1137 bytes
+25_makeup_sunscreen_removal_and_double_cleansing_boundary_conditions.txt	974 bytes
+26_regulatory_and_labeling_context_EU_Poland.txt	823 bytes
+30_direct_evidence_cleanser_reviews_and_guideline_signals.txt	810 bytes
+31_adjacent_evidence_allergy_irritation_and_acne_gaps.txt	873 bytes
+32_mechanistic_extrapolation_product_selection_logic.txt	911 bytes
+33_contradictions_null_results_and_boundary_conditions_cleanser_selection.txt	802 bytes
+34_disconfirming_evidence_and_red_team_cleanser_recommendations.txt	738 bytes
+35_product_shortlist_profiles_01.txt	968 bytes
+35_product_shortlist_profiles_02.txt	813 bytes
+36_head_to_head_product_comparison_matrix.txt	729 bytes
+37_formula_drift_and_INCI_discrepancy_log.txt	790 bytes
+38_polish_availability_and_price_snapshot.txt	885 bytes
+39_scenario_specific_product_rankings.txt	1132 bytes
+40_system_level_synthesis_cleanser_market_and_science.txt	1010 bytes
+41_scenario_specific_optima.txt	841 bytes
+41b_scenario_decision_tree.txt	956 bytes
+42_sensitivity_analysis_and_decision_rules.txt	979 bytes
+43_measurement_and_controller_limitations.txt	688 bytes
+44_primary_study_priority_queue.txt	748 bytes
+45_market_verification_readiness_flags.txt	803 bytes
+50_competing_hypotheses_and_falsifiers.txt	1101 bytes
+60_learning_design_memory_bridges_and_recap_plan.txt	817 bytes
+70_article_blueprint.txt	636 bytes
+80_gap_log_and_next_searches.txt	744 bytes
+81_revision_backlog.txt	621 bytes
+90_self_audit_round_01.txt	777 bytes
+91_revision_log_round_01.txt	593 bytes
+95_final_red_team_audit.txt	876 bytes
+99_manifest_final.txt	485 bytes

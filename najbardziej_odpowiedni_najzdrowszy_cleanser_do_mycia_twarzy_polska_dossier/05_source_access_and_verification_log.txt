@@ -1,0 +1,28 @@
+TITLE: Source access and verification log
+PURPOSE: Log what was actually opened and what remains inaccessible.
+STATUS: DRAFT_IN_PROGRESS
+SCOPE: Academic + market sources.
+DEPENDENCIES: 04_source_register.txt
+KEY_QUESTIONS: What access limitations downgrade confidence?
+EVIDENCE_TIER: META
+SOURCE_IDS_USED: S01,S02,S03,S04,S05,S06,S07,S08,M01,M02,M03
+OPEN_ISSUES: Need direct product page openings and official INCI sources.
+LAST_UPDATED: 2026-03-31
+
+Opened full text in this round:
+- S01 PMC full text
+- S02 PMC full text
+- S03 PMC full text
+- S04 PMC full text
+
+Opened abstract only in this round:
+- S05
+- S06
+- S07
+- S08
+
+Market access this round:
+- retailer/category/search level visibility via Rossmann/Hebe/Super-Pharm snippets and category pages
+
+Known limitation:
+- no decisive product recommendation should be finalized before current INCI for top candidates is cross-verified using >=2 sources with >=1 official or packaging source.

@@ -1,0 +1,19 @@
+TITLE: Polish availability and price snapshot
+PURPOSE: Capture market availability and rough price/access comparisons.
+STATUS: SKELETON_ONLY
+SCOPE: Poland retail landscape for shortlisted products.
+DEPENDENCIES: 15_market_sampling_frame_and_retail_channels.txt
+KEY_QUESTIONS: Which products are broadly accessible and at what approximate cost?
+EVIDENCE_TIER: MARKET
+SOURCE_IDS_USED: M01,M02,M03
+OPEN_ISSUES: Need product-level snapshots from >=2 channels each.
+LAST_UPDATED: 2026-03-31
+
+Preliminary availability signal:
+- CeraVe family: widely visible in Hebe, Super-Pharm, likely pharmacies.
+- La Roche-Posay family: widely visible in Super-Pharm and dermocosmetic channels.
+- BasicLab family: visible in Hebe according to search snippets.
+- Pharmaceris family: visible in Super-Pharm according to search snippets.
+
+Warning:
+Current price comparison is not mature enough for ranking.

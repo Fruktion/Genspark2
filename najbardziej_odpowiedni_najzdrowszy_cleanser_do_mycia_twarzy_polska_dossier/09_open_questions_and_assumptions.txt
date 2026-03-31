@@ -1,0 +1,20 @@
+TITLE: Open questions and assumptions
+PURPOSE: Make uncertainty explicit.
+STATUS: DRAFT_IN_PROGRESS
+SCOPE: Whole topic.
+DEPENDENCIES: Entire dossier
+KEY_QUESTIONS: What is assumed, and what remains unresolved?
+EVIDENCE_TIER: META
+SOURCE_IDS_USED: NONE
+OPEN_ISSUES: Many product-specific unknowns remain.
+LAST_UPDATED: 2026-03-31
+
+Assumptions currently used:
+- Polish retail snippets reasonably indicate market presence but not enough for final formula claims.
+- Ingredient-level reasoning can guide shortlist formation but not definitive product victory.
+- Scenario dependence is more plausible than a universal winner.
+
+Open questions:
+- Which top candidates currently remain fragrance-free in Polish stock?
+- Which candidates disclose pH from an official source?
+- Which mild cleansers are demonstrably adequate for resistant SPF?

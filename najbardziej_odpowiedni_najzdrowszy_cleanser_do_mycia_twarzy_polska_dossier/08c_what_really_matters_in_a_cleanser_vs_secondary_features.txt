@@ -1,0 +1,22 @@
+TITLE: What really matters in a cleanser vs secondary features
+PURPOSE: Distinguish high-signal from low-signal product features.
+STATUS: DRAFT_IN_PROGRESS
+SCOPE: Practical decision-making.
+DEPENDENCIES: 21_skin_barrier_pH_and_cleanser_mechanisms.txt, 23_preservatives_fragrance_essential_oils_and_allergen_risk.txt
+KEY_QUESTIONS: Which cleanser attributes deserve the most attention?
+EVIDENCE_TIER: SYNTHESIS
+SOURCE_IDS_USED: S01,S02,S03,S04,S07
+OPEN_ISSUES: Product-level examples pending.
+LAST_UPDATED: 2026-03-31
+
+High-signal features:
+- whole surfactant system
+- fragrance / essential oil burden
+- scenario fit (dry/reactive vs oily/SPF-heavy)
+- evidence and verification of current formula
+
+Secondary features:
+- color, marketing language, pharmacy prestige
+- “natural” positioning
+- one highlighted extract in a wash-off product
+- foam amount by itself

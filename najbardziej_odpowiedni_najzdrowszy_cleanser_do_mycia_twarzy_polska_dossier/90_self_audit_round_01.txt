@@ -1,0 +1,17 @@
+TITLE: Self-audit round 01
+PURPOSE: Audit the dossier after the first structured pass.
+STATUS: COMPLETE_FOR_ROUND
+SCOPE: Structure, evidence honesty, and gaps.
+DEPENDENCIES: Entire dossier
+KEY_QUESTIONS: What is currently strongest and weakest?
+EVIDENCE_TIER: META_AUDIT
+SOURCE_IDS_USED: NONE
+OPEN_ISSUES: Requires follow-up fixes.
+LAST_UPDATED: 2026-03-31
+
+Audit findings:
+- Strength: core methodological framing is correct and explicit about uncertainty.
+- Strength: major scientific principles are tied to opened full-text reviews.
+- Weakness: dossier is still materially thin on product-level Polish verification.
+- Weakness: many required files exist but remain placeholders rather than fully populated analyses.
+- Weakness: readiness flags correctly remain conservative.

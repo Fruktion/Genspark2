@@ -1,0 +1,33 @@
+TITLE: Search strategy and queries
+PURPOSE: Document exact research passes and search logic.
+STATUS: DRAFT_IN_PROGRESS
+SCOPE: Academic mechanisms, clinical scenarios, allergy data, Polish market.
+DEPENDENCIES: 02_research_questions.txt
+KEY_QUESTIONS: Which searches were executed and why?
+EVIDENCE_TIER: METHOD
+SOURCE_IDS_USED: NONE
+OPEN_ISSUES: Need additional product-specific official/retailer page openings.
+LAST_UPDATED: 2026-03-31
+
+Executed / initiated search passes:
+PASS 1 Academic mechanisms:
+- PubMed skin cleanser barrier TEWL irritation pH cleanser review human
+- PubMed syndet vs soap skin pH irritation human facial cleanser review
+- PubMed facial cleanser randomized trial mild cleanser human
+
+PASS 2 Clinical scenarios:
+- PubMed atopic dermatitis cleanser guideline mild fragrance-free
+- PubMed acne cleanser guideline skin care cleanser
+- PubMed rosacea gentle cleanser guideline sensitive skin cleanser review
+
+PASS 3 Allergy and irritation:
+- PubMed allergic contact dermatitis fragrance rinse-off cleanser cocamidopropyl betaine methylisothiazolinone sodium lauryl sulfate irritation human
+
+PASS 4 Market scan Poland:
+- Web search targeting Polish pharmacy/drugstore channels and official brand pages
+
+PASS 5 Red team:
+- To expand: evidence that very mild cleansers may under-clean SPF/makeup; allergen concerns in favored formulas; anti-preservative misconceptions.
+
+PASS 6 Formula verification:
+- Pending product-by-product official + retailer cross-check for top 10 shortlist.

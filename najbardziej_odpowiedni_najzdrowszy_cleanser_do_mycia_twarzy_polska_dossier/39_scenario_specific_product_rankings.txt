@@ -1,0 +1,21 @@
+TITLE: Scenario-specific product rankings
+PURPOSE: Record provisional winners by user scenario.
+STATUS: EARLY_PROVISIONAL
+SCOPE: Final verdict staging area.
+DEPENDENCIES: 36_head_to_head_product_comparison_matrix.txt
+KEY_QUESTIONS: Which cleanser family is best for which scenario?
+EVIDENCE_TIER: SYNTHESIS_PENDING
+SOURCE_IDS_USED: S01,S02,S03,S04,S08
+OPEN_ISSUES: Needs verified product-level data.
+LAST_UPDATED: 2026-03-31
+
+Current provisional direction, not final:
+- Normal/sensitive: likely fragrance-free gentle syndet/emulsion family candidates
+- Dry/barrier-impaired: likely creamy/emulsion fragrance-free families
+- Atopic/very reactive: likely simplest fragrance-free emulsion/non-foaming families
+- Oily/acne-prone: likely slightly stronger but still reasonable syndet gel families
+- Rosacea-prone: likely ultra-gentle fragrance-free emulsion/lotion families
+- Heavy SPF/light makeup: likely scenario where ultra-gentle single cleanse may lose to somewhat stronger or double-cleansing-compatible options
+- Fragrance allergy suspicion: only fragrance-free shortlist should remain
+
+No single universal winner justified yet.

@@ -1,0 +1,17 @@
+TITLE: Primary study priority queue
+PURPOSE: Prioritize which primary studies to obtain next.
+STATUS: DRAFT_IN_PROGRESS
+SCOPE: Highest-impact evidence gaps.
+DEPENDENCIES: 05_source_access_and_verification_log.txt
+KEY_QUESTIONS: Which full texts would most improve the dossier?
+EVIDENCE_TIER: META_RESEARCH
+SOURCE_IDS_USED: S05,S06,S07,S08
+OPEN_ISSUES: Full-text access not yet secured.
+LAST_UPDATED: 2026-03-31
+
+Priority queue:
+1. Full text for Role of pH in skin cleansing (S07)
+2. Full text for MI rinse-off allergy study (S06)
+3. Full text for cleanser-associated contact dermatitis study (S05)
+4. Stronger direct evidence for sunscreen/makeup removal adequacy
+5. Acne cleanser trials that compare gentle vs more aggressive cleansing strategies

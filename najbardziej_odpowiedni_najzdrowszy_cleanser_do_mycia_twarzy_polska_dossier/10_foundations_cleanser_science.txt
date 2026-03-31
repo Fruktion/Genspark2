@@ -1,0 +1,16 @@
+TITLE: Foundations of cleanser science
+PURPOSE: Provide the base scientific model for the dossier.
+STATUS: DRAFT_IN_PROGRESS
+SCOPE: Core dermatologic and formulation foundations.
+DEPENDENCIES: 07_glossary_and_prerequisites.txt
+KEY_QUESTIONS: What foundational principles support later product analysis?
+EVIDENCE_TIER: REVIEW_SYNTHESIS
+SOURCE_IDS_USED: S01,S02,S03,S04
+OPEN_ISSUES: More primary trials would strengthen some claims.
+LAST_UPDATED: 2026-03-31
+
+Foundational synthesis:
+1. Cleansing is necessary because water alone poorly removes many lipophilic impurities.
+2. Excessively harsh cleansing can impair lipids/proteins and worsen dryness/irritation.
+3. Mildness is usually achieved by formula design, not one magic ingredient.
+4. Sensitive, atopic, and rosacea-prone skin particularly benefit from gentle, low-irritation systems.

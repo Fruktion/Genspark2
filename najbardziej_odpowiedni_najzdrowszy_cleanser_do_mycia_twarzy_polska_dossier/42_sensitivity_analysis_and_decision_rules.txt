@@ -1,0 +1,20 @@
+TITLE: Sensitivity analysis and decision rules
+PURPOSE: Show how rankings may change when weights change.
+STATUS: DRAFT_IN_PROGRESS
+SCOPE: Multi-objective decision robustness.
+DEPENDENCIES: 13_screening_rubric_and_weights.txt, 36_head_to_head_product_comparison_matrix.txt
+KEY_QUESTIONS: Are top recommendations stable or weight-sensitive?
+EVIDENCE_TIER: METHOD_PENDING_DATA
+SOURCE_IDS_USED: NONE
+OPEN_ISSUES: Cannot run real sensitivity without fuller scoring matrix.
+LAST_UPDATED: 2026-03-31
+
+Planned analysis:
+1. Baseline weights A35/B20/C20/D10/E10/F5
+2. Reactive-skin weights A45/B25/C10/D10/E5/F5
+3. Oily/acne weights A25/B15/C35/D10/E10/F5
+
+Decision rules:
+- If one product/family wins only under one narrow weighting but falls sharply under others, downgrade certainty.
+- If several products remain clustered within narrow score bands, prefer scenario families + no-regret shortlist over forced #1.
+- Any unresolved market-verification problem overrides numerical score.

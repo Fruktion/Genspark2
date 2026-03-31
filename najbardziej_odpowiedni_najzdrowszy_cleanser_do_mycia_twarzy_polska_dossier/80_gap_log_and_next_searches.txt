@@ -1,0 +1,17 @@
+TITLE: Gap log and next searches
+PURPOSE: Document high-impact missing work.
+STATUS: ACTIVE
+SCOPE: Next research iteration planning.
+DEPENDENCIES: Entire dossier
+KEY_QUESTIONS: What should be done next to improve readiness most?
+EVIDENCE_TIER: META
+SOURCE_IDS_USED: NONE
+OPEN_ISSUES: Multiple high-impact gaps remain.
+LAST_UPDATED: 2026-03-31
+
+Top gaps:
+1. Product-level INCI verification for top 10 candidates.
+2. Expand longlist to true 25-50 item verified market table.
+3. Open more primary/full-text evidence on cleanser irritation/allergy and makeup/SPF removal adequacy.
+4. Identify unresolved preservative/allergen red-team evidence in likely winners.
+5. Produce scenario decision tree and no-regret shortlist with explicit uncertainty.

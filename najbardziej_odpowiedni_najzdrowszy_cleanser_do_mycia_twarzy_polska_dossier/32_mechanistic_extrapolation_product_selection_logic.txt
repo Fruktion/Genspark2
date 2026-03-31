@@ -1,0 +1,17 @@
+TITLE: Mechanistic extrapolation and product-selection logic
+PURPOSE: Explain how ingredient/formula logic informs shortlist formation.
+STATUS: DRAFT_IN_PROGRESS
+SCOPE: Bridge from science to product screening.
+DEPENDENCIES: 22_surfactant_taxonomy_and_irritancy.txt, 23_preservatives_fragrance_essential_oils_and_allergen_risk.txt
+KEY_QUESTIONS: How far can we responsibly extrapolate from formula features?
+EVIDENCE_TIER: INFERENCE_EXPLICIT
+SOURCE_IDS_USED: S01,S02,S03,S04,S07
+OPEN_ISSUES: Extrapolation must not replace product verification.
+LAST_UPDATED: 2026-03-31
+
+Allowed extrapolation:
+- fragrance-free + mild surfactant blend + emollient/humectant support usually predicts better tolerability for sensitive users.
+- stronger gel/surfactant systems may better fit oily/SPF-heavy scenarios.
+
+Not allowed:
+- declaring a specific product “best” based solely on brand reputation or one star ingredient.

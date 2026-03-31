@@ -1,0 +1,23 @@
+TITLE: Learning objectives and misconceptions
+PURPOSE: Teach what matters and preempt pseudoscientific shortcuts.
+STATUS: DRAFT_IN_PROGRESS
+SCOPE: Consumer understanding of cleansers.
+DEPENDENCIES: 07_glossary_and_prerequisites.txt
+KEY_QUESTIONS: What should the reader learn, and what myths should be unlearned?
+EVIDENCE_TIER: LEARNING
+SOURCE_IDS_USED: S01,S02,S03,S04,S07
+OPEN_ISSUES: Needs a dedicated “how to read INCI” expansion.
+LAST_UPDATED: 2026-03-31
+
+Learning objectives:
+- Understand why cleanser choice is a multi-objective optimization problem.
+- Understand why pH matters but is not the whole story.
+- Recognize why fragrance-free often matters more than “natural”.
+- Recognize why product verification outranks brand reputation.
+
+Misconceptions:
+- “Low pH means automatically best.” False.
+- “Apteka product means clinically superior.” False.
+- “No preservatives means healthier.” False simplification.
+- “Foaming always means harsh.” Overstated.
+- “Natural extracts are always safer.” False.

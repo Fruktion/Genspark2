@@ -1,0 +1,18 @@
+TITLE: Revision backlog
+PURPOSE: Track repairs and improvements still needed.
+STATUS: ACTIVE
+SCOPE: Dossier maintenance.
+DEPENDENCIES: 80_gap_log_and_next_searches.txt
+KEY_QUESTIONS: What remains to be revised?
+EVIDENCE_TIER: META
+SOURCE_IDS_USED: NONE
+OPEN_ISSUES: Multiple key revisions pending.
+LAST_UPDATED: 2026-03-31
+
+Backlog:
+- Build true longlist table 25-50 items.
+- Populate shortlist profiles with verified INCI.
+- Run actual sensitivity scoring.
+- Add misconception file on reading INCI without pseudoscience.
+- Add explicit scenario decision tree.
+- Regenerate final manifest/tree after file set stabilizes.

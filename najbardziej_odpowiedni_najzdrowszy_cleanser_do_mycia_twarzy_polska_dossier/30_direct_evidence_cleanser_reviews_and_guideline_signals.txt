@@ -1,0 +1,16 @@
+TITLE: Direct evidence: cleanser reviews and guideline signals
+PURPOSE: Summarize directly opened literature most relevant to cleanser recommendations.
+STATUS: DRAFT_IN_PROGRESS
+SCOPE: General cleanser science and scenario guidance.
+DEPENDENCIES: 10_foundations_cleanser_science.txt
+KEY_QUESTIONS: What do opened sources directly support?
+EVIDENCE_TIER: HIGHER_THAN_ADJACENT
+SOURCE_IDS_USED: S01,S02,S03,S04
+OPEN_ISSUES: Product-level extrapolation still indirect.
+LAST_UPDATED: 2026-03-31
+
+S01-S04 collectively support:
+- preference for syndet/non-soap systems over classic soaps for barrier-sensitive use cases;
+- importance of mildness and whole-formula design;
+- value of fragrance minimization for reactive phenotypes;
+- scenario-dependent cleanser selection for atopy, rosacea, acne, and sensitive skin.

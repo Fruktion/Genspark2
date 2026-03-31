@@ -1,0 +1,68 @@
+TITLE: Directory tree
+PURPOSE: Snapshot of dossier file tree.
+STATUS: DRAFT_STABLE_FOR_THIS_ROUND
+SCOPE: Whole dossier
+DEPENDENCIES: Entire dossier
+KEY_QUESTIONS: What files exist?
+EVIDENCE_TIER: META
+SOURCE_IDS_USED: NONE
+OPEN_ISSUES: Regenerate after major revisions.
+LAST_UPDATED: 2026-03-31
+
+najbardziej_odpowiedni_najzdrowszy_cleanser_do_mycia_twarzy_polska_dossier/
+  00_directory_tree.txt
+  00_manifest.txt
+  00_review_packet.txt
+  01_scope_and_objectives.txt
+  01b_objective_function_constraints_and_scenarios.txt
+  02_research_questions.txt
+  03_search_strategy_and_queries.txt
+  04_source_register.txt
+  04b_claim_to_source_traceability_matrix.txt
+  04c_evidence_depth_scorecard.txt
+  05_source_access_and_verification_log.txt
+  06_concept_dependency_graph.txt
+  07_glossary_and_prerequisites.txt
+  08_learning_objectives_and_misconceptions.txt
+  08b_how_to_read_INCI_without_pseudoscience.txt
+  08c_what_really_matters_in_a_cleanser_vs_secondary_features.txt
+  09_open_questions_and_assumptions.txt
+  10_foundations_cleanser_science.txt
+  11_market_definition_and_boundary_conditions.txt
+  12_polish_market_longlist.txt
+  13_screening_rubric_and_weights.txt
+  14_product_data_capture_protocol.txt
+  15_market_sampling_frame_and_retail_channels.txt
+  21_skin_barrier_pH_and_cleanser_mechanisms.txt
+  22_surfactant_taxonomy_and_irritancy.txt
+  23_preservatives_fragrance_essential_oils_and_allergen_risk.txt
+  24_acne_rosacea_atopy_sensitive_skin_scenario_requirements.txt
+  25_makeup_sunscreen_removal_and_double_cleansing_boundary_conditions.txt
+  26_regulatory_and_labeling_context_EU_Poland.txt
+  30_direct_evidence_cleanser_reviews_and_guideline_signals.txt
+  31_adjacent_evidence_allergy_irritation_and_acne_gaps.txt
+  32_mechanistic_extrapolation_product_selection_logic.txt
+  33_contradictions_null_results_and_boundary_conditions_cleanser_selection.txt
+  34_disconfirming_evidence_and_red_team_cleanser_recommendations.txt
+  35_product_shortlist_profiles_01.txt
+  35_product_shortlist_profiles_02.txt
+  36_head_to_head_product_comparison_matrix.txt
+  37_formula_drift_and_INCI_discrepancy_log.txt
+  38_polish_availability_and_price_snapshot.txt
+  39_scenario_specific_product_rankings.txt
+  40_system_level_synthesis_cleanser_market_and_science.txt
+  41_scenario_specific_optima.txt
+  41b_scenario_decision_tree.txt
+  42_sensitivity_analysis_and_decision_rules.txt
+  43_measurement_and_controller_limitations.txt
+  44_primary_study_priority_queue.txt
+  45_market_verification_readiness_flags.txt
+  50_competing_hypotheses_and_falsifiers.txt
+  60_learning_design_memory_bridges_and_recap_plan.txt
+  70_article_blueprint.txt
+  80_gap_log_and_next_searches.txt
+  81_revision_backlog.txt
+  90_self_audit_round_01.txt
+  91_revision_log_round_01.txt
+  95_final_red_team_audit.txt
+  99_manifest_final.txt

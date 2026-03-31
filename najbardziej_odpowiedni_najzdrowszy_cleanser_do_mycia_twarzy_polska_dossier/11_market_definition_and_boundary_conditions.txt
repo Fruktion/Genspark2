@@ -1,0 +1,26 @@
+TITLE: Market definition and boundary conditions
+PURPOSE: Define the Polish cleanser market universe and exclusion rules.
+STATUS: DRAFT_IN_PROGRESS
+SCOPE: Wash-off facial cleansers sold in Poland.
+DEPENDENCIES: 01_scope_and_objectives.txt
+KEY_QUESTIONS: What counts as in-scope? What is excluded?
+EVIDENCE_TIER: METHOD
+SOURCE_IDS_USED: NONE
+OPEN_ISSUES: Boundary cases need product-level review.
+LAST_UPDATED: 2026-03-31
+
+In-scope product classes:
+- gel cleansers
+- emulsions
+- creamy cleansers
+- lotion/milk cleansers if intended for rinsing
+- wash-off fluids marketed for face cleansing
+
+Out of scope:
+- leave-on micellar waters unless explicitly marketed as rinse-off wash step
+- toners, essences, serums, masks, scrubs, peels
+- prescription medicinal washes outside cosmetic cleanser framing
+- body-only cleansers not intended for the face
+
+Boundary condition:
+Many brands position one product for both face and body. These remain eligible if face use is explicit and Polish availability is current.

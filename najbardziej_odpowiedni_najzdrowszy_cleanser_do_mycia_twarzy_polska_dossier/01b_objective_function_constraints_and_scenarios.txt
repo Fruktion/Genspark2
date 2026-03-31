@@ -1,0 +1,40 @@
+TITLE: Objective function, constraints, and scenarios
+PURPOSE: Formalize the optimization problem and scenario logic.
+STATUS: DRAFT_IN_PROGRESS
+SCOPE: Consumer dermatology + formulation + Polish market.
+DEPENDENCIES: 01_scope_and_objectives.txt
+KEY_QUESTIONS: How should “best” be operationalized? Which scenarios must be modeled?
+EVIDENCE_TIER: SYNTHESIS
+SOURCE_IDS_USED: NONE
+OPEN_ISSUES: Weights still provisional pending sensitivity analysis.
+LAST_UPDATED: 2026-03-31
+
+Optimization framing:
+Maximize expected practical utility of a daily face cleanser under Polish-market availability constraints.
+
+Core score domains:
+A) barrier/tolerability
+B) allergen/sensitizer risk
+C) cleansing adequacy
+D) evidence confidence
+E) market verification quality
+F) price/access
+
+Baseline weights to test, not assume as true:
+- A 35%
+- B 20%
+- C 20%
+- D 10%
+- E 10%
+- F 5%
+
+Mandatory scenarios:
+1) normal/sensitive without major disease
+2) dry/dehydrated/barrier-impaired
+3) atopic/very reactive
+4) oily/acne-prone
+5) rosacea-prone/erythematous
+6) heavy SPF/light makeup user
+7) suspected fragrance allergy/EO intolerance
+
+Expected endpoint: scenario-specific winners + no-regret shortlist unless evidence unexpectedly supports one universal winner.

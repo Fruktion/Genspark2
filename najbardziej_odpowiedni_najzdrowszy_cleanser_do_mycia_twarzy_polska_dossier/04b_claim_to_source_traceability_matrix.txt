@@ -1,0 +1,40 @@
+TITLE: Claim-to-source traceability matrix
+PURPOSE: Map major claims to evidence or inference status.
+STATUS: DRAFT_IN_PROGRESS
+SCOPE: High-level principles and provisional product-selection logic.
+DEPENDENCIES: 04_source_register.txt
+KEY_QUESTIONS: Which claims are strong, weak, or inference-only?
+EVIDENCE_TIER: TRACEABILITY
+SOURCE_IDS_USED: S01,S02,S03,S04,S05,S06,S07,S08
+OPEN_ISSUES: Product-specific claims still under construction.
+LAST_UPDATED: 2026-03-31
+
+Claim C01: Soap/alkaline cleanser systems are generally harsher to barrier function than well-formulated syndets.
+Support: S01, S02, S03, S04
+Strength: MODERATE_TO_HIGH
+Notes: General principle, not universal for every formula.
+
+Claim C02: Cleanser pH matters, but pH alone does not guarantee mildness; surfactant system remains critical.
+Support: S01, S02, S07
+Strength: MODERATE
+Notes: S07 only abstract-opened, so not sole decisive pillar.
+
+Claim C03: Fragrance, certain preservative systems, and some surfactants are important contact-allergy signals in cleansers.
+Support: S05, S06, S02, S04
+Strength: MODERATE
+Notes: Product-level risk depends on actual formula and user history.
+
+Claim C04: AD and rosacea literature generally favors mild, soap-free, often fragrance-free cleansers.
+Support: S02, S03, S04
+Strength: HIGH_FOR_GENERAL_GUIDANCE
+Notes: Still not enough to name a specific Polish product without market verification.
+
+Claim C05: Acne literature supports gentle cleansing but product-specific superiority claims are weak/inconsistent.
+Support: S02, S08
+Strength: MODERATE
+Notes: Evidence base thinner than consumer marketing implies.
+
+Claim C06: Very mild cleansers may be less adequate alone for heavy SPF/makeup removal.
+Support: INFERENCE + pending red-team evidence
+Strength: LOW_CURRENT
+Notes: Needs stronger direct evidence.

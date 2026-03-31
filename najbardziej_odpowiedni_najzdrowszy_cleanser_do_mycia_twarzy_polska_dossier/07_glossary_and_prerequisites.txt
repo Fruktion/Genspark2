@@ -1,0 +1,22 @@
+TITLE: Glossary and prerequisites
+PURPOSE: Teach the vocabulary needed to read the dossier correctly.
+STATUS: DRAFT_IN_PROGRESS
+SCOPE: Cleanser science basics.
+DEPENDENCIES: 21_skin_barrier_pH_and_cleanser_mechanisms.txt
+KEY_QUESTIONS: What terms need defining for non-specialists?
+EVIDENCE_TIER: LEARNING
+SOURCE_IDS_USED: S01,S02,S03,S04
+OPEN_ISSUES: Can be expanded with more examples.
+LAST_UPDATED: 2026-03-31
+
+Glossary:
+- Stratum corneum: outer barrier layer of the epidermis.
+- TEWL: transepidermal water loss; a marker related to barrier integrity.
+- Syndet: synthetic detergent cleanser, usually milder than classic soap.
+- Soap-free: usually means cleanser is not based on classic saponified soap salts; needs verification when used as a claim.
+- Anionic surfactant: negatively charged cleanser agent; often strong cleansing, sometimes more irritation risk.
+- Amphoteric surfactant: dual-charge surfactant often used to soften harsher systems.
+- Nonionic surfactant: no charge; often milder but not automatically superior.
+- Acid mantle: slightly acidic skin surface environment.
+- ACD: allergic contact dermatitis.
+- INCI: International Nomenclature of Cosmetic Ingredients; the ingredient list.

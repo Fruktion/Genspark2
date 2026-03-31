@@ -1,0 +1,21 @@
+TITLE: Market verification readiness flags
+PURPOSE: Rate whether product-level market evidence is sufficient.
+STATUS: DRAFT_IN_PROGRESS
+SCOPE: Product verification readiness.
+DEPENDENCIES: 38_polish_availability_and_price_snapshot.txt, 37_formula_drift_and_INCI_discrepancy_log.txt
+KEY_QUESTIONS: Can market-facing conclusions be trusted yet?
+EVIDENCE_TIER: META
+SOURCE_IDS_USED: M01,M02,M03
+OPEN_ISSUES: Awaiting official/packaging INCI cross-checks.
+LAST_UPDATED: 2026-03-31
+
+STRUCTURE_READY: PARTIAL
+TRACEABILITY_READY: PARTIAL
+RED_TEAM_READY: PARTIAL
+PRIMARY_EVIDENCE_READY: PARTIAL_LOW
+MARKET_VERIFICATION_READY: LOW
+PRODUCT_DATA_READY: LOW
+ARTICLE_READY: FALSE
+
+Reason:
+The dossier architecture exists, but product verification work is not yet deep enough to support article-grade product claims.

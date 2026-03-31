@@ -1,0 +1,30 @@
+TITLE: Review packet
+PURPOSE: Provide an auditor-friendly summary of the dossier state.
+STATUS: DRAFT_IN_PROGRESS
+SCOPE: Whole dossier for chat-based auditing.
+DEPENDENCIES: Entire dossier
+KEY_QUESTIONS: What exists, what is strongest, and what is still weak?
+EVIDENCE_TIER: META
+SOURCE_IDS_USED: S01,S02,S03,S04,S05,S06,S07,S08,M01,M02,M03
+OPEN_ISSUES: Product-level verification incomplete.
+LAST_UPDATED: 2026-03-31
+
+1) What this dossier currently does well
+- Establishes the optimization problem correctly as scenario-dependent rather than forcing one universal winner.
+- Anchors core cleanser science in opened full-text dermatology reviews (S01-S04).
+- Explicitly rejects simplistic shortcuts: low pH absolutism, “natural is better”, “apteczny = superior”, blanket preservative fear.
+
+2) What is still weak
+- Product-level Polish-market verification is still incomplete.
+- Many high-impact product claims would still rest too heavily on ingredient-level reasoning instead of verified current INCI.
+- Some important red-team questions (especially makeup/SPF removal adequacy) need better direct evidence.
+
+3) Current provisional synthesis
+- Best likely candidates will probably come from fragrance-free gentle syndet/emulsion families.
+- Different scenarios likely favor different cleanser families.
+- No honest single universal winner is justified yet.
+
+4) What an auditor should check next
+- Whether each product shortlisted truly has >=2 current Polish-market INCI sources.
+- Whether any favorites contain CAPB, fragrance, MI/MCI, or other meaningful flags.
+- Whether heavy-SPF/light-makeup users need a different winner family.

@@ -1,0 +1,13 @@
+TITLE: Head-to-head product comparison matrix
+PURPOSE: Compare leading products across the scoring domains.
+STATUS: PLACEHOLDER_PENDING_DATA
+SCOPE: Shortlisted products only.
+DEPENDENCIES: 13_screening_rubric_and_weights.txt, 35_product_shortlist_profiles_01.txt, 35_product_shortlist_profiles_02.txt
+KEY_QUESTIONS: Where do likely frontrunners differ materially?
+EVIDENCE_TIER: SYNTHESIS_PENDING
+SOURCE_IDS_USED: NONE
+OPEN_ISSUES: Matrix cannot be completed honestly before INCI verification.
+LAST_UPDATED: 2026-03-31
+
+Planned columns:
+Product | Barrier score | Allergen-risk score | Cleansing score | Evidence confidence | Market verification | Price/access | Fragrance flag | Surfactant comments | Best scenario | Main caveat
