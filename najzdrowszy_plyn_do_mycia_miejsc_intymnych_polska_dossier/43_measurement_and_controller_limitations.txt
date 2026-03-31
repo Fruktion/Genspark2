@@ -1,0 +1,19 @@
+TITLE: 43 Measurement and Controller Limitations
+PURPOSE: State limitations of this research build and tooling
+STATUS: complete
+SCOPE: Methodological limitations
+DEPENDENCIES: all
+KEY_QUESTIONS: What limits accuracy here?
+EVIDENCE_TIER: meta
+SOURCE_IDS_USED: INFERENCE,S19-S23
+OPEN_ISSUES: Important for audit honesty
+LAST_UPDATED: 2026-03-31
+
+
+Limitations of this dossier:
+- Web access was sufficient for many evidence sources but uneven for dynamic retail pages.
+- Product INCI capture is incomplete for many SKUs because some listings expose only snippets or dynamic content.
+- Several direct studies were only accessible as abstracts.
+- No package-photo OCR verification workflow was completed.
+- No local dermatologist/gynaecologist expert interview included.
+- No formal patch-test registry analysis specific to intimate cleansers on Polish market.

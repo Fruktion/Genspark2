@@ -1,0 +1,40 @@
+TITLE: 44 Candidate Shortlist with Claim Traceability
+PURPOSE: Provide final shortlist and why each remains or falls
+STATUS: complete
+SCOPE: Auditable shortlist file
+DEPENDENCIES: 41-43
+KEY_QUESTIONS: Why is each candidate in or out?
+EVIDENCE_TIER: final synthesis
+SOURCE_IDS_USED: S02,S05,S06,S07,S19-S23
+OPEN_ISSUES: Shortlist remains provisional
+LAST_UPDATED: 2026-03-31
+
+
+Water-only external cleansing
+- Why in: minimal exposure burden; guideline-consistent; no added allergens.
+- Source basis: S01,S02 + INFERENCE.
+- Limits: may not satisfy all users for cleansing feel/odor.
+
+Bland fragrance-free non-intimate cleanser/syndet comparator
+- Why in: dedicated intimate washes not proven superior; simpler may be better.
+- Source basis: S02,S05,S06 + INFERENCE.
+- Limits: Polish product shortlist not fully built here.
+
+Derma Eco intimate wash
+- Why tentatively in: fragrance-free / pH 4 claim and sensitive positioning.
+- Source basis: S21.
+- Limits: full current INCI not captured -> cannot be high-confidence.
+
+Lactovaginal Intima
+- Why tentatively in: relatively mild-sounding surfactant base; current INCI partly captured.
+- Limits: parfum present; microbiome claim likely overinterpretable.
+
+Aptederm
+- Why tentatively in: mild surfactant base, lactic acid/panthenol/inulin, no harsh surfactants captured.
+- Limits: parfum + Hexyl Cinnamal make it less ideal for highly sensitive users.
+
+Examples excluded or strongly downgraded
+- Bingospa: harsh surfactants and Cocamide DEA.
+- Api Gold: SLES/Cocamide DEA/parfum/propolis.
+- Green Pharmacy tea tree/calendula: botanical/EO burden.
+- Perfumed or floral Ziaja/Malizia variants: avoidable fragrance burden.

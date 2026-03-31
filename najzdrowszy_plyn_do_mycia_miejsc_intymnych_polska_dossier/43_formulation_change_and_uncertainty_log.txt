@@ -1,0 +1,28 @@
+TITLE: 43 Formulation Change and Uncertainty Log
+PURPOSE: Track uncertainty due to incomplete or unstable product data
+STATUS: complete
+SCOPE: Product-level uncertainty
+DEPENDENCIES: 20b
+KEY_QUESTIONS: Where could formula changes invalidate conclusions?
+EVIDENCE_TIER: uncertainty log
+SOURCE_IDS_USED: S19-S23
+OPEN_ISSUES: High-priority update target
+LAST_UPDATED: 2026-03-31
+
+
+High-uncertainty products:
+- Derma Eco intimate wash
+- Lactacyd Pharma Prebiotic+
+- Lactacyd 40+
+- AA Intymna Advanced Med+
+- HydroVag cleanser
+- Sylveco intimate gel
+- multiple Ziaja variants
+- Facelle Sensitive
+- Biały Jeleń / Green Pharmacy variants
+
+Reason:
+Opened sources confirmed availability and some claims, but current full INCI was not captured robustly enough.
+
+Operational implication:
+Any future synthesis should re-check current official INCI before publication, especially for any shortlisted product.

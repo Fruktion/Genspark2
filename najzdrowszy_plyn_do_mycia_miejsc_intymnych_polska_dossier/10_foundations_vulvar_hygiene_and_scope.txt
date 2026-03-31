@@ -1,0 +1,30 @@
+TITLE: 10 Foundations: Vulvar Hygiene and Scope
+PURPOSE: Ground the dossier in anatomy and external-use logic
+STATUS: complete
+SCOPE: Vulva vs vagina, cleansing scope, general care
+DEPENDENCIES: 01,07
+KEY_QUESTIONS: Why external-only? What is normal hygiene trying to do?
+EVIDENCE_TIER: foundational
+SOURCE_IDS_USED: S01,S02,S04,S14
+OPEN_ISSUES: ACOG capture partial but adequate
+LAST_UPDATED: 2026-03-31
+
+
+Anatomical scope matters.
+The vulva/srom is external, with hair-bearing keratinized skin in some regions and thinner/non-keratinized mucosal transition areas in the vestibule. The vagina/pochwa is internal and self-regulating.
+
+Therefore:
+- this dossier concerns only washing the vulva/external folds,
+- it does not support douching or internal cleansing,
+- “intimate wash” claims should be judged against external-skin tolerance, not imaginary internal cleansing benefits.
+
+Guideline-consistent hygiene principles:
+- once daily is often enough,
+- avoid over-washing,
+- use hands rather than abrasive cloths,
+- rinse and pat dry,
+- avoid perfumed wipes, deodorants, antiseptics, bubble baths,
+- if skin is symptomatic/dry, soap substitutes or emollient logic may be preferable.
+
+Practical implication for optimization:
+If plain water or a very bland cleanser already meets cleaning needs, adding a more complex dedicated intimate wash may only add exposure burden.

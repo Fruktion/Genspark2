@@ -1,0 +1,20 @@
+TITLE: 33 Contradictions, Null Results and Boundary Conditions
+PURPOSE: Capture nuance and conflicts
+STATUS: complete
+SCOPE: Where evidence does not align cleanly
+DEPENDENCIES: 30-32
+KEY_QUESTIONS: Where does the synthesis get shaky?
+EVIDENCE_TIER: critical synthesis
+SOURCE_IDS_USED: S04,S08,S09,S14
+OPEN_ISSUES: Important for overclaim prevention
+LAST_UPDATED: 2026-03-31
+
+
+Contradictions / tensions:
+- Some guidance permits/encourages gentle wash products; BAD-style dermatology guidance often leans toward emollient/soap-substitute logic and strict irritant avoidance.
+- Some reviews claim washing with water alone can dry skin, but many clinicians and patients tolerate water-only just fine; direct vulvar comparative evidence is weak.
+- Industry-linked studies often show good tolerability of tested products, but that does not prove superiority over simpler comparators.
+- Acidic/lactic formulations can appear favorable mechanistically, yet real-world net benefit may vanish if fragrance or botanical burden is added.
+
+Boundary condition:
+The more sensitive, dermatitis-prone or allergy-prone the user, the less convincing “feature-rich intimate wash” becomes.

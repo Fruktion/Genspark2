@@ -1,0 +1,30 @@
+TITLE: 30 Direct Evidence: Intimate Cleansers
+PURPOSE: Summarize direct studies of intimate wash products
+STATUS: complete
+SCOPE: Trials and direct clinical studies of wash products
+DEPENDENCIES: 03
+KEY_QUESTIONS: What direct evidence exists?
+EVIDENCE_TIER: direct evidence
+SOURCE_IDS_USED: S08,S09,S10
+OPEN_ISSUES: Sparse, product-specific, often industry-adjacent
+LAST_UPDATED: 2026-03-31
+
+
+Study landscape is thin.
+
+1) Murina et al. 2020 RCT / controlled comparison (S08, abstract-only)
+- Compared Saugella Hydraserum vs Lactacyd in 40 healthy women over 30 days.
+- Both deemed safe/tolerable; one product performed better on some hydration/sebum/pH parameters.
+- Limitations: small, short, product-specific, abstract-only in this dossier, not enough to establish category-wide superiority or generalize to Polish market formulations today.
+
+2) Bruning et al. 2020 28-day open uncontrolled study of lactic-acid wash (S09)
+- Healthy users, once-daily external use.
+- Found acceptable tolerance, improved moisturization, no significant vulvar pH or microbiome diversity disruption.
+- Limitations: uncontrolled, industry-adjacent, one specific product, healthy selected sample.
+
+3) Murina et al. 2023 VVC adjunct trial (S10, abstract-only)
+- Acid/thymol/zinc wash adjunct to clotrimazole improved pruritus versus antifungal alone in symptomatic candidiasis.
+- Relevance to healthy-user routine cleanser choice is limited.
+
+Bottom line:
+Direct evidence does not justify declaring a universal “best intimate wash” for healthy adults.

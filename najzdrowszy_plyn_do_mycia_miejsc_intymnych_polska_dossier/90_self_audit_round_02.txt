@@ -1,0 +1,16 @@
+TITLE: 90 Self Audit Round 02
+PURPOSE: Second audit focused on contradictions and domain fit
+STATUS: complete
+SCOPE: Contradiction handling and scenario logic
+DEPENDENCIES: all
+KEY_QUESTIONS: What still risks misleading the user?
+EVIDENCE_TIER: self-audit
+SOURCE_IDS_USED: INFERENCE
+OPEN_ISSUES: Resolved in round 02 revision log
+LAST_UPDATED: 2026-03-31
+
+
+Round 02 findings:
+- Need clearer distinction between evidence for vulvar care generally and evidence for specific commercial products.
+- Need stronger warning that active symptoms require diagnosis.
+- Need dedicated contradiction/null-results file to avoid one-way synthesis.

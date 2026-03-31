@@ -1,0 +1,38 @@
+TITLE: 04 Source Register
+PURPOSE: Register all sources with access grading
+STATUS: complete
+SCOPE: Opened sources and metadata sources
+DEPENDENCIES: 03
+KEY_QUESTIONS: What was actually opened?
+EVIDENCE_TIER: mixed
+SOURCE_IDS_USED: S01-S24
+OPEN_ISSUES: Some pages were snippet-only
+LAST_UPDATED: 2026-03-31
+
+
+| source_id | citation_or_document_name | source_type | url | opened_where | access_grade | decisive_for_major_claims | notes_on_limitations |
+|---|---|---|---|---|---|---|---|
+| S01 | ACOG Vulvovaginal Health FAQ | patient guidance | https://www.acog.org/womens-health/faqs/vulvovaginal-health | crawler/render_js | OFFICIAL_DOCUMENT_OPENED | YES | Opened, but JS crawl returned partial page shell; answer-box snippet also captured. Used only for plain fragrance-free soap / stop soap on inner vulva statements. |
+| S02 | British Association of Dermatologists Vulval Skincare leaflet (updated May 2023) | patient guideline | https://www.bad.org.uk/pils/vulval-skincare/ | crawler | OFFICIAL_DOCUMENT_OPENED | YES | Full leaflet text opened. Strong direct care guidance for irritant avoidance and emollient-as-soap-substitute logic. |
+| S03 | ISSVD Contact Dermatitis of the Vulva patient handout | patient handout | https://www.issvd.org/download_file/view/250 | crawler/render_js | OFFICIAL_DOCUMENT_OPENED | YES | PDF fetch not parsed cleanly; key recommendation also visible in search result snippet. Use cautiously, mainly corroborative. |
+| S04 | Chen et al. 2017 Role of female intimate hygiene in vulvovaginal health | narrative review | https://pmc.ncbi.nlm.nih.gov/articles/PMC7789027/ | crawler | FULL_TEXT_OPENED | NO | Industry-funded review (Reckitt). Useful for citations, physiology overview, and identifying direct studies; not decisive alone. |
+| S05 | Corazza et al. 2021 Contact Dermatitis of the Vulva | review | https://www.mdpi.com/2313-5786/1/4/19 | crawler | FULL_TEXT_OPENED | YES | Open review focused on vulvar ACD/ICD; strong for allergen classes and caution about fragrances, preservatives, botanicals, medicaments. |
+| S06 | Vandeweege et al. 2023 systematic review of allergic and irritant contact dermatitis of the vulva | systematic review | https://onlinelibrary.wiley.com/doi/full/10.1111/cod.14258 | crawler | FULL_TEXT_OPENED | YES | Key synthesis on frequent allergens/irritants and patch-test relevance; includes bias discussion. |
+| S07 | Blom et al. 2025 Allergic Contact Dermatitis of the Vulva | retrospective cohort | https://pmc.ncbi.nlm.nih.gov/articles/PMC12318904/ | crawler | FULL_TEXT_OPENED | YES | Important recent cohort: fragrances and preservatives clinically relevant; surfactants/rubber/wool wax alcohols not relevant in that cohort. |
+| S08 | Murina et al. 2020 Characterization of female intimate hygiene practices and vulvar health | RCT / controlled trial | https://pubmed.ncbi.nlm.nih.gov/32281249/ | crawler | ABSTRACT_ONLY | NO | Abstract-only via PubMed. Product-specific comparison between Saugella Hydraserum and Lactacyd; not decisive for broad recommendation. |
+| S09 | Bruning et al. 2020 A 28 Day Clinical Assessment of a Lactic Acid-containing Antimicrobial Intimate Gel Wash | open uncontrolled clinical study | https://pmc.ncbi.nlm.nih.gov/articles/PMC7168340/ | crawler | FULL_TEXT_OPENED | NO | Industry study; shows tolerability and no major microbiome disruption for one lactic-acid wash in healthy adults, but uncontrolled and brand-adjacent. |
+| S10 | Murina et al. 2023 VVC management trial with cleansing wash adjunct | RCT | https://pubmed.ncbi.nlm.nih.gov/35759680/ | crawler | ABSTRACT_ONLY | NO | Symptomatic VVC adjunct-trial; limited relevance to healthy-user cleanser choice; not used for major conclusions. |
+| S11 | Farage 2005 Vulvar susceptibility to contact irritants and allergens | review | https://pubmed.ncbi.nlm.nih.gov/15906051/ | crawler | ABSTRACT_ONLY | YES | Abstract only but important anatomical susceptibility framing; corroborated by S05/S06 full texts. |
+| S12 | Elsner et al. 1990 SLS-induced irritant contact dermatitis in vulvar and forearm skin | clinical trial | https://pubmed.ncbi.nlm.nih.gov/2146289/ | crawler | ABSTRACT_ONLY | NO | Abstract-only; shows hydration effects / irritancy complexity of SLS on vulvar skin. |
+| S13 | Elsner et al. 1991 low-concentration SLS on vulvar and forearm skin | clinical trial | https://pubmed.ncbi.nlm.nih.gov/1826134/ | crawler | ABSTRACT_ONLY | NO | Abstract-only; low-concentration SLS affected vulvar stratum corneum hydration without overt irritant reaction. |
+| S14 | Bianchi et al. 2025 Vulvar Care: Reviewing Concepts in Daily Hygiene | narrative review | https://pmc.ncbi.nlm.nih.gov/articles/PMC12248671/ | crawler | FULL_TEXT_OPENED | NO | Recent review with some useful discussion, but includes strong pro-syndet claims and conflict-of-interest context; use cautiously. |
+| S15 | Kline et al. 2019 Repeated vaginal exposures to methylisothiazolinone induce persistent genital pain in mice | preclinical study | https://pubmed.ncbi.nlm.nih.gov/31661848/ | crawler | ABSTRACT_ONLY | NO | Mechanistic caution about MI, not human cleanser-choice evidence. |
+| S16 | Foote et al. 2014 Vulvar dermatitis from allergy to moist flushable wipes | case report | https://pubmed.ncbi.nlm.nih.gov/23760148/ | crawler | ABSTRACT_ONLY | NO | Useful illustrative case for isothiazolinone preservative risk. |
+| S17 | Case report on anogenital ACD caused by MCI/MI and clotrimazole | case report | https://pubmed.ncbi.nlm.nih.gov/27040872/ | crawler | ABSTRACT_ONLY | NO | Case report, no abstract. Supportive only. |
+| S18 | Maintaining vulvar, vaginal and perineal health: Clinical considerations 2024 | review | https://pubmed.ncbi.nlm.nih.gov/38396383/ | crawler | ABSTRACT_ONLY | NO | Abstract-only review; supportive, not decisive. |
+| S19 | Gemini.pl current product pages with INCI text | product metadata listing | https://gemini.pl/ | web listing | OFFICIAL_DOCUMENT_OPENED | NO | Used only for current ingredient lists / pH claims / availability. Not efficacy evidence. |
+| S20 | DOZ current product pages/search snippets | product metadata listing | https://www.doz.pl/ | web listing | OFFICIAL_DOCUMENT_OPENED | NO | Used for availability, examples, some claims. Not efficacy evidence. |
+| S21 | Dr.Max current product pages/search snippets | product metadata listing | https://www.drmax.pl/ | web listing | OFFICIAL_DOCUMENT_OPENED | NO | Used for availability, pH, and limited INCI snippets. |
+| S22 | Wapteka current product pages/search snippets | product metadata listing | https://www.wapteka.pl/ | web listing | OFFICIAL_DOCUMENT_OPENED | NO | Used as second-source retail/pharmacy cross-check. |
+| S23 | Rossmann search results snippets | retail listing | https://www.rossmann.pl/ | web search snippets | OFFICIAL_DOCUMENT_OPENED | NO | Used for current retail availability only. |
+| S24 | Search-result snippets for Polish expert pages on higiena sromu / syndety | discovery snippets | multiple | web search snippets | ABSTRACT_ONLY | NO | Discovery only; not used for major claims unless independently corroborated. |

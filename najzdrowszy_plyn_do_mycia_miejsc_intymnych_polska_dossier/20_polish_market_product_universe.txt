@@ -1,0 +1,48 @@
+TITLE: 20 Polish Market Product Universe
+PURPOSE: Build current product catalogue
+STATUS: complete
+SCOPE: >=25 products across pharmacy and retail channels
+DEPENDENCIES: 03
+KEY_QUESTIONS: What products were identified?
+EVIDENCE_TIER: market metadata
+SOURCE_IDS_USED: S19-S23
+OPEN_ISSUES: Many formulas still need stronger official-source capture
+LAST_UPDATED: 2026-03-31
+
+1. Tołpa — Tołpa Dermo Intima neutralny płyn do higieny intymnej 195 ml | category=apteczny/sensitive | availability=Gemini/Wapteka/apteki | price=~27-35 PLN | confidence=medium
+2. Lactacyd — Lactacyd Pharma łagodzący płyn do higieny intymnej 250 ml | category=apteczny/sensitive | availability=Gemini/DOZ/Dr.Max | price=~18-28 PLN | confidence=medium-high
+3. Lactacyd — Lactacyd Pharma Prebiotic+ płyn do higieny intymnej 250 ml | category=apteczny/prebiotic | availability=Dr.Max/apteki | price=~18-30 PLN | confidence=low
+4. Lactacyd — Lactacyd Pharma ultra-nawilżający 40+ 250 ml | category=apteczny/menopause | availability=DOZ/Dr.Max/apteki | price=~20-30 PLN | confidence=low
+5. Aptederm — Aptederm płyn do higieny intymnej 250 ml | category=apteczny/sensitive/pregnancy | availability=Gemini/apteki | price=~10-15 PLN | confidence=high
+6. Lactovaginal Intima — Lactovaginal Intima płyn ginekologiczny do higieny intymnej 300 ml | category=apteczny/probiotic-lactic | availability=Gemini/Dr.Max/apteki | price=~18-30 PLN | confidence=medium
+7. Derma Eco — Derma Eco Woman Intimate Wash 150 ml | category=apteczny/sensitive | availability=Dr.Max | price=~25-40 PLN | confidence=low
+8. AA — AA Intymna Advanced Med+ specjalistyczna emulsja do higieny intymnej | category=apteczny/sensitive | availability=Dr.Max/apteki | price=~12-20 PLN | confidence=low
+9. HydroVag — HydroVag emulsja do higieny intymnej dla kobiet 40+ 300 ml | category=apteczny/menopause | availability=DOZ/apteki | price=~20-35 PLN | confidence=low
+10. Pink Mama — Pink Mama naturalny płyn do higieny intymnej 250 ml | category=apteczny/pregnancy | availability=Dr.Max | price=~20-35 PLN | confidence=low
+11. Sylveco — Sylveco łagodny żel do higieny intymnej 150 ml | category=apteczny/natural | availability=Dr.Max/apteki | price=~18-30 PLN | confidence=low
+12. Iladian — Iladian Pregna żel do higieny intymnej 180 ml | category=apteczny/pregnancy | availability=Dr.Max/apteki | price=~15-25 PLN | confidence=low
+13. Ziaja — Ziaja Intima Neutral 200/500 ml | category=retail/basic | availability=Rossmann/Wapteka/Dr.Max | price=~7-12 PLN | confidence=low
+14. Ziaja — Ziaja Intima z kwasem laktobionowym 500 ml | category=retail/sensitive | availability=DOZ/Wapteka/Rossmann | price=~10-14 PLN | confidence=low
+15. Ziaja — Ziaja Intima z kwasem hialuronowym 500 ml | category=retail/dryness | availability=Wapteka/Rossmann | price=~10-14 PLN | confidence=low
+16. Ziaja — Ziaja Oliwkowa płyn do higieny intymnej 200/500 ml | category=retail/emollient | availability=Wapteka/Rossmann | price=~8-12 PLN | confidence=low
+17. Ziaja — Ziaja Intima Konwalia 200 ml | category=retail/perfumed | availability=Wapteka/Dr.Max | price=~7-10 PLN | confidence=low
+18. Ziaja — Ziaja Intima Nagietek lekarski 500 ml | category=retail/herbal | availability=Gemini/retail | price=~9-13 PLN | confidence=low
+19. Ziaja — Ziaja Mamma Mia ginekologiczny płyn do higieny intymnej 300 ml | category=retail/pregnancy | availability=Wapteka/retail | price=~10-15 PLN | confidence=low
+20. OnlyBio — OnlyBio Everyday prebiotyczny płyn do higieny intymnej 250 ml | category=retail/prebiotic | availability=Gemini/retail | price=~15-25 PLN | confidence=high
+21. Facelle — Facelle płyn do higieny intymnej Sensitive | category=retail/sensitive | availability=Rossmann | price=~6-10 PLN | confidence=low
+22. Biały Jeleń — Biały Jeleń żel do higieny intymnej z macierzanką 500 ml | category=retail/herbal/hypoallergenic-claim | availability=DOZ/retail | price=~10-18 PLN | confidence=low
+23. Green Pharmacy — Green Pharmacy żel do higieny intymnej drzewo herbaciane i nagietek 370 ml | category=retail/herbal | availability=DOZ/Dr.Max/retail | price=~10-18 PLN | confidence=low
+24. Linea MammaBaby — Linea MammaBaby płyn do higieny intymnej dla dzieci 250 ml | category=retail/pediatric | availability=Gemini/retail | price=~25-40 PLN | confidence=low-medium
+25. Malizia — Malizia płyn do higieny intymnej kojący Calendula & Fiori di Loto 200 ml | category=retail/perfumed/herbal | availability=Gemini/retail | price=~8-15 PLN | confidence=low
+26. Api Gold — Api Gold płyn do higieny intymnej 280 ml | category=retail/propolis | availability=Gemini/retail | price=~10-16 PLN | confidence=low-medium
+27. Bingospa — Bingospa Jedwab do higieny intymnej 300 ml | category=retail/high-risk | availability=Gemini/retail | price=~8-15 PLN | confidence=medium
+28. PrOVag — PrOVag żel do okolic intymnych 30 g | category=apteczny/gel barrier | availability=DOZ/apteki | price=~20-35 PLN | confidence=low
+29. Trivagin — Trivagin żel do ochrony i pielęgnacji okolic intymnych 30 ml | category=apteczny/gel barrier | availability=DOZ/apteki | price=~20-35 PLN | confidence=low
+
+
+Coverage check:
+- Apothecary / internet pharmacy leaning items >=10: Tołpa, Lactacyd variants, Aptederm, Lactovaginal, Derma Eco, AA, HydroVag, Pink Mama, Sylveco, Iladian, etc.
+- Retail / large chains / broader mass market >=10: Ziaja variants, OnlyBio, Facelle, Biały Jeleń, Green Pharmacy, Linea MammaBaby, Malizia, Api Gold, Bingospa.
+
+Important caveat:
+Catalogue completeness is better than formulation-verification completeness. Many SKUs remain in uncertainty bins because current full INCI was not fully captured from official or package-photo level sources.

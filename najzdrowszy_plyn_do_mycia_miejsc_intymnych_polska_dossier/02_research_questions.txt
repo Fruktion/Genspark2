@@ -1,0 +1,20 @@
+TITLE: 02 Research Questions
+PURPOSE: List operational subquestions
+STATUS: complete
+SCOPE: All major dossier workstreams
+DEPENDENCIES: 01,01b
+KEY_QUESTIONS: What claims need testing?
+EVIDENCE_TIER: synthesis
+SOURCE_IDS_USED: INFERENCE
+OPEN_ISSUES: Some product-specific questions remain open
+LAST_UPDATED: 2026-03-31
+
+
+1. Anatomically, what differs between vulva and vagina, and why does this matter for cleansing advice?
+2. What do direct care documents recommend: water only, soap substitute/emollient, or dedicated intimate wash?
+3. Which ingredient classes most plausibly raise risk: fragrance, essential oils, botanicals, menthol/cooling agents, harsh surfactants, preservatives, medicaments?
+4. How clinically meaningful are pH, lactic acid, probiotic/prebiotic claims in rinse-off products?
+5. Does available direct evidence show that dedicated intimate washes improve outcomes versus bland comparators?
+6. Which currently available Polish products have the blandest, best-verified formulas?
+7. For which users is “no dedicated intimate wash needed” the best answer?
+8. Which findings would overturn the current shortlist?

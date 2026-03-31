@@ -1,0 +1,19 @@
+TITLE: 70 Article Blueprint
+PURPOSE: Prepare later synthesis structure without writing article
+STATUS: complete
+SCOPE: Blueprint only
+DEPENDENCIES: all
+KEY_QUESTIONS: How could this become an article later?
+EVIDENCE_TIER: planning
+SOURCE_IDS_USED: INFERENCE
+OPEN_ISSUES: No final article written here
+LAST_UPDATED: 2026-03-31
+
+
+Potential later article sections:
+1. Srom vs pochwa: czego właściwie dotyczy mycie?
+2. Czy w ogóle potrzebujesz dedykowanego płynu intymnego?
+3. Najważniejsze czerwone flagi składu.
+4. Co naprawdę znaczą pH, kwas mlekowy i mikrobiomowe hasła.
+5. Ocena polskiego rynku: shortlisty zależne od scenariusza.
+6. Kiedy przestać eksperymentować z kosmetykiem i iść do lekarza.

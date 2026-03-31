@@ -1,0 +1,22 @@
+TITLE: 40c Weighted Decision Matrix: Dryness / Menopause / Postpartum
+PURPOSE: Scenario-specific weighting for dryness-prone states
+STATUS: complete
+SCOPE: Dryness/low-estrogen/postpartum scenario
+DEPENDENCIES: 40
+KEY_QUESTIONS: How does the optimum shift?
+EVIDENCE_TIER: decision synthesis
+SOURCE_IDS_USED: S02,S05,S06,S14,S19-S23
+OPEN_ISSUES: Direct cleanser evidence weak
+LAST_UPDATED: 2026-03-31
+
+
+Weights (dryness / menopause / postpartum)
+- Barrier preservation / low stinging risk: 40
+- Fragrance avoidance: 20
+- Simplicity and emollient support: 20
+- Verification confidence: 10
+- Availability: 10
+
+Interpretation:
+The cleanser question becomes less important than overall dryness management.
+Gentle rinsing, minimal exposure, and if needed bland emollient/soap-substitute logic often outrank specialty “40+” washes unless those formulas are clearly bland and tolerated.

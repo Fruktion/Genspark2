@@ -1,0 +1,35 @@
+TITLE: 03 Search Strategy and Queries
+PURPOSE: Document search plan actually executed
+STATUS: complete
+SCOPE: Guidelines, reviews, trials, market verification
+DEPENDENCIES: 02
+KEY_QUESTIONS: What searches were run?
+EVIDENCE_TIER: methods
+SOURCE_IDS_USED: S01-S24
+OPEN_ISSUES: Could extend with more official manufacturer pages
+LAST_UPDATED: 2026-03-31
+
+
+Executed search clusters included:
+A) Guidelines/expert care documents
+- ACOG vulvar skin care cleanser fragrance free vulvar care
+- ISSVD vulvar care cleanser fragrance free vulval dermatitis
+- British Association of Dermatologists vulval care cleanser guideline
+- polskie zalecenia higiena sromu dermatozy sromu mycie
+
+B) Direct evidence
+- female intimate wash randomized trial vulvovaginal pH study review
+- female intimate hygiene practices vulvovaginal candidiasis randomized controlled open-label trial
+- lactic acid intimate gel wash vulvar microbiome 28 day
+
+C) Adjacent evidence
+- vulvar contact dermatitis fragrance preservative review vulva
+- preservative allergy vulva review contact dermatitis
+- methylisothiazolinone vulva contact dermatitis
+
+D) Market verification
+- Gemini.pl / DOZ / Dr.Max / Wapteka / Rossmann snippets for product availability and INCI
+- selective direct page fetches for INCI sections
+
+Important operational rule followed:
+Commercial pages used only for formulation metadata, pH claims, availability and price bands; not for efficacy evidence.

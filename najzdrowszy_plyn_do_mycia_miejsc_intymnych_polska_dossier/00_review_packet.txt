@@ -1,0 +1,21 @@
+TITLE: 00 Review Packet
+PURPOSE: Guide another model through audit priorities
+STATUS: complete
+SCOPE: Audit handoff packet
+DEPENDENCIES: all
+KEY_QUESTIONS: How should this dossier be reviewed?
+EVIDENCE_TIER: meta
+SOURCE_IDS_USED: INFERENCE
+OPEN_ISSUES: None
+LAST_UPDATED: 2026-03-31
+
+
+Audit order suggested:
+1. Read 04c_evidence_depth_scorecard.txt.
+2. Read 41_scenario_specific_optima.txt.
+3. Check 04b_claim_to_source_traceability_matrix.txt against 04_source_register.txt.
+4. Inspect 20b/20c/43 for market-verification weaknesses.
+5. Read 34 and 95 to ensure non-marketing skepticism is preserved.
+
+Key caution for any later synthesis:
+Do not turn tentative dedicated-wash shortlist entries into high-confidence winners.

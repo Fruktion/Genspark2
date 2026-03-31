@@ -1,0 +1,26 @@
+TITLE: 04b Claim-to-Source Traceability Matrix
+PURPOSE: Map major claims to support level
+STATUS: complete
+SCOPE: Major conclusions only
+DEPENDENCIES: 04
+KEY_QUESTIONS: Can an auditor trace each major claim?
+EVIDENCE_TIER: traceability
+SOURCE_IDS_USED: S01-S24
+OPEN_ISSUES: Some market claims remain weak
+LAST_UPDATED: 2026-03-31
+
+
+| Claim ID | Major claim | Support type | Source IDs | Notes |
+|---|---|---|---|---|
+| C1 | The topic concerns the vulva/external genital skin, not internal vaginal cleansing. | direct guidance + anatomy | S01,S02,S04,S14 | Strong.
+| C2 | Vulvar tissue is unusually susceptible to irritants/allergens because of permeability, occlusion, friction and moisture. | review/systematic synthesis | S05,S06,S11 | Strong overall, though S11 abstract-only.
+| C3 | Fragrances and preservatives are recurrent clinically relevant allergen classes in chronic vulvar complaints. | systematic review + review + cohort | S05,S06,S07 | Strong.
+| C4 | Botanical/herbal/natural positioning does not guarantee gentleness; botanicals can themselves sensitize. | review | S05,S07 | Strong.
+| C5 | Harsh soaps/irritant cleansing practices are discouraged; over-washing can worsen dryness/irritation. | guidelines + reviews | S01,S02,S04,S14 | Moderate-strong, but note S04/S14 conflicts and S01 partial capture.
+| C6 | There is no strong head-to-head evidence proving that the whole category of dedicated intimate washes is superior to water/bland cleanser for healthy users. | evidence gap synthesis | S04,S08,S09,S14 + INFERENCE | Moderate. Direct evidence sparse and product-specific.
+| C7 | pH/lactic acid claims in rinse-off products are often overinterpreted relative to evidence. | mixed evidence + critical inference | S04,S09,S14 + INFERENCE | Moderate, because some supportive data exist but are not decisive.
+| C8 | Pharmacy placement does not equal medicinal-level proof of superiority or safety. | regulatory inference + product classification logic | INFERENCE | Strong conceptual claim, not source-based efficacy claim.
+| C9 | For highly sensitive users, water-only or emollient/soap-substitute logic is often more defensible than fragranced intimate wash formulas. | BAD guideline + contact dermatitis evidence + inference | S02,S05,S06,S07 + INFERENCE | Moderate-strong.
+| C10 | Products with parfum, essential oils, strong herbal burden, harsh surfactants or Cocamide DEA deserve downgrading. | review + ingredient-risk inference | S05,S06,S07,S12,S13 + INFERENCE | Moderate.
+| C11 | Water-only can be the best answer for many asymptomatic users if acceptable cleansing function is preserved. | guideline-consistent inference | S01,S02 + INFERENCE | Moderate.
+| C12 | Active symptoms like odor/discharge/pain/pruritus should not be managed by cleanser substitution alone. | clinical reasoning + guidelines | S01,S02,S05,S06 | Strong.

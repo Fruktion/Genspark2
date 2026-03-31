@@ -1,0 +1,37 @@
+TITLE: 41 Scenario-Specific Optima
+PURPOSE: State best-justified shortlist without forcing one winner
+STATUS: complete
+SCOPE: Final scenario-based answer architecture
+DEPENDENCIES: 40*
+KEY_QUESTIONS: What are the optima by user scenario?
+EVIDENCE_TIER: final synthesis
+SOURCE_IDS_USED: S01-S23
+OPEN_ISSUES: Confidence varies by scenario
+LAST_UPDATED: 2026-03-31
+
+
+SCENARIO A — HEALTHY ASYMPTOMATIC USER
+Best-justified shortlist:
+1. Water-only external cleansing (confidence: moderate-high).
+2. Very bland fragrance-free non-intimate cleanser/syndet if water alone is insufficient (confidence: moderate, but Polish shortlist incomplete).
+3. Among dedicated intimate washes, only a cautious secondary shortlist, not a winner: Derma Eco (if full INCI confirms blandness), Lactovaginal Intima, Aptederm (all low-to-moderate confidence due to verification or formula compromises).
+
+SCENARIO B — SENSITIVE / ALLERGY-PRONE / ECZEMA-PRONE USER
+Best-justified shortlist:
+1. Water-only external cleansing (confidence: high relative to product alternatives).
+2. Emollient / soap-substitute logic as per vulval skincare guidance when needed (confidence: moderate-high conceptually).
+3. If insisting on a wash, only verified fragrance-free bland formulas should remain in play. In this dossier, no dedicated intimate wash reaches high-confidence recommendation status.
+
+SCENARIO C — DRYNESS / MENOPAUSE / POSTPARTUM
+Best-justified shortlist:
+1. Minimal gentle cleansing + dryness management beyond cleanser choice (confidence: moderate-high).
+2. Menopause-targeted washes are not clearly superior; use only if bland and clearly tolerated.
+3. Avoid stinging/fragranced/herbal products.
+
+SCENARIO D — ACTIVE SYMPTOMS (ITCHING, PAIN, DISCHARGE, ODOR)
+Best answer:
+Do not try to solve primarily through cleanser substitution. Seek diagnosis. Cleanser choice can only be an adjunct.
+
+OVERALL VERDICT
+Evidence does NOT justify one universal product winner.
+The most honest answer is a best-justified family of options led by low-exposure approaches, with dedicated intimate washes as conditional, lower-confidence options rather than a triumphant universal solution.

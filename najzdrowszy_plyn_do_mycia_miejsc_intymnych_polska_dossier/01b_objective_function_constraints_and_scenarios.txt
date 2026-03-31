@@ -1,0 +1,38 @@
+TITLE: 01b Objective Function, Constraints and Scenarios
+PURPOSE: Formalize optimization problem
+STATUS: complete
+SCOPE: Consumer-biomedyczny decision model
+DEPENDENCIES: 01
+KEY_QUESTIONS: How are products weighted?
+EVIDENCE_TIER: synthesis
+SOURCE_IDS_USED: INFERENCE
+OPEN_ISSUES: Weights can be debated
+LAST_UPDATED: 2026-03-31
+
+
+PRIMARY OBJECTIVE FUNCTION
+Minimize expected harm from routine cleansing:
+1) irritation/stinging,
+2) allergic contact dermatitis risk,
+3) barrier disruption/dryness,
+4) unnecessary disturbance of local vulvar environment.
+Subject to acceptable cleaning function.
+
+SECONDARY OBJECTIVES
+- current Polish availability,
+- verifiable current INCI,
+- label transparency,
+- sensible price/access,
+- pharmacy availability as convenience signal only (not efficacy proof).
+
+CONSTRAINTS
+- external use only,
+- no inference that acidic pH/probiotics/prebiotics are automatically beneficial,
+- no assumption that a dedicated intimate wash beats water or bland non-intimate cleanser,
+- if symptoms include pain, marked itching, discharge, odor, fissures, ulcers, bleeding or recurrent symptoms, cleanser choice becomes secondary to diagnosis.
+
+SCENARIOS
+A. Healthy asymptomatic user.
+B. Sensitive / allergy-prone / eczema-prone / vulvar dermatitis-prone user.
+C. Dryness / menopause / postpartum / low-estrogen state.
+D. Active symptoms: mostly “do not solve with cleanser alone; seek assessment”.

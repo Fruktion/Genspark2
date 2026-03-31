@@ -1,0 +1,18 @@
+TITLE: 06 Concept Dependency Graph
+PURPOSE: Show logic dependencies
+STATUS: complete
+SCOPE: How anatomy, evidence and market analysis connect
+DEPENDENCIES: 01-05
+KEY_QUESTIONS: What concepts depend on others?
+EVIDENCE_TIER: synthesis
+SOURCE_IDS_USED: S01-S14
+OPEN_ISSUES: Graph is textual not visual
+LAST_UPDATED: 2026-03-31
+
+
+Anatomy/scope -> susceptibility of vulvar tissue -> importance of irritant minimization
+Guidelines/vulvar care -> permissibility of water/emollient/soap substitute -> comparator arms
+Contact dermatitis evidence -> ingredient red flags -> product screening rubric
+Direct cleanser studies -> modest support for some mild washes -> but insufficient for universal winner
+Polish market metadata -> shortlist feasibility -> uncertainty log
+Scenario logic -> different optima for default vs sensitive vs dry/menopausal users

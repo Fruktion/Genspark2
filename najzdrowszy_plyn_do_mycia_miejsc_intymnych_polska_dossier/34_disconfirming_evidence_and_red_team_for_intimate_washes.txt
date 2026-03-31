@@ -1,0 +1,26 @@
+TITLE: 34 Disconfirming Evidence and Red Team for Intimate Washes
+PURPOSE: Deliberately search for reasons the leading synthesis could fail
+STATUS: complete
+SCOPE: Disconfirming logic specific to intimate washes
+DEPENDENCIES: all
+KEY_QUESTIONS: How could the preferred answer be wrong?
+EVIDENCE_TIER: red-team
+SOURCE_IDS_USED: S04-S14,S19-S23
+OPEN_ISSUES: Need more official INCI capture to reduce market uncertainty
+LAST_UPDATED: 2026-03-31
+
+
+Disconfirming questions:
+1. What if the best answer is simply “use water only” for most healthy users?
+2. What if the truly best product is a bland fragrance-free non-intimate syndet, not an intimate wash at all?
+3. What if one apparently promising pharmacy intimate wash has a recently changed formula we failed to capture?
+4. What if pH or lactic-acid benefits are clinically trivial compared with fragrance/allergen burden?
+5. What if user acceptability/odor-control needs make water-only unrealistic, shifting optimum toward the blandest tolerable cleanser?
+
+Current red-team conclusion:
+The present synthesis most likely fails not by underrating fancy microbiome products, but by potentially still overrating dedicated intimate washes relative to water-only or bland unscented comparators.
+
+Evidence that would overturn current leaders:
+- Full current official INCI showing that a widely available fragrance-free intimate wash is much simpler/blander than current uncertainty bins suggest.
+- A robust head-to-head trial against a fragrance-free bland comparator demonstrating meaningful superiority on irritation and patient-relevant outcomes.
+- Conversely, evidence that repeated water-only cleansing clearly worsens outcomes versus bland syndets in healthy or sensitive vulvar skin.

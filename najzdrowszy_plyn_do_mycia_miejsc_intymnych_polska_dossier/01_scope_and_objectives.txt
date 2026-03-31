@@ -1,0 +1,30 @@
+TITLE: 01 Scope and Objectives
+PURPOSE: Define dossier scope and answer target
+STATUS: complete
+SCOPE: External cleansing of vulva only; Polish market products and comparators
+DEPENDENCIES: 01b,02
+KEY_QUESTIONS: What is being optimized? What is out of scope?
+EVIDENCE_TIER: synthesis
+SOURCE_IDS_USED: INFERENCE
+OPEN_ISSUES: Need ongoing market refreshes
+LAST_UPDATED: 2026-03-31
+
+
+This dossier addresses only EXTERNAL cleansing of the vulva / surrounding external genital skin.
+It explicitly excludes:
+- vaginal douching,
+- intravaginal gels/irrigation,
+- internal treatment products,
+- management of active severe infection by cleanser choice alone.
+
+Target question:
+Which product category or shortlist for EXTERNAL washing of intimate areas on the current Polish market has the lowest expected irritation/contact-dermatitis/drying burden while still cleaning acceptably?
+
+Default scenario:
+Adult person with vulva, no severe active infection, seeking routine cleansing product or deciding whether product is even needed.
+
+Core answer architecture:
+- not a marketing ranking,
+- not a fake single winner,
+- scenario-dependent optima,
+- explicit uncertainty if formulation verification or evidence depth is weak.

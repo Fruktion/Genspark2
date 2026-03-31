@@ -1,0 +1,184 @@
+TITLE: 20b Product INCI Verification Matrix
+PURPOSE: Log formula verification strength
+STATUS: complete
+SCOPE: Current INCI verification and uncertainty tracking
+DEPENDENCIES: 20
+KEY_QUESTIONS: Which formulas are robustly verified?
+EVIDENCE_TIER: market metadata
+SOURCE_IDS_USED: S19-S23
+OPEN_ISSUES: High uncertainty remains for many retail items
+LAST_UPDATED: 2026-03-31
+
+PRODUCT: Tołpa — Tołpa Dermo Intima neutralny płyn do higieny intymnej 195 ml
+- official_or_current_source_status: listing_current
+- second_source_status: wapteka_search_match
+- current_INCI: Aqua, Cocamidopropyl Betaine, Cocamide DEA, Disodium Cocoamphodiacetate, Sodium Lactate, Laureth-7 Citrate, Peat Extract, Camellia Sinensis Leaf Extract, Glycerin, Lactitol, Xylitol, Propylene Glycol, Citric Acid, Tocopherol, Hydrogenated Palm Glycerides Citrate, Lactic Acid, Parfum, Sodium Chloride, Methylpropanediol, Phenoxyethanol, Caprylyl Glycol, Benzoic Acid, Potassium Sorbate, Sodium Benzoate.
+- confidence: medium
+
+PRODUCT: Lactacyd — Lactacyd Pharma łagodzący płyn do higieny intymnej 250 ml
+- official_or_current_source_status: listing_current
+- second_source_status: doz/drmax_search_match
+- current_INCI: Aqua, Lauryl Glucoside, Cocamidopropyl Betaine, Lactic Acid, Propanediol, PEG-200 Hydrogenated Glyceryl Palmate, Aloe Barbadensis Leaf Juice, Globularia Alypum Leaf Extract, PEG-120 Methyl Glucose Dioleate, Sodium Chloride, Coco-Glucoside, Glycerin, PEG-7 Glyceryl Cocoate, Glyceryl Oleate, Sodium Methylparaben, Parfum, Glycol Distearate, Sodium Benzoate, Citric Acid, Potassium Sorbate, Tocopherol, Glycine Soja Oil, Hydrogenated Palm Glycerides Citrate.
+- confidence: medium-high
+
+PRODUCT: Lactacyd — Lactacyd Pharma Prebiotic+ płyn do higieny intymnej 250 ml
+- official_or_current_source_status: weak
+- second_source_status: drmax_search_match
+- current_INCI: INCI not fully captured from opened pages; marketed as prebiotic intimate wash.
+- confidence: low
+
+PRODUCT: Lactacyd — Lactacyd Pharma ultra-nawilżający 40+ 250 ml
+- official_or_current_source_status: weak
+- second_source_status: doz_search_match
+- current_INCI: INCI not fully captured from opened pages; active claims include lactic acid, hyaluronic acid, panthenol.
+- confidence: low
+
+PRODUCT: Aptederm — Aptederm płyn do higieny intymnej 250 ml
+- official_or_current_source_status: listing_current
+- second_source_status: gemini_second_repeat
+- current_INCI: Aqua, Glycerin, Cocamidopropyl Betaine, Coco-Glucoside, Sodium Cocoamphoacetate, Lactic Acid, Quercus Robur Bark Extract, Panthenol, Inulin, Cellulose Gum, Xanthan Gum, Tetrasodium Glutamate Diacetate, Citric Acid, Sodium Benzoate, Potassium Sorbate, Parfum, Hexyl Cinnamal.
+- confidence: high
+
+PRODUCT: Lactovaginal Intima — Lactovaginal Intima płyn ginekologiczny do higieny intymnej 300 ml
+- official_or_current_source_status: listing_snippet
+- second_source_status: gemini_search_snippet + drmax_search_match
+- current_INCI: Aqua, Lauryl Glucoside, Cocamidopropyl Betaine, Glycerin, Lactobacillus Ferment, Sodium Lactate, Lactic Acid, Hydroxyacetophenone, Propanediol, Glyceryl Oleate, Levulinic Acid, Sodium Levulinate, Sodium Anisate, Xanthan Gum, Parfum, Citric Acid.
+- confidence: medium
+
+PRODUCT: Derma Eco — Derma Eco Woman Intimate Wash 150 ml
+- official_or_current_source_status: weak
+- second_source_status: drmax_search_match
+- current_INCI: Full INCI not captured in opened pages.
+- confidence: low
+
+PRODUCT: AA — AA Intymna Advanced Med+ specjalistyczna emulsja do higieny intymnej
+- official_or_current_source_status: weak
+- second_source_status: drmax_search_match
+- current_INCI: Full INCI not captured in opened pages.
+- confidence: low
+
+PRODUCT: HydroVag — HydroVag emulsja do higieny intymnej dla kobiet 40+ 300 ml
+- official_or_current_source_status: weak
+- second_source_status: doz_search_match
+- current_INCI: Full INCI not captured from opened sources; claims include glycerin and lactic acid.
+- confidence: low
+
+PRODUCT: Pink Mama — Pink Mama naturalny płyn do higieny intymnej 250 ml
+- official_or_current_source_status: weak
+- second_source_status: drmax_search_match
+- current_INCI: INCI partly visible in snippet only: Aqua, Aloe ... remainder not verified.
+- confidence: low
+
+PRODUCT: Sylveco — Sylveco łagodny żel do higieny intymnej 150 ml
+- official_or_current_source_status: weak
+- second_source_status: drmax_search_match
+- current_INCI: Full INCI not captured from opened sources.
+- confidence: low
+
+PRODUCT: Iladian — Iladian Pregna żel do higieny intymnej 180 ml
+- official_or_current_source_status: weak
+- second_source_status: drmax_search_match
+- current_INCI: Full INCI not captured from opened sources.
+- confidence: low
+
+PRODUCT: Ziaja — Ziaja Intima Neutral 200/500 ml
+- official_or_current_source_status: weak
+- second_source_status: wapteka_search_match
+- current_INCI: Full current INCI not captured from opened sources.
+- confidence: low
+
+PRODUCT: Ziaja — Ziaja Intima z kwasem laktobionowym 500 ml
+- official_or_current_source_status: weak
+- second_source_status: doz + wapteka_search_match
+- current_INCI: Full current INCI not captured from opened sources.
+- confidence: low
+
+PRODUCT: Ziaja — Ziaja Intima z kwasem hialuronowym 500 ml
+- official_or_current_source_status: weak
+- second_source_status: wapteka_search_match
+- current_INCI: Full current INCI not captured from opened sources.
+- confidence: low
+
+PRODUCT: Ziaja — Ziaja Oliwkowa płyn do higieny intymnej 200/500 ml
+- official_or_current_source_status: weak
+- second_source_status: wapteka_search_match
+- current_INCI: Full current INCI not captured from opened sources.
+- confidence: low
+
+PRODUCT: Ziaja — Ziaja Intima Konwalia 200 ml
+- official_or_current_source_status: weak
+- second_source_status: wapteka_search_match
+- current_INCI: Full current INCI not captured from opened sources.
+- confidence: low
+
+PRODUCT: Ziaja — Ziaja Intima Nagietek lekarski 500 ml
+- official_or_current_source_status: weak
+- second_source_status: gemini_search_match
+- current_INCI: Full current INCI not captured from opened sources.
+- confidence: low
+
+PRODUCT: Ziaja — Ziaja Mamma Mia ginekologiczny płyn do higieny intymnej 300 ml
+- official_or_current_source_status: weak
+- second_source_status: wapteka_search_match
+- current_INCI: Full current INCI not captured from opened sources.
+- confidence: low
+
+PRODUCT: OnlyBio — OnlyBio Everyday prebiotyczny płyn do higieny intymnej 250 ml
+- official_or_current_source_status: listing_current
+- second_source_status: gemini_second_repeat
+- current_INCI: Aqua, Coco-Glucoside, Sodium Cocoyl Glutamate, Sodium Coco-Sulfate, Lactic Acid, Cocamidopropyl Betaine, Glycerin, Levan, Sucrose, Glucose, Glyceryl Oleate, Fructose, Sodium Chloride, Tocopherol, Citric Acid, Potassium Sorbate, Sodium Benzoate, Parfum, Limonene, Linalool.
+- confidence: high
+
+PRODUCT: Facelle — Facelle płyn do higieny intymnej Sensitive
+- official_or_current_source_status: weak
+- second_source_status: rossmann_search_match
+- current_INCI: Full current INCI not captured; retail availability confirmed via Rossmann search snippet.
+- confidence: low
+
+PRODUCT: Biały Jeleń — Biały Jeleń żel do higieny intymnej z macierzanką 500 ml
+- official_or_current_source_status: weak
+- second_source_status: doz_search_match
+- current_INCI: Full current INCI not captured from opened sources.
+- confidence: low
+
+PRODUCT: Green Pharmacy — Green Pharmacy żel do higieny intymnej drzewo herbaciane i nagietek 370 ml
+- official_or_current_source_status: weak
+- second_source_status: doz_search_match
+- current_INCI: Full current INCI not captured from opened sources.
+- confidence: low
+
+PRODUCT: Linea MammaBaby — Linea MammaBaby płyn do higieny intymnej dla dzieci 250 ml
+- official_or_current_source_status: partial
+- second_source_status: gemini_search_snippet
+- current_INCI: Official page text opened but INCI truncation incomplete; search snippet showed beginning: Aqua (Water), Lauryl Glucoside, Cocamidopropyl... full list not confidently captured.
+- confidence: low-medium
+
+PRODUCT: Malizia — Malizia płyn do higieny intymnej kojący Calendula & Fiori di Loto 200 ml
+- official_or_current_source_status: weak
+- second_source_status: gemini_search_match
+- current_INCI: Full current INCI not captured from opened sources.
+- confidence: low
+
+PRODUCT: Api Gold — Api Gold płyn do higieny intymnej 280 ml
+- official_or_current_source_status: partial
+- second_source_status: gemini_search_snippet
+- current_INCI: Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Polysorbate 80, Cocamide DEA, Glycerin, Propylene Glycol, Parfum, Propolis ... (truncated in search snippet; remainder unverified).
+- confidence: low-medium
+
+PRODUCT: Bingospa — Bingospa Jedwab do higieny intymnej 300 ml
+- official_or_current_source_status: partial
+- second_source_status: gemini_search_snippet
+- current_INCI: Aqua, Sodium Laureth Sulfate, Sodium Dodecylbenezesulfonate, Cocamide DEA, Sodium ... (truncated in search snippet; enough to flag high-risk).
+- confidence: medium
+
+PRODUCT: PrOVag — PrOVag żel do okolic intymnych 30 g
+- official_or_current_source_status: weak
+- second_source_status: doz_search_match
+- current_INCI: Not a classic rinse-off wash; not directly comparable.
+- confidence: low
+
+PRODUCT: Trivagin — Trivagin żel do ochrony i pielęgnacji okolic intymnych 30 ml
+- official_or_current_source_status: weak
+- second_source_status: doz_search_match
+- current_INCI: Not a classic rinse-off wash; modality mismatch.
+- confidence: low

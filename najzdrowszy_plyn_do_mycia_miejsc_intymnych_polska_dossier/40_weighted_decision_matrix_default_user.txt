@@ -1,0 +1,30 @@
+TITLE: 40 Weighted Decision Matrix: Default User
+PURPOSE: Apply weighted rubric to healthy asymptomatic adult scenario
+STATUS: complete
+SCOPE: Default scenario scoring logic
+DEPENDENCIES: 01b,20c,30-34
+KEY_QUESTIONS: Which options rank highest by current logic?
+EVIDENCE_TIER: decision synthesis
+SOURCE_IDS_USED: S02,S05,S06,S07,S19-S23
+OPEN_ISSUES: Score is heuristic, not validated model
+LAST_UPDATED: 2026-03-31
+
+
+Weights (default user)
+- Low irritation/allergy burden: 35
+- Absence of fragrance/avoidable sensitizers: 20
+- Formula simplicity/defensibility: 15
+- Evidence-consistent external-use logic: 10
+- Formulation verification confidence: 10
+- Availability in Poland: 5
+- Price / access: 5
+
+Top current options by logic, not marketing:
+1. Water-only external cleansing — strong because exposure burden is minimal.
+2. Bland fragrance-free non-intimate cleanser/syndet — plausible but incompletely market-built.
+3. Derma Eco intimate wash — promising on claim profile, but low verification confidence.
+4. Lactovaginal Intima — medium verification; mild base but parfum and microbiome-claim baggage.
+5. Aptederm — decent surfactant base, but parfum + Hexyl Cinnamal.
+
+Clearly downgraded:
+- Bingospa, Api Gold, Green Pharmacy tea-tree/herbal variants, perfumed/herbal variants, highly fragranced or harsh-surfactant formulas.
