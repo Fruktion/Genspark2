@@ -1,21 +1,76 @@
 TITLE: Scenario-specific product rankings
-PURPOSE: Record provisional winners by user scenario.
-STATUS: EARLY_PROVISIONAL
-SCOPE: Final verdict staging area.
-DEPENDENCIES: 36_head_to_head_product_comparison_matrix.txt
-KEY_QUESTIONS: Which cleanser family is best for which scenario?
-EVIDENCE_TIER: SYNTHESIS_PENDING
-SOURCE_IDS_USED: S01,S02,S03,S04,S08
-OPEN_ISSUES: Needs verified product-level data.
+PURPOSE: Rank currently verifiable shortlist products by real scenario rather than forcing one universal outcome.
+STATUS: UPDATED_WITH_PROVISIONAL_REAL_RANKINGS
+SCOPE: Seven scenario rankings plus caveats.
+DEPENDENCIES: 36b_raw_weighted_score_table.txt, 35c_product_verification_packets.txt
+KEY_QUESTIONS: Which product class performs best for each user scenario under current evidence?
+EVIDENCE_TIER: SYNTHESIS
+SOURCE_IDS_USED: A01-A10, P01-P07, R01-R03
+OPEN_ISSUES: rankings remain provisional because second-source INCI verification is incomplete.
 LAST_UPDATED: 2026-03-31
 
-Current provisional direction, not final:
-- Normal/sensitive: likely fragrance-free gentle syndet/emulsion family candidates
-- Dry/barrier-impaired: likely creamy/emulsion fragrance-free families
-- Atopic/very reactive: likely simplest fragrance-free emulsion/non-foaming families
-- Oily/acne-prone: likely slightly stronger but still reasonable syndet gel families
-- Rosacea-prone: likely ultra-gentle fragrance-free emulsion/lotion families
-- Heavy SPF/light makeup: likely scenario where ultra-gentle single cleanse may lose to somewhat stronger or double-cleansing-compatible options
-- Fragrance allergy suspicion: only fragrance-free shortlist should remain
+1. NORMAL / SENSITIVE SKIN
+Top tier:
+- CLN-001 CeraVe Nawilżająca Emulsja do Mycia
+- CLN-004 Bioderma Sensibio Gel Moussant
+- CLN-003 La Roche-Posay Toleriane Emulsja Oczyszczająca
+Reason:
+- good balance of tolerability and enough cleansing for daily use.
 
-No single universal winner justified yet.
+2. DRY / DEHYDRATED
+Top tier:
+- CLN-001 CeraVe Nawilżająca Emulsja do Mycia
+- CLN-006 BasicLab Emulsja myjąca ultrawrażliwa
+- CLN-003 LRP Toleriane Emulsja Oczyszczająca
+Reason:
+- creamy non-fragranced formulas with low stripping risk.
+
+3. ATOPIC / HIGHLY REACTIVE
+Top tier:
+- CLN-006 BasicLab Emulsja myjąca ultrawrażliwa
+- CLN-001 CeraVe Nawilżająca Emulsja do Mycia
+- CLN-005 Avène Tolérance cleansing balm-gel
+Reason:
+- barrier-first and lower-irritant burden.
+Caveat:
+- patch-test history still matters more than brand reputation.
+
+4. OILY / ACNE-PRONE
+Top tier:
+- CLN-007 BasicLab Normalizujący żel oczyszczający
+- CLN-002 CeraVe Oczyszczający Żel do Mycia
+- CLN-004 Bioderma Sensibio Gel Moussant
+Reason:
+- better cleansing adequacy without moving all the way to clearly harsher acne-gel families.
+
+5. ROSACEA-PRONE
+Top tier:
+- CLN-001 CeraVe Nawilżająca Emulsja do Mycia
+- CLN-005 Avène Tolérance cleansing balm-gel
+- CLN-003 LRP Toleriane Emulsja Oczyszczająca
+Reason:
+- low fragrance burden and gentler format.
+Caveat:
+- coco-betaine in CLN-003 may matter for some users.
+
+6. HEAVY SPF / MAKEUP USERS
+Top tier:
+- CLN-002 CeraVe Oczyszczający Żel do Mycia
+- CLN-007 BasicLab Normalizujący żel oczyszczający
+- CLN-004 Bioderma Sensibio Gel Moussant
+Reason:
+- cleansing adequacy weighs more heavily here.
+Caveat:
+- very mild creamy cleansers may still work best as second cleanse rather than sole cleanse.
+
+7. FRAGRANCE / ESSENTIAL-OIL ALLERGY SUSPECTS
+Top tier:
+- CLN-001 CeraVe Nawilżająca Emulsja do Mycia
+- CLN-006 BasicLab Emulsja myjąca ultrawrażliwa
+- CLN-002 CeraVe Oczyszczający Żel do Mycia
+Reason:
+- clear fragrance-free positioning or no fragrance seen in opened INCI.
+
+GLOBAL NOTE
+- These are not final article rankings.
+- They are current best-fit rankings among the genuinely more verifiable products.

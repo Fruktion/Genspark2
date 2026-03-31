@@ -1,0 +1,38 @@
+TITLE: Regulatory sources register
+PURPOSE: Separate register for regulatory and official claim-governance sources.
+STATUS: UPDATED
+SCOPE: EU cosmetics framework and claim guidance relevant to cleanser marketing.
+DEPENDENCIES: 26_regulatory_and_labeling_context_EU_Poland.txt
+LAST_UPDATED: 2026-03-31
+
+source_id: G01
+citation_or_document_name: Commission Regulation (EU) No 655/2013 laying down common criteria for justification of cosmetic claims
+source_type: EU regulation
+opened_where: EUR-Lex
+access_grade: OFFICIAL_REGULATORY_PAGE_OPENED
+url: https://eur-lex.europa.eu/eli/reg/2013/655/oj/eng
+key_relevance: claims must be supported, truthful, honest, fair, and evidence-based.
+limitations: does not provide product-specific safety ranking.
+
+source_id: G02
+citation_or_document_name: Regulation (EC) No 1223/2009 on cosmetic products
+source_type: EU regulation
+opened_where: EUR-Lex
+access_grade: OFFICIAL_REGULATORY_PAGE_OPENED
+url: https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=celex:32009R1223
+key_relevance: defines cosmetic products, responsible person framework, and market rules.
+limitations: not a clinical ranking document.
+
+source_id: G03
+citation_or_document_name: Technical document on cosmetic claims (European Commission, 2017)
+source_type: official guidance
+opened_where: European Commission DocsRoom
+access_grade: OFFICIAL_REGULATORY_PAGE_OPENED
+url: https://ec.europa.eu/docsroom/documents/24847/attachments/1/translations/en/renditions/native
+key_relevance: “hypoallergenic” and “free from” claims require robust support; known allergens or precursors should be avoided for hypoallergenic claims.
+limitations: guidance document, not legally a clinical efficacy trial.
+
+REGULATORY TAKEAWAYS USED IN DOSSIER
+- “Hypoallergenic” cannot be treated as proof of superiority without evidence.
+- “Fragrance-free” is a concrete compositional fact if verified by INCI, but does not alone prove low irritation for every user.
+- Marketing terms like “soothing,” “gentle,” or “for sensitive skin” are weaker than verified INCI plus barrier-oriented evidence.

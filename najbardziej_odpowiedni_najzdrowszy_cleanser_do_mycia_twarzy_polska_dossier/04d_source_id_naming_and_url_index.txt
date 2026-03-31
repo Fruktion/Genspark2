@@ -1,0 +1,61 @@
+TITLE: Source ID naming and URL index
+PURPOSE: Define strict source ID prefixes and maintain a URL index for dossier traceability.
+STATUS: DRAFT_UPDATED
+SCOPE: Academic, product, retailer, regulatory, and inaccessible sources used in this dossier.
+DEPENDENCIES: 04_source_register.txt
+KEY_QUESTIONS: How are IDs assigned, and where does each source point?
+EVIDENCE_TIER: META
+LAST_UPDATED: 2026-03-31
+
+SOURCE-ID POLICY
+- Axx = academic / guideline / clinical / mechanistic / review sources.
+- Pxx = official brand or official product pages.
+- Rxx = retailer / apteka / drugstore / marketplace product or category pages used only for market existence, size, and price checks.
+- Gxx = official regulatory or government guidance.
+- Xxx = inaccessible, paywalled, broken, or not-opened source metadata entries.
+
+ACCESS-GRADE TAXONOMY
+- FULL_TEXT_OPENED
+- ABSTRACT_ONLY
+- OFFICIAL_PRODUCT_PAGE_OPENED
+- RETAILER_PRODUCT_PAGE_OPENED
+- CATEGORY_PAGE_OPENED
+- SEARCH_SNIPPET_ONLY
+- OFFICIAL_REGULATORY_PAGE_OPENED
+- PAYWALLED_METADATA_ONLY
+- INACCESSIBLE_NOT_OPENED
+
+URL INDEX (PRIMARY OPENED SOURCES)
+A01 https://pmc.ncbi.nlm.nih.gov/articles/PMC8954092/
+A02 https://pmc.ncbi.nlm.nih.gov/articles/PMC3088928/
+A03 https://pmc.ncbi.nlm.nih.gov/articles/PMC3449106/
+A04 https://pmc.ncbi.nlm.nih.gov/articles/PMC3168246/
+A05 https://www.ncbi.nlm.nih.gov/books/NBK573057/
+A06 https://pubmed.ncbi.nlm.nih.gov/34137035/
+A07 https://pubmed.ncbi.nlm.nih.gov/25708973/
+A08 https://pubmed.ncbi.nlm.nih.gov/29256904/
+A09 https://pubmed.ncbi.nlm.nih.gov/29460655/
+A10 https://pubmed.ncbi.nlm.nih.gov/31157512/
+G01 https://eur-lex.europa.eu/eli/reg/2013/655/oj/eng
+G02 https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=celex:32009R1223
+G03 https://ec.europa.eu/docsroom/documents/24847/attachments/1/translations/en/renditions/native
+P01 https://www.cerave.pl/produkty/nawilzajaca-emulsja-do-mycia
+P02 https://www.cerave.pl/produkty/zel-oczyszczajacy
+P03 https://www.laroche-posay.pl/toleriane/toleriane-emulsja-oczyszczajaca
+P04 https://www.bioderma.pl/produkty/sensibio/gel-moussant
+P05 https://www.eau-thermale-avene.pl/p/tolerance-zel-balsam-oczyszczajacy-3282770142280-808759b4
+P06 https://basiclab.shop/pl/products/dermatologiczna-emulsja-myjaca-do-skory-ultrawrazliwej-93
+P07 https://basiclab.shop/pl/products/normalizujacy-zel-oczyszczajacy-do-skory-tlustej-tradzikowej-i-wrazliwej-172
+P08 https://www.cetaphil.pl/my-zajmiemy-sie-skora-ty-zajmij-sie-soba.html
+P09 https://fr.labo-svr.com/products/sensifine-dermo-nettoyant
+R01 https://www.rossmann.pl/kategoria/pielegnacja-i-higiena/twarz/oczyszczanie-i-demakijaz-twarzy/zele-i-pianki-do-mycia-twarzy,13060
+R02 https://www.superpharm.pl/
+R03 https://www.hebe.pl/
+X01 https://onlinelibrary.wiley.com/doi/pdf/10.1111/ics.12721
+X02 https://onlinelibrary.wiley.com/doi/10.1111/bjd.13751
+X03 https://www.liebertpub.com/doi/full/10.1097/DER.0000000000000330
+
+USAGE RULES
+- Every product-level verdict must cite at least one Axx source plus at least one Pxx and one Rxx source when retailer confirmation exists.
+- Search results and snippets can support market existence only; they cannot substantiate INCI chemistry or pH claims by themselves.
+- Unknown pH remains UNKNOWN even if a product is marketed as “low pH” without an opened official source.

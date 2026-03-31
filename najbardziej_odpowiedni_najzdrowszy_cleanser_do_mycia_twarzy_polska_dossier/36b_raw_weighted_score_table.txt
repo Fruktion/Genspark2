@@ -1,0 +1,62 @@
+TITLE: Raw weighted score table
+PURPOSE: Show actual raw scores and scenario-weighted totals for the currently verifiable shortlist.
+STATUS: UPDATED_PROVISIONAL_REAL_SCORING
+SCOPE: 7 currently moderate-confidence shortlisted products.
+DEPENDENCIES: 13_screening_rubric_and_weights.txt, 35c_product_verification_packets.txt
+LAST_UPDATED: 2026-03-31
+
+SCORING SCALE
+0 = worst / unacceptable for domain
+10 = best in domain
+Unknown pH does not automatically zero the score, but limits evidence confidence.
+Unresolved INCI second-source gaps cap market verification and evidence confidence.
+
+WEIGHT SETS
+BASELINE: barrier 35, allergen 20, cleansing 20, evidence 10, market 10, price 5
+DRY_REACTIVE: barrier 45, allergen 25, cleansing 10, evidence 10, market 5, price 5
+OILY_ACNE: barrier 25, allergen 15, cleansing 30, evidence 10, market 10, price 10
+
+RAW SCORE TABLE
+Product_ID | Product | Barrier | Allergen | Cleansing | Evidence | Market | Price | Baseline_total | Dry_reactive_total | Oily_acne_total
+CLN-001 | CeraVe Nawilżająca Emulsja do Mycia | 9.2 | 9.0 | 5.2 | 6.3 | 7.0 | 5.0 | 7.77 | 8.08 | 6.96
+CLN-002 | CeraVe Oczyszczający Żel do Mycia | 7.7 | 7.5 | 8.4 | 6.2 | 7.0 | 5.0 | 7.36 | 7.10 | 7.34
+CLN-003 | La Roche-Posay Toleriane Emulsja Oczyszczająca | 9.0 | 7.2 | 5.7 | 6.5 | 7.2 | 4.5 | 7.46 | 7.88 | 6.62
+CLN-004 | Bioderma Sensibio Gel Moussant | 8.0 | 7.8 | 7.2 | 6.0 | 6.8 | 4.5 | 7.23 | 7.37 | 6.91
+CLN-005 | Avène Tolérance Żel balsam oczyszczający | 8.8 | 8.4 | 5.6 | 5.8 | 6.0 | 4.5 | 7.33 | 7.81 | 6.45
+CLN-006 | BasicLab Emulsja myjąca ultrawrażliwa | 9.1 | 8.3 | 5.4 | 5.9 | 6.0 | 8.0 | 7.57 | 7.99 | 6.87
+CLN-007 | BasicLab Normalizujący żel oczyszczający | 7.4 | 7.0 | 8.0 | 5.8 | 6.0 | 8.5 | 7.23 | 6.90 | 7.40
+
+RANKS BY WEIGHT SET
+BASELINE RANK
+1. CLN-001 CeraVe Nawilżająca Emulsja do Mycia
+2. CLN-006 BasicLab Emulsja myjąca ultrawrażliwa
+3. CLN-003 La Roche-Posay Toleriane Emulsja Oczyszczająca
+4. CLN-002 CeraVe Oczyszczający Żel do Mycia
+5. CLN-005 Avène Tolérance Żel balsam oczyszczający
+6. CLN-004 Bioderma Sensibio Gel Moussant
+7. CLN-007 BasicLab Normalizujący żel oczyszczający
+
+DRY/REACTIVE RANK
+1. CLN-001
+2. CLN-006
+3. CLN-003
+4. CLN-005
+5. CLN-004
+6. CLN-002
+7. CLN-007
+
+OILY/ACNE RANK
+1. CLN-007
+2. CLN-002
+3. CLN-001
+4. CLN-004
+5. CLN-006
+6. CLN-003
+7. CLN-005
+
+SCORING NOTES
+- CLN-001 scores highest overall because of strong barrier logic and fragrance-free official verification, but loses points on cleansing adequacy for heavy SPF/makeup.
+- CLN-007 wins oily/acne weighting because it combines fragrance-free status, stronger cleansing, and better observed Polish DTC price than most dermocosmetic rivals.
+- CLN-003 is penalized on allergen-risk domain because of coco-betaine despite strong barrier-oriented positioning.
+- CLN-005 is held back mainly by weaker market verification depth and uncertain cleansing adequacy, not by a clearly poor formula.
+- No product achieved article-grade certainty because second-source INCI verification remains incomplete for all scored products.

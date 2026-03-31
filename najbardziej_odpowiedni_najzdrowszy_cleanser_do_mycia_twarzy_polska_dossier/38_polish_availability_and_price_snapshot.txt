@@ -1,19 +1,34 @@
 TITLE: Polish availability and price snapshot
-PURPOSE: Capture market availability and rough price/access comparisons.
-STATUS: SKELETON_ONLY
+PURPOSE: Capture availability and rough price/access comparisons with honesty about what is directly opened.
+STATUS: UPDATED_PARTIAL_VERIFICATION
 SCOPE: Poland retail landscape for shortlisted products.
-DEPENDENCIES: 15_market_sampling_frame_and_retail_channels.txt
-KEY_QUESTIONS: Which products are broadly accessible and at what approximate cost?
+DEPENDENCIES: 15_market_sampling_frame_and_retail_channels.txt, 38b_price_snapshot_method_and_raw_quotes.txt
+KEY_QUESTIONS: Which products appear broadly accessible and what direct price data actually exist?
 EVIDENCE_TIER: MARKET
-SOURCE_IDS_USED: M01,M02,M03
-OPEN_ISSUES: Need product-level snapshots from >=2 channels each.
+SOURCE_IDS_USED: P01-P09, R01-R03
+OPEN_ISSUES: direct retailer/apteka product pages still insufficient for article-grade access ranking.
 LAST_UPDATED: 2026-03-31
 
-Preliminary availability signal:
-- CeraVe family: widely visible in Hebe, Super-Pharm, likely pharmacies.
-- La Roche-Posay family: widely visible in Super-Pharm and dermocosmetic channels.
-- BasicLab family: visible in Hebe according to search snippets.
-- Pharmaceris family: visible in Super-Pharm according to search snippets.
+HIGH-CONFIDENCE ACCESS SIGNALS
+- CeraVe family: official Polish pages opened; visible in Polish drugstore/pharmacy search results.
+- La Roche-Posay family: official Polish page opened; visible in Super-Pharm / dermocosmetic channels by snippet.
+- Bioderma family: official Polish page opened; Poland-market visibility strong.
+- Avène family: official Polish page opened; Poland-market visibility present.
+- BasicLab family: official Polish DTC availability strongest because sizes and prices were directly visible.
 
-Warning:
-Current price comparison is not mature enough for ranking.
+DIRECT PRICE DATA AVAILABLE NOW
+- BasicLab ultrawrażliwa emulsja: 89,90 zł / 300 ml.
+- BasicLab normalizujący żel: 59,90 zł / 300 ml.
+
+DIRECT PRICE DATA NOT HONESTLY OPENED YET
+- CeraVe Hydrating Cleanser
+- CeraVe Foaming Cleanser
+- LRP Toleriane Emulsja
+- Bioderma Sensibio Gel Moussant
+- Avène Tolérance cleansing balm-gel
+- Cetaphil Gentle Skin Cleanser
+- SVR Sensifine Dermo-Nettoyant
+
+ACCESS INTERPRETATION
+- Market access is clearly best-in-class for big dermocosmetic brands, but price comparisons remain incomplete.
+- BasicLab currently gets the fairest price/access scoring only because direct official price capture succeeded, not because it is automatically cheaper in every channel.

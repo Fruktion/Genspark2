@@ -1,0 +1,23 @@
+TITLE: Excluded products and exclusion reasons
+PURPOSE: Record products considered but excluded from the target universe or from shortlist scoring.
+STATUS: UPDATED
+SCOPE: Boundary products, leave-on products, duplicate families, and unverifiable cases.
+DEPENDENCIES: 11_market_definition_and_boundary_conditions.txt, 12b_verified_longlist_table.txt
+LAST_UPDATED: 2026-03-31
+
+EXCLUSION LOG
+- EX-001 Micellar waters (all brands) — excluded because they are primarily leave-on / wipe-off products, not the target wash-off cleanser universe.
+- EX-002 Toners, essences, serums, masks — excluded by scope.
+- EX-003 Prescription acne washes / benzoyl peroxide drug products — outside cosmetic cleanser focus unless used only as background scenario context.
+- EX-004 Body-only cleansing gels — excluded unless face use is explicit on current Polish pack or official page.
+- EX-005 Bioderma Atoderm Huile de douche — retained only as a boundary case, not ranked in main face-cleanser shortlist because face-use traceability is incomplete in current build.
+- EX-006 Uriage Xémose cleansing oil — same boundary issue as EX-005.
+- EX-007 Mustela infant body/face crossover cleansers — not prioritized because adult Polish face-use verification is weaker than core shortlist candidates.
+- EX-008 Cetaphil website family page without current product-specific INCI — not excluded from discussion, but excluded from no-regret shortlist pending exact current Polish formula verification.
+- EX-009 SVR Sensifine Dermo-Nettoyant with only French official page opened — excluded from no-regret shortlist pending current Polish official or retailer verification.
+- EX-010 Products with “low pH” marketing but no explicit pH source opened — pH claim excluded even if product remains on market map.
+- EX-011 Korean marketplace-only low-pH cleansers lacking stable Poland distribution trace — excluded from primary ranking due to weak market verification.
+- EX-012 Duplicate family entries where only one clearly mapped SKU had better traceability — family duplicates collapsed to single SKU where possible.
+
+RULE
+- Exclusion from shortlist does not mean the product is poor; it means dossier evidence is insufficient or the product is out of scope.

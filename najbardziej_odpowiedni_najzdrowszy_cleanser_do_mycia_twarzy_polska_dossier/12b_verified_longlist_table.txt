@@ -1,0 +1,59 @@
+TITLE: Verified longlist table
+PURPOSE: Hold product-level verification records for Polish-market wash-off facial cleansers.
+STATUS: PARTIAL_BUILD_VERIFIED_CORE_SET_PLUS_EXPANDED_MARKET_SET
+SCOPE: >=30 distinct facial wash-off cleanser SKUs sold in Poland, including pharmacies and drugstores.
+DEPENDENCIES: 11_market_definition_and_boundary_conditions.txt, 14_product_data_capture_protocol.txt, 38_polish_availability_and_price_snapshot.txt
+KEY_QUESTIONS: Which products are truly on the Polish market, and how well are they verified?
+EVIDENCE_TIER: PRODUCT_LEVEL_MARKET
+LAST_UPDATED: 2026-03-31
+
+VERIFICATION LEGEND
+- V3 = strong verification: official page opened + at least one retailer/apteka signal.
+- V2 = moderate verification: official page opened OR two retailer signals.
+- V1 = weak verification: search snippet only / family-level visibility.
+- UNKNOWN = field not verified honestly.
+
+CORE VERIFIED ENTRIES (high-detail)
+Product_ID | Brand | Full_name | Type | Face_use_confirmed | Poland_market_sources | Official_page | Size_ml | Price | Price/100ml | Full_INCI_status | pH | Fragrance | Surfactant_system | Key_flags | Verification_level
+CLN-001 | CeraVe | Nawilżająca Emulsja do Mycia | emulsion cleanser | YES | P01 + R02 snippet + R03 category signal | YES | 236 | UNKNOWN | UNKNOWN | FULL official INCI opened | UNKNOWN | NO added fragrance stated | non-foaming emulsion; sodium lauroyl lactylate as cleansing-support surfactant in lipid-rich base | cleanser mildness likely high, heavy makeup removal may be limited | V3
+CLN-002 | CeraVe | Oczyszczający Żel do Mycia | gel cleanser | YES | P02 + R02 snippet + R03 category signal | YES | UNKNOWN | UNKNOWN | UNKNOWN | FULL official INCI opened | UNKNOWN | NO added fragrance stated | cocamidopropyl hydroxysultaine + sodium lauroyl sarcosinate + sodium methyl cocoyl taurate | CAPB-adjacent amphoteric family absent; stronger cleansing than emulsion | V3
+CLN-003 | La Roche-Posay | Toleriane Łagodna Emulsja Oczyszczająca | emulsion cleanser | YES | P03 + R02 snippet + Google official snippet | YES | 400 | UNKNOWN | UNKNOWN | FULL official INCI opened | UNKNOWN | fragrance not seen in opened INCI | coco-betaine in emulsion base, low-foam | coco-betaine allergy suspicion possible in sensitive subgroup | V3
+CLN-004 | Bioderma | Sensibio Gel Moussant | gel cleanser | YES | P04 + Google official snippet + R02 family signal | YES | UNKNOWN | UNKNOWN | UNKNOWN | FULL official INCI opened | UNKNOWN | fragrance not present in opened official INCI list | sodium cocoamphoacetate + sodium lauroyl sarcosinate + coco-glucoside | gentle gel but not ultra-minimal; makeup/SPF removal moderate | V3
+CLN-005 | Avène | Tolérance Żel balsam oczyszczający | balm-gel cleanser | YES | P05 + Google official snippet | YES | UNKNOWN | UNKNOWN | UNKNOWN | FULL official INCI opened | UNKNOWN | no perfume seen in opened INCI | coco-glucoside + sodium cetearyl sulfate within cream-gel system | sodium cetearyl sulfate is not automatically harsh but worth noting | V2
+CLN-006 | BasicLab | Dermatologiczna emulsja myjąca do skóry ultrawrażliwej | emulsion cleanser | YES | P06 + Google official snippet | YES | 300 | 89,90 zł | 29,97 zł | FULL official INCI opened | UNKNOWN | declared fragrance-free | caprylyl/capryl glucoside + sucrose stearate in emulsion system | mildness likely high; large-size Polish DTC availability confirmed | V2
+CLN-007 | BasicLab | Normalizujący żel oczyszczający do skóry tłustej, trądzikowej i wrażliwej | gel cleanser | YES | P07 + Google official snippet | YES | 300 | 59,90 zł | 19,97 zł | FULL official INCI opened | UNKNOWN | declared fragrance-free | lauryl glucoside + sodium cocoamphoacetate | glucoside family may irritate some allergy-prone users; cleansing stronger than creamy emulsions | V2
+CLN-008 | Cetaphil | Gentle Skin Cleanser / Łagodny środek do oczyszczania skóry | lotion cleanser | YES | P08 brand family page + official snippet + A04 historical product study | FAMILY ONLY | UNKNOWN | UNKNOWN | UNKNOWN | product-specific current official INCI NOT opened | UNKNOWN | marketed as gentle; current Polish product page unresolved | likely lipid-free/lotion cleanser family; current exact Polish formula unresolved | CURRENT PRODUCT TRACEABILITY GAP | V1
+CLN-009 | SVR | Sensifine Dermo-Nettoyant | cleanser lotion | YES | P09 French official page + Polish search absence + pharmacy-family visibility pending | NON-POLISH official only | UNKNOWN | UNKNOWN | UNKNOWN | current Polish-market official page not opened | UNKNOWN | likely fragrance-free family but not verified for PL page | non-foaming lotion family | traceability gap for current Polish page | V1
+
+EXPANDED MARKET SET (market-presence verified or semi-verified; chemistry pending)
+CLN-010 | Bioderma | Atoderm Intensive Gel Moussant | gel cleanser | face-capable family likely | official family known + Polish market snippets | NO | UNKNOWN | UNKNOWN | UNKNOWN | pending | UNKNOWN | UNKNOWN | amphoteric/anionic gel family likely | boundary with body-face overlap | V1
+CLN-011 | Bioderma | Sébium Gel Moussant | gel cleanser | YES | official snippet | NO | UNKNOWN | UNKNOWN | UNKNOWN | pending | UNKNOWN | likely fragranced or actives family, not assumed | acne-oriented gel family | not yet verified | V1
+CLN-012 | Avène | Cleanance Gel | gel cleanser | YES | Polish official family known | NO | UNKNOWN | UNKNOWN | UNKNOWN | pending | UNKNOWN | UNKNOWN | acne-oriented foaming gel family | likely stronger cleansing | V1
+CLN-013 | Avène | XeraCalm A.D lipid-replenishing cleansing oil | cleansing oil | face/body boundary | Polish family signals | NO | UNKNOWN | UNKNOWN | UNKNOWN | pending | UNKNOWN | UNKNOWN | oil cleanser | boundary product for face use | V1
+CLN-014 | Eucerin | DermatoCLEAN [Hyaluron] Cleansing Gel | gel cleanser | YES | Polish market snippets | NO | UNKNOWN | UNKNOWN | UNKNOWN | pending | UNKNOWN | UNKNOWN | gel family | traceability incomplete | V1
+CLN-015 | Eucerin | pH5 Soft Cleansing Gel | gel cleanser | body-face boundary | Polish market family signals | NO | UNKNOWN | UNKNOWN | UNKNOWN | pending | UNKNOWN | UNKNOWN | syndet gel family | face-use boundary | V1
+CLN-016 | Pharmaceris | A Puri-Sensilium Soothing Micellar Foam / face wash family | foam cleanser | YES | Polish market family signals | NO | UNKNOWN | UNKNOWN | UNKNOWN | pending | UNKNOWN | UNKNOWN | foam | foam format may cleanse lightly | V1
+CLN-017 | Pharmaceris | T Puri-Sebogel / Sebo-Gel | gel cleanser | YES | Polish market family signals | NO | UNKNOWN | UNKNOWN | UNKNOWN | pending | UNKNOWN | UNKNOWN | acne gel family | likely stronger cleansing | V1
+CLN-018 | Mixa | Anti-Redness / Anti-Reaction emulsja do mycia twarzy | emulsion cleanser | YES | Rossmann search signal | NO | UNKNOWN | UNKNOWN | UNKNOWN | pending | UNKNOWN | UNKNOWN | emulsion family | retailer-only signal so far | V1
+CLN-019 | CeraVe | SA Wygładzający Żel / cleanser family | gel cleanser | face-use boundary | Polish market family signals | NO | UNKNOWN | UNKNOWN | UNKNOWN | pending | UNKNOWN | UNKNOWN | salicylic-acid gel family | exfoliant boundary for very sensitive users | V1
+CLN-020 | La Roche-Posay | Effaclar Gel Oczyszczający | gel cleanser | YES | Super-Pharm snippet + official family presence | NO | UNKNOWN | UNKNOWN | UNKNOWN | pending | UNKNOWN | UNKNOWN | foaming acne gel family | may outperform for oil control but weaker on tolerability | V1
+CLN-021 | La Roche-Posay | Toleriane Caring Wash / caring wash family | emulsion/cream | YES | official product family likely same as CLN-003 in 400 ml pack | PARTIAL | 400 | UNKNOWN | UNKNOWN | partial | UNKNOWN | likely fragrance-free | emulsion | possible duplication risk vs CLN-003 | V1
+CLN-022 | Uriage | Xémose Soothing Cleansing Oil | cleansing oil | face/body boundary | Polish family signals | NO | UNKNOWN | UNKNOWN | UNKNOWN | pending | UNKNOWN | UNKNOWN | oil cleanser | boundary product | V1
+CLN-023 | Uriage | Eau Thermale Cleansing Cream / Gelée family | cleanser cream/gel | face-use pending | market snippets | NO | UNKNOWN | UNKNOWN | UNKNOWN | pending | UNKNOWN | UNKNOWN | unknown | traceability incomplete | V1
+CLN-024 | A-Derma | Biology / Exomega cleansing gel family | gel cleanser | face/body boundary | Polish family signals | NO | UNKNOWN | UNKNOWN | UNKNOWN | pending | UNKNOWN | UNKNOWN | gel family | AD-oriented but not fully verified | V1
+CLN-025 | Emolium | Dermocare / A-Topic cleansing emulsion family | emulsion cleanser | likely yes | Polish pharmacy-family presence | NO | UNKNOWN | UNKNOWN | UNKNOWN | pending | UNKNOWN | UNKNOWN | emulsion | full INCI verification pending | V1
+CLN-026 | BasicLab | Kojący żel oczyszczający do skóry naczynkowej i wrażliwej | gel cleanser | YES | Google official snippet | NO | UNKNOWN | UNKNOWN | UNKNOWN | snippet-level only | UNKNOWN | likely fragrance-free | lauryl glucoside + sodium cocoamphoacetate per snippet | glucoside caution in allergy subgroup | V1
+CLN-027 | BasicLab | Nawilżająca pianka myjąca do skóry suchej i wrażliwej | foam cleanser | YES | Google official snippet | NO | UNKNOWN | UNKNOWN | UNKNOWN | pending | UNKNOWN | likely fragrance-free | foam family | lower verification depth | V1
+CLN-028 | Vichy | Pureté Thermale Fresh Cleansing Gel | gel cleanser | YES | Polish market snippets | NO | UNKNOWN | UNKNOWN | UNKNOWN | pending | UNKNOWN | UNKNOWN | gel family | verification incomplete | V1
+CLN-029 | Vichy | Normaderm Phytosolution Cleansing Gel | gel cleanser | YES | Polish market snippets | NO | UNKNOWN | UNKNOWN | UNKNOWN | pending | UNKNOWN | UNKNOWN | acne gel family | stronger cleansing bias likely | V1
+CLN-030 | Ducray | Keracnyl Gel Moussant | gel cleanser | YES | Polish market snippets | NO | UNKNOWN | UNKNOWN | UNKNOWN | pending | UNKNOWN | UNKNOWN | acne gel family | verification incomplete | V1
+CLN-031 | Tołpa | dermo face physio / sebio / rosacal cleanser families | mixed | YES family-level | Rossmann/Hebe presence families | NO | UNKNOWN | UNKNOWN | UNKNOWN | pending | UNKNOWN | UNKNOWN | varied | needs SKU separation | V1
+CLN-032 | Say Hi | Smoothie Skin emulsja do mycia twarzy | emulsion cleanser | YES | Rossmann search signal | NO | UNKNOWN | UNKNOWN | UNKNOWN | pending | UNKNOWN | unknown | emulsion | low evidence depth | V1
+CLN-033 | Mustela | Stelatopia cleansing gel family | face/body boundary | boundary | market signals | NO | UNKNOWN | UNKNOWN | UNKNOWN | pending | UNKNOWN | UNKNOWN | gel | infant/body crossover | V1
+CLN-034 | Aveeno | Calm+Restore Nourishing Oat Cleanser | cleanser gel/cream | Polish availability uncertain | uncertain signals | NO | UNKNOWN | UNKNOWN | UNKNOWN | pending | UNKNOWN | UNKNOWN | oat cleanser family | not enough Polish verification | V1
+CLN-035 | Ziaja Med | dermatological facial wash family | mixed | family-level only | Polish mass-market family presence | NO | UNKNOWN | UNKNOWN | UNKNOWN | pending | UNKNOWN | UNKNOWN | varied | not enough product-level verification | V1
+
+INTERPRETATION RULE
+- Only CLN-001 to CLN-007 are currently strong enough for raw scoring with moderate confidence.
+- CLN-008 and CLN-009 remain shortlist candidates because of brand relevance and historical evidence, but current product verification is incomplete.
+- CLN-010 onward populate the market map but are not article-grade verified yet.

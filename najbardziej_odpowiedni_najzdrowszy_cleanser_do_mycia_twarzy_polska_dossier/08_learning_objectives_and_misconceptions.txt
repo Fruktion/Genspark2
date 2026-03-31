@@ -1,23 +1,37 @@
 TITLE: Learning objectives and misconceptions
-PURPOSE: Teach what matters and preempt pseudoscientific shortcuts.
-STATUS: DRAFT_IN_PROGRESS
-SCOPE: Consumer understanding of cleansers.
-DEPENDENCIES: 07_glossary_and_prerequisites.txt
-KEY_QUESTIONS: What should the reader learn, and what myths should be unlearned?
-EVIDENCE_TIER: LEARNING
-SOURCE_IDS_USED: S01,S02,S03,S04,S07
-OPEN_ISSUES: Needs a dedicated “how to read INCI” expansion.
+PURPOSE: Clarify what the dossier should teach and what myths it must actively correct.
+STATUS: UPDATED
+SCOPE: Consumer and analyst understanding of facial cleansers for the Polish market.
+DEPENDENCIES: 07_glossary_and_prerequisites.txt, 08b_how_to_read_INCI_without_pseudoscience.txt
 LAST_UPDATED: 2026-03-31
 
-Learning objectives:
-- Understand why cleanser choice is a multi-objective optimization problem.
-- Understand why pH matters but is not the whole story.
-- Recognize why fragrance-free often matters more than “natural”.
-- Recognize why product verification outranks brand reputation.
+LEARNING OBJECTIVES
+- Understand why “healthiest cleanser” is scenario-dependent.
+- Understand why barrier/tolerability and cleansing adequacy must both be scored.
+- Understand how to read INCI without hero-ingredient bias.
+- Understand why fragrance-free helps but does not solve every problem.
+- Understand why explicit product verification matters more than reputation alone.
+- Understand why users on retinoids, benzoyl peroxide, or isotretinoin often need a gentler cleanser than they expect.
 
-Misconceptions:
-- “Low pH means automatically best.” False.
-- “Apteka product means clinically superior.” False.
-- “No preservatives means healthier.” False simplification.
-- “Foaming always means harsh.” Overstated.
-- “Natural extracts are always safer.” False.
+MISCONCEPTIONS TO CORRECT
+- “Low pH automatically means mild.” Wrong; surfactant system matters (A06, A01).
+- “If a product says hypoallergenic, it must be safest.” Wrong; claim-governance and proof burden matter (G01, G03).
+- “Ceramides in a cleanser guarantee barrier repair.” Overstated; rinse-off benefit is limited and mostly indirect.
+- “The gentlest cleanser is best for everyone.” Wrong; heavy SPF/makeup and oily/acne-prone users may need more cleansing adequacy.
+- “Preservative-free is automatically safer.” Wrong; specific allergens matter more than preservative panic.
+- “Natural essential oils are gentle.” Often false for reactive/allergy-suspect users.
+
+RETINOID / BPO / ISOTRETINOIN MINI-SECTION
+- During retinoid or benzoyl peroxide use, skin often behaves like a reactive-barrier-impaired scenario even if baseline skin is oily.
+- Isotretinoin users often need to temporarily up-rank creamy fragrance-free emulsions/lotion cleansers.
+- If stinging or burning appears, first suspect cleanser harshness, frequency, rubbing technique, or over-cleansing rather than assuming the active medication alone is at fault.
+
+TROUBLESHOOTING MINI-SECTION
+If cleanser causes stinging:
+- check fragrance / essential oils / harsh actives / personal allergen history
+- reduce rubbing and water temperature
+- test a simpler creamy cleanser
+If skin feels tight after washing:
+- likely cleansing is too aggressive for the current barrier state
+If sunscreen still feels present after washing:
+- upgrade cleansing adequacy or use double cleansing instead of assuming the cleanser is “bad”.

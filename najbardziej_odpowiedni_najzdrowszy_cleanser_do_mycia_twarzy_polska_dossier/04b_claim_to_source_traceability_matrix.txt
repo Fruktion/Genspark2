@@ -1,40 +1,28 @@
 TITLE: Claim-to-source traceability matrix
-PURPOSE: Map major claims to evidence or inference status.
-STATUS: DRAFT_IN_PROGRESS
-SCOPE: High-level principles and provisional product-selection logic.
-DEPENDENCIES: 04_source_register.txt
-KEY_QUESTIONS: Which claims are strong, weak, or inference-only?
+PURPOSE: Map major dossier claims to the exact sources and honesty level supporting them.
+STATUS: UPDATED_WITH_STRICTER_TRACEABILITY
+SCOPE: Mechanistic, clinical, product-level, market-level, and red-team claims.
+DEPENDENCIES: 04_source_register.txt, 35c_product_verification_packets.txt
+KEY_QUESTIONS: Which claim is supported by what source, and how strong is the support?
 EVIDENCE_TIER: TRACEABILITY
-SOURCE_IDS_USED: S01,S02,S03,S04,S05,S06,S07,S08
-OPEN_ISSUES: Product-specific claims still under construction.
 LAST_UPDATED: 2026-03-31
 
-Claim C01: Soap/alkaline cleanser systems are generally harsher to barrier function than well-formulated syndets.
-Support: S01, S02, S03, S04
-Strength: MODERATE_TO_HIGH
-Notes: General principle, not universal for every formula.
+Claim_ID | Claim | Scientific_trace | Market_trace | Support_strength | Honesty_note
+C01 | Traditional soap is usually more disruptive to the skin barrier than well-formulated syndets. | A01, A02, A03 | none needed | STRONG | review-level, not product-specific.
+C02 | Low pH alone does not prove that a cleanser is mild. | A06 + A01 | none needed | MODERATE | A06 is abstract-only; use as corrective, not sole basis.
+C03 | For AD/reactive skin, mild non-soap cleansers around pH 5.5-6.0 are preferred over harsh soaps. | A03, A02 | none needed | STRONG-MODERATE | pH guidance is condition-level, not proof for any specific product unless pH is explicitly verified.
+C04 | For acne, syndet cleansing can be reasonable, but the evidence base is limited and often low quality. | A05, A09 | none needed | MODERATE | acne cleanser superiority claims should remain cautious.
+C05 | For rosacea-prone skin, gentle lipid-free or syndet cleansers with low irritant burden are favored. | A04, A02 | none needed | STRONG-MODERATE | product head-to-head trials are small and limited.
+C06 | Fragrance is a relevant avoidable risk for reactive or allergy-suspect users. | A04, A08, A03 | P01-P07 where fragrance-free or no fragrance in INCI is visible | MODERATE | cleanser-allergy prevalence source is abstract-only.
+C07 | MI in rinse-off products can matter clinically for MI-allergic users. | A07 | product INCI checks if MI present | MODERATE | abstract-only but strong red-team signal.
+C08 | Very mild cleansers may be suboptimal as one-step removal for heavy SPF/makeup. | A10 + A05 committee comments | P01/P03/P06 product-function interpretation | MODERATE-LOW | this is a caution, not a quantitative ranking proof.
+C09 | CeraVe Hydrating Cleanser is a strongly verified Polish-market barrier-first candidate. | A01-A04 mechanisms for mildness; no direct trial of this product | P01 + R02 + R03 | MODERATE | strong market trace, indirect scientific trace.
+C10 | CeraVe Foaming Cleanser is a stronger cleansing but still fragrance-free compromise candidate. | A01-A02 surfactant logic | P02 + R02 + R03 | MODERATE | no direct product trial opened.
+C11 | LRP Toleriane Emulsja Oczyszczająca is an excellent reactive-skin candidate but has coco-betaine subgroup caution. | A03, A04, A08 | P03 + R02 | MODERATE | ingredient-level extrapolation rather than direct intolerance proof.
+C12 | Bioderma Sensibio Gel Moussant is a balanced mild gel candidate with lower allergen burden than fragranced options. | A01, A04 | P04 + market snippets | MODERATE | second-source INCI still missing.
+C13 | BasicLab ultrawrażliwa emulsja is one of the most barrier-first Polish DTC options currently verified. | A01-A04 mechanism base | P06 | MODERATE | official-only INCI verification so far.
+C14 | No universal winner is justified yet. | A05, A10, A06 + cross-product verification limits | P01-P09, R01-R03, 45b unresolved cases | STRONG | driven by evidence limitations and scenario dependence, not indecision.
 
-Claim C02: Cleanser pH matters, but pH alone does not guarantee mildness; surfactant system remains critical.
-Support: S01, S02, S07
-Strength: MODERATE
-Notes: S07 only abstract-opened, so not sole decisive pillar.
-
-Claim C03: Fragrance, certain preservative systems, and some surfactants are important contact-allergy signals in cleansers.
-Support: S05, S06, S02, S04
-Strength: MODERATE
-Notes: Product-level risk depends on actual formula and user history.
-
-Claim C04: AD and rosacea literature generally favors mild, soap-free, often fragrance-free cleansers.
-Support: S02, S03, S04
-Strength: HIGH_FOR_GENERAL_GUIDANCE
-Notes: Still not enough to name a specific Polish product without market verification.
-
-Claim C05: Acne literature supports gentle cleansing but product-specific superiority claims are weak/inconsistent.
-Support: S02, S08
-Strength: MODERATE
-Notes: Evidence base thinner than consumer marketing implies.
-
-Claim C06: Very mild cleansers may be less adequate alone for heavy SPF/makeup removal.
-Support: INFERENCE + pending red-team evidence
-Strength: LOW_CURRENT
-Notes: Needs stronger direct evidence.
+RULE
+- Product verdicts in this dossier are mostly mechanistic + market-trace syntheses, not direct product RCT verdicts.
+- The matrix intentionally distinguishes direct clinical evidence from formula-based extrapolation.

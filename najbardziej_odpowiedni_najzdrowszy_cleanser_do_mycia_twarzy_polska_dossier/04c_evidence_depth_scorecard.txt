@@ -1,31 +1,22 @@
 TITLE: Evidence depth scorecard
-PURPOSE: Rate dossier readiness dimensions honestly.
-STATUS: DRAFT_IN_PROGRESS
-SCOPE: Meta-evaluation of evidence depth.
-DEPENDENCIES: 04_source_register.txt, 04b_claim_to_source_traceability_matrix.txt
-KEY_QUESTIONS: How ready is the dossier really?
-EVIDENCE_TIER: META
-SOURCE_IDS_USED: S01,S02,S03,S04,S05,S06,S07,S08
-OPEN_ISSUES: Product verification remains the main bottleneck.
+PURPOSE: Rate current dossier maturity after the repair round.
+STATUS: UPDATED
+SCOPE: Structural, traceability, product, market, primary evidence, and article-readiness depth.
+DEPENDENCIES: 04_source_register.txt, 12b_verified_longlist_table.txt, 36b_raw_weighted_score_table.txt, 45_market_verification_readiness_flags.txt
 LAST_UPDATED: 2026-03-31
 
-STRUCTURE_READY: PARTIAL
-Justification: Core file framework exists but many required topic files still need filling.
+DIMENSION | STATUS | EXPLANATION
+STRUCTURE | STRONG | Dossier architecture complete; missing pieces now are content depth rather than file structure.
+TRACEABILITY | MODERATE | Source ID policy repaired; claim tracing and packet entries added.
+PRIMARY_EVIDENCE | MODERATE | 5 academic full texts/guideline full texts opened; several key allergy/pH studies still abstract-only.
+EVIDENCE_DEPTH | MODERATE | scenario and red-team reasoning materially improved, but direct product clinical evidence remains limited.
+MARKET_VERIFICATION | MODERATE-LOW | official pages opened for 7 scored products; retailer/apteka confirmation thinner than target.
+PRODUCT_DATA | MODERATE-LOW | full INCI opened for 7 products; second-source INCI verification still incomplete.
+RED_TEAM | MODERATE | under-cleansing, allergy, reformulation, and claim-governance challenges added.
+SCORING_EXECUTION | MODERATE | real raw scores and sensitivity weights now present; still bounded by verification gaps.
+ARTICLE_READY | NO | not enough second-source formula verification or pH certainty for article-grade recommendations.
 
-TRACEABILITY_READY: PARTIAL
-Justification: General claims mapped; product-level traceability not yet complete.
-
-RED_TEAM_READY: PARTIAL
-Justification: Some contradiction handling identified, but not yet fully executed.
-
-PRIMARY_EVIDENCE_READY: PARTIAL_LOW
-Justification: Several decisive pillars still rely on full-text reviews plus abstract-only primary studies rather than fully opened primary trials.
-
-MARKET_VERIFICATION_READY: LOW
-Justification: Poland-market product pages and INCI cross-checks are not yet complete.
-
-PRODUCT_DATA_READY: LOW
-Justification: No fully populated 25-50 product longlist yet.
-
-ARTICLE_READY: NO
-Justification: Market/product verification not sufficient.
+BOTTOM LINE
+- The dossier is no longer just a scaffold.
+- It is now a partial evidence dossier with a real verified core shortlist.
+- It remains unsuitable for a confident final article naming one universal winner.

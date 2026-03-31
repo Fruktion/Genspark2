@@ -1,0 +1,36 @@
+TITLE: No-regret shortlist
+PURPOSE: Identify the safest provisional shortlist for readers who want low-regret options across multiple weighting schemes.
+STATUS: UPDATED_PROVISIONAL
+SCOPE: Only currently verified products with relatively low red-flag burden.
+DEPENDENCIES: 36b_raw_weighted_score_table.txt, 45_market_verification_readiness_flags.txt
+LAST_UPDATED: 2026-03-31
+
+NO-REGRET SHORTLIST RULES USED
+- Current official page opened
+- No added fragrance seen or officially declared fragrance-free
+- No major preservative scare ingredients evidenced in opened INCI
+- Good performance across more than one weight set
+- No severe traceability gap for basic formula identity
+
+CURRENT NO-REGRET SHORTLIST
+1. CLN-001 CeraVe Nawilżająca Emulsja do Mycia
+Why no-regret: broad tolerability logic, fragrance-free claim, strong barrier-first formula, widely visible in Polish channels.
+Main caveat: may underperform as a one-step cleanser for heavy sunscreen or makeup.
+
+2. CLN-006 BasicLab Dermatologiczna emulsja myjąca do skóry ultrawrażliwej
+Why no-regret: official Polish page with full INCI and price, fragrance-free, highly barrier-oriented, strong fit for ultrareactive and overtreated skin.
+Main caveat: cleansing power may be modest; retailer diversity still under-documented.
+
+3. CLN-002 CeraVe Oczyszczający Żel do Mycia
+Why no-regret: fragrance-free official page, good compromise between tolerability and cleansing, especially useful for normal/oily users.
+Main caveat: not the best pick for the most reactive or allergy-suspect subgroup.
+
+4. CLN-004 Bioderma Sensibio Gel Moussant
+Why no-regret: elegant mild-gel profile without fragrance in opened INCI, useful middle-ground option.
+Main caveat: less ideal than creamy emulsions for very dry/barrier-damaged users.
+
+OUTSIDE NO-REGRET FOR NOW
+- CLN-003 LRP Toleriane: excellent candidate but coco-betaine lowers confidence for allergy-suspect subgroup.
+- CLN-005 Avène Tolérance: promising but retailer/price verification weaker this round.
+- CLN-007 BasicLab acne gel: useful scenario winner, but less universal than the four above.
+- CLN-008 Cetaphil: excluded due to current Polish formula traceability gap.

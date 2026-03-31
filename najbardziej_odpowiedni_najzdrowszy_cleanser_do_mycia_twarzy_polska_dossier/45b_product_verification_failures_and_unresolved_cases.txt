@@ -1,0 +1,27 @@
+TITLE: Product verification failures and unresolved cases
+PURPOSE: Make verification weaknesses explicit rather than hiding them.
+STATUS: UPDATED
+SCOPE: Missing current INCI, broken pages, inaccessible sources, and second-source failures.
+DEPENDENCIES: 35c_product_verification_packets.txt, 37_formula_drift_and_INCI_discrepancy_log.txt
+LAST_UPDATED: 2026-03-31
+
+UNRESOLVED CASES
+- U01 Cetaphil Gentle Skin Cleanser current Polish SKU page was not successfully opened; only brand family page and search snippet were seen. Current Polish INCI unresolved.
+- U02 SVR Sensifine Dermo-Nettoyant Polish official page was not successfully found/opened; only French official page opened. Polish product trace remains incomplete.
+- U03 Second-source INCI verification remains missing for every currently scored product. This is the biggest remaining product-data blocker.
+- U04 Explicit pH values remain unknown for all scored products because no opened official source gave an explicit number.
+- U05 Retailer/apteka product pages were difficult to open reliably due 403, 404, expired URLs, or category-only results.
+- U06 Super-Pharm and Hebe signals often confirmed brand family presence but not always a stable product-level page with current INCI.
+- U07 Wiley and Liebert full-text targets for A06-A08 failed to open via crawler, forcing partial reliance on abstract or metadata summaries.
+
+FAILURE CONSEQUENCES
+- Market verification scores were capped.
+- Evidence confidence was capped.
+- No universal winner was allowed.
+- “No-regret shortlist” was restricted to only the best-traced current formulas.
+
+NEXT ACTIONS
+1. Open direct Gemini / DOZ / Melissa / Dr.Max / Cosibella / Kontigo pages product by product.
+2. Capture second-source INCI for CLN-001 to CLN-007.
+3. Attempt image-pack or packshot confirmation where text pages fail.
+4. Revisit Cetaphil and SVR with direct URL discovery from official sites or retailer SKUs.

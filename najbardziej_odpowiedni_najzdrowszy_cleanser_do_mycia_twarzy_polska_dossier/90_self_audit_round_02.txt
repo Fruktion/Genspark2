@@ -1,0 +1,35 @@
+TITLE: Self-audit round 02
+PURPOSE: Audit source honesty and product verification completeness after evidence/market repair round.
+STATUS: COMPLETED
+SCOPE: Honesty, traceability, verification depth, cross-file consistency.
+LAST_UPDATED: 2026-03-31
+
+CHECKLIST
+1. Source honesty improved? YES, materially.
+- Distinct A/P/R/G/X prefixes implemented.
+- Abstract-only and inaccessible sources explicitly marked.
+- Search snippets demoted to weak market signals.
+
+2. Product verification improved? YES, but incomplete.
+- 35-product longlist built with verification tiers.
+- 7 products now have official current INCI opened and scoreable.
+- 8th shortlist slot (Cetaphil) retained as unresolved comparator, not over-trusted.
+
+3. Overconfident claims removed? MOSTLY YES.
+- Unknown pH kept unknown.
+- Hypoallergenic-type marketing not treated as proof.
+- Sunscreen-removal statements framed as caution, not precise efficacy ranking.
+
+4. Cross-file consistency acceptable? MOSTLY YES.
+- Same core shortlist appears in 12b, 35c, 36b, and 39b.
+- Readiness flags remain conservative.
+
+5. Remaining weaknesses.
+- Second-source INCI verification still insufficient.
+- Retailer page opens are weaker than requested.
+- Full-text upgrades for MI / cleanser-contact-dermatitis remain incomplete.
+
+AUDIT VERDICT
+- Dossier moved from scaffold-phase to partial evidence dossier.
+- Still not article-ready.
+- Market and product traceability are improved but not fully compliant with the target standard.

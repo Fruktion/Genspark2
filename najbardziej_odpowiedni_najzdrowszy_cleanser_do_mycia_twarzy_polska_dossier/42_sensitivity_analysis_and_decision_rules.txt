@@ -1,20 +1,37 @@
 TITLE: Sensitivity analysis and decision rules
-PURPOSE: Show how rankings may change when weights change.
-STATUS: DRAFT_IN_PROGRESS
-SCOPE: Multi-objective decision robustness.
-DEPENDENCIES: 13_screening_rubric_and_weights.txt, 36_head_to_head_product_comparison_matrix.txt
-KEY_QUESTIONS: Are top recommendations stable or weight-sensitive?
-EVIDENCE_TIER: METHOD_PENDING_DATA
-SOURCE_IDS_USED: NONE
-OPEN_ISSUES: Cannot run real sensitivity without fuller scoring matrix.
+PURPOSE: Test whether shortlist ordering changes when decision priorities shift.
+STATUS: UPDATED_WITH_RAW_WEIGHT_TESTS
+SCOPE: Baseline, dry/reactive-biased, and oily/acne-biased weighting schemes.
+DEPENDENCIES: 36b_raw_weighted_score_table.txt
+KEY_QUESTIONS: Are conclusions robust or highly weight-sensitive?
+EVIDENCE_TIER: SYNTHESIS
 LAST_UPDATED: 2026-03-31
 
-Planned analysis:
-1. Baseline weights A35/B20/C20/D10/E10/F5
-2. Reactive-skin weights A45/B25/C10/D10/E5/F5
-3. Oily/acne weights A25/B15/C35/D10/E10/F5
+SENSITIVITY FINDINGS
+1. CLN-001 remains top under baseline and dry/reactive weighting.
+Interpretation:
+- Its recommendation is robust for users prioritizing barrier/tolerability.
 
-Decision rules:
-- If one product/family wins only under one narrow weighting but falls sharply under others, downgrade certainty.
-- If several products remain clustered within narrow score bands, prefer scenario families + no-regret shortlist over forced #1.
-- Any unresolved market-verification problem overrides numerical score.
+2. CLN-007 overtakes the field under oily/acne weighting.
+Interpretation:
+- The dossier is genuinely scenario-sensitive, not merely unstable.
+
+3. CLN-006 rises when barrier/tolerability is emphasized and price becomes relevant.
+Interpretation:
+- It is a legitimate no-regret option for reactive users, not just a niche outlier.
+
+4. CLN-003 and CLN-005 improve when cleansing is down-weighted.
+Interpretation:
+- Their main handicap is cleansing adequacy and/or subgroup allergen caution, not necessarily poor barrier logic.
+
+DECISION RULES
+- If the user wears heavy sunscreen or makeup daily, do not default to the gentlest emulsion as a one-size-fits-all choice.
+- If the user is on retinoids/BPO/isotretinoin or currently burning/tight after cleansing, shift toward dry/reactive weighting.
+- If the user has known fragrance or EO issues, first filter to fragrance-free or no-fragrance-seen INCI products.
+- If the user has known CAPB/coco-betaine or glucoside reactivity, apply a subgroup penalty rather than a universal ban.
+- If pH is unknown, do not invent a preference; use surfactant system and trackable evidence instead.
+
+ROBUST CONCLUSIONS
+- Universal-winner claim is not robust.
+- Scenario winners are more robust than overall winner claims.
+- No-regret shortlist is more stable than exact 1-to-7 ordering.

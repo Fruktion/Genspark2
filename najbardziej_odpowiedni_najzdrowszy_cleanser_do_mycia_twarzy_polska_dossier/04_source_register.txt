@@ -1,98 +1,234 @@
 TITLE: Source register
-PURPOSE: Register opened sources with access grading and limitations.
-STATUS: DRAFT_IN_PROGRESS
-SCOPE: Academic, guideline, official market, retailer sources.
-DEPENDENCIES: 03_search_strategy_and_queries.txt
-KEY_QUESTIONS: What was opened, and what grade of access was obtained?
+PURPOSE: Register sources with explicit access grading, role, and limitations.
+STATUS: UPDATED_WITH_HONESTY_REPAIR
+SCOPE: Academic, official product, retailer/apteka, and regulatory sources.
+DEPENDENCIES: 03_search_strategy_and_queries.txt, 04d_source_id_naming_and_url_index.txt
+KEY_QUESTIONS: What was actually opened, how usable is it, and what can it legitimately support?
 EVIDENCE_TIER: INDEX
-SOURCE_IDS_USED: NONE
-OPEN_ISSUES: Market sources incomplete; many product pages not yet opened.
 LAST_UPDATED: 2026-03-31
 
-source_id: S01
+ACADEMIC / GUIDELINE SOURCES
+source_id: A01
 citation_or_document_name: Skin Cleansing without or with Compromise: Soaps and Syndets
 source_type: review / PMC
 opened_where: PMC
 access_grade: FULL_TEXT_OPENED
 decisive_for_major_claims: YES
-notes_on_limitations: Review, not product-specific.
+notes_on_limitations: review, not product-specific; strong mechanism source.
 
-source_id: S02
+source_id: A02
 citation_or_document_name: Cleansers and their role in various dermatological disorders
 source_type: review / PMC
 opened_where: PMC
 access_grade: FULL_TEXT_OPENED
 decisive_for_major_claims: YES
-notes_on_limitations: Older review; includes expert synthesis.
+notes_on_limitations: older review; includes expert synthesis and some dated product framing.
 
-source_id: S03
+source_id: A03
 citation_or_document_name: Management of Patients with Atopic Dermatitis: The Role of Emollient Therapy
 source_type: review / PMC
 opened_where: PMC
 access_grade: FULL_TEXT_OPENED
 decisive_for_major_claims: YES
-notes_on_limitations: Broad AD review; cleanser guidance is one section.
+notes_on_limitations: broad AD review; cleanser guidance is a subset.
 
-source_id: S04
+source_id: A04
 citation_or_document_name: A Guide to the Ingredients and Potential Benefits of OTC Cleansers and Moisturizers for Rosacea Patients
 source_type: review / PMC
 opened_where: PMC
 access_grade: FULL_TEXT_OPENED
 decisive_for_major_claims: YES
-notes_on_limitations: Some product examples older and brand-specific.
+notes_on_limitations: includes small studies and historical brand examples; still useful for rosacea cleanser criteria and red-team caveats.
 
-source_id: S05
-citation_or_document_name: Contact Dermatitis Associated With Skin Cleansers
-source_type: retrospective study / PubMed abstract
-opened_where: PubMed
-access_grade: ABSTRACT_ONLY
-decisive_for_major_claims: NO
-notes_on_limitations: Useful for signal detection on common allergens; not full text.
+source_id: A05
+citation_or_document_name: NICE evidence review – Skin care advice for people with acne vulgaris
+source_type: guideline evidence review / NCBI Bookshelf
+opened_where: NCBI Bookshelf
+access_grade: FULL_TEXT_OPENED
+decisive_for_major_claims: YES
+notes_on_limitations: evidence quality mostly low; committee discussion explicit.
 
-source_id: S06
-citation_or_document_name: Methylisothiazolinone in rinse-off products causes allergic contact dermatitis
-source_type: randomized controlled repeated open-application study / PubMed abstract
-opened_where: PubMed
-access_grade: ABSTRACT_ONLY
-decisive_for_major_claims: NO
-notes_on_limitations: Strong abstract signal, but major claims should be tempered without full text.
-
-source_id: S07
+source_id: A06
 citation_or_document_name: Role of pH in skin cleansing
-source_type: clinical comparison study / PubMed abstract
-opened_where: PubMed
+source_type: clinical comparison study
+opened_where: PubMed + metadata search results
 access_grade: ABSTRACT_ONLY
-decisive_for_major_claims: NO
-notes_on_limitations: Important corrective evidence against simplistic “low pH = mild” narratives.
+decisive_for_major_claims: PARTIAL
+notes_on_limitations: corrective but not full-text opened here; use to block simplistic low-pH claims, not to assign precise effect sizes.
 
-source_id: S08
+source_id: A07
+citation_or_document_name: Methylisothiazolinone in rinse-off products causes allergic contact dermatitis
+source_type: repeated open application study
+opened_where: PubMed + metadata search results
+access_grade: ABSTRACT_ONLY
+decisive_for_major_claims: PARTIAL
+notes_on_limitations: strong allergen red-team signal; no opened full text in this round.
+
+source_id: A08
+citation_or_document_name: Contact Dermatitis Associated With Skin Cleansers
+source_type: retrospective analysis / NACDG data
+opened_where: PubMed + metadata search results
+access_grade: ABSTRACT_ONLY
+decisive_for_major_claims: PARTIAL
+notes_on_limitations: useful signal source for allergen burden; not full text.
+
+source_id: A09
 citation_or_document_name: Clinical evidence for washing and cleansers in acne vulgaris: a systematic review
-source_type: systematic review / PubMed abstract
-opened_where: PubMed
+source_type: systematic review
+opened_where: PubMed + metadata summary
 access_grade: ABSTRACT_ONLY
-decisive_for_major_claims: NO
-notes_on_limitations: Review indicates evidence scarcity in acne-specific cleanser data.
+decisive_for_major_claims: PARTIAL
+notes_on_limitations: confirms evidence scarcity more than strong product superiority.
 
-source_id: M01
-citation_or_document_name: Rossmann category/search pages for face cleansers
-source_type: Polish retailer pages
-opened_where: Web search snippets
-access_grade: OFFICIAL_DOCUMENT_OPENED
-decisive_for_major_claims: NO
-notes_on_limitations: Mostly category-level and snippets; product pages still needed.
+source_id: A10
+citation_or_document_name: The optimal cleansing method for the removal of sunscreen: Water, cleanser or cleansing oil?
+source_type: comparative cleanser study
+opened_where: PubMed metadata / search summary
+access_grade: ABSTRACT_ONLY
+decisive_for_major_claims: PARTIAL
+notes_on_limitations: used only for cleansing-adequacy caution in heavy SPF/makeup scenario.
 
-source_id: M02
-citation_or_document_name: Hebe category/search pages for dermocosmetic face cleansers
-source_type: Polish retailer pages
-opened_where: Web search snippets
-access_grade: OFFICIAL_DOCUMENT_OPENED
-decisive_for_major_claims: NO
-notes_on_limitations: Confirms product families in Poland, not enough for INCI.
+REGULATORY SOURCES
+source_id: G01
+citation_or_document_name: Commission Regulation (EU) No 655/2013
+source_type: EU regulation
+opened_where: EUR-Lex
+access_grade: OFFICIAL_REGULATORY_PAGE_OPENED
+decisive_for_major_claims: YES
+notes_on_limitations: claim-governance source, not clinical efficacy data.
 
-source_id: M03
-citation_or_document_name: Super-Pharm category/search pages for face cleansers
-source_type: Polish retailer pages
-opened_where: Web search snippets
-access_grade: OFFICIAL_DOCUMENT_OPENED
+source_id: G02
+citation_or_document_name: Regulation (EC) No 1223/2009 on cosmetic products
+source_type: EU regulation
+opened_where: EUR-Lex
+access_grade: OFFICIAL_REGULATORY_PAGE_OPENED
+decisive_for_major_claims: YES
+notes_on_limitations: defines cosmetic framework and market rules, not comparative product performance.
+
+source_id: G03
+citation_or_document_name: Technical document on cosmetic claims
+source_type: European Commission guidance
+opened_where: European Commission DocsRoom
+access_grade: OFFICIAL_REGULATORY_PAGE_OPENED
+decisive_for_major_claims: YES
+notes_on_limitations: guidance, not a controlled trial.
+
+OFFICIAL PRODUCT SOURCES
+source_id: P01
+citation_or_document_name: CeraVe Nawilżająca Emulsja do Mycia official Poland page
+source_type: official product page
+opened_where: cerave.pl
+access_grade: OFFICIAL_PRODUCT_PAGE_OPENED
+decisive_for_major_claims: YES
+notes_on_limitations: current official INCI available; no explicit pH.
+
+source_id: P02
+citation_or_document_name: CeraVe Oczyszczający Żel do Mycia official Poland page
+source_type: official product page
+opened_where: cerave.pl
+access_grade: OFFICIAL_PRODUCT_PAGE_OPENED
+decisive_for_major_claims: YES
+notes_on_limitations: current official INCI available; no explicit pH.
+
+source_id: P03
+citation_or_document_name: La Roche-Posay Toleriane Łagodna Emulsja Oczyszczająca official Poland page
+source_type: official product page
+opened_where: laroche-posay.pl
+access_grade: OFFICIAL_PRODUCT_PAGE_OPENED
+decisive_for_major_claims: YES
+notes_on_limitations: INCI extracted from page source; second source still needed.
+
+source_id: P04
+citation_or_document_name: Bioderma Sensibio Gel Moussant official Poland page
+source_type: official product page
+opened_where: bioderma.pl
+access_grade: OFFICIAL_PRODUCT_PAGE_OPENED
+decisive_for_major_claims: YES
+notes_on_limitations: INCI opened via embedded ingredient modal; second source still needed.
+
+source_id: P05
+citation_or_document_name: Avène Tolérance Żel balsam oczyszczający official Poland page
+source_type: official product page
+opened_where: eau-thermale-avene.pl
+access_grade: OFFICIAL_PRODUCT_PAGE_OPENED
+decisive_for_major_claims: YES
+notes_on_limitations: short INCI extracted from page source; second source still needed.
+
+source_id: P06
+citation_or_document_name: BasicLab Dermatologiczna emulsja myjąca do skóry ultrawrażliwej official page
+source_type: official product page
+opened_where: basiclab.shop
+access_grade: OFFICIAL_PRODUCT_PAGE_OPENED
+decisive_for_major_claims: YES
+notes_on_limitations: direct price and size available; second-source INCI still missing.
+
+source_id: P07
+citation_or_document_name: BasicLab Normalizujący żel oczyszczający official page
+source_type: official product page
+opened_where: basiclab.shop
+access_grade: OFFICIAL_PRODUCT_PAGE_OPENED
+decisive_for_major_claims: YES
+notes_on_limitations: direct price and size available; second-source INCI still missing.
+
+source_id: P08
+citation_or_document_name: Cetaphil Poland brand / family page referencing Gentle Skin Cleanser
+source_type: official brand page
+opened_where: cetaphil.pl
+access_grade: OFFICIAL_PRODUCT_PAGE_OPENED
 decisive_for_major_claims: NO
-notes_on_limitations: Product availability signal only.
+notes_on_limitations: product-specific current Polish INCI not opened; use only as market/family signal.
+
+source_id: P09
+citation_or_document_name: SVR Sensifine Dermo-Nettoyant official non-Polish page
+source_type: official product page
+opened_where: fr.labo-svr.com
+access_grade: OFFICIAL_PRODUCT_PAGE_OPENED
+decisive_for_major_claims: NO
+notes_on_limitations: not Polish-localized; Polish market verification incomplete.
+
+RETAILER / APTEKA / MARKET SOURCES
+source_id: R01
+citation_or_document_name: Rossmann category page for face cleansing gels and foams
+source_type: retailer category page
+opened_where: rossmann.pl
+access_grade: CATEGORY_PAGE_OPENED
+decisive_for_major_claims: NO
+notes_on_limitations: category-level only, not stable product INCI source.
+
+source_id: R02
+citation_or_document_name: Super-Pharm product family visibility for dermocosmetic cleansers
+source_type: retailer / search-result-backed market signal
+opened_where: superpharm.pl snippets / category references
+access_grade: SEARCH_SNIPPET_ONLY
+decisive_for_major_claims: NO
+notes_on_limitations: confirms Poland-market visibility only.
+
+source_id: R03
+citation_or_document_name: Hebe family/category visibility for face cleansers
+source_type: retailer / search-result-backed market signal
+opened_where: hebe.pl snippets / category references
+access_grade: SEARCH_SNIPPET_ONLY
+decisive_for_major_claims: NO
+notes_on_limitations: confirms Poland-market visibility only; direct product pages unstable.
+
+INACCESSIBLE OR NOT-OPENED SOURCES
+source_id: X01
+citation_or_document_name: Wiley PDF for Role of pH in skin cleansing
+source_type: paywalled publisher target
+opened_where: crawler attempt failed
+access_grade: INACCESSIBLE_NOT_OPENED
+notes_on_limitations: failed open; do not treat as full-text evidence.
+
+source_id: X02
+citation_or_document_name: Wiley / BJD full text for MI rinse-off study
+source_type: paywalled publisher target
+opened_where: crawler attempt failed
+access_grade: INACCESSIBLE_NOT_OPENED
+notes_on_limitations: abstract-only evidence retained instead.
+
+source_id: X03
+citation_or_document_name: Liebert full text for Contact Dermatitis Associated With Skin Cleansers
+source_type: publisher target
+opened_where: crawler attempt failed
+access_grade: INACCESSIBLE_NOT_OPENED
+notes_on_limitations: abstract-only evidence retained instead.

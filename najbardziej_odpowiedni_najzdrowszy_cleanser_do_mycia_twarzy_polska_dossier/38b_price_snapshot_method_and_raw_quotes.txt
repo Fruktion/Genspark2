@@ -1,0 +1,29 @@
+TITLE: Price snapshot method and raw quotes
+PURPOSE: Explain price capture method and record raw quotations honestly.
+STATUS: UPDATED_PARTIAL
+SCOPE: Official and retailer/apteka price observations available during this revision round.
+DEPENDENCIES: 38_polish_availability_and_price_snapshot.txt
+LAST_UPDATED: 2026-03-31
+
+METHOD
+- Price field is captured only when a concrete current page displays a numeric amount in złoty that was opened during this round.
+- Search snippets are not treated as stable prices if the underlying page was not opened.
+- If only family/category visibility is known, price remains UNKNOWN.
+
+RAW QUOTES OPENED
+P06 BasicLab Dermatologiczna emulsja myjąca do skóry ultrawrażliwej
+- Opened price quote: 89,90 zł
+- Unit quote: 0,30 zł / ml
+- Sizes visible: 30 ml, 100 ml, 300 ml
+- Working dossier price used: 89,90 zł for 300 ml = 29,97 zł / 100 ml
+
+P07 BasicLab Normalizujący żel oczyszczający
+- Opened price quote: 59,90 zł
+- Unit quote: 0,20 zł / ml
+- Sizes visible: 30 ml, 100 ml, 300 ml
+- Working dossier price used: 59,90 zł for 300 ml = 19,97 zł / 100 ml
+
+RISK / LIMITATIONS
+- Cross-retailer price spread was not fully captured this round.
+- For CeraVe, LRP, Bioderma, Avène, Cetaphil, and SVR, opened official product pages did not surface direct Poland price data, so price/access scores remain conservative.
+- A later price-only pass across Gemini, DOZ, Hebe, Rossmann, and Super-Pharm is still needed for article-grade access comparison.

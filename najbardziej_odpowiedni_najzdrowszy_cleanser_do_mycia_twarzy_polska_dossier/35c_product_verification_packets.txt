@@ -1,0 +1,143 @@
+TITLE: Product verification packets
+PURPOSE: Provide packet-style traceability entries for shortlisted products.
+STATUS: UPDATED_PARTIAL_COMPLETION
+SCOPE: 8 shortlisted products prioritized for current dossier cycle.
+DEPENDENCIES: 12b_verified_longlist_table.txt, 37_formula_drift_and_INCI_discrepancy_log.txt
+LAST_UPDATED: 2026-03-31
+
+PACKET 1
+Product_ID: CLN-001
+Name: CeraVe Nawilżająca Emulsja do Mycia
+Official_sources: P01
+Retailer_sources: R02 family signal; R03 category signal
+Face_use: YES, official page says twarz i ciało
+Official_Polish_page_opened: YES
+Full_INCI: AQUA / WATER, GLYCERIN, CETEARYL ALCOHOL, PEG-40 STEARATE, STEARYL ALCOHOL, POTASSIUM PHOSPHATE, CERAMIDE NP, CERAMIDE AP, CERAMIDE EOP, CARBOMER, GLYCERYL STEARATE, BEHENTRIMONIUM METHOSULFATE, SODIUM LAUROYL LACTYLATE, SODIUM HYALURONATE, CHOLESTEROL, PHENOXYETHANOL, DISODIUM EDTA, DIPOTASSIUM PHOSPHATE, TOCOPHEROL, PHYTOSPHINGOSINE, XANTHAN GUM, CETYL ALCOHOL, POLYSORBATE 20, ETHYLHEXYLGLYCERIN.
+INCI_discrepancy_status: no second full INCI source opened yet; official only
+Declared_pH: UNKNOWN
+Fragrance_status: official claim “bez substancji zapachowych”
+Surfactant_analysis: very low-foam cleansing emulsion; not a classic foaming surfactant blend
+Red_flags: under-cleansing risk for heavy sunscreen/makeup; phenoxyethanol not a major dossier red flag by itself
+Scenario_fit: dry/dehydrated, atopic/reactive-adjacent, normal-sensitive, rosacea-prone
+Confidence: MODERATE
+Inclusion_reason: strong barrier/tolerability hypothesis with good official traceability
+
+PACKET 2
+Product_ID: CLN-002
+Name: CeraVe Oczyszczający Żel do Mycia
+Official_sources: P02
+Retailer_sources: R02 family signal; R03 category signal
+Face_use: YES
+Official_Polish_page_opened: YES
+Full_INCI: AQUA / WATER, COCAMIDOPROPYL HYDROXYSULTAINE, GLYCERIN, SODIUM LAUROYL SARCOSINATE, PROPANEDIOL, PEG-150 PENTAERYTHRITYL TETRASTEARATE, NIACINAMIDE, PEG-6 CAPRYLIC/CAPRIC GLYCERIDES, CERAMIDE NP, CERAMIDE AP, CERAMIDE EOP, CARBOMER, SODIUM METHYL COCOYL TAURATE, SODIUM BENZOATE, SODIUM CHLORIDE, SODIUM LAUROYL LACTYLATE, SODIUM HYALURONATE, CHOLESTEROL, PHENOXYETHANOL, DISODIUM EDTA, CITRIC ACID, TETRASODIUM EDTA, PHYTOSPHINGOSINE, XANTHAN GUM, ETHYLHEXYLGLYCERIN.
+INCI_discrepancy_status: no second full INCI source opened yet
+Declared_pH: UNKNOWN
+Fragrance_status: official claim “bez substancji zapachowych”
+Surfactant_analysis: amphoteric + mild anionic sarcosinate + taurate system; stronger cleansing than CLN-001
+Red_flags: not ideal for ultra-reactive subgroup if user reacts to amphoteric systems; still no explicit pH
+Scenario_fit: oily/acne-prone, heavy SPF users, normal skin
+Confidence: MODERATE
+Inclusion_reason: likely strongest balance of cleansing adequacy and tolerability among official-verified core set
+
+PACKET 3
+Product_ID: CLN-003
+Name: La Roche-Posay Toleriane Łagodna Emulsja Oczyszczająca
+Official_sources: P03
+Retailer_sources: R02 snippet/family signal
+Face_use: YES
+Official_Polish_page_opened: YES
+Full_INCI: AQUA / WATER / EAU, GLYCERIN, PENTAERYTHRITYL TETRAETHYLHEXANOATE, PROPANEDIOL, AMMONIUM POLYACRYLOYLDIMETHYL TAURATE, POLYSORBATE 60, CERAMIDE NP, NIACINAMIDE, SODIUM CHLORIDE, COCO-BETAINE, DISODIUM EDTA, CAPRYLYL GLYCOL, CITRIC ACID, TRISODIUM ETHYLENEDIAMINE DISUCCINATE, PANTHENOL, PENTYLENE GLYCOL, ETHYLHEXYLGLYCERIN, TOCOPHEROL, CHLORPHENESIN.
+INCI_discrepancy_status: official full INCI opened; second INCI source not yet opened
+Declared_pH: UNKNOWN
+Fragrance_status: fragrance not seen in opened INCI
+Surfactant_analysis: lotion cleanser with coco-betaine present in modest-support role
+Red_flags: coco-betaine allergy-suspect subgroup caution; cleansing may be insufficient for heavy makeup
+Scenario_fit: reactive, dry, rosacea-prone, retinoid/BPO users
+Confidence: MODERATE
+Inclusion_reason: very strong scenario relevance and official Polish product trace
+
+PACKET 4
+Product_ID: CLN-004
+Name: Bioderma Sensibio Gel Moussant
+Official_sources: P04
+Retailer_sources: official snippet + market family signals
+Face_use: YES
+Official_Polish_page_opened: YES
+Full_INCI: AQUA/WATER/EAU, SODIUM COCOAMPHOACETATE, PROPANEDIOL, SODIUM LAUROYL SARCOSINATE, CITRIC ACID, COCO-GLUCOSIDE, GLYCERYL OLEATE, SODIUM CITRATE, PEG-90 GLYCERYL ISOSTEARATE, MANNITOL, XYLITOL, LAURETH-2, RHAMNOSE, FRUCTOOLIGOSACCHARIDES, TOCOPHEROL, HYDROGENATED PALM GLYCERIDES CITRATE.
+INCI_discrepancy_status: official full INCI opened; second source still pending
+Declared_pH: UNKNOWN
+Fragrance_status: no fragrance seen in official INCI
+Surfactant_analysis: mild gel using sodium cocoamphoacetate + sarcosinate + coco-glucoside
+Red_flags: glucoside/coco-family caution in allergy-suspect subgroup; not minimalist enough for the most reactive users
+Scenario_fit: normal/sensitive, rosacea-lite, combination skin
+Confidence: MODERATE
+Inclusion_reason: impressive official INCI and balanced mild gel profile
+
+PACKET 5
+Product_ID: CLN-005
+Name: Avène Tolérance Żel balsam oczyszczający
+Official_sources: P05
+Retailer_sources: official snippet only so far
+Face_use: YES
+Official_Polish_page_opened: YES
+Full_INCI: AVENE THERMAL SPRING WATER (AVENE AQUA), CETEARYL ALCOHOL, AQUAPHILUS DOLOMIAE EXTRACT FILTRATE, ARGININE, CAPRYLYL GLYCOL, COCO-GLUCOSIDE, DISODIUM PHOSPHATE, HYDROXYCAPRIC ACID, MAGNESIUM OXIDE, POTASSIUM PHOSPHATE, SODIUM BENZOATE, SODIUM CETEARYL SULFATE, SODIUM HYDROXIDE, TROMETHAMINE, WATER (AQUA).
+INCI_discrepancy_status: official only
+Declared_pH: UNKNOWN
+Fragrance_status: no perfume seen in opened INCI
+Surfactant_analysis: creamy gel/balm with coco-glucoside and sodium cetearyl sulfate in very short INCI
+Red_flags: sulfate term may alarm readers, but system is not equivalent to SLS; still needs second source verification
+Scenario_fit: reactive, dry, rosacea-prone
+Confidence: MODERATE-LOW
+Inclusion_reason: unusually short official INCI for a wash-off face cleanser
+
+PACKET 6
+Product_ID: CLN-006
+Name: BasicLab Dermatologiczna emulsja myjąca do skóry ultrawrażliwej
+Official_sources: P06
+Retailer_sources: official Google snippet only
+Face_use: YES
+Official_Polish_page_opened: YES
+Size/price_opened: 300 ml / 89,90 zł / 29,97 zł per 100 ml
+Full_INCI: Aqua, Cetearyl Alcohol, Shea Butter Ethyl Esters, Caprylic/Capric Triglyceride, Caprylyl/Capryl Glucoside, Glycerin, Squalane, Glyceryl Stearate SE, Panthenol, Sucrose Stearate, Inulin, Betaglucan, Ceramide NP, Ceramide AP, Alpha-Glucan Oligosaccharide, Xylitylglucoside, Anhydroxylitol, Xylitol, Glucose, Saccharide Isomerate, Borago Officinalis Seed Oil, Gluconolactone, Allantoin, Tocopherol, Calcium Gluconate, Lactic Acid, Citric Acid, Sodium Citrate, Xanthan Gum, Polyaminopropyl Biguanide, Sodium Benzoate.
+INCI_discrepancy_status: official only
+Declared_pH: UNKNOWN
+Fragrance_status: declared no fragrance
+Surfactant_analysis: ultra-gentle emulsion using glucoside + sucrose stearate in lipid-rich base
+Red_flags: heavy sunscreen removal may be incomplete; glucoside allergy-suspect subgroup caution
+Scenario_fit: ultrareactive, dry/dehydrated, barrier-impaired, retinoid/BPO users
+Confidence: MODERATE
+Inclusion_reason: one of the most barrier-first Polish cleansers with transparent DTC price/size data
+
+PACKET 7
+Product_ID: CLN-007
+Name: BasicLab Normalizujący żel oczyszczający do skóry tłustej, trądzikowej i wrażliwej
+Official_sources: P07
+Retailer_sources: official Google snippet only
+Face_use: YES
+Official_Polish_page_opened: YES
+Size/price_opened: 300 ml / 59,90 zł / 19,97 zł per 100 ml
+Full_INCI: Aqua, Lauryl Glucoside, Sodium Cocoamphoacetate, Glycerin, Inulin, Alpha-Glucan Oligosaccharide, Dipotassium Glycyrrhizate, Potassium Azeloyl Diglycinate, Phloretin, Panthenol, Allantoin, Hydrolyzed Caesalpinia Spinosa Gum, Caesalpinia Spinosa Gum, Propanediol, Lactic Acid, Citric Acid, Levulinic Acid, Sodium Levulinate, Sodium Benzoate, Potassium Sorbate.
+INCI_discrepancy_status: official only
+Declared_pH: UNKNOWN
+Fragrance_status: declared no fragrance
+Surfactant_analysis: lauryl glucoside + sodium cocoamphoacetate mild gel
+Red_flags: may still sting the most reactive users; glucoside caution; acne claims rely more on plausibility than strong direct trials
+Scenario_fit: oily/acne-prone, combination, heavy SPF users who want gentler option than harsher acne gels
+Confidence: MODERATE
+Inclusion_reason: strong Polish-market relevance with explicit oily/acne positioning
+
+PACKET 8
+Product_ID: CLN-008
+Name: Cetaphil Gentle Skin Cleanser
+Official_sources: P08 (brand family page only)
+Retailer_sources: official snippet only
+Face_use: YES historically and by brand family context
+Official_Polish_page_opened: FAMILY PAGE ONLY
+Current_INCI: NOT VERIFIED in opened current Polish product page
+Declared_pH: UNKNOWN
+Fragrance_status: UNKNOWN for current Polish SKU in opened evidence
+Scientific_trace: A04 reviews historical rosacea cleanser study involving Cetaphil Gentle Skin Cleanser
+Red_flags: current Polish formula traceability gap; do not over-rank despite strong reputation
+Scenario_fit: still relevant as comparator and boundary case
+Confidence: LOW
+Inclusion_reason: important market and literature anchor, but not eligible for no-regret shortlist yet
