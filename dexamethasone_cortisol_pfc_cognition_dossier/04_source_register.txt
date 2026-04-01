@@ -5,8 +5,8 @@ SCOPE: Primary studies, reviews, and official reference documents opened for the
 DEPENDENCIES: 03_search_strategy_and_queries.txt; 05_source_access_and_verification_log.txt
 KEY_QUESTIONS: Which sources are FULL_TEXT_OPENED versus ABSTRACT_ONLY; which are decisive for major claims; where evidence remains indirect.
 EVIDENCE_TIER: SOURCE_INDEX
-SOURCE_IDS_USED: S001-S020
-OPEN_ISSUES: Some direct dexamethasone cognition papers remain to be opened; several DST papers identified but not fully extracted yet.
+SOURCE_IDS_USED: S001-S025
+OPEN_ISSUES: Some direct dexamethasone cognition papers remain abstract-only; several decisive foundation/replacement sources are now full-text opened but more direct animal and dexamethasone cognition studies are still needed.
 LAST_UPDATED: 2026-04-01
 
 FIELDS
@@ -59,11 +59,21 @@ S019 | Mager et al. 2003. Dose equivalency evaluation of major corticosteroids: 
 
 S020 | Schlosser et al. 2013. Effects of acute cortisol administration on response inhibition in patients with major depression and healthy controls. PMID 23332680. | primary_human_intervention | PubMed abstract opened via crawler | ABSTRACT_ONLY | YES | Demonstrates task-specific enhancement in healthy controls on inhibitory task; disease interaction important.
 
+S021 | Genere et al. 2022. Interpretation of Abnormal Dexamethasone Suppression Test is Enhanced With Use of Synchronous Free Cortisol Assessment. PMCID PMC9006975. | primary_endocrine_assay_DST | PMC full text opened + targeted summarization | FULL_TEXT_OPENED | YES_FOR_DST_INTERPRETATION_LIMITS | 1 mg DST rather than 0.5 mg; endocrine diagnostic study, not cognition study; decisive for assay/binding/metabolism confounds and for why post-DST cortisol is not a cortisol-equivalent brain exposure metric.
+
+S022 | Kalafatakis et al. 2018. Ultradian rhythmicity of plasma cortisol is necessary for normal emotional and cognitive responses in man. PMCID PMC5924881. | primary_human_intervention | PMC full text opened + targeted summarization | FULL_TEXT_OPENED | YES_FOR_RHYTHM_DEPENDENCE | Healthy male metyrapone block-and-replace study with fixed 20 mg hydrocortisone/day delivered in different temporal patterns; strong evidence that pattern/rhythm changes cognition independent of total dose.
+
+S023 | de Kloet et al. 2022. Mineralocorticoid receptor and glucocorticoid receptor work alone and together in cell-type-specific manner. PMCID PMC9118500. | review_mechanistic | PMC full text opened + targeted summarization | FULL_TEXT_OPENED | YES_FOR_MR_GR_NON_EQUIVALENCE | Review rather than primary intervention, but directly states dexamethasone poorly penetrates BBB, acts mainly at pituitary, has little MR affinity, and can create 'chemical adrenalectomy' rather than cortisol-like brain conditions.
+
+S024 | Russell et al. 2024. Ultradian hydrocortisone replacement alters neuronal processing, emotional ambiguity, affect and fatigue in adrenal insufficiency: the PULSES trial. PMCID PMC10952319. | primary_human_replacement | PMC full text opened + targeted summarization | FULL_TEXT_OPENED | YES_FOR_REPLACEMENT_BOUNDARIES | Adrenal-insufficiency crossover trial; emotional-processing and fatigue changes seen, but primary FERT null and N-back null; supports replacement-context nuance rather than generic cognitive enhancement.
+
+S025 | Ben-Shlomo et al. 2025. Cognitive Assessment in Adults With Adrenal Cortisol Insufficiency: Challenges and Opportunities. PMCID PMC12795706. | review_clinical_methodological | PMC full text opened + targeted summarization | FULL_TEXT_OPENED | YES_FOR_METHOD_LIMITS | Review of ACI cognition literature, emphasizing inconsistent objective findings, DiCO/dissonant cortisol oscillations, overtreatment risk, and methodological cautions; not primary efficacy evidence.
+
 COUNT SNAPSHOT
-- Academic records logged: 20
-- FULL_TEXT_OPENED: 5 (S003, S007, S011, S012, S013)
+- Academic records logged: 25
+- FULL_TEXT_OPENED: 10 (S003, S007, S011, S012, S013, S021, S022, S023, S024, S025)
 - OFFICIAL_DOCUMENT_OPENED: 2 (S009, S010)
 - ABSTRACT_ONLY: 13
 
 HONESTY NOTE
-This register currently meets the count threshold for academic records logged, but not yet the desired threshold for opened full texts across all decisive subdomains. Additional full-text opening is required before PRIMARY_EVIDENCE_READY can be rated highly.
+This register now meets the minimum thresholds for academic records logged and full-text sources opened, but direct dexamethasone cognition evidence and animal-task diversity remain limited. Readiness therefore varies strongly by question/domain.

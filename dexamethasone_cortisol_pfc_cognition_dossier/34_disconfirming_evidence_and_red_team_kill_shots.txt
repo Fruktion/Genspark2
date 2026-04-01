@@ -1,13 +1,52 @@
-TITLE: 34_disconfirming_evidence_and_red_team_kill_shots.txt
-PURPOSE: Placeholder pending evidence population for this round.
+TITLE: Disconfirming evidence and red-team kill shots
+PURPOSE: Search for and log evidence that could overturn tempting but weak conclusions.
 STATUS: IN_PROGRESS
-SCOPE: Topic-specific dossier component within dexamethasone/cortisol/PFC cognition project.
-DEPENDENCIES: 01_scope_and_objectives.txt; 02_research_questions.txt; 03_search_strategy_and_queries.txt; 04_source_register.txt
-KEY_QUESTIONS: See file-specific sections below.
-EVIDENCE_TIER: MIXED; to be specified per section.
-SOURCE_IDS_USED: NONE_YET
-OPEN_ISSUES: Initial population pending.
+SCOPE: Four target conclusions (A-D) identified as especially tempting and especially vulnerable to overstatement.
+DEPENDENCIES: 04_source_register.txt; 33_contradictions_null_results_task_dependence_and_boundary_conditions.txt
+KEY_QUESTIONS: What evidence directly undermines each tempting conclusion; what would falsify current working models.
+EVIDENCE_TIER: RED_TEAM
+SOURCE_IDS_USED: S001; S005; S014; S017; S021; S022; S023; S024; S007; S015
+OPEN_ISSUES: More direct low-dose dexamethasone studies could further strengthen or overturn conclusion A.
 LAST_UPDATED: 2026-04-01
 
-BLOCKER: Initial scaffold created; substantive content pending evidence extraction.
-NEXT_ACTIONS: Populate with traceable evidence and uncertainties.
+TARGET CONCLUSION A
+Tempting claim: “0.5 mg oral dexamethasone probably corresponds to some meaningful cortisol-equivalent blood level for PFC function.”
+Kill shots:
+- S021: post-dexamethasone cortisol is a suppression-test outcome confounded by dex exposure, binding proteins, and assay type; not a cognitive-equivalence readout.
+- S023: dexamethasone has poor MR substitution and poor BBB penetration relative to endogenous glucocorticoids.
+- S022: same total glucocorticoid dose can yield different cognition depending on rhythm, so any single blood-level mapping is underdetermined.
+Red-team verdict: CURRENTLY OVERTURNED / NOT JUSTIFIED.
+
+TARGET CONCLUSION B
+Tempting claim: “Glucocorticoids generally improve cognition if the dose is low or physiological.”
+Kill shots:
+- S005: higher-vs-lower hydrocortisone replacement dose in SAI produced no cognitive benefit.
+- S014: large salivary cortisol elevation in healthy elderly produced null effects.
+- S002: acute 10 mg hydrocortisone impaired working-memory/interference performance in healthy adults.
+Red-team verdict: OVERTURNED AS A GENERAL RULE.
+
+TARGET CONCLUSION C
+Tempting claim: “Dexamethasone and hydrocortisone can be treated as interchangeable glucocorticoid tools for cognition.”
+Kill shots:
+- S023: dexamethasone acts mainly via pituitary feedback, is BBB-limited, and does not recreate MR-rich brain states.
+- S001: direct dexamethasone arm in healthy volunteers was null on WM/flexibility despite endocrine change.
+- S003/S022: hydrocortisone studies show timing/pattern-sensitive direct cognitive effects not inferable from dexamethasone suppression logic.
+Red-team verdict: OVERTURNED.
+
+TARGET CONCLUSION D
+Tempting claim: “Replacement benefits in adrenal insufficiency show glucocorticoids are nootropics.”
+Kill shots:
+- S007: animal rescue evidence is normalization after deficiency, not enhancement above baseline.
+- S024: physiologic-pattern replacement improved some affect/fatigue/emotional-processing measures but primary cognitive outcome and N-back were null.
+- S017: some AI cohorts show only subtle deficits rather than dramatic reversible cognitive failure.
+Red-team verdict: OVERTURNED.
+
+FALSIFIER WATCHLIST
+Evidence that would meaningfully shift the dossier later:
+1) A direct randomized healthy-human study showing 0.5 mg oral dexamethasone improves a validated PFC task with endocrine/PK context.
+2) A study demonstrating dexamethasone brain receptor occupancy or central exposure equivalent to hydrocortisone/cortisol under matched conditions.
+3) Robust adrenal-insufficiency trials showing broad objective executive-function normalization with physiologic replacement patterns.
+4) Repeated animal data showing glucocorticoid administration enhances intact-animal PFC tasks above baseline, not merely rescues deficiency.
+
+PROVISIONAL TAKEAWAY
+The strongest red-team result of this round is that the dossier’s most tempting shortcut—a single dex-to-cortisol conversion for PFC function—fails simultaneously at DST logic, receptor logic, BBB logic, and rhythm logic.

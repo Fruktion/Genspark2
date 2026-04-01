@@ -1,13 +1,79 @@
-TITLE: 45_readiness_flags_and_claim_strength_by_question.txt
-PURPOSE: Placeholder pending evidence population for this round.
+TITLE: Readiness flags and claim strength by question
+PURPOSE: State, for each of the six user questions, how ready the dossier is for synthesis and how strong current claims can be.
 STATUS: IN_PROGRESS
-SCOPE: Topic-specific dossier component within dexamethasone/cortisol/PFC cognition project.
-DEPENDENCIES: 01_scope_and_objectives.txt; 02_research_questions.txt; 03_search_strategy_and_queries.txt; 04_source_register.txt
-KEY_QUESTIONS: See file-specific sections below.
-EVIDENCE_TIER: MIXED; to be specified per section.
-SOURCE_IDS_USED: NONE_YET
-OPEN_ISSUES: Initial population pending.
+SCOPE: Round-end readiness assessment.
+DEPENDENCIES: 04c_evidence_depth_scorecard.txt; 33_contradictions_null_results_task_dependence_and_boundary_conditions.txt; 34_disconfirming_evidence_and_red_team_kill_shots.txt
+KEY_QUESTIONS: What can be answered now; what remains provisional; where is evidence strong vs weak.
+EVIDENCE_TIER: META_SYNTHESIS_CONTROL
+SOURCE_IDS_USED: S001-S025
+OPEN_ISSUES: Direct low-dose dexamethasone cognition evidence remains a major gap.
 LAST_UPDATED: 2026-04-01
 
-BLOCKER: Initial scaffold created; substantive content pending evidence extraction.
-NEXT_ACTIONS: Populate with traceable evidence and uncertainties.
+RATING SCALE
+- STRONG: multiple direct and/or mechanistically convergent sources; contradiction handled.
+- MODERATE: meaningful evidence present but important gaps or abstract-only dependence remain.
+- PARTIAL: enough for provisional answer only.
+- WEAK: insufficient for justified answer.
+
+QUESTION 1: Translation from dexamethasone dose to serum cortisol / blood-level interpretation
+Readiness: PARTIAL_TO_MODERATE
+Claim strength now supportable:
+- Strong for “DST/post-dex cortisol is not a simple cortisol-equivalent cognitive exposure” [S021, S023]
+- Weak for any numeric 0.5 mg-to-cortisol translation relevant to PFC function
+Main blockers:
+- No direct 0.5 mg cognition studies
+- Low-dose-specific DST opening still limited
+
+QUESTION 2: Distinct equivalence domains and where they fail
+Readiness: STRONG
+Claim strength now supportable:
+- Strong that anti-inflammatory, HPA-suppression, receptor/brain exposure, and cognition are distinct domains [S009, S019, S021, S023, S022]
+- Strong that domain transfer is invalid without extra evidence
+Main blockers:
+- None major for provisional synthesis
+
+QUESTION 3: Receptor / PK / PD differences
+Readiness: STRONG
+Claim strength now supportable:
+- Strong that dexamethasone differs from cortisol/hydrocortisone in MR substitution and BBB/P-gp brain access [S008, S023]
+- Moderate-to-strong that serum values are insufficient proxies for PFC exposure [S021, S022, S025]
+Main blockers:
+- Sparse direct human PFC occupancy data
+
+QUESTION 4: Animal replacement vs enhancement
+Readiness: MODERATE
+Claim strength now supportable:
+- Moderate-to-strong that rodent ADX/corticosterone studies support necessity/normalization, not healthy enhancement [S007]
+Main blockers:
+- Limited breadth of direct animal task studies extracted in detail
+- More intact-animal enhancement studies needed for strong negative conclusion
+
+QUESTION 5: Human evidence for normalization versus enhancement
+Readiness: MODERATE
+Claim strength now supportable:
+- Moderate that glucocorticoid effects in humans are mixed, task/timing/population dependent [S002, S003, S014, S015, S020, S024]
+- Moderate that replacement-state improvements are partial and context-specific, not broad nootropic effects [S004, S005, S006, S017, S024]
+Main blockers:
+- Several decisive studies remain abstract-only
+- Direct dexamethasone cognition evidence thin
+
+QUESTION 6: Context-specific justification
+Readiness: PARTIAL
+Claim strength now supportable:
+- Partial-to-moderate that support exists mainly in special deficiency/replacement contexts and selected task/timing windows, not as a general enhancement thesis [S003, S007, S024, S025]
+Main blockers:
+- Needs fuller contradiction integration and scenario-specific synthesis
+
+GLOBAL READINESS FLAGS
+- PRIMARY_EVIDENCE_READY: YELLOW
+- MECHANISTIC_FRAME_READY: GREEN
+- NON_EQUIVALENCE_FRAME_READY: GREEN
+- DIRECT_DEXAMETHASONE_COGNITION_READY: RED
+- REPLACEMENT_CONTEXT_READY: YELLOW/GREEN
+- FINAL_NUMERIC_TRANSLATION_READY: RED
+
+PROVISIONAL ROUND-END ANSWERS (SHORT FORM)
+1) Is a single dex-to-cortisol blood-level conversion for PFC function justified?
+- No. Current evidence weighs against it on endocrine, receptor, BBB, rhythm, and cognitive grounds.
+2) Is cognitive improvement by glucocorticoid replacement/enhancement supported generally, only in special deficiency/clinical contexts, or not justified?
+- Currently supported only in limited and context-specific ways, mostly as partial normalization in deficiency/replacement settings or as task/timing-specific effects—not as a general enhancement claim.

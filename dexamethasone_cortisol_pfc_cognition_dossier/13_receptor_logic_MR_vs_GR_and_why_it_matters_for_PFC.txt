@@ -1,13 +1,40 @@
-TITLE: 13_receptor_logic_MR_vs_GR_and_why_it_matters_for_PFC.txt
-PURPOSE: Placeholder pending evidence population for this round.
+TITLE: Receptor logic: MR vs GR and why it matters for PFC
+PURPOSE: Explain how MR/GR balance constrains translation from steroid dose to cognition.
 STATUS: IN_PROGRESS
-SCOPE: Topic-specific dossier component within dexamethasone/cortisol/PFC cognition project.
-DEPENDENCIES: 01_scope_and_objectives.txt; 02_research_questions.txt; 03_search_strategy_and_queries.txt; 04_source_register.txt
-KEY_QUESTIONS: See file-specific sections below.
-EVIDENCE_TIER: MIXED; to be specified per section.
-SOURCE_IDS_USED: NONE_YET
-OPEN_ISSUES: Initial population pending.
+SCOPE: Corticosteroid receptor occupancy, basal vs stress conditions, and implications for PFC-related cognition.
+DEPENDENCIES: 04_source_register.txt; 20_mechanisms_PFC_stress_glucocorticoids_and_inverted_U_models.txt
+KEY_QUESTIONS: Why receptor balance matters; why dexamethasone cannot be assumed to recreate cortisol-rich brain states.
+EVIDENCE_TIER: FOUNDATIONAL_MECHANISTIC
+SOURCE_IDS_USED: S023; S011; S003; S022
+OPEN_ISSUES: Direct human receptor occupancy measurements in PFC remain sparse.
 LAST_UPDATED: 2026-04-01
 
-BLOCKER: Initial scaffold created; substantive content pending evidence extraction.
-NEXT_ACTIONS: Populate with traceable evidence and uncertainties.
+MR-GR BASICS
+- MR has higher affinity for endogenous glucocorticoids and is heavily occupied at basal levels.
+- GR has lower affinity and becomes more engaged during circadian peaks or stress-related rises (S023).
+- The balance, not simply the absolute amount of steroid, shapes neural and behavioral adaptation (S023).
+
+WHY THIS MATTERS FOR PFC
+- PFC functions are stress-sensitive and nonlinear; excessive or deficient glucocorticoid signaling can contribute to executive dysfunction, especially in interaction with catecholamine signaling (S011).
+- Timing-sensitive hydrocortisone effects on DLPFC working memory (S003) are compatible with receptor-state dependence rather than a monotonic “more is better” model.
+- Rhythm-dependent hydrocortisone replacement effects (S022) further imply that receptor engagement over time matters.
+
+DEXAMETHASONE-SPECIFIC RECEPTOR PROBLEM
+- Dexamethasone is a potent GR ligand but weak MR substitute in brain contexts (S023).
+- Because endogenous cortisol/corticosterone normally provide substantial MR tone, dexamethasone cannot be assumed to recreate the same receptor balance.
+- When dexamethasone suppresses endogenous glucocorticoid production, brain MR-rich states may be reduced rather than replaced, yielding a fundamentally different neuroendocrine context (S023).
+
+CONSEQUENCE FOR EQUIVALENCE CLAIMS
+A conversion that matches anti-inflammatory potency or even endocrine suppression does not ensure matched MR:GR balance in the brain. Since PFC outcomes are sensitive to receptor balance, any single dexamethasone-to-cortisol cognitive conversion is undercut at the receptor level.
+
+CLAIM STATUS
+- “MR and GR are biologically distinct and jointly relevant” -> SUPPORTED [S023]
+- “PFC effects can be inferred from total glucocorticoid potency alone” -> DISCONFIRMED / NOT SUPPORTED [S011, S023]
+- “Dexamethasone recreates endogenous MR-rich brain conditions” -> DISCONFIRMED [S023]
+
+TRACEABILITY
+Direct source-backed statement: dexamethasone has little MR affinity and poor BBB penetration (S023).
+Synthesis: therefore matched serum values or dose tables cannot guarantee PFC-equivalent receptor conditions.
+
+PROVISIONAL TAKEAWAY
+Receptor logic strongly argues against collapsing dexamethasone and cortisol into a single cognitive-equivalence scale. For PFC questions, MR/GR patterning is a central reason conversion fails.

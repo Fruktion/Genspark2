@@ -1,13 +1,43 @@
-TITLE: 20_mechanisms_dexamethasone_feedback_suppression_and_DST_logic.txt
-PURPOSE: Placeholder pending evidence population for this round.
+TITLE: Mechanisms: dexamethasone feedback suppression and DST logic
+PURPOSE: Explain DST logic and prevent misuse of post-dexamethasone cortisol as a cortisol-equivalent cognitive metric.
 STATUS: IN_PROGRESS
-SCOPE: Topic-specific dossier component within dexamethasone/cortisol/PFC cognition project.
-DEPENDENCIES: 01_scope_and_objectives.txt; 02_research_questions.txt; 03_search_strategy_and_queries.txt; 04_source_register.txt
-KEY_QUESTIONS: See file-specific sections below.
-EVIDENCE_TIER: MIXED; to be specified per section.
-SOURCE_IDS_USED: NONE_YET
-OPEN_ISSUES: Initial population pending.
+SCOPE: Feedback suppression, diagnostic interpretation, dexamethasone concentration adequacy, and assay confounds.
+DEPENDENCIES: 04_source_register.txt; 10_foundations_equivalence_framework_and_non_equivalence_map.txt
+KEY_QUESTIONS: What the DST measures; what it does not measure; why suppression is not replacement.
+EVIDENCE_TIER: FOUNDATIONAL_PRIMARY_PLUS_REFERENCE
+SOURCE_IDS_USED: S021; S009; S023
+OPEN_ISSUES: 0.5 mg-specific DST protocols still need more direct opening if available.
 LAST_UPDATED: 2026-04-01
 
-BLOCKER: Initial scaffold created; substantive content pending evidence extraction.
-NEXT_ACTIONS: Populate with traceable evidence and uncertainties.
+DST LOGIC IN ONE LINE
+The dexamethasone suppression test measures how the HPA axis suppresses endogenous cortisol after exogenous dexamethasone; it does not measure a cortisol-like cognitive or brain-substitution effect.
+
+MECHANISTIC CHAIN
+1) Dexamethasone is given exogenously.
+2) It acts strongly at feedback sites, especially pituitary corticotrophs, suppressing ACTH and therefore endogenous cortisol production (S023; S009).
+3) Morning cortisol after the test is the residual endogenous cortisol outcome under this feedback challenge (S021).
+4) That value depends on dexamethasone exposure, assay choice, and binding context (S021).
+
+WHY POST-DEX CORTISOL IS NOT A CORTISOL-EQUIVALENT EFFECT
+- The measured cortisol is what remains after suppression, not the total glucocorticoid effect experienced by the organism.
+- Dexamethasone itself contributes the suppressive signal but differs from cortisol in MR engagement and BBB penetration (S023).
+- Therefore “low post-dex cortisol” does not imply “cortisol-equivalent brain state achieved” and certainly does not imply PFC enhancement.
+
+IMPORTANT ASSAY/INTERPRETATION DETAILS
+- In the Genere study, dexamethasone adequacy was defined as >=0.1 mcg/dL and was met in most participants (S021).
+- Total cortisol between 1.8 and 5 mcg/dL contained all false positives relative to free cortisol, especially in OCP users (S021).
+- This shows that even endocrine interpretation requires simultaneous consideration of dexamethasone exposure and free-vs-total cortisol.
+
+RED-FLAG MISINTERPRETATIONS TO AVOID
+A) “Post-dex cortisol equals the blood cortisol equivalent of dexamethasone.” -> FALSE
+B) “Suppressed cortisol means the brain got a cortisol-like GR/MR state.” -> FALSE
+C) “DST data can be converted into PFC function predictions.” -> NOT SUPPORTED
+D) “A 0.5 mg dex dose can be translated to a single PFC-relevant cortisol level.” -> NOT SUPPORTED
+
+TRACEABILITY LABELS
+Direct: DST interpretation affected by dex absorption/metabolism and altered binding [S021]
+Direct: dexamethasone acts strongly at pituitary feedback sites [S023; S009]
+Synthesis: therefore suppression outcomes cannot serve as cognitive equivalence outcomes.
+
+PROVISIONAL TAKEAWAY
+DST logic is about suppression testing, not cognitive replacement. The user’s explicit rule is supported by the opened evidence: post-dex cortisol must not be treated as a cortisol-equivalent effect.

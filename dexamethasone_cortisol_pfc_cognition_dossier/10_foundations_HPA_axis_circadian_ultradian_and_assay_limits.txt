@@ -1,13 +1,50 @@
-TITLE: 10_foundations_HPA_axis_circadian_ultradian_and_assay_limits.txt
-PURPOSE: Placeholder pending evidence population for this round.
+TITLE: HPA axis, circadian/ultradian dynamics, and assay limits
+PURPOSE: Document why cortisol dynamics, assay choice, and feedback architecture constrain interpretation of dexamethasone and replacement studies.
 STATUS: IN_PROGRESS
-SCOPE: Topic-specific dossier component within dexamethasone/cortisol/PFC cognition project.
-DEPENDENCIES: 01_scope_and_objectives.txt; 02_research_questions.txt; 03_search_strategy_and_queries.txt; 04_source_register.txt
-KEY_QUESTIONS: See file-specific sections below.
-EVIDENCE_TIER: MIXED; to be specified per section.
-SOURCE_IDS_USED: NONE_YET
-OPEN_ISSUES: Initial population pending.
+SCOPE: Circadian and ultradian rhythmicity, cortisol awakening timing, DST assay limitations, and consequences for cognition inference.
+DEPENDENCIES: 04_source_register.txt; 20_mechanisms_dexamethasone_feedback_suppression_and_DST_logic.txt; 14_PK_PD_and_brain_exposure_limits_of_serum_cortisol_as_proxy.txt
+KEY_QUESTIONS: Why blood cortisol alone is insufficient; how rhythm and assay confound interpretation; how this shapes cognition claims.
+EVIDENCE_TIER: FOUNDATIONAL_MIXED
+SOURCE_IDS_USED: S021; S022; S025; S009
+OPEN_ISSUES: 0.5 mg-specific endocrine physiology remains thin in opened full text.
 LAST_UPDATED: 2026-04-01
 
-BLOCKER: Initial scaffold created; substantive content pending evidence extraction.
-NEXT_ACTIONS: Populate with traceable evidence and uncertainties.
+CORE HPA RHYTHM POINTS
+- Physiological cortisol is not a flat concentration. It follows a circadian pattern with an overnight rise, awakening peak, daytime decline, and superimposed ultradian pulses (S022, S025).
+- The ultradian rhythm is not cosmetic; it changes tissue and brain responses to the same total hormone dose (S022).
+- In adrenal insufficiency, conventional oral replacement creates dissonant circulating cortisol oscillations rather than normal physiology (S025).
+
+WHY RHYTHM MATTERS FOR COGNITION
+- In a metyrapone block-and-replace study, the same 20 mg/day hydrocortisone dose administered in different temporal patterns produced different working-memory and emotional-processing outcomes (S022).
+- Pulsatile replacement preserved higher-load n-back performance better than continuous or standard oral patterns (S022).
+- Therefore cognitive interpretation requires attention to timing/pattern, not just nominal dose or average concentration.
+
+DST ASSAY LIMITS
+- Genere et al. used 1 mg dexamethasone at 11 pm with morning blood sampling and showed that interpretation depends on measured dexamethasone concentration, total cortisol, and free cortisol (S021).
+- Total cortisol was measured by immunoassay, while dexamethasone and free cortisol were measured by LC-MS/MS-based methods (S021).
+- Oral contraceptives and altered cortisol-binding globulin can create false-positive total-cortisol DST results without corresponding free-cortisol abnormality (S021).
+- Therefore assay modality and protein-binding state materially affect interpretation.
+
+CONCRETE NUMERICAL LIMITS FROM OPENED SOURCE
+- Adequate dexamethasone concentrations were present in 97.6% of volunteers and 96.3% of patients in the Genere study (S021).
+- All false-positive total-cortisol results occurred in the post-DST total cortisol range 1.8-5 mcg/dL, with OCP use being the main associated factor (S021).
+- Implication: even within endocrine diagnosis, post-dex cortisol requires contextual interpretation.
+
+WHAT THIS MEANS FOR THE DOSSIER QUESTION
+1) A single serum cortisol number is not a full descriptor of glucocorticoid signaling.
+2) Post-dexamethasone cortisol values are feedback-test outputs, not cortisol-equivalent CNS exposures.
+3) Replacement studies that improve rhythm may alter cognition even without changing nominal daily dose.
+4) Conversely, large cortisol elevations may fail to alter cognition if timing, task, age, or receptor context differ (cross-reference S014, S003).
+
+CLAIM STATUS GRID
+- “Circadian and ultradian features matter to cognition” -> SUPPORTED [S022, S025]
+- “Conventional oral replacement reproduces natural physiology” -> DISCONFIRMED [S025]
+- “DST cortisol is straightforwardly interpretable without assay/binding context” -> DISCONFIRMED [S021]
+- “Average dose or concentration alone can define PFC-equivalent effect” -> NOT SUPPORTED [S021, S022, S025]
+
+TRACEABILITY NOTES
+Inference: linking rhythm findings to PFC conclusions is a synthesis from S022 plus direct PFC-task literature, not a direct quote.
+Unresolved: whether any specific low dexamethasone dose can mimic a physiologic cognitive rhythm remains unanswered.
+
+PROVISIONAL TAKEAWAY
+For cognition/PFC questions, glucocorticoid timing, pulsatility, assay context, and feedback physiology are first-order variables, not nuisances. Any framework that ignores them is too crude for justified dexamethasone-to-cortisol translation.
