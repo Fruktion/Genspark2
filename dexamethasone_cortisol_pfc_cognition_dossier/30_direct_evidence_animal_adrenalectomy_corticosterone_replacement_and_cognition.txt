@@ -1,0 +1,13 @@
+TITLE: 30_direct_evidence_animal_adrenalectomy_corticosterone_replacement_and_cognition.txt
+PURPOSE: Placeholder pending evidence population for this round.
+STATUS: IN_PROGRESS
+SCOPE: Topic-specific dossier component within dexamethasone/cortisol/PFC cognition project.
+DEPENDENCIES: 01_scope_and_objectives.txt; 02_research_questions.txt; 03_search_strategy_and_queries.txt; 04_source_register.txt
+KEY_QUESTIONS: See file-specific sections below.
+EVIDENCE_TIER: MIXED; to be specified per section.
+SOURCE_IDS_USED: NONE_YET
+OPEN_ISSUES: Initial population pending.
+LAST_UPDATED: 2026-04-01
+
+BLOCKER: Initial scaffold created; substantive content pending evidence extraction.
+NEXT_ACTIONS: Populate with traceable evidence and uncertainties.

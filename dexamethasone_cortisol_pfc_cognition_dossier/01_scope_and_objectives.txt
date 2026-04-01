@@ -1,0 +1,44 @@
+TITLE: Scope and objectives for dexamethasone/cortisol/PFC cognition dossier
+PURPOSE: Define the research target, guardrails, scope boundaries, and explicit non-goals for this dossier round.
+STATUS: IN_PROGRESS
+SCOPE: Whether oral dexamethasone 0.5 mg can be translated into any meaningful cortisol exposure relevant to PFC function, and whether dexamethasone or physiological glucocorticoid replacement can improve cognition in animal models or humans.
+DEPENDENCIES: 01b_objective_function_constraints_and_scenarios.txt; 02_research_questions.txt; 03_search_strategy_and_queries.txt; 04_source_register.txt; 10_foundations_equivalence_framework_and_non_equivalence_map.txt
+KEY_QUESTIONS: Is a single dexamethasone-to-cortisol conversion justified for cognition/PFC function; where do equivalence domains differ; when do glucocorticoids normalize deficient cognition versus enhance intact cognition.
+EVIDENCE_TIER: MIXED; primary studies prioritized, reviews contextual only.
+SOURCE_IDS_USED: INFERENCE_ONLY_AT_THIS_STAGE
+OPEN_ISSUES: Direct dexamethasone cognition literature in healthy humans may be sparse; exact DST interpretation boundaries still being mapped.
+LAST_UPDATED: 2026-04-01
+
+OBJECTIVE
+Build a first substantive, reviewable dossier emphasizing upstream evidence over synthesis on the topic:
+"Does oral dexamethasone 0.5 mg correspond to any meaningful cortisol exposure relevant to prefrontal-cortex (PFC) function, and can dexamethasone or physiological glucocorticoid replacement be used to improve cognition in animal experiments or humans?"
+
+PRIMARY DELIVERABLE SHAPE
+- A plaintext evidence dossier, not a polished article.
+- Explicit separation of dexamethasone, cortisol/hydrocortisone, and rodent corticosterone.
+- Explicit separation of equivalence domains: anti-inflammatory potency, HPA suppression, receptor occupancy, serum levels, brain exposure, and cognition/PFC outcome.
+- Explicit separation of normalization in deficiency/clinical states versus enhancement above baseline in intact organisms.
+
+NON-NEGOTIABLE GUARDRAILS
+- Do NOT assume there is one valid conversion from 0.5 mg oral dexamethasone to one serum cortisol level for PFC function.
+- Do NOT treat post-dexamethasone cortisol suppression as the cortisol-equivalent effect of dexamethasone.
+- Do NOT provide actionable human enhancement advice, self-experimentation, optimization, or dosing recommendations for non-medical use.
+- Scholarly description of study regimens is allowed only as evidence extraction.
+
+THIS ROUND'S PRIORITY
+Freeze most downstream synthesis polish. Prioritize:
+1) source opening,
+2) extraction from full text where possible,
+3) contradiction logging,
+4) non-equivalence mapping,
+5) traceability by source ID,
+6) provisional rather than overconfident conclusions.
+
+EXPLICIT NON-GOALS
+- Not writing a consumer explainer.
+- Not generating a universal steroid conversion for cognition.
+- Not collapsing PFC tasks, memory retrieval, consolidation, attention, and global cognition into one outcome.
+- Not treating disease-model rescue as healthy-subject enhancement.
+
+CURRENT STATUS NOTE
+Scaffold established; literature search and source opening underway. Subsequent files will mark where evidence is full text versus abstract only.
