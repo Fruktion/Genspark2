@@ -1,13 +1,131 @@
-TITLE: 30_direct_evidence_human_hydrocortisone_cortisol_and_cognition.txt
-PURPOSE: Placeholder pending evidence population for this round.
+TITLE: Direct evidence - human hydrocortisone/cortisol administration and cognition
+PURPOSE: Extract direct human intervention evidence on hydrocortisone/cortisol effects on working memory, executive function, inhibition, and related PFC-relevant outcomes.
 STATUS: IN_PROGRESS
-SCOPE: Topic-specific dossier component within dexamethasone/cortisol/PFC cognition project.
-DEPENDENCIES: 01_scope_and_objectives.txt; 02_research_questions.txt; 03_search_strategy_and_queries.txt; 04_source_register.txt
-KEY_QUESTIONS: See file-specific sections below.
-EVIDENCE_TIER: MIXED; to be specified per section.
-SOURCE_IDS_USED: NONE_YET
-OPEN_ISSUES: Initial population pending.
+SCOPE: Healthy humans and disease-state studies using hydrocortisone/cortisol administration; excludes replacement-state chronic adrenal insufficiency studies handled in sister file unless directly necessary for contrast.
+DEPENDENCIES: 04_source_register.txt; 13_receptor_logic_MR_vs_GR_and_why_it_matters_for_PFC.txt; 37_task_taxonomy_PFC_outcomes_working_memory_attention_flexibility_retrieval_consolidation.txt
+KEY_QUESTIONS: Does acute or chronic hydrocortisone impair, improve, or leave unchanged PFC-relevant cognition; are effects timing-, task-, population-, or state-dependent.
+EVIDENCE_TIER: PRIMARY_STUDIES_MIXED_WITH_SOME_ABSTRACT_ONLY
+SOURCE_IDS_USED: S002; S003; S014; S015; S020
+OPEN_ISSUES: Several studies still abstract-only; direct serum/brain linkage remains weak.
 LAST_UPDATED: 2026-04-01
 
-BLOCKER: Initial scaffold created; substantive content pending evidence extraction.
-NEXT_ACTIONS: Populate with traceable evidence and uncertainties.
+EVIDENCE EXTRACTION TABLE
+
+Study: S003
+Citation: Henckens et al. 2011 PNAS
+Species: Human
+Sex: Male only
+Health state / model: Healthy young volunteers
+Endogenous glucocorticoid context: Normal baseline HPA axis; afternoon testing to reduce diurnal variation
+Intervention compound: Hydrocortisone
+Dose: 10 mg
+Route: Oral capsule
+Timing relative to testing: 30 min before n-back (rapid condition) or 240 min before n-back (slow condition)
+Acute vs chronic: Acute single dose
+Comparator: Placebo; between-group randomized double-blind design
+Whether cortisol measured: Yes
+Assay type: Salivary cortisol, repeated time points, immunoassay collection via Salivette (full text opened)
+Cognitive task: Numerical n-back (0-3 back) during fMRI
+Plausibly PFC-dependent: Yes, dorsolateral PFC/working-memory task
+Direction of effect: Rapid condition null; slow condition modest improvement in combined WM metric and increased DLPFC activity
+Normalization / enhancement / impairment / mixed / null: Mixed, with timing-dependent enhancement signal for slow effects rather than a uniform effect
+Major confounders: Men only; behavioral effect modest; pharmacological hydrocortisone lacks natural stress co-mediators; no dexamethasone arm
+Source-access grade: FULL_TEXT_OPENED
+Evidence-strength note: Important direct PFC-relevant study showing timing matters and undermining one-dose/one-cognitive-effect thinking.
+
+Study: S002
+Citation: Wingenfeld et al. 2011 Psychopharmacology
+Species: Human
+Sex: Mixed healthy controls and MDD patients
+Health state / model: Healthy subjects contrasted with major depressive disorder
+Endogenous glucocorticoid context: Acute oral hydrocortisone challenge
+Intervention compound: Hydrocortisone
+Dose: 10 mg
+Route: Oral
+Timing relative to testing: Before Word Suppression Test
+Acute vs chronic: Acute
+Comparator: Placebo
+Whether cortisol measured: Yes, saliva mentioned in abstract
+Assay type: Not fully extracted; abstract-level only
+Cognitive task: Word Suppression Test with neutral and negative interference words
+Plausibly PFC-dependent: Yes, verbal working memory / interference control with emotional interference component
+Direction of effect: Healthy subjects performed worse after hydrocortisone when negative interference words were present; MDD patients showed no effect
+Normalization / enhancement / impairment / mixed / null: Mixed across populations; impairment in healthy controls, null in MDD
+Major confounders: Emotional interference condition appears critical; abstract only; disease-state receptor-function interpretation remains inferential
+Source-access grade: ABSTRACT_ONLY
+Evidence-strength note: Useful for task- and population-dependence; not sufficient alone for strong quantitative claims.
+
+Study: S014
+Citation: Porter et al. 2002 J Psychopharmacology
+Species: Human
+Sex: Men and women
+Health state / model: Healthy elderly subjects
+Endogenous glucocorticoid context: Normal aging population
+Intervention compound: Hydrocortisone
+Dose: 20 mg twice, 12 h and 1 h before testing
+Route: Oral/administration abstract does not specify otherwise; treated as administered doses in clinical trial context
+Timing relative to testing: 12 h and 1 h pre-test
+Acute vs chronic: Short-term acute regimen
+Comparator: Placebo, double-blind crossover
+Whether cortisol measured: Yes
+Assay type: Salivary cortisol; abstract reports ~10-fold elevation at testing
+Cognitive task: Battery including attention, working memory, declarative memory, executive function
+Plausibly PFC-dependent: Partly yes for executive/working-memory components
+Direction of effect: No significant effects found
+Normalization / enhancement / impairment / mixed / null: Null
+Major confounders: Elderly population may differ in receptor sensitivity; full task-specific details not yet extracted from full text
+Source-access grade: ABSTRACT_ONLY
+Evidence-strength note: Important disconfirming evidence against simple serum-cortisol elevation implying cognitive change.
+
+Study: S015
+Citation: Young et al. 1999 Psychopharmacology
+Species: Human
+Sex: Normal male volunteers
+Health state / model: Healthy intact men
+Endogenous glucocorticoid context: Chronic exogenous hydrocortisone exposure superimposed on intact HPA axis
+Intervention compound: Hydrocortisone
+Dose: 20 mg twice daily for 10 days
+Route: Oral/administration context implies oral clinical dosing
+Timing relative to testing: During/after 10-day administration period
+Acute vs chronic: Chronic short-term repeated dosing
+Comparator: Placebo crossover
+Whether cortisol measured: Urine mentioned in MeSH; exact assay details not yet extracted
+Assay type: Not fully extracted
+Cognitive task: CANTAB subtests including spatial working memory, paired associates, Tower of London
+Plausibly PFC-dependent: Yes for spatial working memory and strategy use; mixed hippocampal/PFC for paired associates
+Direction of effect: Impairment in visuo-spatial memory and strategy use; more paired-associate errors; no Tower of London effect
+Normalization / enhancement / impairment / mixed / null: Predominantly impairment with some null outcomes
+Major confounders: Healthy men only; abstract only; chronic exposure not physiological replacement
+Source-access grade: ABSTRACT_ONLY
+Evidence-strength note: Strongly relevant against enhancement-generalization in healthy intact humans.
+
+Study: S020
+Citation: Schlosser et al. 2013 Psychiatry Research
+Species: Human
+Sex: Men and women in healthy controls plus MDD inpatients
+Health state / model: Healthy controls and major depressive disorder
+Endogenous glucocorticoid context: Acute challenge
+Intervention compound: Hydrocortisone (described as acute cortisol administration)
+Dose: 10 mg hydrocortisone
+Route: Oral
+Timing relative to testing: Before emotional go/no-go task
+Acute vs chronic: Acute
+Comparator: Placebo, double-blind crossover
+Whether cortisol measured: Saliva mentioned in MeSH/abstract context
+Assay type: Not fully extracted from full text
+Cognitive task: Emotional go/no-go with fearful/happy/neutral faces
+Plausibly PFC-dependent: Yes, response inhibition / executive control with affective context
+Direction of effect: Enhancing effect on inhibitory performance in healthy controls (faster responses), no effect in MDD
+Normalization / enhancement / impairment / mixed / null: Mixed, task-specific enhancement in healthy controls but not broad enhancement claim
+Major confounders: Emotional task may recruit affective salience networks; abstract only; faster responses do not automatically equal globally better cognition
+Source-access grade: ABSTRACT_ONLY
+Evidence-strength note: Demonstrates outcome-discipline necessity: some inhibition tasks may improve while WM can worsen or stay unchanged.
+
+INTERIM PATTERN SUMMARY
+- Human hydrocortisone effects are not uniform.
+- Working memory/PFC-like performance can worsen (S002), improve depending on timing (S003), or show no change despite major salivary cortisol elevation (S014).
+- Chronic repeated hydrocortisone in healthy men can impair frontal-lobe-sensitive tasks (S015).
+- Some inhibitory control outcomes may improve acutely in healthy controls (S020), which should not be generalized to all cognition or all PFC functions.
+
+PROVISIONAL INFERENCE (NOT A SOURCE)
+Hydrocortisone/cortisol administration does not support a single directional conclusion such as "more cortisol improves thinking" or "more cortisol impairs thinking". The human evidence is timing-, task-, population-, and chronicity-dependent.
