@@ -1,0 +1,31 @@
+TITLE: 10b Regulatory Status: Cosmetic vs Medicinal Claims
+PURPOSE: Clarify what apteka and product category do or do not mean
+STATUS: complete
+SCOPE: Polish/EU-style regulatory distinctions at high level
+DEPENDENCIES: 01
+KEY_QUESTIONS: Does pharmacy placement prove efficacy?
+EVIDENCE_TIER: regulatory synthesis
+SOURCE_IDS_USED: INFERENCE,S19-S23
+OPEN_ISSUES: General regulatory overview, not legal memo
+LAST_UPDATED: 2026-03-31
+
+
+Most products in this dossier are cosmetics, not medicines.
+That means they can be marketed for cleansing, comfort, freshness, pH balance, support, soothing, microbiome support, etc., but these claims are not equivalent to therapeutic proof for disease outcomes.
+
+Important distinctions:
+- Cosmetic: intended mainly to cleanse, perfume, change appearance, protect, keep in good condition.
+- Medicinal product / lek: requires different evidence and regulatory pathway.
+- Medical device / wyrób medyczny: separate framework; some intimate gels may fit here, but many rinse-off washes do not.
+
+Critical correction:
+Apteka ≠ proof of superiority.
+A product sold in a pharmacy may still contain fragrance, botanicals, preservatives, harsher surfactants, or complex claims with weak evidence.
+
+Therefore the dossier does NOT treat:
+- “gynecologically tested,”
+- “pharmacy-only,”
+- “with lactic acid,”
+- “with probiotics/prebiotics,”
+- “natural/herbal”
+as sufficient evidence of being the healthiest option.

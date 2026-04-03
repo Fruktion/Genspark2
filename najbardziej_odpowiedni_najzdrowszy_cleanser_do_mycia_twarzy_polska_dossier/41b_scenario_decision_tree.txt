@@ -1,0 +1,26 @@
+TITLE: Scenario decision tree
+PURPOSE: Turn the dossier logic into a practical branching framework.
+STATUS: DRAFT_IN_PROGRESS
+SCOPE: Consumer scenario routing.
+DEPENDENCIES: 41_scenario_specific_optima.txt
+KEY_QUESTIONS: How should a user navigate the shortlist by scenario?
+EVIDENCE_TIER: SYNTHESIS
+SOURCE_IDS_USED: S01,S02,S03,S04,S08
+OPEN_ISSUES: Final product names pending verification.
+LAST_UPDATED: 2026-03-31
+
+Decision tree:
+1. Is skin strongly reactive/atopic/rosacea-prone?
+- Yes -> start in fragrance-free ultra-gentle emulsion/non-foaming branch.
+- No -> go to 2.
+
+2. Is skin dry/dehydrated/barrier-impaired?
+- Yes -> creamy/emulsion branch.
+- No -> go to 3.
+
+3. Is skin oily/acne-prone or using persistent SPF daily?
+- Yes -> gentle but more cleansing-efficient gel/syndet branch.
+- No -> balanced fragrance-free gentle cleanser branch.
+
+4. Is fragrance allergy suspected?
+- Yes -> remove all fragranced candidates regardless of other traits.

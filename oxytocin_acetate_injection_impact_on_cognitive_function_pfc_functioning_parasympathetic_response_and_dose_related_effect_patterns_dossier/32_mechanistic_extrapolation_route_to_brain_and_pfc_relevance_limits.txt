@@ -1,0 +1,19 @@
+TITLE: Mechanistic extrapolation - route to brain and PFC relevance limits
+PURPOSE: Explicitly police what can and cannot be inferred from CSF penetration and central studies.
+STATUS: SUBSTANTIVE_DRAFT
+SCOPE: Limits of extrapolation.
+DEPENDENCIES: S2; S5
+KEY_QUESTIONS: Why doesn't CSF access prove PFC-mediated cognitive benefit after peripheral injection?
+EVIDENCE_TIER: MECHANISTIC_LIMITS
+SOURCE_IDS_USED: S2; S5; S4
+OPEN_ISSUES: Region-specific exposure data remain absent.
+LAST_UPDATED: 2026-03-27
+
+LIMITS:
+- IV-to-CSF signal in macaques (S2) does not equal PFC receptor occupancy in humans.
+- Central ICV efficacy in S5 does not prove peripheral efficacy because central route bypasses BBB and peripheral metabolism.
+- Null PFC dopamine result in S4 weighs against overclaiming direct peripheral PFC activation from one behaviorally active s.c. dose.
+
+NEXT_ACTIONS:
+- Continue targeted searches for route-matched full texts, especially human peripheral injection PFC and parasympathetic studies.
+- Maintain separation between oxytocin acetate-specified studies and generic oxytocin formulations.

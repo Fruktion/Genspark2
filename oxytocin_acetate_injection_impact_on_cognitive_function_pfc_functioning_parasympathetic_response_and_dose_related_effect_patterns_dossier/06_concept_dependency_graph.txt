@@ -1,0 +1,24 @@
+TITLE: Concept dependency graph
+PURPOSE: Show how formulation identity, route, PK, receptor pharmacology, and measurement validity constrain interpretation.
+STATUS: SUBSTANTIVE_DRAFT
+SCOPE: Conceptual dependency map.
+DEPENDENCIES: 10_foundations_*; 20_mechanisms_*; 43_measurement_and_controller_limitations*.txt
+KEY_QUESTIONS: What assumptions must hold for a causal claim?
+EVIDENCE_TIER: SYNTHESIS
+SOURCE_IDS_USED: S2; S4; S5
+OPEN_ISSUES: Direct human mapping from plasma exposure to PFC-level effects remains uncertain.
+LAST_UPDATED: 2026-03-27
+
+FORMULATION IDENTITY -> ROUTE -> EXPOSURE PROFILE -> CENTRAL ACCESS POSSIBILITY -> RECEPTOR TARGET ENGAGEMENT -> OUTCOME MEASURE VALIDITY -> CAUSAL CLAIM STRENGTH
+
+Key branches:
+- Generic oxytocin vs oxytocin acetate specified.
+- Peripheral injection vs central injection.
+- Bolus/infusion/time-to-assessment.
+- OXTR vs V1a cross-reactivity at higher doses.
+- Direct neural PFC measures vs inferred behavior.
+- HRV spectral power vs validated parasympathetic inference with respiration control.
+
+NEXT_ACTIONS:
+- Continue targeted searches for route-matched full texts, especially human peripheral injection PFC and parasympathetic studies.
+- Maintain separation between oxytocin acetate-specified studies and generic oxytocin formulations.

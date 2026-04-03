@@ -1,0 +1,19 @@
+TITLE: Scope and objectives
+PURPOSE: Define topic boundaries, outputs, and research purpose.
+STATUS: DRAFT_IN_PROGRESS
+SCOPE: Facial wash-off cleansers sold in Poland.
+DEPENDENCIES: User brief
+KEY_QUESTIONS: What products, evidence, and market constraints matter?
+EVIDENCE_TIER: MIXED
+SOURCE_IDS_USED: NONE
+OPEN_ISSUES: Needs product-level verification.
+LAST_UPDATED: 2026-03-31
+
+This dossier examines wash-off facial cleansers available on the Polish market, including pharmacies and mainstream retailers. The optimization target is not an absolute metaphysical “healthiest” cleanser, but the best practical compromise between barrier support/tolerability, low allergen/sensitizer burden, adequate cleansing, and real Polish availability.
+
+Important guardrails:
+- micellar waters and leave-on products are excluded unless clearly positioned as rinse-off face wash boundary cases;
+- no single winner will be forced if evidence is scenario-dependent;
+- product-level claims require current Polish-market INCI verification.
+
+Primary deliverable at this stage is a reviewable plaintext dossier, not a final article.

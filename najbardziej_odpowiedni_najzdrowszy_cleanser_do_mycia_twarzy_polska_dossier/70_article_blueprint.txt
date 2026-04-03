@@ -1,0 +1,18 @@
+TITLE: Article blueprint
+PURPOSE: Prepare a future article structure without writing the article now.
+STATUS: DRAFT_IN_PROGRESS
+SCOPE: Future synthesis blueprint only.
+DEPENDENCIES: Entire dossier
+KEY_QUESTIONS: How should a future article be structured?
+EVIDENCE_TIER: BLUEPRINT
+SOURCE_IDS_USED: NONE
+OPEN_ISSUES: Not for final publication yet.
+LAST_UPDATED: 2026-03-31
+
+Planned article arc:
+- Reframe “najzdrowszy” into evidence-based optimization
+- Explain what matters in face cleansers
+- Build criteria
+- Walk through scenario-specific winners
+- Present no-regret shortlist
+- Explain uncertainties and how to choose personally

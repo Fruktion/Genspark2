@@ -1,0 +1,28 @@
+TITLE: Scenario-specific verdicts by route, species/population, outcome, and dose band
+PURPOSE: Provide non-collapsed verdicts.
+STATUS: SUBSTANTIVE_DRAFT
+SCOPE: Final route-aware verdict matrix.
+DEPENDENCIES: 30b_dose_response_matrix_by_route_species_outcome.txt
+KEY_QUESTIONS: What is the most supported verdict in each stratum?
+EVIDENCE_TIER: SYNTHESIS_VERDICT
+SOURCE_IDS_USED: S1; S3; S4; S5
+OPEN_ISSUES: Human direct evidence sparse.
+LAST_UPDATED: 2026-03-27
+
+ROUTE x SPECIES/POPULATION x OUTCOME MATRIX:
+| route | population/species | outcome | verdict | evidence tier | dose judgment |
+|---|---|---|---|---|---|
+| IV peripheral | human clinical adults (autism/Asperger's) | social cognition | Retention effect reported in one abstract-only crossover study; not broad cognition | WEAK/PRELIMINARY | effect present but dose unknown from opened source; optimal dose unknown |
+| IV peripheral | human clinical/healthy adults | direct PFC | No opened direct evidence in this run | UNSUPPORTED FOR MAIN QUESTION | insufficient evidence to interpret dosing |
+| IV peripheral | human obstetric/peripartum | autonomic spectral HRV/HR | Dose-dependent HR slowing and spectral changes reported, but parasympathetic interpretation limited | WEAK/PRELIMINARY | dose-response suggested but weak; optimal dose unknown |
+| s.c. peripheral | male rats | social behavior / PCP hyperactivity | 0.1 mg/kg oxytocin acetate produced behavioral effects; 0.03 mg/kg did not; 0.3 mg/kg adverse/confounded | MODERATE | dose-response suggested but weak; optimal dose unknown |
+| s.c. peripheral | male rats | direct PFC neurochemistry | no significant PFC dopamine effect at 0.1 mg/kg | WEAK/NULL-INFORMATIVE | insufficient evidence to interpret dosing |
+| ICV central | Shank3-deficient rats | social memory, attention, hippocampal-prefrontal LTP | Central OT rescues deficits and PFC-linked plasticity in disease model | MODERATE to STRONG within stratum | effect present but optimal dose unknown |
+
+ONE-SCREEN VERDICT:
+- Strongest positive direct evidence in opened set is animal central (S5) and animal peripheral social-behavior (S4), not human peripheral cognition/PFC.
+- Human peripheral injection evidence remains sparse, narrow, and often abstract-only.
+
+NEXT_ACTIONS:
+- Continue targeted searches for route-matched full texts, especially human peripheral injection PFC and parasympathetic studies.
+- Maintain separation between oxytocin acetate-specified studies and generic oxytocin formulations.

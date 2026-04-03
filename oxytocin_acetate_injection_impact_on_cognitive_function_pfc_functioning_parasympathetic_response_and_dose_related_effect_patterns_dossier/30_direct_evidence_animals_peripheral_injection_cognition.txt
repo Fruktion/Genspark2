@@ -1,0 +1,44 @@
+TITLE: Direct evidence - animals - peripheral injection - cognition
+PURPOSE: Summarize direct peripheral animal cognition/social behavior evidence with doses.
+STATUS: SUBSTANTIVE_DRAFT
+SCOPE: Peripheral injected animals only.
+DEPENDENCIES: S4; 30c_minimum_effective_no_effect_and_adverse_dose_ranges.txt
+KEY_QUESTIONS: Which doses changed social cognition/attention-like behavior or learning?
+EVIDENCE_TIER: DIRECT_ANIMAL_PRIMARY
+SOURCE_IDS_USED: S4
+OPEN_ISSUES: One key full-text study only in current run; broader replication still needed.
+LAST_UPDATED: 2026-03-27
+
+S4 SUMMARY:
+- Species/sex: adult male Lister-hooded rats.
+- Formulation: oxytocin acetate from Bachem.
+- Route: subcutaneous.
+- Doses: 0.03, 0.1, 0.3 mg/kg s.c.; doses expressed as salt.
+- Outcomes: social interaction, PCP-induced hyperactivity, 50 kHz USVs, locomotion/body temperature confound checks.
+
+COGNITION_DOMAIN_MAPPING:
+- Social cognition / social behavior: increased total social interaction and sniffing at 0.1 mg/kg.
+- Attention/executive: no direct attention task in this study.
+- Learning/memory: no direct learning or memory task.
+- Decision/arousal: PCP hyperactivity attenuation at 0.1 mg/kg.
+
+DOSE INTERPRETATION:
+- 0.03 mg/kg: no detectable effect on PCP hyperactivity; no evidence of social benefit shown.
+- 0.1 mg/kg: effect-associated dose for social interaction increase and PCP hyperactivity attenuation.
+- 0.3 mg/kg: adverse physiology (hypothermia, some hypoactivity), not selected as beneficial social dose.
+
+STUDY TABLE:
+| source_id | formulation | route | dose as reported | converted dose | unit | weight-normalized? | bolus vs infusion | infusion rate | repeated schedule | species/population | sample size | timing to assessment | task/measure | directness | effect direction | full-text accessed? | key limitations |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| S4 | oxytocin acetate | s.c. | 0.03, 0.1, 0.3 mg/kg | not needed | mg/kg | Y | bolus injection | NA | single-dose | male Lister-hooded rats | n varies: 12 within-sub dose-response; n=8/group PCP/social pair n=8 | oxytocin 30-45 min before behavioral tests | social interaction, PCP hyperactivity, USVs | direct for social behavior; not global cognition | 0.1 positive; 0.03 null on key effect; 0.3 adverse/confounded | Y | single lab; model-specific; social interaction not equal to broad cognition |
+
+VERDICT_FOR_STRATUM:
+- Evidence level: MODERATE for specific social-behavior effect, not broad cognition.
+- Dose label: PRELIMINARY_DOSE_RESPONSE.
+- Lowest effect-associated dose in opened study: 0.1 mg/kg s.c.
+- Highest no-effect dose for PCP attenuation in opened study: 0.03 mg/kg s.c.
+- Optimal dose: not established; 0.1 mg/kg is merely the best-supported tested dose in this study.
+
+NEXT_ACTIONS:
+- Continue targeted searches for route-matched full texts, especially human peripheral injection PFC and parasympathetic studies.
+- Maintain separation between oxytocin acetate-specified studies and generic oxytocin formulations.

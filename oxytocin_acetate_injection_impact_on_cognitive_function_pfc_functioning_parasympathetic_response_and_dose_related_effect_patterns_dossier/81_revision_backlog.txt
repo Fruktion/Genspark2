@@ -1,0 +1,20 @@
+TITLE: Revision backlog
+PURPOSE: Track remaining repairs.
+STATUS: SUBSTANTIVE_DRAFT
+SCOPE: Backlog items.
+DEPENDENCIES: 90_self_audit_round_*.txt
+KEY_QUESTIONS: What still needs improvement?
+EVIDENCE_TIER: WORK_LOG
+SOURCE_IDS_USED: NONE_INFERENCE_ONLY
+OPEN_ISSUES: Backlog active.
+LAST_UPDATED: 2026-03-27
+
+BACKLOG:
+1. Retrieve full text and exact dosing for S1 and S3.
+2. Add any direct human PFC injection study if located.
+3. Expand source register if additional full texts are opened.
+4. Re-run manifest/tree after all edits.
+
+NEXT_ACTIONS:
+- Continue targeted searches for route-matched full texts, especially human peripheral injection PFC and parasympathetic studies.
+- Maintain separation between oxytocin acetate-specified studies and generic oxytocin formulations.

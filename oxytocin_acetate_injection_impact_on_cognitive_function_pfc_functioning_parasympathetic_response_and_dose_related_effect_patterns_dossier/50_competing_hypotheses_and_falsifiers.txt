@@ -1,0 +1,30 @@
+TITLE: Competing hypotheses and falsifiers
+PURPOSE: Make alternative explanations explicit.
+STATUS: SUBSTANTIVE_DRAFT
+SCOPE: Behavioral, PFC, autonomic, and dose hypotheses.
+DEPENDENCIES: 34_disconfirming_evidence_and_red_team_*.txt
+KEY_QUESTIONS: What would falsify current favored interpretations?
+EVIDENCE_TIER: RED_TEAM_FRAMEWORK
+SOURCE_IDS_USED: S1; S3; S4; S5
+OPEN_ISSUES: Need more direct falsification studies.
+LAST_UPDATED: 2026-03-27
+
+H1: Peripheral injected oxytocin broadly enhances cognition.
+- Current status: weakly supported at best for narrow social-cognition context.
+- Falsifier: multiple null broad-cognition injection studies with adequate dosing.
+
+H2: Peripheral injected oxytocin improves PFC functioning.
+- Current status: unsupported in opened human evidence; mixed/weak in animals.
+- Falsifier: direct null neural studies after active peripheral doses.
+
+H3: Injected oxytocin increases parasympathetic tone.
+- Current status: weak and context-limited.
+- Falsifier: rigorous HRV/RSA studies showing no vagal enhancement.
+
+H4: There is an optimal injected dose.
+- Current status: unsupported.
+- Falsifier already partly present: S4 shows non-monotonic liability and no universal optimum.
+
+NEXT_ACTIONS:
+- Continue targeted searches for route-matched full texts, especially human peripheral injection PFC and parasympathetic studies.
+- Maintain separation between oxytocin acetate-specified studies and generic oxytocin formulations.

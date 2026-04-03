@@ -1,0 +1,19 @@
+TITLE: Contradictions - apparent positive findings that do not replicate across doses
+PURPOSE: Highlight narrow-dose positivity and adjacent-dose failure.
+STATUS: SUBSTANTIVE_DRAFT
+SCOPE: Dose fragility.
+DEPENDENCIES: 30c_minimum_effective_no_effect_and_adverse_dose_ranges.txt
+KEY_QUESTIONS: Do positive findings survive adjacent-dose comparison?
+EVIDENCE_TIER: DOSE_CRITIQUE
+SOURCE_IDS_USED: S4
+OPEN_ISSUES: More within-study multi-dose evidence needed.
+LAST_UPDATED: 2026-03-27
+
+KEY CASE:
+- S4 provides the cleanest opened dose-contrast: 0.03 mg/kg s.c. did not attenuate PCP hyperactivity; 0.1 mg/kg did; 0.3 mg/kg created hypothermia and some hypoactivity.
+- This pattern directly argues against assuming monotonic benefit with higher doses.
+- It also shows that a positive finding at one dose can fail at the adjacent lower dose and become physiologically problematic at the higher dose.
+
+NEXT_ACTIONS:
+- Continue targeted searches for route-matched full texts, especially human peripheral injection PFC and parasympathetic studies.
+- Maintain separation between oxytocin acetate-specified studies and generic oxytocin formulations.

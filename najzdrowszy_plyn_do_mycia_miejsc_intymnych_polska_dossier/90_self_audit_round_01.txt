@@ -1,0 +1,17 @@
+TITLE: 90 Self Audit Round 01
+PURPOSE: First full audit of dossier
+STATUS: complete
+SCOPE: Structure, evidence, honesty, market build
+DEPENDENCIES: all
+KEY_QUESTIONS: What is wrong after pass 1?
+EVIDENCE_TIER: self-audit
+SOURCE_IDS_USED: INFERENCE
+OPEN_ISSUES: Resolved in revision log
+LAST_UPDATED: 2026-03-31
+
+
+Round 01 findings:
+- Structure adequate but product verification too weak for many SKUs.
+- Risk of overvaluing intimate-wash category noted; corrected by promoting comparator arms.
+- Need stronger repeated emphasis that pharmacy status is not evidence.
+- Need explicit readiness file with MARKET_VERIFICATION_READY separate from PRIMARY_EVIDENCE_READY.

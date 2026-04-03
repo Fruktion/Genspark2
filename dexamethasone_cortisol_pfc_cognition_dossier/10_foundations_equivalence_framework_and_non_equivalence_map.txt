@@ -1,0 +1,69 @@
+TITLE: Equivalence framework and non-equivalence map
+PURPOSE: Define which dexamethasone-to-cortisol comparisons are legitimate, which are domain-specific, and where equivalence fails for PFC/cognition claims.
+STATUS: IN_PROGRESS
+SCOPE: Translation questions around dexamethasone, cortisol, hydrocortisone, and corticosterone across anti-inflammatory, HPA-suppression, receptor, brain-exposure, and cognitive domains.
+DEPENDENCIES: 04_source_register.txt; 12_compound_identity_and_steroid_comparison_dexamethasone_cortisol_hydrocortisone_corticosterone.txt; 13_receptor_logic_MR_vs_GR_and_why_it_matters_for_PFC.txt; 14_PK_PD_and_brain_exposure_limits_of_serum_cortisol_as_proxy.txt; 20_mechanisms_dexamethasone_feedback_suppression_and_DST_logic.txt
+KEY_QUESTIONS: When is an equivalence table useful; when does it fail; can any single dexamethasone-to-cortisol conversion be justified for PFC function.
+EVIDENCE_TIER: MIXED_FOUNDATIONAL
+SOURCE_IDS_USED: S009; S019; S021; S022; S023; S011
+OPEN_ISSUES: Direct human brain receptor occupancy data remain sparse; 0.5 mg-specific cognition evidence remains absent.
+LAST_UPDATED: 2026-04-01
+
+FOUNDATIONAL PRINCIPLE
+There is no single, globally valid dexamethasone-to-cortisol equivalence. The literature supports several partially separable domains of comparison, and evidence from one domain does not automatically transport into another.
+
+DOMAIN MAP
+1) Anti-inflammatory / immunosuppressive equivalence
+- Endotext and clinical steroid tables provide conventional anti-inflammatory potency comparisons (S009).
+- These tables are useful for therapeutic anti-inflammatory dosing context.
+- They do NOT establish equivalence for brain-state, receptor-balance, or PFC function.
+Claim status: SUPPORTED_FOR_CLINICAL_POTENCY_ONLY [S009]
+
+2) HPA-suppression / adrenal-feedback equivalence
+- Endotext distinguishes glucocorticoid potency from HPA-suppression potency; dexamethasone has disproportionately strong HPA-suppressive action relative to cortisol/hydrocortisone (S009).
+- The J Clin Pharmacol dose-equivalency paper evaluated adrenal suppression and immune-cell trafficking, not cognition (S019).
+- DST studies show post-dexamethasone cortisol depends on dexamethasone absorption, metabolism, binding proteins, and assay choice (S021).
+Claim status: SUPPORTED_AS_A_DISTINCT_DOMAIN [S009, S019, S021]
+Failure mode: post-dexamethasone cortisol is an endocrine feedback-test result, not a direct readout of cortisol-like CNS exposure.
+
+3) Receptor-affinity / receptor-balance equivalence
+- MR and GR are not interchangeable. Endogenous cortisol/corticosterone engage both systems, whereas dexamethasone is predominantly a GR ligand with little MR substitution in brain contexts (S023).
+- MR:GR balance matters for stress adaptation and cognition; therefore equalizing one downstream biomarker cannot reconstruct the same receptor state (S023).
+Claim status: SUPPORTED_NON_EQUIVALENCE [S023]
+
+4) Brain-exposure / BBB-transport equivalence
+- Dexamethasone poorly penetrates the brain relative to endogenous glucocorticoids because of P-glycoprotein transport limits; classic work and later reviews identify this as a key reason dexamethasone acts differently centrally (S008, S023).
+- Thus even if two regimens looked comparable in blood or endocrine suppression, they need not generate comparable hippocampal/PFC exposure.
+Claim status: SUPPORTED_NON_EQUIVALENCE [S008, S023]
+
+5) Cognitive / PFC equivalence
+- Human and mechanistic evidence show cognition depends on timing, rhythm, task, population, co-mediators, and receptor balance (S003, S011, S022).
+- Same total hydrocortisone dose given in different temporal patterns alters working memory and emotional processing differently (S022).
+- Therefore a single blood-level or dose conversion cannot validly stand in for PFC-equivalent cognitive effect.
+Claim status: NOT JUSTIFIED [S003, S011, S022]
+
+DST-SPECIFIC NON-EQUIVALENCE RULE
+- A DST is designed to test negative feedback integrity or autonomous cortisol secretion, not to estimate a cortisol-equivalent cognitive exposure.
+- Post-DST cortisol values reflect the suppression outcome after exogenous dexamethasone plus multiple assay and binding constraints (S021).
+- Inference to “this much dexamethasone equals this much useful cortisol for PFC function” is therefore INVALID.
+Claim status: STRONGLY_SUPPORTED [S021]
+
+ASSAY AND BINDING FAILURES OF SIMPLE CONVERSION
+- Total cortisol after dexamethasone can be distorted by CBG changes and OCP use; free cortisol and measured dexamethasone levels can reclassify apparent abnormalities (S021).
+- In Genere et al., all false-positive DST interpretations occurred in the mildly abnormal total-cortisol band and were driven especially by OCP-related binding effects (S021).
+Implication: a single serum total cortisol number after dexamethasone is not even a clean endocrine equivalence marker, much less a CNS/PFC equivalence marker.
+
+WHY 0.5 MG IS ESPECIALLY UNDERDETERMINED
+- The dossier found DST and endocrine literature around 1 mg and related testing, but no direct evidence linking 0.5 mg oral dexamethasone to a reproducible PFC-relevant cortisol-equivalent state.
+- Any interpolation from table potency or DST suppression to cognition would add multiple unsupported assumptions: similar absorption, similar BBB exposure, similar MR/GR state, similar rhythm, and similar task sensitivity.
+Claim status: UNRESOLVED_AND_CURRENTLY_NOT_JUSTIFIED
+
+TRACEABLE CLAIM GRID
+- “Equivalence tables are domain-specific” -> SUPPORTED [S009, S019]
+- “DST cortisol is not a cortisol-equivalent brain effect” -> SUPPORTED [S021]
+- “Dexamethasone differs from cortisol at MR/GR and BBB levels” -> SUPPORTED [S008, S023]
+- “Pattern/timing can change cognition independent of total dose” -> SUPPORTED [S003, S022]
+- “A single dex-to-cortisol conversion for PFC function is justified” -> DISCONFIRMED / NOT SUPPORTED [S011, S021, S022, S023]
+
+PROVISIONAL ANSWER FOR DOWNSTREAM SYNTHESIS
+Within current evidence, anti-inflammatory, HPA-suppression, receptor, brain-exposure, and cognitive equivalence must be kept separate. A single dexamethasone-to-cortisol conversion for PFC function is not justified.

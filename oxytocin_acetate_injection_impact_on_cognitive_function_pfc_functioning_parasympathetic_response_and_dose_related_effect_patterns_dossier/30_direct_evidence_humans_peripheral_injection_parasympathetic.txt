@@ -1,0 +1,32 @@
+TITLE: Direct evidence - humans - peripheral injection - parasympathetic
+PURPOSE: Summarize direct human peripheral injection evidence on autonomic/parasympathetic outcomes.
+STATUS: SUBSTANTIVE_DRAFT
+SCOPE: Human peripheral injection autonomic evidence only.
+DEPENDENCIES: 43_measurement_and_controller_limitations_cognition_pfc_hrv_respiration_handling.txt
+KEY_QUESTIONS: Does injected oxytocin increase validated parasympathetic metrics in humans?
+EVIDENCE_TIER: DIRECT_HUMAN_PRIMARY_BUT_LIMITED
+SOURCE_IDS_USED: S3
+OPEN_ISSUES: Full protocol/dose and respiration controls unavailable in opened abstract.
+LAST_UPDATED: 2026-03-27
+
+EVIDENCE_SUMMARY:
+- S3: pregnant women undergoing induction of labor with oxytocin showed dose-dependent decrease in heart rate and increase in spectral HRV variables.
+- Population: obstetric/peripartum, not healthy nonpregnant adults.
+- Metric: spectral HRV variables; exact variables named only generically in abstract.
+- This is not equivalent to clean proof of isolated parasympathetic activation, because spectral increases can reflect mixed autonomic influences and physiology in labor differs substantially.
+
+STUDY-LEVEL TABLE:
+| source_id | formulation | route | dose as reported | converted dose | unit | weight-normalized? | bolus vs infusion | infusion rate | repeated schedule | species/population | sample size | timing to assessment | task/measure | directness | effect direction | full-text accessed? | key limitations |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| S3 | generic obstetric oxytocin, salt/formulation unspecified in abstract | likely IV infusion for labor induction | exact protocol not in opened abstract | NA | NA | N | infusion likely | unclear | clinical titration during labor context | pregnant women | 28 oxytocin cohort | during treatment | ECG spectral/nonlinear analyses | direct autonomic but not clean parasympathetic isolation | dose-dependent HR decrease and spectral power increase | N | abstract only; no respiration control details; obstetric context limits generalization |
+
+VERDICT_FOR_STRATUM:
+- Evidence level: WEAK/PRELIMINARY.
+- Parasympathetic claim: only cautiously suggestive, not definitive.
+- Dose-response label: PRELIMINARY_DOSE_RESPONSE at best, because abstract claims dose dependence but details are inaccessible.
+- Minimum effective dose/no-effect range: unresolved.
+- Optimal dose: OPTIMAL_DOSE_NOT_ESTABLISHED.
+
+NEXT_ACTIONS:
+- Continue targeted searches for route-matched full texts, especially human peripheral injection PFC and parasympathetic studies.
+- Maintain separation between oxytocin acetate-specified studies and generic oxytocin formulations.

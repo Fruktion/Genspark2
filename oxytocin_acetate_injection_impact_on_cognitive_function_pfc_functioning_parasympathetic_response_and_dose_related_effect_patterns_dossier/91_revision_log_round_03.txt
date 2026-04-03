@@ -1,0 +1,14 @@
+TITLE: Revision log round 03
+PURPOSE: Log repairs after audit 03.
+STATUS: COMPLETE
+SCOPE: Final repair actions.
+DEPENDENCIES: 90_self_audit_round_03.txt
+KEY_QUESTIONS: What final honesty improvements were made?
+EVIDENCE_TIER: META_LOG
+SOURCE_IDS_USED: NONE_INFERENCE_ONLY
+OPEN_ISSUES: None additional.
+LAST_UPDATED: 2026-03-27
+
+REPAIRS:
+- Kept article readiness at NO.
+- Added explicit statement separating doses used in positive studies from doses proven best.

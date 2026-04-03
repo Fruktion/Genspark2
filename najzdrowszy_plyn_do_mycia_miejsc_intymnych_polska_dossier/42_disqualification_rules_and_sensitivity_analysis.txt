@@ -1,0 +1,24 @@
+TITLE: 42 Disqualification Rules and Sensitivity Analysis
+PURPOSE: Define hard downgrades and test robustness
+STATUS: complete
+SCOPE: Decision rules and sensitivity checks
+DEPENDENCIES: 40,41
+KEY_QUESTIONS: What automatically downgrades a product?
+EVIDENCE_TIER: decision synthesis
+SOURCE_IDS_USED: S05,S06,S07,S19-S23
+OPEN_ISSUES: Could refine with better INCI coverage
+LAST_UPDATED: 2026-03-31
+
+
+Disqualification / strong-downgrade triggers:
+- internal-use or douche modality,
+- missing current INCI with no meaningful second-source support,
+- obvious harsh surfactant system (e.g., SLES + alkylbenzene sulfonate) for routine vulvar use,
+- menthol/cooling/antiseptic gimmicks,
+- strong fragrance or essential-oil burden in sensitive-user scenario,
+- leave-on protective gels when question is rinse-off cleansing.
+
+Sensitivity analysis:
+- If fragrance penalty is reduced, some popular pharmacy products rise slightly but still do not beat bland comparators convincingly.
+- If pH/lactic-acid benefit is overweighted, Lactacyd/Lactovaginal-type products rise, but this likely overfits marketing narratives.
+- If verification confidence is weighted more heavily, many current market products fall into uncertainty bins and water-only rises further.

@@ -1,0 +1,94 @@
+TITLE: Search strategy and queries
+PURPOSE: Document exact research passes, executed queries, and honesty limits.
+STATUS: UPDATED_WITH_REPAIR_ROUND
+SCOPE: Academic mechanisms, clinical scenarios, allergy data, regulatory context, Polish market verification, red-team passes.
+DEPENDENCIES: 02_research_questions.txt
+KEY_QUESTIONS: Which searches were executed, what was actually opened, and where are the remaining holes?
+EVIDENCE_TIER: METHOD
+SOURCE_IDS_USED: A01-A10, G01-G03, P01-P09, R01-R03, X01-X03
+OPEN_ISSUES: second-source INCI verification incomplete; many retailer pages remain hard to open directly.
+LAST_UPDATED: 2026-03-31
+
+PASS_A_FULL_TEXT_UPGRADE
+Goal:
+- Upgrade cleanser science, AD, rosacea, and acne guidance from mixed snippets to opened full texts where possible.
+Executed queries / openings:
+- PMC8954092 soap syndet cleanser barrier pH surfactant
+- PMC3088928 cleansers dermatological disorders review
+- PMC3449106 atopic dermatitis emollient therapy cleansing mild syndet pH 5.5 6.0
+- PMC3168246 rosacea otc cleansers moisturizers review
+- NCBI Bookshelf NBK573057 acne skin care advice syndet
+- PubMed 34137035 Role of pH in skin cleansing
+- PubMed 25708973 MI rinse-off allergic contact dermatitis
+- PubMed 29256904 Contact Dermatitis Associated With Skin Cleansers
+- PubMed 29460655 acne cleanser systematic review
+Outputs used in dossier:
+- A01-A05 full texts opened and summarized.
+- A06-A09 kept as abstract-only / metadata-level where full text was not successfully opened.
+
+PASS_B_SPF_MAKEUP_REMOVAL
+Goal:
+- Find direct evidence that could overturn “mildest = best” by showing under-cleansing.
+Executed queries:
+- sunscreen removal cleanser study facial wash PubMed full text
+- makeup removal facial cleanser comparative study PubMed full text
+Key result:
+- A10 PMID 31157512, abstract-level evidence that water alone is insufficient and cleansing method matters.
+Honesty limit:
+- full text not opened; use only as a caution signal.
+
+PASS_C_ALLERGY_RED_TEAM
+Goal:
+- Search for evidence that favored formulas may still fail for allergy-prone subgroups.
+Executed queries:
+- allergic contact dermatitis fragrance rinse-off cleanser cocamidopropyl betaine methylisothiazolinone sodium lauryl sulfate irritation human
+- contact dermatitis associated with skin cleansers
+- methylisothiazolinone rinse-off products allergic contact dermatitis
+Key result use:
+- fragrance, MI, MCI/MI, quaternium-15, and betaine-family risk retained as subgroup cautions only.
+
+PASS_D_REGULATORY_CONTEXT
+Goal:
+- Repair claim-honesty framework using official EU materials.
+Executed openings:
+- G01 Regulation (EU) No 655/2013
+- G02 Regulation (EC) No 1223/2009
+- G03 Commission technical document on cosmetic claims
+Rule produced:
+- “hypoallergenic”, “gentle”, and “for sensitive skin” are marketing claims unless corroborated by formula and evidence.
+
+PASS_E_POLISH_MARKET_VERIFICATION
+Goal:
+- Open official product pages and gather current INCI / face-use statements / size / price when visible.
+Opened official pages:
+- P01 CeraVe Hydrating Cleanser
+- P02 CeraVe Foaming Cleanser
+- P03 LRP Toleriane Emulsja Oczyszczająca
+- P04 Bioderma Sensibio Gel Moussant
+- P05 Avène Tolérance Żel balsam oczyszczający
+- P06 BasicLab Dermatologiczna emulsja myjąca
+- P07 BasicLab Normalizujący żel oczyszczający
+- P08 Cetaphil family page only
+- P09 SVR French official page only
+Retailer/apteka evidence status:
+- R01 Rossmann category page signal opened previously
+- R02 Super-Pharm family-level signal/snippet opened previously
+- R03 Hebe family/category signal opened previously
+- direct retailer page openings remained inconsistent due 403/410/expired or family-only redirects
+
+PASS_F_BOUNDARY_CASES
+Goal:
+- Keep body-face crossover oils and cleansing lotions from quietly contaminating the final ranking.
+Checked families:
+- Atoderm Huile de douche
+- Uriage Xémose oil
+- Mustela Stelatopia
+- Eucerin pH5 family
+Outcome:
+- retained on longlist map or excluded from shortlist depending on explicit face-use confidence.
+
+SEARCH DISCIPLINE RULES ADDED DURING REPAIR
+- Search snippets may confirm that a SKU exists in Poland, but cannot alone prove INCI, pH, or fragrance status.
+- Unknown pH stays UNKNOWN.
+- Official product pages outrank retailer pages for INCI; retailer pages are mainly for market existence and price.
+- Broken / failed full-text attempts are logged under X-sources instead of being silently treated as opened.

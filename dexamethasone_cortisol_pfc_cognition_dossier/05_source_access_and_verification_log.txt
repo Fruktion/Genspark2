@@ -1,0 +1,55 @@
+TITLE: Source access and verification log
+PURPOSE: Record how each key source was accessed, what level of verification was achieved, and what remains abstract-only or indirect.
+STATUS: IN_PROGRESS
+SCOPE: Traceable access honesty log for decisive sources used in round-one extraction.
+DEPENDENCIES: 03_search_strategy_and_queries.txt; 04_source_register.txt
+KEY_QUESTIONS: Which sources were full text; which were abstract-only; what tool/path was used; what limitations attach to each.
+EVIDENCE_TIER: META_SOURCE_CONTROL
+SOURCE_IDS_USED: S001-S025
+OPEN_ISSUES: Some older primary studies remain abstract-only due time constraints; more full-text opening is still desirable for direct dexamethasone cognition and some replacement studies.
+LAST_UPDATED: 2026-04-01
+
+ACCESS GRADE DEFINITIONS
+- FULL_TEXT_OPENED: article/review body opened in PMC/Bookshelf/crawler and used for targeted extraction.
+- OFFICIAL_DOCUMENT_OPENED: official NCBI/Bookshelf reference fully opened.
+- ABSTRACT_ONLY: PubMed abstract or search-result summary only.
+- SEARCH_ONLY: discovered but not yet entered as an evidence source.
+
+KEY SOURCE ACCESS LOG
+S003 | Henckens 2011 PNAS | FULL_TEXT_OPENED | Access path: PMC full text + direct extraction + prior targeted summary | Verification note: task, timing, salivary cortisol, and DLPFC/working-memory details confirmed from full text.
+S007 | Mizoguchi 2004 J Neurosci | FULL_TEXT_OPENED | Access path: PMC full text + direct extraction + prior targeted summary | Verification note: ADX model, corticosterone replacement, PFC-like task, and RIA confirmed.
+S008 | Meijer/Schinkel 1998 Endocrinology | ABSTRACT_ONLY | Access path: PubMed/crawler summary | Verification note: accepted as mechanistic support for BBB/P-gp restriction, but quantitative details should be treated cautiously until full text opened.
+S009 | Endotext glucocorticoid therapy chapter | OFFICIAL_DOCUMENT_OPENED | Access path: NCBI Bookshelf | Verification note: used only for table/domain distinctions, not for cognition efficacy.
+S011 | Arnsten 2009 Nat Rev Neurosci | FULL_TEXT_OPENED | Access path: PMC full text + targeted summary | Verification note: used as mechanistic scaffold and contradiction to linear conversion claims.
+S012 | Liston/Gould review | FULL_TEXT_OPENED | Access path: PMC/crawler partial full text | Verification note: supportive review, not decisive alone.
+S013 | Shields 2016 meta-analysis | FULL_TEXT_OPENED | Access path: PMC/crawler partial full text | Verification note: used for task-discipline and stress-vs-cognition boundaries.
+S021 | Genere 2022 DST interpretation study | FULL_TEXT_OPENED | Access path: PMC full text + targeted summarization | Verification note: assay methods, dex dose/timing, false-positive logic, and free-vs-total cortisol distinction confirmed.
+S022 | Kalafatakis 2018 ultradian rhythmicity study | FULL_TEXT_OPENED | Access path: PMC full text + targeted summarization | Verification note: same total 20 mg/day hydrocortisone with different patterns and divergent working-memory outcomes confirmed.
+S023 | de Kloet 2022 MR/GR review | FULL_TEXT_OPENED | Access path: PMC full text + targeted summarization | Verification note: dexamethasone BBB restriction, MR weakness, pituitary suppression, and chemical-adrenalectomy logic confirmed.
+S024 | Russell 2024 PULSES trial | FULL_TEXT_OPENED | Access path: PMC full text + targeted summarization | Verification note: primary FERT null, N-back null, fatigue/affect improvements, and pattern-specific emotional findings confirmed.
+S025 | Ben-Shlomo 2025 ACI cognition review | FULL_TEXT_OPENED | Access path: PMC full text + targeted summarization | Verification note: inconsistent objective deficits, DiCO framing, and overtreatment cautions confirmed.
+
+ABSTRACT-ONLY DECISIVE DIRECT-STUDY SOURCES
+S001 | Wingenfeld 2011 dexamethasone/hydrocortisone healthy volunteers | ABSTRACT_ONLY | Important null direct dex study; full text still needed.
+S002 | Wingenfeld 2011 hydrocortisone in healthy vs MDD | ABSTRACT_ONLY | Direct task-specific impairment in healthy controls; full text still needed.
+S004 | Harbeck 2009 nocturnal replacement pilot | ABSTRACT_ONLY | Small replacement pilot; mostly null findings.
+S005 | Buning 2015 HC dose trial in SAI | ABSTRACT_ONLY | Useful null higher-vs-lower replacement dose source.
+S006 | Tiemensma 2016 PAI deficits | ABSTRACT_ONLY | Important for persistence of mild deficits.
+S014 | Porter 2002 elderly HC study | ABSTRACT_ONLY | Important null/disconfirming source.
+S015 | Young 1999 chronic HC in healthy men | ABSTRACT_ONLY | Important impairment source.
+S016 | Krekeler 2021 dual-release HC | ABSTRACT_ONLY | Suggestive but small.
+S017 | Schultebraucks 2015 Addison's subtle deficits | ABSTRACT_ONLY | Disconfirming/nuance source.
+S018 | Mizoguchi 2008 cholinergic ADX follow-up | ABSTRACT_ONLY | Adjacent mechanistic only.
+S019 | Mager 2003 dose equivalency evaluation | ABSTRACT_ONLY | Domain-specific potency source, not CNS evidence.
+S020 | Schlosser 2013 inhibition study | ABSTRACT_ONLY | Important task-specific positive source.
+
+ACCESS HONESTY CONCLUSIONS
+- Strongest current claims are those grounded in S003, S007, S021, S022, S023, S024, and S025.
+- Claims relying mainly on S001/S002/S014/S015/S020 should be labelled as lower-confidence until full texts are opened.
+- No direct 0.5 mg dexamethasone cognition full text has been opened because no clean primary study was located in this round.
+
+NEXT BEST ACCESS PRIORITIES
+1) Full text for S001 Wingenfeld dex/hydrocortisone study.
+2) Full text for S015 chronic hydrocortisone study.
+3) Full text for S005 or S006 adrenal-insufficiency dose/timing studies.
+4) Additional direct dexamethasone cognition paper(s), if locatable.

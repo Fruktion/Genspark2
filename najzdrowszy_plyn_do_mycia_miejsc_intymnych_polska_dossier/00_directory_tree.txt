@@ -1,0 +1,63 @@
+TITLE: 00 Directory Tree
+PURPOSE: Show final dossier tree
+STATUS: complete
+SCOPE: Final file inventory
+DEPENDENCIES: all
+KEY_QUESTIONS: What files are present?
+EVIDENCE_TIER: meta
+SOURCE_IDS_USED: INFERENCE
+OPEN_ISSUES: None
+LAST_UPDATED: 2026-03-31
+
+najzdrowszy_plyn_do_mycia_miejsc_intymnych_polska_dossier/
+├── 00_review_packet.txt
+├── 01_scope_and_objectives.txt
+├── 01b_objective_function_constraints_and_scenarios.txt
+├── 02_research_questions.txt
+├── 03_search_strategy_and_queries.txt
+├── 04_source_register.txt
+├── 04b_claim_to_source_traceability_matrix.txt
+├── 04c_evidence_depth_scorecard.txt
+├── 05_source_access_and_verification_log.txt
+├── 06_concept_dependency_graph.txt
+├── 07_glossary_and_prerequisites.txt
+├── 08_learning_objectives_and_misconceptions.txt
+├── 09_open_questions_and_assumptions.txt
+├── 10_foundations_vulvar_hygiene_and_scope.txt
+├── 10b_regulatory_status_cosmetic_vs_medicinal_claims.txt
+├── 20_mechanisms_or_components_ingredient_risk_logic.txt
+├── 20_polish_market_product_universe.txt
+├── 20b_product_inci_verification_matrix.txt
+├── 20c_formulation_feature_flags_and_red_flags.txt
+├── 21_water_only_and_bland_cleanser_comparators.txt
+├── 30_direct_evidence_intimate_cleansers.txt
+├── 31_adjacent_evidence_vulvar_dermatitis_barrier_irritants.txt
+├── 32_mechanistic_extrapolation_from_skin_and_microbiome_evidence.txt
+├── 32_pH_lactic_acid_microbiome_claims.txt
+├── 33_contradictions_null_results_and_boundary_conditions_intimate_cleansers.txt
+├── 33_marketing_claims_vs_evidence.txt
+├── 34_disconfirming_evidence_and_red_team_for_intimate_washes.txt
+├── 40_system_level_synthesis_market_plus_evidence.txt
+├── 40_weighted_decision_matrix_default_user.txt
+├── 40b_weighted_decision_matrix_sensitive_user.txt
+├── 40c_weighted_decision_matrix_dryness_menopause_postpartum.txt
+├── 41_scenario_specific_optima.txt
+├── 42_disqualification_rules_and_sensitivity_analysis.txt
+├── 42_sensitivity_analysis_and_decision_rules.txt
+├── 43_formulation_change_and_uncertainty_log.txt
+├── 43_measurement_and_controller_limitations.txt
+├── 44_candidate_shortlist_with_claim_traceability.txt
+├── 44_primary_study_priority_queue.txt
+├── 50_competing_hypotheses_and_falsifiers.txt
+├── 60_learning_design_memory_bridges_and_recap_plan.txt
+├── 70_article_blueprint.txt
+├── 80_gap_log_and_next_searches.txt
+├── 81_revision_backlog.txt
+├── 90_self_audit_round_01.txt
+├── 90_self_audit_round_02.txt
+├── 90_self_audit_round_03.txt
+├── 91_revision_log_round_01.txt
+├── 91_revision_log_round_02.txt
+├── 91_revision_log_round_03.txt
+├── 95_final_red_team_audit.txt
+├── 99_manifest_final.txt

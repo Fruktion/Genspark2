@@ -1,0 +1,14 @@
+TITLE: Revision log round 01
+PURPOSE: Log repairs after audit 01.
+STATUS: COMPLETE
+SCOPE: Repair actions.
+DEPENDENCIES: 90_self_audit_round_01.txt
+KEY_QUESTIONS: What was fixed?
+EVIDENCE_TIER: META_LOG
+SOURCE_IDS_USED: NONE_INFERENCE_ONLY
+OPEN_ISSUES: Human dosing still unresolved.
+LAST_UPDATED: 2026-03-27
+
+REPAIRS:
+- Added clearer dose-response and verdict matrices.
+- Strengthened direct-vs-adjacent boundaries.

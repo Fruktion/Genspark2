@@ -1,0 +1,34 @@
+TITLE: Direct evidence - humans - peripheral injection - cognition
+PURPOSE: Summarize direct human IV/IM/SC cognition evidence separately from all other routes.
+STATUS: SUBSTANTIVE_DRAFT
+SCOPE: Human peripheral injection cognition only.
+DEPENDENCIES: 04_source_register.txt; 30b_dose_response_matrix_by_route_species_outcome.txt
+KEY_QUESTIONS: What direct evidence shows cognitive change after peripheral injected oxytocin in humans?
+EVIDENCE_TIER: DIRECT_HUMAN_PRIMARY_BUT_THIN
+SOURCE_IDS_USED: S1
+OPEN_ISSUES: Exact dose/infusion details and full methods not available from opened abstract.
+LAST_UPDATED: 2026-03-27
+
+EVIDENCE_SUMMARY:
+- S1: 15 adults with autism or Asperger's disorder received IV oxytocin and placebo in crossover fashion.
+- Outcome: retention of affective speech comprehension after delay improved/maintained better in those receiving oxytocin first.
+- Domain: social cognition only.
+- Population: human clinical adults, not healthy general population.
+- Route: IV.
+- Directness: direct cognition outcome, but not broad cognition.
+
+STUDY-LEVEL TABLE:
+| source_id | formulation | route | dose as reported | converted dose if applicable | unit | weight-normalized? | bolus vs infusion | infusion rate | repeated schedule | species/population | sample size | timing to assessment | task/measure | directness | effect direction | full-text accessed? | key limitations |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| S1 | generic oxytocin, salt unspecified in opened abstract | IV | not stated in opened abstract | NA | NA | unclear | infusion/challenge wording used, exact details not opened | unclear | single challenge crossover | adults with autism/Asperger's | 15 | pre-post plus delayed retention | affective speech comprehension retention | direct social cognition | positive on retention, not necessarily immediate generalized cognition | N | abstract only; no exact dose, timing, or full protocol |
+
+VERDICT_FOR_STRATUM:
+- Evidence level: WEAK/PRELIMINARY.
+- Dose label: DOSE_ASSOCIATED_EFFECT cannot be assigned precisely because dose details were not retrieved.
+- Minimum effective dose: unresolved.
+- No-effect range: unresolved.
+- Optimal dose: OPTIMAL_DOSE_NOT_ESTABLISHED.
+
+NEXT_ACTIONS:
+- Continue targeted searches for route-matched full texts, especially human peripheral injection PFC and parasympathetic studies.
+- Maintain separation between oxytocin acetate-specified studies and generic oxytocin formulations.

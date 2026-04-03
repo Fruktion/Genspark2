@@ -1,0 +1,17 @@
+TITLE: 91 Revision Log Round 01
+PURPOSE: Repairs after audit 1
+STATUS: complete
+SCOPE: Changes made after first audit
+DEPENDENCIES: 90
+KEY_QUESTIONS: What was repaired?
+EVIDENCE_TIER: revision log
+SOURCE_IDS_USED: INFERENCE
+OPEN_ISSUES: More rounds still needed
+LAST_UPDATED: 2026-03-31
+
+
+Repairs implemented:
+- Added explicit comparator file and scenario shortlist emphasizing water-only/bland comparator.
+- Added uncertainty bins and downgraded weakly verified products.
+- Added explicit red-team overturn conditions.
+- Added market-verification honesty in scorecard.

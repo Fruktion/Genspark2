@@ -1,0 +1,21 @@
+TITLE: Contradictions, null results, and boundary conditions: route, dose, sex, context
+PURPOSE: Collect the main boundaries that shrink generalization.
+STATUS: SUBSTANTIVE_DRAFT
+SCOPE: Nulls and context dependence.
+DEPENDENCIES: 34_disconfirming_evidence_and_red_team_*.txt
+KEY_QUESTIONS: Where do positive narratives fail?
+EVIDENCE_TIER: CONTRADICTION_SYNTHESIS
+SOURCE_IDS_USED: S4; S5
+OPEN_ISSUES: Need more female and human data.
+LAST_UPDATED: 2026-03-27
+
+BOUNDARY_CONDITIONS:
+- S4 used male rats only.
+- S5 found WT rats did not show the same behavioral enhancement as Shank3-deficient rats, limiting generalization.
+- S4 direct PFC neurochemistry was non-significant despite behavioral effects.
+- Human evidence differs by clinical vs obstetric population.
+- High-dose peripheral effects can become adverse or mechanistically ambiguous via V1a pathways.
+
+NEXT_ACTIONS:
+- Continue targeted searches for route-matched full texts, especially human peripheral injection PFC and parasympathetic studies.
+- Maintain separation between oxytocin acetate-specified studies and generic oxytocin formulations.

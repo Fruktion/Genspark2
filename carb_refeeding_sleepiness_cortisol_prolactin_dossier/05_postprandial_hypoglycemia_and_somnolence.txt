@@ -1,0 +1,103 @@
+TITLE
+Postprandial hypoglycemia and somnolence
+PURPOSE
+Assess whether reactive hypoglycemia, rapid glycemic decline, incretin/insulin dynamics, and known postprandial sleepiness pathways explain the reported excessive sleepiness after carbohydrate reintroduction.
+STATUS
+SUBSTANTIVE_DRAFT
+SCOPE
+Reactive hypoglycemia, first-phase insulin issues, second-phase overshoot, orexin, serotonin/melatonin, vagal signaling, cytokines, and timing of symptoms.
+DEPENDENCIES
+02_metabolic_adaptation_mechanisms.txt, 07_neurotransmitter_and_cns_mechanisms.txt, 08_inflammatory_and_immune_mechanisms.txt.
+KEY_QUESTIONS
+Is true reactive hypoglycemia necessary? Which post-meal mechanisms are most likely to explain the symptom timing? How should blood-flow theories be rated?
+EVIDENCE_TIER
+Moderate, with direct review support but limited exact-protocol human data.
+SOURCE_IDS_USED
+S001,S002,S004,S005,S010,S014,S015,S021,S022,S023,S024,S025
+OPEN_ISSUES
+Need direct symptom-timed glucose/insulin measurements in low-carb-adapted individuals.
+LAST_UPDATED
+2026-04-03
+
+TOP-LINE ASSESSMENT
+“Reactive hypoglycemia” is an important candidate but should not be treated as the only explanation. The best current model is broader: carbohydrate reintroduction after low-carbohydrate adaptation may produce exaggerated postprandial glucose rise, altered insulin/incretin dynamics, orexin suppression, increased brain tryptophan availability, parasympathetic dominance, and possibly inflammatory signaling. Excessive sleepiness can emerge even without documented biochemical glucose values below the classic hypoglycemia threshold.
+
+1. REACTIVE HYPOGLYCEMIA: WHAT IS ESTABLISHED
+S004 summarizes the classical framework in which impaired early (first-phase) insulin release allows higher initial glucose excursion, followed by delayed and excessive second-phase insulin secretion that can drive late postprandial hypoglycemia [S004]. This model is most relevant when symptoms occur 2-5 hours after carbohydrate intake. It is not ideal for explaining sleepiness occurring within minutes of eating.
+
+Thus the timing matters:
+- 15-60 minutes: less likely to be classic late reactive hypoglycemia.
+- 2-5 hours: much more compatible with delayed hyperinsulinemic decline.
+
+2. FIRST-PHASE INSULIN / DELAYED SECOND-PHASE OVERSHOOT
+The classic late-RH model remains useful because it explains why some individuals can feel worst not at peak glucose but during the later decline. S004 notes that diminished first-phase release can permit sharper early hyperglycemia, which then drives delayed excessive later insulin secretion [S004]. If the person is low-carb adapted and peripheral tissues are relatively less ready to clear glucose smoothly [S001], this sequence may be accentuated.
+
+However, the dossier must be honest that direct proof of this exact sequence in the target phenotype is lacking. It is a probable mechanism, not yet an established one for this specific state.
+
+3. EXAGGERATED POSTPRANDIAL RESPONSE AFTER LOW-CARB ADAPTATION
+S001 found increased postprandial glucose response to a mixed meal after ketogenic adaptation, plus higher week-4 C-peptide after carbohydrate restriction [S001]. S002 found increased insulin/C-peptide response during OGTT under weight-maintaining ketogenic feeding in T2D [S002]. These findings are consistent with the idea that carbohydrate exposure after ketogenic adaptation can provoke a more pronounced endocrine response than expected from fasting glucose alone.
+
+This does not prove reactive hypoglycemia. But it does strongly support a state in which a carbohydrate meal may feel qualitatively more disruptive.
+
+4. OREXIN / HYPOCRETIN SUPPRESSION
+S010 emphasizes that orexin neurons are glucose-sensitive and centrally important for wakefulness [S010]. High glucose tends to suppress orexin activity, whereas low glucose activates orexin neurons. Therefore an acute rise in glucose after carbohydrate intake can directly reduce wake-promoting tone. In a low-carb-adapted person who has spent substantial time in a low-glucose, fat-fueled state, this orexin-related wakefulness system may react strongly to carbohydrate exposure.
+
+If the symptom occurs rapidly after carbohydrate ingestion, orexin suppression is a stronger candidate than classic delayed reactive hypoglycemia.
+
+5. TRYPTOPHAN / SEROTONIN / MELATONIN PATHWAY
+S010 reviews the longstanding mechanism by which carbohydrate-induced insulin action drives competing large neutral amino acids into muscle more than tryptophan, increasing the plasma Trp/LNAA ratio and facilitating brain tryptophan entry [S010]. That can favor serotonin and later melatonin synthesis. In sleep studies, high-glycemic meals can shorten sleep onset latency [S010].
+
+Important nuance: those studies usually examine pre-sleep conditions and sleep architecture, not necessarily daytime post-meal hypersomnolence. So this mechanism is best seen as a probable CNS contributor rather than a complete explanation.
+
+6. PARASYMPATHETIC / VAGAL ACTIVATION
+Any mixed meal promotes satiety signaling and parasympathetic activity. In a person emerging from a high-cortisol fasting state, this shift may feel disproportionately sedating. Direct opened evidence is limited, but autonomic transition remains a biologically coherent amplifier, especially for early post-meal drowsiness.
+
+7. IL-1 / CYTOKINE-MEDIATED FATIGUE
+S005 shows that high-fat/high-carbohydrate meals can raise inflammatory signals including IL-6, TNF-alpha, LPS, NF-kB, ROS, and leukocyte activation in humans [S005]. IL-1 and cytokine signaling are classically linked to “sickness behavior,” including reduced motivation and increased sleep drive. This pathway is a better explanation for fatigue developing over a somewhat longer postprandial window than for immediate sleepiness after a small carb exposure.
+
+8. BLOOD-FLOW REDISTRIBUTION THEORY
+The common lay claim that people get sleepy because blood is “diverted to the gut” is weak and insufficient. It does not explain why carbohydrate-specific reintroduction in a low-carb-adapted state should be especially soporific, nor does it account for hormonal, neurotransmitter, glycemic, and inflammatory evidence. At most, splanchnic hemodynamic changes are minor adjuncts, not primary causes.
+
+9. WHY SLEEPINESS MAY APPEAR IN THIS ADAPTED STATE SPECIFICALLY
+This is the core synthesis:
+- During prolonged carbohydrate restriction, tissues adapt away from carbohydrate use [S001,S002].
+- Carbohydrate reintroduction then produces a larger physiological perturbation than it would in a mixed-diet person.
+- The carbohydrate meal simultaneously raises glucose, alters insulin/incretin signaling, suppresses orexin, increases tryptophan availability to the brain, and shifts autonomic tone.
+- If glucose later falls rapidly, even without frank hypoglycemia, the person may experience a “crash” state with sleepiness, lethargy, or reduced vigilance.
+
+Thus the low-carb-adapted state increases the odds that ordinary postprandial sleepiness mechanisms become excessive.
+
+10. RED TEAM / HOW THIS COULD BE WRONG
+- Some suspected reactive hypoglycemia patients have no measurable metabolic disturbance on modern testing. True; S004 itself acknowledges diagnostic complexity.
+- Sleepiness may occur without any measurable glucose nadir. Also true; orexin/serotonin/autonomic mechanisms can explain this.
+- Meal size and total calories may matter as much as carbohydrates. Yes, especially for mixed meals.
+- The symptom could be mainly circadian, with carbohydrate acting as a timing-sensitive trigger rather than a primary metabolic cause.
+
+BOTTOM-LINE JUDGMENT
+Established:
+- Postprandial sleepiness has multiple plausible pathways, not just reactive hypoglycemia [S010].
+- Low-carbohydrate adaptation can exaggerate postprandial glucose response [S001,S002].
+Probable:
+- Excessive sleepiness in this phenotype is often driven by the combination of impaired carbohydrate tolerance, orexin suppression, and CNS/autonomic postprandial effects.
+Possible:
+- In some individuals, delayed excessive insulin response and genuine reactive hypoglycemia contribute substantially, especially when symptoms occur 2-5 hours after the meal [S004].
+
+
+[ROUND 2 ADDITION]
+11. DIRECT HUMAN EVIDENCE THAT POSTPRANDIAL FATIGUE IS NOT ONLY A GLUCOSE STORY
+S015 adds decisive human experimental evidence that IL-1 signaling contributes to postprandial fatigue. In lean and obese men given a heavy high-fat/high-carbohydrate meal after a run, fatigue increased within 30 minutes of the meal, and IL-1 receptor antagonism with anakinra reduced postprandial fatigue, especially in obese participants [S015]. This is important because classic late reactive hypoglycemia cannot fully explain fatigue that begins so early. It strengthens a model in which inflammatory or CNS cytokine signaling contributes alongside glucose dynamics.
+
+12. THE STRONGEST ROUND-2 NULL STUDY: GLUCOSE RHYTHMS CAN SHIFT WITHOUT SUBJECTIVE SLEEPINESS CHANGING
+S021 found that delaying meals shifted plasma glucose rhythms substantially but did not change subjective sleepiness [S021]. This is crucial red-team evidence. It means glucose changes alone are insufficient; the phenotype likely requires an interaction among glycemic, circadian, inflammatory, meal-composition, and CNS factors.
+
+13. SCOPING-REVIEW LESSON: VERY FEW STUDIES CO-MEASURE GLUCOSE AND SLEEPINESS WELL
+S014 found that very few modern studies simultaneously measured blood glucose, sleepiness, and productivity or performance directly, and several interventions reduced fatigue without changing glucose materially [S014]. This supports the dossier’s anti-gaming rule: absence of a direct glucose-sleepiness correlation in one episode would not falsify meal-triggered sleepiness.
+
+14. HISTORICAL HUMAN ADJACENT STUDIES STILL POINT TOWARD MEAL-COMPOSITION EFFECTS
+Search-pass additions S023-S025 indicate older human studies in which meal composition altered postprandial sleepiness/fatigue or performance, including signals that pure carbohydrate meals can increase subjective fatigue and slow reaction time [S023-S025]. These are abstract-only and therefore non-decisive, but they provide convergent historical human context that post-meal sleepiness is composition-sensitive.
+
+15. ROUND-2 JUDGMENT UPDATE
+The strongest updated model is now:
+- early post-meal sleepiness/fatigue: orexin suppression, serotonin/Trp shifts, autonomic change, and inflammatory signaling are stronger candidates than classic reactive hypoglycemia alone.
+- later crash symptoms: delayed glycemic decline and reactive hypoglycemia remain plausible, especially when symptoms are delayed by 2-5 hours.
+- glucose metrics matter, but they do not alone determine subjective sleepiness.

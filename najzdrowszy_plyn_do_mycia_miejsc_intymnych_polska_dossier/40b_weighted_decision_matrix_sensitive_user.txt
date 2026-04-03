@@ -1,0 +1,22 @@
+TITLE: 40b Weighted Decision Matrix: Sensitive User
+PURPOSE: Apply stricter rubric for sensitive/allergy-prone user
+STATUS: complete
+SCOPE: Sensitive scenario
+DEPENDENCIES: 40
+KEY_QUESTIONS: What changes when dermatitis risk dominates?
+EVIDENCE_TIER: decision synthesis
+SOURCE_IDS_USED: S02,S05,S06,S07,S19-S23
+OPEN_ISSUES: Need more fragrance-free verified market options
+LAST_UPDATED: 2026-03-31
+
+
+Weights (sensitive user)
+- Low irritation/allergy burden: 45
+- Absence of fragrance/avoidable sensitizers: 25
+- Formula simplicity: 15
+- Verification confidence: 10
+- Availability: 5
+
+Result:
+Water-only or soap-substitute/emollient logic dominates unless user needs more cleansing power.
+Any product with parfum, fragrance allergens, tea tree, menthol, heavy botanicals or unnecessary complexity is strongly downgraded.

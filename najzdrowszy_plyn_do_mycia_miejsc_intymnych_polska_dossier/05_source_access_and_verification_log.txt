@@ -1,0 +1,23 @@
+TITLE: 05 Source Access and Verification Log
+PURPOSE: Log source access honesty
+STATUS: complete
+SCOPE: Evidence access and limitations
+DEPENDENCIES: 04
+KEY_QUESTIONS: What was opened vs snippet-only?
+EVIDENCE_TIER: meta
+SOURCE_IDS_USED: S01-S24
+OPEN_ISSUES: Could add screenshots if needed
+LAST_UPDATED: 2026-03-31
+
+
+Honesty rules applied:
+- Opened full text was required for major evidence pillars when possible.
+- PubMed abstracts were not treated as decisive for major recommendations.
+- Product listings were treated as formulation/availability metadata only.
+
+Examples:
+- BAD leaflet (S02): full text opened and directly quoted in synthesis.
+- Systematic review on vulvar contact dermatitis (S06): full text opened; used heavily for allergen prioritization.
+- Murina 2020 RCT (S08): abstract only; explicitly downgraded.
+- Bruning 2020 gel wash study (S09): full text opened but uncontrolled and industry-adjacent; downgraded.
+- Many Polish product pages: current INCI sometimes accessible (Gemini), sometimes only snippet-level or unavailable via direct fetch (Dr.Max / some retailer pages).

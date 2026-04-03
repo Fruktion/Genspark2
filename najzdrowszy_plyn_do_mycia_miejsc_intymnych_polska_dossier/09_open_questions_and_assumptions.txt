@@ -1,0 +1,22 @@
+TITLE: 09 Open Questions and Assumptions
+PURPOSE: Track unresolved issues
+STATUS: complete
+SCOPE: Evidence gaps and assumptions
+DEPENDENCIES: all
+KEY_QUESTIONS: What remains uncertain?
+EVIDENCE_TIER: meta
+SOURCE_IDS_USED: S01-S24
+OPEN_ISSUES: Important market and evidence gaps remain
+LAST_UPDATED: 2026-03-31
+
+
+Assumptions:
+- Current date is 2026-03-31; market availability assessed around this date.
+- User seeks external wash for routine use, not internal treatment.
+- Severe symptomatic conditions require diagnosis rather than cleanser optimization.
+
+Open questions:
+- Which bland fragrance-free non-intimate cleansers are best verified and widely available in Poland for vulvar use?
+- Can official manufacturer pages for multiple shortlisted products be captured with full current INCI, not just listings?
+- Are any of the fragrance-free pharmacy intimate washes truly simpler/better than bland non-intimate syndets?
+- How often do Polish market formulas change in this category?

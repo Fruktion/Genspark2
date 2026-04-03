@@ -1,0 +1,110 @@
+TITLE
+HPA axis and stress response
+PURPOSE
+Explain how caloric deficit, fasting, and carbohydrate restriction can elevate cortisol, alter circadian stress signaling, and interact with carbohydrate ingestion to produce postprandial sleepiness.
+STATUS
+SUBSTANTIVE_DRAFT
+SCOPE
+Fasting/HPA activation, cortisol timing, glucocorticoid effects on glucose metabolism and arousal, meal timing, and cortisol-carbohydrate interaction.
+DEPENDENCIES
+04_source_register.txt, 10_synthesis_of_mechanisms.txt, 09_circadian_and_chronobiological_factors.txt.
+KEY_QUESTIONS
+Why is cortisol elevated during fasting or carbohydrate restriction? How could carbohydrate ingestion change the subjective state of a cortisol-elevated person? Which parts are established versus inferential?
+EVIDENCE_TIER
+Moderate: fasting/circadian review support with some direct human studies needed for final strengthening.
+SOURCE_IDS_USED
+S005,S006,S011,S016,S017,S021,S022
+OPEN_ISSUES
+Need more full-text primary studies directly testing carbohydrate ingestion and cortisol decline or meal-timing effects in low-carb-adapted humans.
+LAST_UPDATED
+2026-04-03
+
+TOP-LINE ASSESSMENT
+Elevated fasting cortisol is one of the more expected parts of the phenotype. Human fasting literature summarized in S006 indicates that cortisol increases soon after fasting begins, rises substantially with multi-day fasting, and can shift circadian timing, including movement of the peak toward later in the day in longer fasts [S006]. That makes HPA-axis activation a strong upstream cause of the fasting-state physiology. The harder question is how this connects to post-carbohydrate sleepiness. The most plausible answer is that carbohydrate intake changes a stress-elevated, glucose-conserving state into a more insulinized and parasympathetic state; the relative drop in stress drive, combined with postprandial CNS signals, can unmask or magnify sleepiness.
+
+1. WHY FASTING/CALORIC DEFICIT RAISES CORTISOL
+Cortisol helps preserve glucose availability by supporting hepatic glucose production, lipolysis, protein mobilization, and stress adaptation during energy scarcity. Fasting therefore creates a context in which increased glucocorticoid signaling is physiologically useful. According to S006, humans show increased cortisol secretion during fasting, with especially marked effects in fasting windows of several days [S006]. Early time-restricted feeding can also modestly increase morning cortisol [S006].
+
+In this dossier’s context, complete carbohydrate restriction plus caloric deficit should be expected to intensify dependence on hepatic glucose output and endocrine fuel mobilization. That makes cortisol elevation not an incidental lab abnormality but a likely component of the adapted state.
+
+2. CORTISOL AS BOTH METABOLIC AND AROUSAL HORMONE
+Cortisol is not just a “stress marker.” It also supports wakefulness, vigilance, and coordinated energy deployment. Elevated cortisol can therefore create a state of relative hyperarousal even when the person is underfed. Subjectively, this may feel like being “wired but not fed.” In such a state, carbohydrate ingestion may not merely provide calories; it may shift the whole neuroendocrine mode away from fasting arousal.
+
+This is critical because the reported symptom is not just fatigue in the fasting state. The person becomes sleepy after carbohydrate intake. A plausible interpretation is that fasting cortisol maintains a compensatory alertness state which is partly released once carbohydrate arrives and the acute starvation-like signal is reduced.
+
+3. CORTISOL-CARBOHYDRATE INTERACTION
+The currently opened source base does not yet include a decisive full-text human refeeding study directly showing that carbohydrate intake acutely lowers fasting-elevated cortisol in this exact setting. Therefore this section must remain partially inferential. However, the following framework is biologically coherent:
+- fasting/carbohydrate restriction -> higher cortisol and counter-regulatory drive,
+- carbohydrate ingestion -> increased insulin, reduced need for hepatic glucose support, increased satiety/vagal signaling,
+- relative reduction in stress-axis dominance + rise in meal-related sleep-promoting signals -> perceived sleepiness.
+
+This is not a claim that carbohydrate universally causes a dramatic cortisol crash. Rather, in a person whose baseline alertness is partly cortisol-supported, carbohydrate ingestion may shift the balance of arousal systems enough to expose latent sleep pressure.
+
+4. GLUCOCORTICOID EFFECTS ON GLUCOSE METABOLISM
+Cortisol supports endogenous glucose production and can antagonize insulin action in some tissues. During fasting that is adaptive. During refeeding, however, a system primed by elevated cortisol may have a less-stable transition into insulin-dominant postprandial metabolism. That could contribute to larger glucose excursions or delayed normalization after carbohydrate ingestion. S005 also notes that HPA-axis hormones are increased postprandially in some contexts and that cortisol inhibits several cytokines [S005], reminding us that cortisol’s role is not purely pro-fatigue. It may buffer inflammation even while contributing to metabolic instability.
+
+Thus cortisol can be simultaneously:
+- upstream cause of fasting-state adaptation,
+- modifier of meal glucose handling,
+- partial anti-inflammatory counterweight,
+- and contributor to circadian sleep-wake disruption.
+
+5. CORTISOL RHYTHM AND CHRONOBIOLOGY
+S006 indicates that fasting can alter cortisol timing as well as amount [S006]. If fasting or restrictive eating shifts cortisol peaks or pulse frequency, subjective day-night arousal quality may worsen. A person may then be especially vulnerable to post-meal sleepiness at times of day when circadian alerting signal is already low or when cortisol is falling. This means the same carbohydrate exposure may be tolerated well at one time of day and poorly at another.
+
+6. MEAL TIMING EFFECTS
+Although the current dossier does not yet include enough direct primary evidence to fully resolve meal timing, the chrononutrition literature strongly suggests that mistimed eating can alter endocrine rhythms. If carbohydrate is reintroduced after prolonged fasting or late in the circadian day, the HPA-axis shift plus postprandial parasympathetic dominance may be especially sedating. This belongs in the “probable amplifier” category pending more direct source expansion.
+
+7. INTERACTION WITH SLEEP REGULATION
+High cortisol states are associated with sleep fragmentation and reduced restorative sleep. The result can be hidden sleep pressure: the person stays relatively alert because stress hormones are elevated, but restorative sleep quality is suboptimal. When carbohydrate is then consumed, the reduction in relative stress tone plus the addition of tryptophan/orexin/vagal mechanisms may rapidly reveal that accumulated sleep pressure.
+
+This “unmasking” model explains why someone can feel relatively functional while fasting yet crash after eating carbohydrate.
+
+8. RED TEAM / HOW THIS COULD BE WRONG
+- Elevated cortisol may be a measurement artifact, acute psychological stress, or circadian-timing issue rather than a stable fasting trait.
+- Even if cortisol is elevated, it may not be the main driver of post-carbohydrate sleepiness. True; the metabolic-refeeding mechanism may be more primary.
+- Some people experience reduced stress and improved alertness with carbohydrate, not sleepiness. That implies important moderator variables such as meal size, circadian timing, sleep debt, and insulin dynamics.
+- EPA/DHA or other aspects of diet may dampen HPA output in some contexts [S011], reducing the generalizability of simple fasting-cortisol models.
+
+[ROUND 2 ADDITION]
+9. IMPORTANT BOUNDARY CONDITION: MEAL TIMING DOES NOT AUTOMATICALLY MOVE CORTISOL OR SUBJECTIVE SLEEPINESS
+A key round-2 addition is S015, a controlled human meal-timing study. Delaying meals by 5 hours shifted plasma glucose rhythm by about 5.7 hours and delayed adipose PER2, but did not significantly change cortisol rhythm, melatonin rhythm, subjective sleepiness, actigraphic sleep markers, insulin rhythm, or triglyceride rhythm [S015].
+
+This is highly informative. It shows that meal timing can strongly affect peripheral metabolic timing without automatically changing HPA-axis timing or subjective sleepiness. Therefore, the dossier should not overstate meal-timing-induced cortisol explanations. Circadian meal timing is best treated as a moderator of vulnerability, not as proof that altered meal timing alone explains the target symptom.
+
+[ROUND 2 ADDITION]
+10. WHAT THIS DOES TO THE CORTISOL HYPOTHESIS
+S015 does not refute the idea that elevated fasting cortisol can support wakefulness in the restricted state. But it does show that not every nutrition timing manipulation that changes glucose biology will also change cortisol or perceived sleepiness [S015]. This narrows the hypothesis:
+- cortisol likely matters most as an upstream fasting-state context variable,
+- carbohydrate-triggered sleepiness probably requires peripheral and CNS meal-response mechanisms beyond simple cortisol timing shifts,
+- and circadian timing modifies the system mainly by changing when glucose-handling and sleep-pressure systems are vulnerable.
+
+BOTTOM-LINE JUDGMENT
+Established:
+- Fasting and restrictive eating patterns can elevate cortisol and alter cortisol timing in humans [S006].
+Probable:
+- In this phenotype, elevated fasting cortisol is an upstream state driver that increases dependence on stress-mediated alertness.
+Plausible but not yet directly proven here:
+- Carbohydrate intake may create a relative release from that stress-elevated state, helping explain why sleepiness emerges particularly after carbohydrate rather than during fasting itself.
+Boundary reminder:
+- Meal timing can alter peripheral glucose timing without significantly altering cortisol rhythm or subjective sleepiness [S015].
+
+
+[ROUND 2 ADDITION]
+9. MEAL TIMING CAN SHIFT GLUCOSE RHYTHMS WITHOUT SHIFTING CORTISOL OR SUBJECTIVE SLEEPINESS
+S021 provides a very useful null finding. In a tightly controlled human laboratory study, delaying meals by 5 hours delayed plasma glucose rhythms by about 5.7 hours and shifted adipose PER2 timing, but did not significantly alter cortisol phase, melatonin phase, or subjective sleepiness ratings [S021]. This matters because it prevents overstatement: meal timing does not automatically produce an HPA-axis shift, and glucose-rhythm changes alone do not guarantee subjective sleepiness.
+
+10. EVENING HIGH-CARBOHYDRATE MEALS WORSEN GLUCOSE/INSULIN EXCURSIONS WITHOUT CHANGING POSTPRANDIAL CORTISOL
+S022 strengthens this caution. Healthy young men had larger and more prolonged glucose and insulin excursions after evening meals, especially high-carbohydrate meals, but the postprandial cortisol time course did not differ by meal timing or carbohydrate content [S022]. Thus, in many acute meal settings, immediate post-meal sleepiness or glycemic disruption may occur without a matching acute cortisol surge or drop.
+
+11. WHAT S016 ADDS ABOUT FASTING, BREAKFAST SKIPPING, AND HIGH-GLYCEMIC DIETS
+S016 synthesizes human data showing that meals produce transient cortisol rises within approximately 30 minutes to 1 hour, that skipping breakfast can reduce morning cortisol and shift exposure later into the day, and that high-glycemic diets may increase cortisol secretion [S016]. It also notes that prolonged fasting can increase cortisol and shift peak timing later. This supports a broader interpretation: cortisol may shape the background vulnerability and timing context, even when it is not the direct immediate mediator of each sleepy episode.
+
+12. OMEGA-3 HPA MODULATION IS REAL BUT LIMITED
+S017 adds a better-quality primary trial than the abstract-only fish-oil study. Four months of omega-3 supplementation lowered overall cortisol and IL-6 during a laboratory stressor, but did not significantly change cortisol reactivity AUCi or TNF-alpha/IL-12 [S017]. Therefore the dossier can now say more confidently that omega-3s may modestly buffer HPA/inflammatory load, but not that they fully normalize stress physiology.
+
+13. ROUND-2 JUDGMENT UPDATE
+These additions slightly refine the causal ranking:
+- Elevated fasting cortisol remains a strong upstream state variable.
+- Immediate post-carbohydrate sleepiness should not be assumed to reflect acute cortisol changes.
+- Cortisol most likely acts as background arousal architecture and circadian-state modifier, not always as the final proximate trigger of each episode.

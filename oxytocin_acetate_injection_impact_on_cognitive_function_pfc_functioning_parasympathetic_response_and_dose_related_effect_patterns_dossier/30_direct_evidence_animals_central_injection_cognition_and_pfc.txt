@@ -1,0 +1,31 @@
+TITLE: Direct evidence - animals - central injection - cognition and PFC
+PURPOSE: Summarize central injection evidence separately from peripheral evidence.
+STATUS: SUBSTANTIVE_DRAFT
+SCOPE: ICV/local brain injection in animals.
+DEPENDENCIES: S5
+KEY_QUESTIONS: What does central injection show about social memory, attention, and hippocampal-prefrontal function?
+EVIDENCE_TIER: DIRECT_ANIMAL_PRIMARY
+SOURCE_IDS_USED: S5
+OPEN_ISSUES: Disease-model specificity and limited dose range.
+LAST_UPDATED: 2026-03-27
+
+S5 SUMMARY:
+- Species/model: Shank3-deficient rats (Het and KO), plus WT controls.
+- Route: ICV into left lateral ventricle.
+- Dose: 2 ng oxytocin before in vivo LTP induction; behavioral testing preceded by ICV oxytocin/vehicle (exact behavioral dose should be checked in full methods if further refinement needed); ex vivo slice experiments used 1 uM bath oxytocin.
+- Outcomes: long-term social discrimination memory, 5-CSRT attention-like performance, hippocampal-prefrontal LTP.
+- Direction: improved long-term social memory and attention deficits in mutant rats; restored hippocampal-prefrontal LTP.
+- WT controls: no clear behavioral enhancement in WT animals.
+
+INTERPRETATION:
+- Stronger evidence for causally relevant central OT signaling on hippocampal-prefrontal circuit plasticity than for peripheral injection.
+- Nonetheless, route is central and cannot be used as direct evidence for peripheral injected oxytocin.
+
+VERDICT_FOR_STRATUM:
+- Evidence level: MODERATE to STRONG within this narrow disease-model central-route stratum.
+- Dose label: DOSE_ASSOCIATED_EFFECT; dose-response not established.
+- Optimal dose: not established.
+
+NEXT_ACTIONS:
+- Continue targeted searches for route-matched full texts, especially human peripheral injection PFC and parasympathetic studies.
+- Maintain separation between oxytocin acetate-specified studies and generic oxytocin formulations.

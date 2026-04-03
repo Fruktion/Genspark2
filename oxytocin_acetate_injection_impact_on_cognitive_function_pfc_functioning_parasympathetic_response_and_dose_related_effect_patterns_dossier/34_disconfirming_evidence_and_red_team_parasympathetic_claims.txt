@@ -1,0 +1,23 @@
+TITLE: Red-team parasympathetic claims
+PURPOSE: Challenge the interpretation that injection increases parasympathetic tone.
+STATUS: SUBSTANTIVE_DRAFT
+SCOPE: Autonomic skepticism.
+DEPENDENCIES: 43_measurement_and_controller_limitations_cognition_pfc_hrv_respiration_handling.txt
+KEY_QUESTIONS: Do parasympathetic claims fail under better measurement standards?
+EVIDENCE_TIER: RED_TEAM
+SOURCE_IDS_USED: S3
+OPEN_ISSUES: Need direct studies with respiration control and recovery paradigms.
+LAST_UPDATED: 2026-03-27
+
+RISKS TO CURRENT_VIEW:
+- Heart-rate slowing is not proof of vagal activation.
+- Spectral HRV increases in pregnancy/labor may reflect mixed autonomic or hemodynamic effects.
+- No opened human injection study here establishes resting RMSSD/RSA increase with explicit respiration control.
+
+WHAT WOULD OVERTURN CURRENT_CAUTIOUS_VIEW:
+- High-quality peripheral injection studies showing no increase in validated vagal metrics despite HR slowing.
+- Or strong studies showing improvements only disappear once respiration/posture/task are controlled.
+
+NEXT_ACTIONS:
+- Continue targeted searches for route-matched full texts, especially human peripheral injection PFC and parasympathetic studies.
+- Maintain separation between oxytocin acetate-specified studies and generic oxytocin formulations.

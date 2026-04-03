@@ -1,0 +1,27 @@
+TITLE: Direct vs adjacent evidence rules
+PURPOSE: Prevent route leakage and overclaiming.
+STATUS: SUBSTANTIVE_DRAFT
+SCOPE: Evidence classification rules.
+DEPENDENCIES: 10_foundations_compound_identity_formulation_and_route_scope.txt
+KEY_QUESTIONS: What counts as direct support for the main question?
+EVIDENCE_TIER: RULESET
+SOURCE_IDS_USED: NONE_INFERENCE_ONLY
+OPEN_ISSUES: None.
+LAST_UPDATED: 2026-03-27
+
+DIRECT:
+- Injected/infused oxytocin study with cognition, direct PFC, or parasympathetic outcomes in same experiment.
+
+ADJACENT:
+- Intranasal studies.
+- Endogenous oxytocin correlations.
+- PK/brain-access studies without target outcomes.
+- Reviews and meta-analyses.
+- Obstetric fetal-heart or uterine outcomes not directly relevant to cognition/PFC/parasympathetic outcomes.
+
+RULE:
+Adjacent evidence may explain plausibility or constraints, but cannot upgrade an unsupported injection claim to supported.
+
+NEXT_ACTIONS:
+- Continue targeted searches for route-matched full texts, especially human peripheral injection PFC and parasympathetic studies.
+- Maintain separation between oxytocin acetate-specified studies and generic oxytocin formulations.

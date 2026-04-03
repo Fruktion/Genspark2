@@ -1,0 +1,20 @@
+TITLE: Surfactant taxonomy and irritancy
+PURPOSE: Build a practical formulation lens for cleanser evaluation.
+STATUS: DRAFT_IN_PROGRESS
+SCOPE: Common surfactants in face cleansers.
+DEPENDENCIES: 21_skin_barrier_pH_and_cleanser_mechanisms.txt
+KEY_QUESTIONS: Which surfactants raise or lower concern, and why?
+EVIDENCE_TIER: REVIEW_SYNTHESIS
+SOURCE_IDS_USED: S01,S02,S04
+OPEN_ISSUES: Product-level concentrations unknown.
+LAST_UPDATED: 2026-03-31
+
+Simplified hierarchy (not absolute):
+- Classic harsh reference: sodium lauryl sulfate (SLS) high concern for irritation models.
+- Often milder than SLS but still meaningfully cleansing: sodium laureth sulfate (SLES), depending on blend.
+- Generally milder useful anionics: sodium cocoyl isethionate, sodium lauroyl sarcosinate, disodium laureth sulfosuccinate (context dependent).
+- Amphoterics used to soften systems: cocamidopropyl betaine, coco-betaine, amphoacetates.
+- Nonionics/glucosides can be mild, but “nonionic = always best” is too simplistic.
+
+Important nuance:
+Irritation is not determined by one INCI name alone. Whole blend, pH context, deposition/rinse behavior, and total formula design matter.

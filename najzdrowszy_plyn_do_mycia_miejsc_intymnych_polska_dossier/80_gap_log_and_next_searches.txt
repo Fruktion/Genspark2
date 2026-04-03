@@ -1,0 +1,17 @@
+TITLE: 80 Gap Log and Next Searches
+PURPOSE: Track unfinished work
+STATUS: complete
+SCOPE: Future improvement backlog
+DEPENDENCIES: all
+KEY_QUESTIONS: What remains to search?
+EVIDENCE_TIER: gap log
+SOURCE_IDS_USED: S19-S23
+OPEN_ISSUES: High-value market verification gaps
+LAST_UPDATED: 2026-03-31
+
+
+Next searches recommended:
+- official manufacturer pages for Derma Eco, Facelle, Ziaja variants, HydroVag, AA Intymna, Sylveco, Lactacyd Prebiotic+, Lactacyd 40+.
+- package-photo OCR for shortlisted products.
+- broader build of fragrance-free non-intimate cleansers on Polish market as direct comparator arm.
+- Polish-language dermatology/ginekologia society materials if accessible.

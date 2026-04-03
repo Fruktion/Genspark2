@@ -1,0 +1,28 @@
+TITLE: Scenario requirements for acne, rosacea, atopy, and sensitive skin
+PURPOSE: Translate literature into scenario-specific cleanser needs.
+STATUS: DRAFT_IN_PROGRESS
+SCOPE: Clinical-use scenarios for final recommendations.
+DEPENDENCIES: 21_skin_barrier_pH_and_cleanser_mechanisms.txt
+KEY_QUESTIONS: What formula traits matter by skin state?
+EVIDENCE_TIER: REVIEW_SYNTHESIS
+SOURCE_IDS_USED: S02,S03,S04,S08
+OPEN_ISSUES: More acne-specific direct evidence desired.
+LAST_UPDATED: 2026-03-31
+
+Normal/sensitive:
+- prioritize low-irritation, not necessarily ultra-rich residue
+
+Dry/dehydrated/barrier-impaired:
+- creamy/emulsion/lotion cleansers with lower stripping tendency
+- fragrance-free strongly preferred
+
+Atopic/very reactive:
+- mild syndet or non-soap cleanser, often fragrance-free, simple formula preferred
+
+Oily/acne-prone:
+- adequate cleansing becomes more important, but harshness can worsen irritation and treatment intolerance
+- avoid assuming “strongly degreasing” = best
+
+Rosacea-prone:
+- avoid classic soaps, alcohol-heavy harsh systems, fragrance where possible
+- gentle fingertip cleansing, no aggressive scrubbing

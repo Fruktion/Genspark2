@@ -1,0 +1,23 @@
+TITLE: Glossary and prerequisites
+PURPOSE: Define route, dose, and outcome terminology used in the dossier.
+STATUS: SUBSTANTIVE_DRAFT
+SCOPE: Key pharmacology and measurement terms.
+DEPENDENCIES: None
+KEY_QUESTIONS: What exactly do abbreviations and dose labels mean?
+EVIDENCE_TIER: GLOSSARY
+SOURCE_IDS_USED: S2; S3; S4; S5
+OPEN_ISSUES: None critical.
+LAST_UPDATED: 2026-03-27
+
+- OXT: oxytocin.
+- Oxytocin acetate: salt/formulation explicitly named in some preclinical studies; should not be assumed when papers say only oxytocin.
+- IV/IM/SC/IP/ICV: intravenous, intramuscular, subcutaneous, intraperitoneal, intracerebroventricular.
+- HF-HRV/RMSSD/RSA: candidate vagal/parasympathetic metrics, but interpretation depends on protocol and respiration handling.
+- PFC direct measures: fMRI activation/connectivity, electrophysiology, c-Fos, receptor expression, neurochemistry.
+- PFC-inferred task: 5-CSRT, working memory, inhibitory control tasks suggesting but not proving PFC involvement.
+- DOSE_ASSOCIATED_EFFECT: an effect observed at one or more doses without robust dose-response proof.
+- OPTIMAL_DOSE_NOT_ESTABLISHED: default when positive evidence does not directly compare enough doses within same stratum.
+
+NEXT_ACTIONS:
+- Continue targeted searches for route-matched full texts, especially human peripheral injection PFC and parasympathetic studies.
+- Maintain separation between oxytocin acetate-specified studies and generic oxytocin formulations.

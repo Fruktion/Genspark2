@@ -1,0 +1,26 @@
+TITLE: Gap log and next searches
+PURPOSE: Record the highest-value remaining gaps.
+STATUS: SUBSTANTIVE_DRAFT
+SCOPE: Future search agenda.
+DEPENDENCIES: 44_primary_study_priority_queue*.txt
+KEY_QUESTIONS: What is still missing that could materially alter the verdict?
+EVIDENCE_TIER: GAP_LOG
+SOURCE_IDS_USED: S1; S3
+OPEN_ISSUES: Multiple.
+LAST_UPDATED: 2026-03-27
+
+HIGHEST_VALUE_GAPS:
+- Exact human IV dose/exposure details for cognition study S1.
+- Direct human peripheral PFC studies.
+- Better parasympathetic studies with respiration control.
+- Additional same-stratum multi-dose peripheral studies.
+
+NEXT_SEARCHES:
+- DOI/full-text retrieval for Hollander 2007 Biol Psychiatry.
+- DOI/full-text retrieval for obstetric HRV study PMID 27030149.
+- Searches combining oxytocin infusion + fMRI/PFC + humans.
+- Searches combining oxytocin injection + RMSSD/RSA/baroreflex + animals.
+
+NEXT_ACTIONS:
+- Continue targeted searches for route-matched full texts, especially human peripheral injection PFC and parasympathetic studies.
+- Maintain separation between oxytocin acetate-specified studies and generic oxytocin formulations.

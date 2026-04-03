@@ -1,0 +1,13 @@
+TITLE: Revision log round 02
+PURPOSE: Log repairs after audit 02.
+STATUS: COMPLETE
+SCOPE: Repair actions.
+DEPENDENCIES: 90_self_audit_round_02.txt
+KEY_QUESTIONS: What changed?
+EVIDENCE_TIER: META_LOG
+SOURCE_IDS_USED: NONE_INFERENCE_ONLY
+OPEN_ISSUES: None additional.
+LAST_UPDATED: 2026-03-27
+
+REPAIRS:
+- Added claim distinction table and stronger no-optimal-dose language.

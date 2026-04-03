@@ -1,0 +1,19 @@
+TITLE: Preservatives, fragrance, essential oils, and allergen risk
+PURPOSE: Separate evidence-based risk assessment from chemophobia.
+STATUS: DRAFT_IN_PROGRESS
+SCOPE: Rinse-off cleanser allergy/irritation signals.
+DEPENDENCIES: 22_surfactant_taxonomy_and_irritancy.txt
+KEY_QUESTIONS: Which ingredients deserve practical caution?
+EVIDENCE_TIER: MIXED
+SOURCE_IDS_USED: S02,S04,S05,S06
+OPEN_ISSUES: Need more full-text allergy literature.
+LAST_UPDATED: 2026-03-31
+
+Evidence-based principles:
+- Fragrance remains a recurrent contact-allergy signal, even in rinse-off products; risk is lower than leave-on but not zero.
+- Essential oils and strongly fragrant botanical extracts should not receive a “natural therefore safer” pass.
+- MI/MCI history matters; abstract-level evidence suggests rinse-off products with MI at meaningful levels can still trigger ACD in sensitized people.
+- Preservatives in general should not be demonized wholesale; preservative absence can create microbiological tradeoffs.
+
+Operational rule for shortlist:
+For users with very reactive skin, atopy, rosacea, or suspected fragrance allergy, fragrance-free formulas get a major practical advantage.

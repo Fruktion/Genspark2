@@ -1,0 +1,75 @@
+TITLE
+Synthesis of mechanisms
+PURPOSE
+Integrate the upstream fasting/low-carbohydrate state, acute carbohydrate-triggered responses, CNS translation mechanisms, and modifiers into one causal model.
+STATUS
+SUBSTANTIVE_DRAFT
+SCOPE
+Integrated model, temporal sequence, primary versus secondary mechanisms, feedback loops.
+DEPENDENCIES
+02_metabolic_adaptation_mechanisms.txt, 03_hpa_axis_and_stress_response.txt, 04_prolactin_dopamine_axis.txt, 05_postprandial_hypoglycemia_and_somnolence.txt, 06_fatty_acid_hormone_interactions.txt, 07_neurotransmitter_and_cns_mechanisms.txt, 08_inflammatory_and_immune_mechanisms.txt, 09_circadian_and_chronobiological_factors.txt.
+KEY_QUESTIONS
+Which mechanisms are primary, which are secondary, what is the time sequence from fasting to carb intake to sleepiness, and where are the strongest feedback loops?
+EVIDENCE_TIER
+Synthesis layer; depends on upstream source-backed files.
+SOURCE_IDS_USED
+S001,S002,S003,S004,S005,S006,S008,S009,S010,S011
+OPEN_ISSUES
+Still limited by sparse direct refeeding-symptom studies and limited full-text endocrine sources.
+LAST_UPDATED
+2026-04-03
+
+INTEGRATED MODEL
+The most defensible integrated model is a three-layer model:
+
+LAYER 1: UPSTREAM FASTING / RESTRICTION STATE
+- Complete carbohydrate restriction + caloric deficit induce a fasting-adapted state characterized by elevated cortisol, low-carbohydrate fuel use, and likely reduced carbohydrate oxidation readiness [S001,S006].
+- Over time, skeletal muscle becomes less favorable for postprandial carbohydrate disposal via increased early PDK4 and later reduced GLUT4, INSR, and AMPK [S001].
+- Thyroid adaptation may reduce T3, lowering energetic resilience [S008,S009].
+- Prolactin/dopaminergic dysregulation may reduce arousal reserve in some individuals [S003,S007].
+
+LAYER 2: ACUTE CARBOHYDRATE EXPOSURE
+- Carbohydrate reintroduction produces a larger physiological perturbation than it would in a mixed-diet state because tissues are relatively adapted away from carbohydrate use [S001,S002].
+- Blood glucose rises more strongly or is handled less smoothly.
+- Insulin/C-peptide and incretin responses may be accentuated or poorly matched to tissue handling [S001,S002,S004].
+- Acute CNS changes include orexin suppression and higher Trp/LNAA ratio favoring serotonin-related sleep promotion [S010].
+- Autonomic balance shifts toward parasympathetic / satiety physiology.
+- In some meal contexts, inflammatory and endotoxin signaling add fatigue-like load [S005].
+
+LAYER 3: SUBJECTIVE SYMPTOM EMERGENCE
+- The person experiences excessive sleepiness because multiple wake-promoting supports are simultaneously reduced: stress-driven alertness falls relatively, orexin signaling is suppressed, serotonin-related sleep pressure rises, and dopaminergic tone may already be suboptimal.
+- If glucose later drops rapidly, this can deepen the “crash,” whether or not measured glucose meets formal hypoglycemia criteria.
+
+PRIMARY VS SECONDARY MECHANISMS
+Primary:
+1. Metabolic inflexibility / impaired carbohydrate handling after prolonged restriction [S001].
+2. HPA-axis activation from fasting/caloric deficit [S006].
+3. Acute CNS sleep-promoting response to carbohydrate via orexin and tryptophan-related mechanisms [S010].
+
+Secondary / amplifiers:
+4. Prolactin-dopamine arousal reduction [S003].
+5. Low-T3 adaptation / reduced energetic resilience [S008,S009].
+6. Postprandial inflammation/endotoxin load [S005].
+7. Circadian timing effects [S006,S010].
+
+Tertiary / speculative modifiers:
+8. GLA/PGE1 endocrine interactions [S011].
+9. Oleic-acid-derived incretin/OEA modulation (currently low-confidence in this opened set).
+
+TEMPORAL SEQUENCE
+Fasting / restriction days-weeks:
+- rising cortisol, low-carb adaptation, tissue signaling changes, possible low-T3 and prolactin/dopamine changes.
+Minutes after carbohydrate:
+- glucose rises, insulin rises, orexin suppression begins, parasympathetic shift begins.
+30-120 minutes:
+- subjective heaviness/somnolence may emerge from CNS/autonomic integration; larger in those with lower arousal reserve.
+2-5 hours:
+- if present, reactive decline or inflammatory fatigue mechanisms may deepen the symptom burden.
+
+FEEDBACK LOOPS
+1. Caloric deficit -> cortisol -> sleep disruption -> more vulnerability to postprandial sleepiness.
+2. Low-carb adaptation -> reduced glucose tolerance -> stronger meal perturbation -> more aversive sleepiness -> re-avoidance of carbs -> persistence of adaptation.
+3. Prolactin/dopamine dysregulation -> lower arousal -> more perceived crash after meals.
+
+BOTTOM-LINE SYNTHESIS
+No single universal winner is justified. The best explanation is a convergent systems model in which carbohydrate reintroduction collides with a stress-adapted, low-carbohydrate, lower-flexibility metabolic state and then is translated into excessive sleepiness by CNS arousal pathways.

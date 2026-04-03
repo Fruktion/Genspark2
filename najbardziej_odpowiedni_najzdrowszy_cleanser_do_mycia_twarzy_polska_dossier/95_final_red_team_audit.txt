@@ -1,0 +1,34 @@
+TITLE: Final red-team audit
+PURPOSE: Stress-test whether current recommendations could be wrong, misleading, or too confident.
+STATUS: UPDATED_ROUND_03
+SCOPE: Formula drift, evidence overturners, market trace failures, and ranking instability.
+DEPENDENCIES: 34_disconfirming_evidence_and_red_team_cleanser_recommendations.txt, 42_sensitivity_analysis_and_decision_rules.txt, 45b_product_verification_failures_and_unresolved_cases.txt
+LAST_UPDATED: 2026-03-31
+
+MAJOR WAYS THE CURRENT SYNTHESIS COULD FAIL
+1. Reformulation / formula drift
+- Because second-source INCI verification is incomplete, current product rankings could shift after reformulation detection.
+
+2. Under-cleansing in real life
+- The gentlest emulsions may leave residual sunscreen or makeup for some users, especially in single-cleanse routines.
+- This directly threatens any universal-winner claim favoring the mildest cleanser.
+
+3. Allergy subgroup mismatch
+- Coco-betaine, CAPB-adjacent, and glucoside-family surfactants can still fail for some reactive users even in otherwise elegant formulas.
+
+4. Market mismatch
+- A product may be excellent scientifically but weakly available in Poland or inconsistently sold across channels.
+
+5. Claim inflation
+- “Hypoallergenic”, “for sensitive skin”, or “low pH” could be over-read if formula evidence is weak.
+
+EVIDENCE FOUND THAT ACTUALLY CHALLENGES FAVORITES
+- A06 challenges simplistic low-pH narratives.
+- A10 challenges the idea that ultra-mild cleansers are always sufficient cleansers.
+- A07/A08 challenge the assumption that rinse-off allergens barely matter.
+- A04 explicitly documents small-study limitations in rosacea cleanser evidence.
+
+RED-TEAM VERDICT
+- The dossier is now meaningfully adversarial toward its own conclusions.
+- A single universal winner is still not justified.
+- The strongest defensible output is a scenario-specific ranking plus a narrow no-regret shortlist.

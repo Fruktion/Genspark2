@@ -1,0 +1,44 @@
+TITLE: Search strategy and queries
+PURPOSE: Document actual search tracks, platforms, and what they yielded in this run.
+STATUS: SUBSTANTIVE_DRAFT
+SCOPE: PubMed/PMC/ClinicalTrials and web-assisted discovery for direct and adjacent evidence.
+DEPENDENCIES: 05_source_access_and_verification_log.txt
+KEY_QUESTIONS: Which exact strings were run and which led to opened sources?
+EVIDENCE_TIER: SEARCH_LOG
+SOURCE_IDS_USED: S1; S2; S3; S4; S5
+OPEN_ISSUES: Several exact searches returned sparse/no direct hits for human peripheral injection PFC and parasympathetic evidence.
+LAST_UPDATED: 2026-03-27
+
+PLATFORMS_USED:
+- PubMed landing pages via crawler
+- PMC full text via crawler
+- ClinicalTrials.gov via search results
+- General web search constrained to PubMed/PMC where possible
+
+ACTUAL_SEARCH_STRINGS_RUN_THIS_SESSION:
+- "oxytocin acetate" injection cognition dose
+- "oxytocin acetate" prefrontal cortex dose response
+- "oxytocin acetate" parasympathetic heart rate variability dose
+- oxytocin injection cognition humans dose response
+- oxytocin intravenous cognition human dose
+- oxytocin intraperitoneal prefrontal cortex dose
+- oxytocin injection heart rate variability RMSSD HF-HRV RSA dose
+- oxytocin vasopressin receptor cross-reactivity dose
+- oxytocin intravenous fMRI prefrontal human
+- oxytocin chronic administration prefrontal cortex rats dose
+- oxytocin by intranasal and intravenous routes reaches cerebrospinal fluid
+- ClinicalTrials.gov oxytocin cognition dose
+- oxytocin intravenous labor heart rate variability humans
+- oxytocin central injection prefrontal cortex social recognition dose rat
+- oxytocin parasympathetic stress recovery injection rats
+
+SEARCH_OUTCOME_SUMMARY:
+- Direct human peripheral injection cognition: one opened randomized crossover autism study (S1), abstract/landing only.
+- Direct human peripheral injection parasympathetic/HRV: one opened obstetric study (S3), abstract/landing only, with spectral HRV not robust respiration-controlled vagal parsing.
+- Animal peripheral injection cognition/PFC-adjacent: one full-text rat study with specified oxytocin acetate s.c. doses and neurochemistry (S4).
+- Animal central injection cognition/PFC: one full-text rat study with ICV oxytocin improving social memory, attention, and hippocampal-prefrontal LTP (S5).
+- PK/brain-access adjacent evidence: one full-text rhesus study showing IV and intranasal exogenous OT can reach CSF (S2).
+
+NEXT_ACTIONS:
+- Continue targeted searches for route-matched full texts, especially human peripheral injection PFC and parasympathetic studies.
+- Maintain separation between oxytocin acetate-specified studies and generic oxytocin formulations.

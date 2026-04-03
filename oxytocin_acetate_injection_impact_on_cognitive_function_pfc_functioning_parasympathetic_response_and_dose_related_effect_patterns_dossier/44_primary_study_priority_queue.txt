@@ -1,0 +1,16 @@
+TITLE: Primary study priority queue
+PURPOSE: General priority queue cross-reference.
+STATUS: SUBSTANTIVE_DRAFT
+SCOPE: High-impact missing evidence.
+DEPENDENCIES: 44_primary_study_priority_queue_missing_or_inaccessible_full_texts.txt
+KEY_QUESTIONS: What should be retrieved next?
+EVIDENCE_TIER: PRIORITY_QUEUE
+SOURCE_IDS_USED: S1; S3
+OPEN_ISSUES: None additional.
+LAST_UPDATED: 2026-03-27
+
+Top priorities are the inaccessible full texts that would most alter human dose and autonomic conclusions.
+
+NEXT_ACTIONS:
+- Continue targeted searches for route-matched full texts, especially human peripheral injection PFC and parasympathetic studies.
+- Maintain separation between oxytocin acetate-specified studies and generic oxytocin formulations.

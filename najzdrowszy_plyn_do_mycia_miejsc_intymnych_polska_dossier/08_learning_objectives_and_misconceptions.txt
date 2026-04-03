@@ -1,0 +1,25 @@
+TITLE: 08 Learning Objectives and Misconceptions
+PURPOSE: Highlight what a later writer/auditor should learn
+STATUS: complete
+SCOPE: Pedagogical goals
+DEPENDENCIES: 07
+KEY_QUESTIONS: Which misconceptions must be corrected?
+EVIDENCE_TIER: synthesis
+SOURCE_IDS_USED: S01-S14
+OPEN_ISSUES: None
+LAST_UPDATED: 2026-03-31
+
+
+Key learning objectives:
+- Distinguish vulvar care from vaginal cleansing.
+- Recognize that more product is not automatically more hygienic or healthier.
+- Understand why fragrance/herbal/natural positioning can increase rather than reduce risk.
+- Interpret pH and microbiome claims cautiously in rinse-off cosmetics.
+- Understand that apteka placement is a distribution channel, not proof.
+
+Common misconceptions to correct:
+1. “Acidic pH always helps.”
+2. “Pharmacy products are safer by default.”
+3. “Natural/herbal means gentle.”
+4. “Every woman needs a dedicated intimate wash.”
+5. “If it says probiotic/prebiotic, it must be better for microbiome.”

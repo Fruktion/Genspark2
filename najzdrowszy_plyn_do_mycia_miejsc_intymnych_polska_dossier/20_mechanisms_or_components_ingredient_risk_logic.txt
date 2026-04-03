@@ -1,0 +1,26 @@
+TITLE: 20 Ingredient Risk Logic
+PURPOSE: Explain why particular ingredients matter
+STATUS: complete
+SCOPE: Mechanistic ingredient reasoning
+DEPENDENCIES: 20c
+KEY_QUESTIONS: Why do these ingredients matter?
+EVIDENCE_TIER: mechanistic synthesis
+SOURCE_IDS_USED: S05,S06,S07,S12,S13
+OPEN_ISSUES: Direct product-specific effects often unproven
+LAST_UPDATED: 2026-03-31
+
+
+Fragrance/parfum:
+Repeatedly implicated as clinically relevant allergen class in vulvar ACD cohorts and reviews.
+
+Botanical extracts / essential oils:
+Often marketed as soothing or natural, but multiple reviews emphasize their sensitizing potential. Tea tree, peppermint/menthol, spice-related compounds are particularly caution-worthy.
+
+Preservatives:
+Necessary in water-based products, but certain classes (especially isothiazolinones historically, some formaldehyde releasers, etc.) are classic sensitizers. Presence does not equal failure; risk depends on preservative choice and user susceptibility.
+
+Surfactants:
+Traditional soap and stronger anionic surfactants are more likely to strip lipids and alter hydration; low-concentration SLS studies still showed effects on vulvar stratum corneum hydration.
+
+Cocamide DEA:
+Not the worst possible ingredient in all contexts, but contributes to “needlessly non-bland” profile and is generally avoidable in a best-justified shortlist.

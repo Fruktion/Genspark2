@@ -1,0 +1,20 @@
+TITLE: 60 Learning Design, Memory Bridges and Recap Plan
+PURPOSE: Support later teaching synthesis
+STATUS: complete
+SCOPE: Pedagogical memory aids
+DEPENDENCIES: 08,41
+KEY_QUESTIONS: How should another model teach from this dossier?
+EVIDENCE_TIER: pedagogical synthesis
+SOURCE_IDS_USED: INFERENCE
+OPEN_ISSUES: None
+LAST_UPDATED: 2026-03-31
+
+
+Memory bridge:
+Think “VULVA = SKIN FIRST”.
+If it is skin-first, then dermatitis logic outranks feminine-marketing logic.
+
+Three-step teaching recap:
+1. External-only and anatomy distinction.
+2. Irritant/allergen minimization beats marketing promises.
+3. Scenario-specific shortlist, not fake universal winner.

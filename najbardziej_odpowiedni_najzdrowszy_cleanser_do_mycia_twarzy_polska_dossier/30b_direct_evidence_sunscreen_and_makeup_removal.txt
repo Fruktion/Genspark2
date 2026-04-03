@@ -1,0 +1,25 @@
+TITLE: Direct evidence on sunscreen and makeup removal
+PURPOSE: Capture evidence directly relevant to cleansing adequacy for heavy SPF and makeup users.
+STATUS: UPDATED
+SCOPE: Human studies and direct evidence relevant to wash-off cleanser adequacy.
+DEPENDENCIES: 25_makeup_sunscreen_removal_and_double_cleansing_boundary_conditions.txt
+LAST_UPDATED: 2026-03-31
+
+KEY SOURCE
+A10: The optimal cleansing method for the removal of sunscreen: Water, cleanser or cleansing oil? PMID 31157512.
+ACCESS_GRADE: ABSTRACT_ONLY
+WHAT IT SUPPORTS
+- Water alone was not enough for robust sunscreen removal.
+- A cleanser and especially cleansing oil improved removal performance.
+- Dry skin adverse events were reported more often in the cleanser arm than in the cleansing-oil arm in the search summary already captured.
+
+DIRECT DOSSIER IMPLICATIONS
+- Ultra-mild lotion/emulsion cleansers cannot be assumed to remove heavy water-resistant sunscreen or makeup well in one pass.
+- Heavy SPF/makeup scenario must down-rank very weak cleansers on cleansing adequacy even if barrier tolerability is excellent.
+- Double cleansing remains a boundary condition rather than a failure of a mild cleanser when used in the proper role.
+
+EVIDENCE HONESTY NOTE
+- Because full text was not opened, claims remain modest: this source is used to justify a caution, not a precise effect-size statement.
+
+RANKING CONSEQUENCE
+- For scenario 6 (heavy SPF/makeup users), creamy non-foaming cleansers are often best interpreted as second-cleansers or morning cleansers, not universal one-step winners.

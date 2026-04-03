@@ -1,0 +1,28 @@
+TITLE: PK/PD, brain access, and time course
+PURPOSE: Summarize what opened evidence says about peripheral-to-central exposure limits.
+STATUS: SUBSTANTIVE_DRAFT
+SCOPE: Adjacent mechanistic constraints on interpreting peripheral injection outcomes.
+DEPENDENCIES: S2; 32_mechanistic_extrapolation_route_to_brain_and_pfc_relevance_limits.txt
+KEY_QUESTIONS: Can injected oxytocin reach CSF/brain, and when?
+EVIDENCE_TIER: ADJACENT_MECHANISTIC
+SOURCE_IDS_USED: S2; S4
+OPEN_ISSUES: CSF exposure is not equivalent to region-specific PFC receptor engagement.
+LAST_UPDATED: 2026-03-27
+
+S2 KEY FINDINGS:
+- In rhesus macaques, d5-labeled exogenous OT administered IV (80 IU) and IN reached CSF.
+- Sampling windows: 0, 10, 20, 30, 45, 60 min.
+- Peripheral administration did not increase endogenous CSF OT.
+- IV did not appear inferior to IN for CSF concentrations in this experiment.
+
+INTERPRETIVE LIMITS:
+- CSF presence does not prove high parenchymal concentrations in PFC.
+- Species: macaque PK cannot be directly mapped to humans or rats.
+- Outcome linkage: S2 does not measure cognition or parasympathetic function.
+
+TIME-COURSE LINK TO S4:
+- In rats, behavioral and neurochemical changes after 0.1 mg/kg s.c. appeared in the ~20-60 min window, consistent with a delayed post-injection behavioral assay period rather than immediate bolus-like effect.
+
+NEXT_ACTIONS:
+- Continue targeted searches for route-matched full texts, especially human peripheral injection PFC and parasympathetic studies.
+- Maintain separation between oxytocin acetate-specified studies and generic oxytocin formulations.

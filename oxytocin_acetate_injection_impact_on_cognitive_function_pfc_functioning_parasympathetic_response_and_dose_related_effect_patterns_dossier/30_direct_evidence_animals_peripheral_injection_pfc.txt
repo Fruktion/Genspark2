@@ -1,0 +1,27 @@
+TITLE: Direct evidence - animals - peripheral injection - PFC
+PURPOSE: Summarize direct PFC measures after peripheral animal injection.
+STATUS: SUBSTANTIVE_DRAFT
+SCOPE: Peripheral animal injection with direct PFC measures.
+DEPENDENCIES: S4
+KEY_QUESTIONS: Did peripheral injected oxytocin change direct PFC functioning?
+EVIDENCE_TIER: DIRECT_ANIMAL_PRIMARY_LIMITED
+SOURCE_IDS_USED: S4
+OPEN_ISSUES: Only one opened study and it was largely negative for direct PFC neurochemistry.
+LAST_UPDATED: 2026-03-27
+
+DIRECT_NEURAL_MEASURE_EVIDENCE:
+- S4 measured dopamine and serotonin efflux in PFC and NAc by microdialysis after 0.1 mg/kg s.c. oxytocin acetate.
+- Result: significant persistent increase in NAc dopamine; PFC dopamine trend did not reach significance; PFC and NAc serotonin unchanged.
+
+INTERPRETATION:
+- This is direct evidence AGAINST a simple claim that peripheral s.c. oxytocin at 0.1 mg/kg robustly increases PFC catecholaminergic signaling in this model.
+- Behavioral changes in the same study should not be oversold as direct PFC enhancement.
+
+VERDICT_FOR_STRATUM:
+- Evidence level: WEAK but informative.
+- Effect direction for direct PFC neurochemistry at tested dose: null/non-significant.
+- Dose-response: insufficient; only one direct PFC dose examined in microdialysis arm.
+
+NEXT_ACTIONS:
+- Continue targeted searches for route-matched full texts, especially human peripheral injection PFC and parasympathetic studies.
+- Maintain separation between oxytocin acetate-specified studies and generic oxytocin formulations.

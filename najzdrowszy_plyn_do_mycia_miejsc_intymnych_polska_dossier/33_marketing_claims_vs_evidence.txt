@@ -1,0 +1,19 @@
+TITLE: 33 Marketing Claims vs Evidence
+PURPOSE: Contrast market language with actual evidence strength
+STATUS: complete
+SCOPE: Claims such as gynecologically tested, natural, microbiome-friendly
+DEPENDENCIES: 20-32
+KEY_QUESTIONS: Which claims are overstated?
+EVIDENCE_TIER: critical synthesis
+SOURCE_IDS_USED: S04,S09,S19-S23
+OPEN_ISSUES: Many claims impossible to independently audit from public pages
+LAST_UPDATED: 2026-03-31
+
+
+Common market claims and evidentiary value:
+- “Gynecologically tested”: weak-to-moderate reassurance at best; details usually unavailable.
+- “Natural” / “herbal”: often anti-signal for allergy-prone users.
+- “Prebiotic/probiotic”: low evidentiary value in rinse-off context unless clinically demonstrated.
+- “pH-balanced”: modestly relevant, but far from sufficient.
+- “Pharmacy-only”: distribution signal, not evidence signal.
+- “For infections”: dangerous if user interprets cleanser as diagnosis/treatment substitute.

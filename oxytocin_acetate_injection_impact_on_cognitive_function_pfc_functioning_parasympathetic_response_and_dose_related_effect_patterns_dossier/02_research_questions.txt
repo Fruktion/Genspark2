@@ -1,0 +1,31 @@
+TITLE: Research questions
+PURPOSE: Enumerate the dossier's primary, secondary, and falsification questions.
+STATUS: SUBSTANTIVE_DRAFT
+SCOPE: Direct injection evidence, dose patterns, and red-team challenges.
+DEPENDENCIES: 01_scope_and_objectives.txt
+KEY_QUESTIONS: What effects are direct, what are adjacent, and what would overturn current synthesis?
+EVIDENCE_TIER: RESEARCH_PLAN
+SOURCE_IDS_USED: NONE_INFERENCE_ONLY
+OPEN_ISSUES: Some questions remain unresolved because the literature appears sparse or formulation-unspecified.
+LAST_UPDATED: 2026-03-27
+
+PRIMARY_QUESTIONS:
+1. Human peripheral injection: does oxytocin change cognition, PFC function, or parasympathetic metrics?
+2. Animal peripheral injection: which doses/routes alter social cognition, attention-like behavior, learning/memory, or direct PFC-related measures?
+3. Animal central injection: what direct PFC or cognition effects exist, and at what doses/timing?
+
+SECONDARY_DOSE_QUESTIONS:
+- What is the lowest reported effect-associated dose in each stratum?
+- What is the highest no-effect dose in each stratum?
+- Are there signs of threshold, ceiling, or inverted-U patterns?
+- Do bolus/infusion differences matter?
+- What evidence, if any, supports repeated-dose benefit or harm?
+
+RED_TEAM_QUESTIONS:
+- Are observed changes actually social salience/stress/arousal effects rather than cognition enhancement?
+- Are PFC claims mostly inferential?
+- Do parasympathetic claims survive respiration-control scrutiny?
+
+NEXT_ACTIONS:
+- Continue targeted searches for route-matched full texts, especially human peripheral injection PFC and parasympathetic studies.
+- Maintain separation between oxytocin acetate-specified studies and generic oxytocin formulations.

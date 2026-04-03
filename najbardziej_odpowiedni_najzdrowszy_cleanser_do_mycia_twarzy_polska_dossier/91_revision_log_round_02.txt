@@ -1,0 +1,24 @@
+TITLE: Revision log round 02
+PURPOSE: Log concrete changes made in audit round 02.
+STATUS: COMPLETED
+LAST_UPDATED: 2026-03-31
+
+CHANGES MADE
+- Replaced old generic source-ID logic with A/P/R/G/X system.
+- Added 04d source ID naming and URL index.
+- Rebuilt 04 source register around access-grade honesty.
+- Added direct academic/regulatory evidence notes using opened full texts where available.
+- Built 12b verified longlist table with 35 entries and verification levels.
+- Added 12c exclusion log.
+- Added 26b regulatory sources register.
+- Added 30b sunscreen/makeup removal evidence file.
+- Added 31b allergy/irritation upgrade file.
+- Added 35c packet-based shortlist verification file.
+- Added 36b raw weighted score table with three weight sets.
+- Added 38b price method and raw quote file.
+- Added 39b no-regret shortlist.
+- Added 45b unresolved verification failures log.
+
+KNOWN NON-FIXES
+- Could not fully satisfy second-source INCI requirement for scored products.
+- Could not fully satisfy explicit pH verification requirement for top products.

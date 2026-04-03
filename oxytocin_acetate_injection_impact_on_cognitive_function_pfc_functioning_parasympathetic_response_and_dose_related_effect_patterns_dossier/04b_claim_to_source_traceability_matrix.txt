@@ -1,0 +1,27 @@
+TITLE: Claim-to-source traceability matrix
+PURPOSE: Map major claims to exact source IDs with route/species/outcome/dose tags.
+STATUS: SUBSTANTIVE_DRAFT
+SCOPE: Major scenario claims only; inferences explicitly labeled.
+DEPENDENCIES: 04_source_register.txt; 41_scenario_specific_verdicts_by_route_species_population_outcome_and_dose_band.txt
+KEY_QUESTIONS: Can every major claim be audited back to an opened source?
+EVIDENCE_TIER: TRACEABILITY_LAYER
+SOURCE_IDS_USED: S1; S2; S3; S4; S5
+OPEN_ISSUES: Some dose details unavailable because key human studies were abstract-only.
+LAST_UPDATED: 2026-03-27
+
+| claim_id | major_claim | route/species/outcome/dose tags | source_ids | claim_status |
+|---|---|---|---|---|
+| C1 | Literature does not consistently specify oxytocin acetate; many studies report generic oxytocin only. | formulation-all | S1,S3,S5,S4 | SUPPORTED_WITH_LIMITED_SCOPE |
+| C2 | A full-text rat peripheral study explicitly used oxytocin acetate and expressed doses as salt. | s.c./rat/social-behavior-neurochemistry/0.03-0.3 mg/kg | S4 | SUPPORTED |
+| C3 | Human peripheral injection cognition evidence directly opened in this run is sparse and mainly limited to one autism IV crossover report. | IV/human clinical/social cognition | S1 | SUPPORTED_BUT_ABSTRACT_ONLY |
+| C4 | Human injected parasympathetic evidence directly opened in this run comes mainly from obstetric/peripartum context and is not clean proof of vagal activation. | IV pregnant humans/HRV spectral indices | S3 | SUPPORTED_BUT_ABSTRACT_ONLY |
+| C5 | In rhesus macaques, IV exogenous oxytocin can reach CSF, so total impossibility of central exposure after IV is not supported. | IV/macaque/PK/80 IU | S2 | SUPPORTED_ADJACENT |
+| C6 | In Lister-hooded male rats, 0.1 mg/kg s.c. oxytocin acetate increased social interaction and attenuated PCP hyperactivity; 0.03 mg/kg did not. | s.c./rat/social interaction-PCP model/0.03 vs 0.1 mg/kg | S4 | SUPPORTED |
+| C7 | In the same rat study, 0.3 mg/kg s.c. caused hypothermia and modest hypoactivity, indicating adverse/countervailing high-dose effects. | s.c./rat/adverse/0.3 mg/kg | S4 | SUPPORTED |
+| C8 | The same rat study did not show significant PFC dopamine increase at 0.1 mg/kg despite NAc dopamine increase. | s.c./rat/PFC microdialysis/0.1 mg/kg | S4 | SUPPORTED |
+| C9 | In Shank3-deficient rats, ICV oxytocin improved long-term social recognition memory, attention, and hippocampal-prefrontal LTP. | ICV/rat/social memory-attention-PFC LTP/2 ng and 1 uM slice | S5 | SUPPORTED |
+| C10 | No opened direct evidence justifies an optimal injected oxytocin dose across humans or across routes. | all strata/dosing | S1,S3,S4,S5 | SUPPORTED |
+
+NEXT_ACTIONS:
+- Continue targeted searches for route-matched full texts, especially human peripheral injection PFC and parasympathetic studies.
+- Maintain separation between oxytocin acetate-specified studies and generic oxytocin formulations.

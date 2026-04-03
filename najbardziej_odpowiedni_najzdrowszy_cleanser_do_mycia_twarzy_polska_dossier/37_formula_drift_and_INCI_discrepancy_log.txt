@@ -1,0 +1,56 @@
+TITLE: Formula drift and INCI discrepancy log
+PURPOSE: Track reformulation risk and cross-source INCI inconsistencies.
+STATUS: UPDATED_WITH_REAL_CASES
+SCOPE: Shortlisted products and unresolved verification problems.
+DEPENDENCIES: 35c_product_verification_packets.txt, 45b_product_verification_failures_and_unresolved_cases.txt
+KEY_QUESTIONS: Where could formula drift overturn recommendations?
+EVIDENCE_TIER: META_PRODUCT
+LAST_UPDATED: 2026-03-31
+
+CURRENT STATUS BY PRODUCT
+CLN-001 CeraVe Hydrating Cleanser
+- official current INCI opened
+- second-source INCI not yet opened
+- drift risk: MODERATE
+
+CLN-002 CeraVe Foaming Cleanser
+- official current INCI opened
+- second-source INCI not yet opened
+- drift risk: MODERATE
+
+CLN-003 LRP Toleriane Emulsja Oczyszczająca
+- official current INCI recovered from page source
+- second-source INCI missing
+- drift risk: MODERATE-HIGH because source extraction relied on page source, not a second page/retailer confirmation
+
+CLN-004 Bioderma Sensibio Gel Moussant
+- official current INCI opened in modal
+- second-source INCI missing
+- drift risk: MODERATE
+
+CLN-005 Avène Tolérance cleansing balm-gel
+- official current INCI opened from page source
+- second-source INCI missing
+- drift risk: MODERATE-HIGH
+
+CLN-006 BasicLab ultrawrażliwa emulsja
+- official current INCI opened and price visible
+- second-source INCI missing
+- drift risk: MODERATE
+
+CLN-007 BasicLab acne gel
+- official current INCI opened and price visible
+- second-source INCI missing
+- drift risk: MODERATE
+
+CLN-008 Cetaphil Gentle Skin Cleanser
+- current Polish product-specific INCI unresolved
+- drift risk: HIGH
+
+CLN-009 SVR Sensifine Dermo-Nettoyant
+- Polish official page unresolved
+- drift risk: HIGH
+
+DOSSIER CONSEQUENCE
+- Until at least one second source confirms current INCI for each scored product, formula-based rankings remain provisional.
+- This is the single most plausible overturn mechanism for current shortlist ordering.

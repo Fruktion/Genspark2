@@ -1,0 +1,23 @@
+TITLE: Red-team behavioral claims
+PURPOSE: Ask how the favored behavioral synthesis could be wrong.
+STATUS: SUBSTANTIVE_DRAFT
+SCOPE: Behavioral/cognitive disconfirmation.
+DEPENDENCIES: 50_competing_hypotheses_and_falsifiers.txt
+KEY_QUESTIONS: Could observed effects reflect something other than cognitive enhancement?
+EVIDENCE_TIER: RED_TEAM
+SOURCE_IDS_USED: S1; S4; S5
+OPEN_ISSUES: Need more direct non-social cognition peripheral studies.
+LAST_UPDATED: 2026-03-27
+
+HOW_CURRENT_SYNTHESIS_COULD_BE_WRONG:
+- Positive findings may be limited to social cue salience or disease-model rescue, not broad cognition.
+- Reduced PCP hyperactivity may reflect antipsychotic-like or locomotor effects rather than cognitive benefit.
+- Retention of affective speech in autism may not generalize to healthy cognition.
+
+WHAT WOULD OVERTURN CURRENT_VIEW:
+- Well-controlled peripheral injection studies showing no effect on matched social-cognition tasks across doses and populations.
+- Studies demonstrating observed behavior changes disappear after controlling salience/arousal without cognitive mediation.
+
+NEXT_ACTIONS:
+- Continue targeted searches for route-matched full texts, especially human peripheral injection PFC and parasympathetic studies.
+- Maintain separation between oxytocin acetate-specified studies and generic oxytocin formulations.

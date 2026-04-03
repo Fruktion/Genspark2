@@ -1,0 +1,16 @@
+TITLE: Adjacent evidence: allergy, irritation, and acne gaps
+PURPOSE: Capture useful but less decisive evidence streams.
+STATUS: DRAFT_IN_PROGRESS
+SCOPE: Allergy data, acne-specific cleanser evidence, pH corrective evidence.
+DEPENDENCIES: 30_direct_evidence_cleanser_reviews_and_guideline_signals.txt
+KEY_QUESTIONS: Which adjacent findings influence but do not decide the verdict?
+EVIDENCE_TIER: MIXED
+SOURCE_IDS_USED: S05,S06,S07,S08
+OPEN_ISSUES: Abstract-only access limits decisiveness.
+LAST_UPDATED: 2026-03-31
+
+Useful adjacent findings:
+- S05 suggests many cleanser-associated allergens are preservatives/surfactants/fragrances, with CAPB notable.
+- S06 suggests MI in rinse-off products can still matter for sensitized users.
+- S07 challenges simplistic skin-pH marketing narratives.
+- S08 indicates acne cleanser evidence is thinner than popular discourse suggests.

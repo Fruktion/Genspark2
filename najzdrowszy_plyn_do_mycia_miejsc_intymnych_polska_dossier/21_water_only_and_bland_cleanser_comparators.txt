@@ -1,0 +1,19 @@
+TITLE: 21 Water-only and Bland Cleanser Comparators
+PURPOSE: Evaluate non-intimate comparators required by prompt
+STATUS: complete
+SCOPE: Water only, bland syndet, dedicated wash comparison frame
+DEPENDENCIES: 10,20
+KEY_QUESTIONS: Is a dedicated intimate wash needed at all?
+EVIDENCE_TIER: synthesis
+SOURCE_IDS_USED: S01,S02,S04,S14
+OPEN_ISSUES: Need stronger Poland-specific bland cleanser market build
+LAST_UPDATED: 2026-03-31
+
+- Water-only external cleansing (external only comparator): No cleanser ingredients. Risk profile depends on technique/frequency/temperature; avoid hot water and over-washing. Best default comparator for many asymptomatic adults if simple rinsing suffices; may be inadequate for people wanting odor/secretion removal after sweat, bowel movements, menses. Evidence base direct to vulva is thin; guidelines often allow water or soap substitute/emollient.
+- Very bland unscented non-intimate cleanser / syndet comparator (non-intimate comparator): Ideally fragrance-free, low-allergen, mild surfactant system, no active antibacterials/cooling botanicals. Relevant because dedicated intimate wash is not proven superior. Could be preferable when formulation is simpler and fragrance-free; however product-specific Polish market verification was not completed in this dossier.
+- Dedicated intimate washes (market category comparator): Heterogeneous formulas ranging from bland amphoteric/nonionic systems to fragranced herbal/high-claim products. No basis to assume superiority as a class. Many add fragrance, extracts, acids or microbiome claims that may not improve net benefit.
+
+
+Interim conclusion:
+For many healthy users, the burden of proof sits with the product, not with water-only cleansing.
+If water or a bland unscented cleanser cleans adequately without irritation, there is no good evidence basis to insist on a dedicated intimate wash.

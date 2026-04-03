@@ -1,0 +1,16 @@
+TITLE: Disconfirming evidence and red-team cleanser recommendations
+PURPOSE: Actively search for reasons top choices may fail.
+STATUS: DRAFT_IN_PROGRESS
+SCOPE: Product-family level red-team analysis.
+DEPENDENCIES: 33_contradictions_null_results_and_boundary_conditions_cleanser_selection.txt
+KEY_QUESTIONS: What evidence argues against current favorite families?
+EVIDENCE_TIER: RED_TEAM
+SOURCE_IDS_USED: S05,S06,S07,S08
+OPEN_ISSUES: Need direct product INCI mapping.
+LAST_UPDATED: 2026-03-31
+
+Red-team prompts:
+- Does favored product contain CAPB despite “sensitive” positioning?
+- Does favored product include fragrance or fragrant botanicals?
+- Would favored emulsion under-clean waterproof SPF?
+- Has the formula changed recently?

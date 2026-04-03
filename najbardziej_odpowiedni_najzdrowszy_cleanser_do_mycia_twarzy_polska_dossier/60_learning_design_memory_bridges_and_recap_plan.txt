@@ -1,0 +1,18 @@
+TITLE: Learning design, memory bridges, and recap plan
+PURPOSE: Make the dossier teachable for later article synthesis.
+STATUS: DRAFT_IN_PROGRESS
+SCOPE: Educational architecture.
+DEPENDENCIES: 07_glossary_and_prerequisites.txt, 08_learning_objectives_and_misconceptions.txt
+KEY_QUESTIONS: How should a later writer teach this topic clearly?
+EVIDENCE_TIER: LEARNING_DESIGN
+SOURCE_IDS_USED: NONE
+OPEN_ISSUES: Decision tree file still implicit rather than standalone.
+LAST_UPDATED: 2026-03-31
+
+Teaching sequence:
+1. Define what “najzdrowszy” should mean operationally.
+2. Explain barrier science and why soaps often lose.
+3. Explain surfactants, fragrance, preservatives, and why simplistic heuristics fail.
+4. Build the Polish market.
+5. Show shortlist.
+6. End with scenario-specific winners + no-regret shortlist.

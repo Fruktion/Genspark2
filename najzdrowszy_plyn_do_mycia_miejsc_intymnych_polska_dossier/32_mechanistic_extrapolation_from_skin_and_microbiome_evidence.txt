@@ -1,0 +1,20 @@
+TITLE: 32 Mechanistic Extrapolation from Skin and Microbiome Evidence
+PURPOSE: Separate inference from direct evidence
+STATUS: complete
+SCOPE: Mechanistic but non-decisive reasoning
+DEPENDENCIES: 32
+KEY_QUESTIONS: What can reasonably be inferred but not proven?
+EVIDENCE_TIER: mechanistic extrapolation
+SOURCE_IDS_USED: S04,S09,S11-S15
+OPEN_ISSUES: Inference should not masquerade as proof
+LAST_UPDATED: 2026-03-31
+
+
+Reasonable inference:
+- A simpler fragrance-free formula with mild surfactants is usually more defensible than a complex fragranced/herbal intimate wash.
+- Lactic-acid-containing mild washes may be acceptable, but additive benefit over a bland fragrance-free comparator is unproven.
+- For sensitive users, every extra botanical/fragrance exposure is an avoidable gamble.
+
+Not justified:
+- Claiming that probiotic/prebiotic rinse-off products improve vulvovaginal health outcomes in routine users.
+- Claiming apteka products are categorically safer.

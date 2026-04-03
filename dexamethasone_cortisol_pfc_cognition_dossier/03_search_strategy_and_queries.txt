@@ -1,0 +1,144 @@
+TITLE: Search strategy and exact queries
+PURPOSE: Log the mandatory search clusters, exact queries used, selected results, what changed, and unresolved points.
+STATUS: IN_PROGRESS
+SCOPE: Academic discovery for dexamethasone/cortisol equivalence, receptor logic, PK/PD, endocrine physiology, animal manipulation studies, and human cognition studies.
+DEPENDENCIES: 01_scope_and_objectives.txt; 02_research_questions.txt; 04_source_register.txt; 05_source_access_and_verification_log.txt
+KEY_QUESTIONS: Which evidence domains have direct primary data; where is the literature thin; which claims are direct versus extrapolated.
+EVIDENCE_TIER: SEARCH_LOG
+SOURCE_IDS_USED: SEARCH_ONLY_AT_THIS_STAGE
+OPEN_ISSUES: Some search strings returned sparse direct dexamethasone cognition results; further targeted searching still needed.
+LAST_UPDATED: 2026-04-01
+
+SEARCH PRINCIPLES
+- Prefer PubMed/PMC and official NCBI or journal pages.
+- Use reviews to orient but not to settle major claims.
+- Log failed and thin searches honestly.
+- Separate discovery from evidentiary status: found in search does not equal opened full text.
+
+MANDATORY SEARCH CLUSTERS LOG
+
+1) oral dexamethasone 0.5 mg cortisol suppression / dexamethasone suppression test interpretation
+Exact queries run:
+- "PubMed dexamethasone suppression test 0.5 mg overnight cortisol interpretation"
+- "site:pubmed.ncbi.nlm.nih.gov oral dexamethasone 0.5 mg cortisol suppression dexamethasone suppression test interpretation cognition PFC"
+Results opened/selected:
+- NCBI Bookshelf DST overview
+- PMC papers on DST interpretation and simultaneous dexamethasone/cortisol measurement
+Why selected:
+- Needed to test the common but likely invalid move from dexamethasone dose to single cortisol level.
+What changed:
+- Early evidence indicates DST logic concerns feedback suppression and test validity, not a direct cortisol-equivalent brain exposure metric.
+Unresolved:
+- Need direct low-dose DST papers with 0.5 mg regimens and interpretation caveats across assays and metabolism.
+
+2) glucocorticoid equivalence dexamethasone hydrocortisone and limitations of equivalence tables
+Exact queries run:
+- "PubMed dexamethasone hydrocortisone glucocorticoid equivalence receptor occupancy review"
+- "site:pubmed.ncbi.nlm.nih.gov glucocorticoid equivalence dexamethasone hydrocortisone limitations equivalence tables receptor occupancy"
+Results opened/selected:
+- Endotext glucocorticoid therapy/adrenal suppression chapter
+- J Clin Pharmacol 2003 dose equivalency evaluation paper
+Why selected:
+- Needed explicit distinction among anti-inflammatory potency, HPA suppression, mineralocorticoid potency, half-life.
+What changed:
+- Evidence already shows equivalence tables are domain-specific and not automatically transferable to cognition/CNS effects.
+Unresolved:
+- Need more receptor-occupancy or CNS-focused sources explicitly criticizing overextension of equivalence tables.
+
+3) dexamethasone GR vs MR affinity / receptor occupancy / BBB / CNS implications
+Exact queries run:
+- "PubMed dexamethasone mineralocorticoid receptor glucocorticoid receptor affinity blood brain barrier"
+- "site:pubmed.ncbi.nlm.nih.gov dexamethasone GR MR affinity blood brain barrier CNS implications review"
+Results opened/selected:
+- de Kloet-related BBB/P-glycoprotein paper (PMID 9528963)
+- Brain MR/GR review sources surfaced via PMC
+Why selected:
+- Central question requires knowing whether dexamethasone reaches the same brain compartments and receptor balance as endogenous cortisol/corticosterone.
+What changed:
+- Strong evidence emerged that dexamethasone is a poor MR substitute and brain penetration can be limited by P-gp, undermining simple serum-level equivalence for PFC function.
+Unresolved:
+- Need more direct human CNS or brain-receptor occupancy evidence, likely limited.
+
+4) cortisol or hydrocortisone administration and working memory / executive function / PFC tasks in humans
+Exact queries run:
+- "PubMed hydrocortisone working memory executive function randomized healthy humans"
+- "site:pubmed.ncbi.nlm.nih.gov hydrocortisone cortisol administration working memory executive function prefrontal cortex humans"
+Results opened/selected:
+- Henckens 2011 PNAS (10 mg hydrocortisone, timing-sensitive WM effects)
+- Wingenfeld 2011 hydrocortisone impairment/null mixed study
+- Porter 2002 elderly null study
+- Young 1999 chronic hydrocortisone impairment study
+- Schlosser 2013 response inhibition study in MDD + controls
+Why selected:
+- Direct human intervention evidence on working memory, inhibition, and executive function.
+What changed:
+- Human hydrocortisone evidence appears mixed and timing/task/context dependent, not uniformly enhancing.
+Unresolved:
+- Need classic dose-response human studies and more clear healthy-young versus older versus disease-state separation.
+
+5) dexamethasone administration and cognition in humans
+Exact queries run:
+- "PubMed dexamethasone cognition healthy humans randomized working memory"
+- "site:pubmed.ncbi.nlm.nih.gov dexamethasone administration cognition humans working memory executive function"
+- "PubMed dexamethasone healthy volunteers cognition placebo cortisol suppression test executive"
+Results opened/selected:
+- Wingenfeld 2011 (4 mg dexamethasone in healthy volunteers; null on WM/flexibility)
+- Additional search hits for declarative memory and PTSD-related dexamethasone studies not yet fully opened
+Why selected:
+- Needed direct evidence rather than inference from DST use.
+What changed:
+- Literature looks thinner than hydrocortisone literature; currently direct dexamethasone cognition evidence is sparse and often null or task-specific.
+Unresolved:
+- Need more opened primary dexamethasone human cognition papers, especially direct executive/PFC tasks.
+
+6) adrenal insufficiency replacement and cognition in humans
+Exact queries run:
+- "PubMed adrenal insufficiency replacement cognition humans hydrocortisone cognitive function"
+- "PubMed adrenal insufficiency hydrocortisone cognition study"
+Results opened/selected:
+- Harbeck 2009 nocturnal cortisol replacement pilot
+- Buning 2015 randomized dose trial in secondary adrenal insufficiency
+- Tiemensma 2016 mild deficits in PAI
+- Schultebraucks 2015 subtle/no clinically relevant impairment in AI
+- Krekeler 2021 dual-release hydrocortisone study
+Why selected:
+- Needed to distinguish normalization in deficient states from enhancement in healthy subjects.
+What changed:
+- Replacement-state literature suggests residual cognitive issues often persist; dose/circadian optimization does not consistently yield broad cognitive gains.
+Unresolved:
+- Need more direct comparisons of conventional versus circadian/dual-release regimens and whether any changes are true normalization or only subgroup effects.
+
+7) adrenalectomy + corticosterone replacement + PFC or executive-like tasks in rodents
+Exact queries run:
+- "PubMed adrenalectomy corticosterone replacement working memory rat prefrontal"
+- "site:pubmed.ncbi.nlm.nih.gov adrenalectomy corticosterone replacement working memory prefrontal cortex rats"
+- "PubMed adrenalectomy corticosterone replacement set shifting reversal learning rat glucocorticoid"
+Results opened/selected:
+- Mizoguchi 2004 J Neurosci ADX + corticosterone replacement
+- Mizoguchi 2008 hippocampal cholinergic follow-up
+Why selected:
+- This is the cleanest causal animal model of glucocorticoid deficiency and replacement.
+What changed:
+- Direct evidence supports normalization of ADX-induced PFC-like working memory impairment by physiological corticosterone replacement.
+Unresolved:
+- Need more animal work on whether replacement helps intact animals above baseline (currently doubtful) and more task diversity beyond T-maze WM.
+
+8) endogenous glucocorticoids, stress, and PFC inverted-U or state-dependent models
+Exact queries run:
+- "PubMed stress cortisol prefrontal cortex inverted U review working memory"
+- "site:pubmed.ncbi.nlm.nih.gov endogenous glucocorticoids stress prefrontal cortex inverted U working memory review"
+Results opened/selected:
+- Arnsten 2009 Nat Rev Neurosci
+- Liston/Gould review on stress and executive function
+- Shields 2016 meta-analysis on acute stress and executive functions
+Why selected:
+- Needed a mechanistic scaffold for why single conversions likely fail across state, timing, and co-transmitter conditions.
+What changed:
+- Strong support for nonlinear and multivariate PFC effects involving catecholamines plus glucocorticoids, not serum cortisol alone.
+Unresolved:
+- Need careful separation of endogenous stress states from exogenous steroid administration paradigms.
+
+FAILED OR THIN SEARCHES WORTH LOGGING
+- Some direct searches combining dexamethasone + healthy volunteers + executive/PFC yielded few directly relevant primary studies.
+- Searches targeting exact 0.5 mg dexamethasone with cognition/PFC produced essentially no direct hits.
+- This itself is informative: the premise may often be addressed indirectly through DST or equivalence tables rather than direct cognition studies.

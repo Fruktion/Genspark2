@@ -1,0 +1,69 @@
+TITLE: Direct evidence - animal adrenalectomy, corticosterone replacement, and cognition
+PURPOSE: Extract animal manipulation studies where endogenous glucocorticoids are removed or reduced and corticosterone replacement is tested against cognitive outcomes, especially PFC-like working memory.
+STATUS: IN_PROGRESS
+SCOPE: Rodent adrenalectomy/corticosterone replacement literature; emphasis on PFC-relevant tasks and distinction between normalization of deficiency and enhancement in intact animals.
+DEPENDENCIES: 04_source_register.txt; 15_species_translation_human_cortisol_vs_rodent_corticosterone.txt; 37_task_taxonomy_PFC_outcomes_working_memory_attention_flexibility_retrieval_consolidation.txt
+KEY_QUESTIONS: Can glucocorticoid replacement normalize cognition in deficient rodents; does that imply enhancement in intact organisms; how much does species/compound translation limit inference.
+EVIDENCE_TIER: PRIMARY_ANIMAL_EVIDENCE_WITH_ONE_FULL_TEXT_KEY_STUDY
+SOURCE_IDS_USED: S007; S018
+OPEN_ISSUES: More task-diverse animal studies still needed; current evidence strongest for spatial working memory in male rats.
+LAST_UPDATED: 2026-04-01
+
+DIRECT STUDIES
+
+Study: S007
+Citation: Mizoguchi et al. 2004 J Neurosci
+Species: Rat (Wistar)
+Sex: Male
+Health state / model: Adrenalectomized rats (ADX) versus sham; glucocorticoid-deficient state induced surgically
+Endogenous glucocorticoid context: Endogenous corticosterone suppressed/removed by bilateral adrenalectomy
+Intervention compound: Corticosterone replacement; plus mechanistic intra-PFC D1 agonist rescue experiments
+Dose: 100 mg 60-day release corticosterone pellet + nocturnal drinking corticosterone 50 microg/ml from 7 PM to 7 AM
+Route: Subcutaneous pellet + drinking water; separate intra-PFC SKF81297 infusions for mechanistic rescue
+Timing relative to testing: Testing 21 days after surgery/replacement initiation
+Acute vs chronic: Chronic deficiency/replacement model
+Comparator: Sham surgery + placebo pellet; ADX + placebo pellet; ADX + corticosterone replacement
+Whether corticosterone measured: Yes
+Assay type: Plasma corticosterone radioimmunoassay (RIA)
+Cognitive task: Delayed nonmatch-to-sample T-maze task with 0, 10, 30, 60 s delays
+Plausibly PFC-dependent: Yes; authors explicitly frame it as PFC-sensitive working memory, especially at longer delays
+Direction of effect: ADX impaired working memory at 30 and 60 s delays; corticosterone replacement prevented/reversed this impairment
+Normalization / enhancement / impairment / mixed / null: Normalization/rescue of deficiency-induced impairment, not enhancement above sham baseline
+Major confounders: Male rats only; corticosterone not human cortisol; task is rodent analog of working memory, not human executive testing; replacement aims to reproduce physiological plasma levels rather than exceed them
+Source-access grade: FULL_TEXT_OPENED
+Evidence-strength note: High-value causal animal study directly showing that endogenous glucocorticoids are necessary for maintaining PFC-like working memory in deficient rats.
+
+Study: S018
+Citation: Mizoguchi et al. 2008 Brain Research Bulletin
+Species: Rat (Wistar)
+Sex: Male
+Health state / model: ADX with or without corticosterone replacement
+Endogenous glucocorticoid context: Glucocorticoid suppression by adrenalectomy
+Intervention compound: Corticosterone replacement
+Dose: Not fully extracted in current round beyond abstract context as follow-up to prior ADX paradigm
+Route: Not fully extracted in current round
+Timing relative to testing: Chronic follow-up experiment
+Acute vs chronic: Chronic
+Comparator: ADX versus ADX + corticosterone replacement
+Whether corticosterone measured: Yes, abstract indicates radioimmunoassay methods in MeSH/context
+Assay type: Not fully extracted from full text
+Cognitive task: Not direct cognition task primary outcome in this paper; hippocampal cholinergic transmission measured as adjacent mechanism
+Plausibly PFC-dependent: No, mainly adjacent hippocampal mechanistic paper
+Direction of effect: ADX enhanced hippocampal cholinergic response; replacement reversed this
+Normalization / enhancement / impairment / mixed / null: Adjacent mechanism, not direct cognition normalization claim
+Major confounders: Not direct behavioral cognition study; hippocampal rather than PFC emphasis
+Source-access grade: ABSTRACT_ONLY
+Evidence-strength note: Supportive only as adjacent mechanistic boundary condition.
+
+WHAT THE ANIMAL EVIDENCE SUPPORTS
+- Removing endogenous corticosterone can impair rodent PFC-like working memory.
+- Replacing corticosterone to physiological levels can normalize this deficit.
+- This is best interpreted as maintenance/restoration of a necessary hormonal context, not generic enhancement beyond intact baseline.
+
+WHAT IT DOES NOT SUPPORT
+- It does not show that giving glucocorticoids to already intact healthy animals improves cognition above baseline.
+- It does not justify direct conversion from rodent corticosterone replacement to human cortisol or dexamethasone use.
+- It does not justify mapping dexamethasone serum suppression effects onto corticosterone replacement effects.
+
+PROVISIONAL INFERENCE (NOT A SOURCE)
+Animal replacement data support a necessity/normalization model in deficient states more than an enhancement model in intact organisms.

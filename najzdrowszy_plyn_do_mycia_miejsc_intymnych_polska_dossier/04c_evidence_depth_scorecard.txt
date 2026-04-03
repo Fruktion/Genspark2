@@ -1,0 +1,29 @@
+TITLE: 04c Evidence Depth Scorecard
+PURPOSE: Rate dossier readiness honestly
+STATUS: complete
+SCOPE: Readiness flags required by prompt
+DEPENDENCIES: 04,04b
+KEY_QUESTIONS: How ready is this dossier?
+EVIDENCE_TIER: meta
+SOURCE_IDS_USED: S01-S24
+OPEN_ISSUES: Market verification still incomplete for many SKUs
+LAST_UPDATED: 2026-03-31
+
+
+STRUCTURE_READY: YES
+Justification: Required dossier architecture, topic-specific files, manifest/tree, scenario files, red-team files, uncertainty logs, and review packet are present.
+
+TRACEABILITY_READY: YES
+Justification: Major claims are mapped to explicit source IDs or labeled INFERENCE. No pseudo-sources used as evidence.
+
+RED_TEAM_READY: YES
+Justification: Dedicated red-team/disconfirming files created, including overturn conditions and reasons the shortlist could be wrong.
+
+PRIMARY_EVIDENCE_READY: PARTIAL / NO for a definitive product winner
+Justification: Key high-level care principles are well supported by opened full-text reviews/guidelines (S02,S05,S06,S07,S09,S14), but decisive head-to-head primary evidence for a universally best Polish rinse-off product is not available. Product-specific recommendation pillars rely heavily on formulation logic + market metadata, not strong comparative clinical trials.
+
+MARKET_VERIFICATION_READY: PARTIAL
+Justification: >25 products cataloged with pharmacy and retail representation, but only a subset have robust current INCI verification from opened current pages. Many remain in uncertainty bins.
+
+ARTICLE_READY: NO
+Justification: Enough for an honest specialist synthesis framed as a shortlist with confidence levels; not enough for a high-confidence “best product on the Polish market” article.

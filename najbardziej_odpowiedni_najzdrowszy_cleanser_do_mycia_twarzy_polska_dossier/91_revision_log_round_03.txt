@@ -1,0 +1,12 @@
+TITLE: Revision log round 03
+PURPOSE: Record final consistency and red-team pass adjustments.
+STATUS: COMPLETED
+LAST_UPDATED: 2026-03-31
+
+ROUND-03 ADJUSTMENTS
+- Capped certainty language around pH, MI, and cleanser-allergy prevalence.
+- Explicitly separated no-regret shortlist from scenario winners.
+- Reaffirmed that Cetaphil and SVR are not no-regret picks due to current traceability gaps.
+- Added blocker-focused readiness framing instead of pretending completion.
+- Rechecked that universal-winner language remains negative.
+- Preserved scenario-specific ranking logic instead of forcing one global champion.

@@ -1,0 +1,22 @@
+TITLE: Red-team reproducibility and publication bias
+PURPOSE: Surface the possibility that small positive studies overstate the true effect.
+STATUS: SUBSTANTIVE_DRAFT
+SCOPE: Small-study and selective-publication concerns.
+DEPENDENCIES: 80_gap_log_and_next_searches.txt
+KEY_QUESTIONS: Could the literature be biased toward positive social-cognition effects?
+EVIDENCE_TIER: RED_TEAM_SYNTHESIS
+SOURCE_IDS_USED: S1; S4; S5
+OPEN_ISSUES: Formal meta-analysis not performed in this run.
+LAST_UPDATED: 2026-03-27
+
+CONCERNS:
+- S1 sample size was 15 and abstract-only in this run.
+- S4 and S5 are single-lab preclinical studies.
+- Oxytocin social-cognition literature more broadly has reproducibility concerns, but route-matched injection evidence here is too sparse for strong publication-bias quantification.
+
+CURRENT_JUDGMENT:
+- Publication-bias concern is credible and should further suppress confidence in optimal-dose claims.
+
+NEXT_ACTIONS:
+- Continue targeted searches for route-matched full texts, especially human peripheral injection PFC and parasympathetic studies.
+- Maintain separation between oxytocin acetate-specified studies and generic oxytocin formulations.

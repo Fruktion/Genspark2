@@ -1,0 +1,26 @@
+TITLE: Market verification readiness flags
+PURPOSE: Rate whether market-facing conclusions are trustworthy after the repair round.
+STATUS: UPDATED
+SCOPE: Product verification readiness, traceability quality, and final readiness gating.
+DEPENDENCIES: 12b_verified_longlist_table.txt, 35c_product_verification_packets.txt, 45b_product_verification_failures_and_unresolved_cases.txt
+KEY_QUESTIONS: Can article-grade product claims be trusted yet?
+EVIDENCE_TIER: META
+SOURCE_IDS_USED: A01-A10, P01-P09, R01-R03, G01-G03, X01-X03
+OPEN_ISSUES: second-source INCI gaps, incomplete retailer opens, unknown pH for all scored products.
+LAST_UPDATED: 2026-03-31
+
+STRUCTURE_READY: STRONG
+TRACEABILITY_READY: MODERATE
+RED_TEAM_READY: MODERATE
+PRIMARY_EVIDENCE_READY: MODERATE
+EVIDENCE_DEPTH_READY: MODERATE
+MARKET_VERIFICATION_READY: MODERATE_LOW
+PRODUCT_DATA_READY: MODERATE_LOW
+ARTICLE_READY: FALSE
+
+REASONING
+- Structure is now strong.
+- Traceability is materially improved through A/P/R/G/X IDs and packet-based product evidence.
+- Product data remain capped by missing second-source INCI verification and missing explicit pH data.
+- Market verification is improved but still below the requested standard because retailer/apteka product pages are thin.
+- Therefore the dossier can support a careful interim synthesis but not a confident final article.

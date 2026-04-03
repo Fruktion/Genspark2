@@ -1,0 +1,44 @@
+TITLE: Adjacent evidence - stress, endogenous cortisol, and PFC performance
+PURPOSE: Capture adjacent evidence on endogenous stress states and PFC/executive outcomes without conflating stress effects with exogenous steroid effects.
+STATUS: IN_PROGRESS
+SCOPE: Reviews/meta-analyses and mechanistic studies on acute stress, endogenous cortisol, catecholamine interaction, and executive/PFC performance.
+DEPENDENCIES: 04_source_register.txt; 20_mechanisms_PFC_stress_glucocorticoids_and_inverted_U_models.txt
+KEY_QUESTIONS: How stress literature constrains steroid-translation claims; what it says about inverted-U and task dependence.
+EVIDENCE_TIER: ADJACENT_MECHANISTIC
+SOURCE_IDS_USED: S011; S013; S022
+OPEN_ISSUES: More primary endogenous-cortisol/PFC task papers could still strengthen this section.
+LAST_UPDATED: 2026-04-01
+
+WHY THIS SECTION IS ADJACENT, NOT DIRECT
+Stress manipulations co-activate catecholamines, appraisal, autonomic arousal, and glucocorticoids. Therefore endogenous stress evidence cannot be read as pure cortisol evidence. It is valuable mainly for boundary conditions.
+
+KEY EVIDENCE
+1) Arnsten 2009 (S011)
+- Acute stress rapidly impairs PFC-mediated cognition, especially working memory and attention.
+- Noradrenaline and dopamine each show inverted-U relationships in the PFC.
+- Glucocorticoids can worsen PFC function and interact with catecholamine systems, but are not acting alone.
+- The paper explicitly undermines any single linear cortisol-equivalent rule for PFC function.
+Classification: MECHANISTIC_BOUNDARY_SOURCE
+
+2) Shields et al. 2016 meta-analytic review (S013)
+- Acute stress impairs working memory and cognitive flexibility overall, with more nuanced effects on inhibition.
+- This domain-splitting supports the dossier rule to separate executive subdomains instead of speaking of “cognition” globally.
+Classification: TASK_TAXONOMY_AND_BOUNDARY_SOURCE
+
+3) Kalafatakis et al. 2018 pattern study (S022)
+- Even under controlled exogenous replacement, emotional and working-memory outcomes depend on temporal glucocorticoid pattern.
+- This strengthens the broader point that endogenous stress curves and exogenous steroid dosing are not simply interconvertible.
+Classification: BRIDGE_SOURCE
+
+BOUNDARY CONDITIONS DERIVED FROM ADJACENT LITERATURE
+- Working memory is especially sensitive to stress-related disruption.
+- Inhibition can behave differently from working memory or flexibility.
+- Emotional context matters.
+- Cortisol effects are shaped by concurrent catecholaminergic state and time course.
+
+WHAT THIS SECTION DOES NOT LICENSE
+- It does not justify converting stress-induced salivary cortisol changes into dexamethasone-equivalent cognitive predictions.
+- It does not prove that administering glucocorticoids alone reproduces whole-stress PFC outcomes.
+
+PROVISIONAL TAKEAWAY
+Adjacent stress literature supports an inverted-U, state-dependent, and task-specific framework. It strengthens the case against any single dexamethasone-to-cortisol conversion for PFC function but should not be mistaken for direct dexamethasone evidence.

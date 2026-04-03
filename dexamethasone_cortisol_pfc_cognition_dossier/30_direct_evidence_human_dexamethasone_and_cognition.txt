@@ -1,0 +1,45 @@
+TITLE: Direct evidence - human dexamethasone and cognition
+PURPOSE: Capture direct human dexamethasone cognition studies, especially executive/PFC-relevant outcomes, without conflating DST suppression with dexamethasone's own CNS actions.
+STATUS: IN_PROGRESS
+SCOPE: Human dexamethasone administration studies with cognitive outcomes; includes healthy and disease-state participants if direct cognition outcomes are measured.
+DEPENDENCIES: 04_source_register.txt; 10_foundations_equivalence_framework_and_non_equivalence_map.txt; 20_mechanisms_dexamethasone_feedback_suppression_and_DST_logic.txt
+KEY_QUESTIONS: Are there direct data that dexamethasone improves, impairs, or does not affect PFC-relevant cognition; how sparse is the evidence compared with hydrocortisone.
+EVIDENCE_TIER: PRIMARY_STUDIES_BUT_CURRENTLY_THIN
+SOURCE_IDS_USED: S001
+OPEN_ISSUES: Literature appears sparse; more full-text opening still required; direct 0.5 mg oral dexamethasone cognition studies not yet located.
+LAST_UPDATED: 2026-04-01
+
+DIRECT STUDIES CURRENTLY EXTRACTED
+
+Study: S001
+Citation: Wingenfeld et al. 2011 Psychopharmacology
+Species: Human
+Sex: Healthy volunteers; sex mix not fully extracted from full text in current round, though study includes healthy volunteers and separate hydrocortisone comparison
+Health state / model: Healthy volunteers
+Endogenous glucocorticoid context: Intact HPA axis; dexamethasone used to suppress cortisol before testing
+Intervention compound: Dexamethasone
+Dose: 4 mg
+Route: Not fully extracted from full text in current round; abstract implies treatment the day before testing in standard clinical/experimental administration context
+Timing relative to testing: Day before neuropsychological testing
+Acute vs chronic: Acute single-dose pretreatment
+Comparator: Placebo and hydrocortisone condition in within-subject placebo-controlled design
+Whether cortisol measured: Dexamethasone and ACTH/blood mentioned in MeSH/abstract context
+Assay type: Not fully extracted; abstract indicates no clear cognitive effects despite endocrine manipulation
+Cognitive task: Working memory and cognitive flexibility tests
+Plausibly PFC-dependent: Yes
+Direction of effect: No effect of dexamethasone treatment on working memory or reaction time in cognitive flexibility test; ACTH negatively correlated with cognitive flexibility in dexamethasone condition
+Normalization / enhancement / impairment / mixed / null: Null at task-performance level, with endocrine-cognition correlation signal that does not rescue a direct cognitive effect claim
+Major confounders: Abstract only; dexamethasone dose high relative to user's 0.5 mg question; healthy volunteers only; task breadth limited
+Source-access grade: ABSTRACT_ONLY
+Evidence-strength note: Important because it is direct dexamethasone cognition evidence in healthy humans and it is null, but current extraction remains limited by lack of full text.
+
+WHAT IS NOT CURRENTLY SUPPORTED
+- No direct evidence yet located that 0.5 mg oral dexamethasone maps to a specific beneficial PFC-relevant cognitive exposure.
+- No direct evidence yet located that low-dose dexamethasone enhances executive function in healthy humans generally.
+- No basis to infer from DST suppression alone that dexamethasone itself provides a meaningful cortisol-like brain state for PFC function.
+
+SEARCH HONESTY NOTE
+Current dexamethasone cognition literature is thinner than the hydrocortisone literature found in this round. Search results surface more declarative-memory, PTSD, oncology-survivor, or developmental exposure studies than clean healthy-volunteer executive/PFC trials.
+
+PROVISIONAL INFERENCE (NOT A SOURCE)
+At this stage, direct human dexamethasone evidence is too sparse to justify any confident pro-cognitive claim, and the best directly extracted healthy-volunteer study is null.

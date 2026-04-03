@@ -1,0 +1,23 @@
+TITLE: Oxytocin receptor distribution, PFC, and vagal pathways
+PURPOSE: Contextualize plausible neural substrates while preserving route caution.
+STATUS: SUBSTANTIVE_DRAFT
+SCOPE: Mechanistic anatomy relevant to PFC and autonomics.
+DEPENDENCIES: 32_mechanistic_extrapolation_route_to_brain_and_pfc_relevance_limits.txt
+KEY_QUESTIONS: Which pathways are plausible but not proven in the direct injection studies?
+EVIDENCE_TIER: MECHANISTIC_SYNTHESIS
+SOURCE_IDS_USED: S4; S5
+OPEN_ISSUES: Direct peripheral-human proof remains absent in opened sources.
+LAST_UPDATED: 2026-03-27
+
+PLAUSIBLE PATHWAYS:
+- Hypothalamic OT systems influencing reward/salience circuits.
+- Hippocampal-prefrontal plasticity modulation (directly shown after ICV in S5).
+- Brainstem/vagal/autonomic modulation is plausible, but direct injection studies with rigorous vagal metrics are not well opened here.
+
+DIRECT_SUPPORT_LIMIT:
+- S5 directly supports hippocampal-prefrontal plasticity modulation after central administration.
+- S4 does not show significant PFC dopamine change after peripheral s.c. 0.1 mg/kg.
+
+NEXT_ACTIONS:
+- Continue targeted searches for route-matched full texts, especially human peripheral injection PFC and parasympathetic studies.
+- Maintain separation between oxytocin acetate-specified studies and generic oxytocin formulations.

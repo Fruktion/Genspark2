@@ -1,0 +1,154 @@
+TITLE: Direct evidence - human replacement states, adrenal insufficiency, and cognition
+PURPOSE: Extract human studies in cortisol-deficient clinical states receiving replacement or replacement-pattern manipulations, with strict separation of normalization from enhancement.
+STATUS: IN_PROGRESS
+SCOPE: Primary or secondary adrenal insufficiency and related replacement trials with objective cognition, emotional-processing, fatigue, or PFC-relevant outcomes.
+DEPENDENCIES: 04_source_register.txt; 10_foundations_HPA_axis_circadian_ultradian_and_assay_limits.txt; 46_non_actionable_human_translation_and_safety_boundary.txt
+KEY_QUESTIONS: Does replacement normalize cognition; do higher doses or more physiological patterns improve cognition; is general enhancement supported.
+EVIDENCE_TIER: PRIMARY_HUMAN_REPLACEMENT_MIXED
+SOURCE_IDS_USED: S004; S005; S006; S016; S017; S024
+OPEN_ISSUES: Many studies remain abstract-only; objective executive/PFC endpoints are not uniformly assessed; sleep/fatigue confounding is substantial.
+LAST_UPDATED: 2026-04-01
+
+DIRECT STUDIES
+
+Study: S004
+Citation: Harbeck et al. 2009 pilot nocturnal cortisol replacement study
+Species: Human
+Sex: Mixed
+Health state / model: Primary or secondary adrenal insufficiency
+Endogenous glucocorticoid context: Cortisol-deficient state on replacement therapy
+Intervention compound: Intravenous hydrocortisone infusion overnight
+Dose: Overnight infusion from midnight to 8 am; exact mg schedule not fully extracted in current round
+Route: IV infusion
+Timing relative to testing: Tested after infusion versus during usual oral therapy condition
+Acute vs chronic: Short-term replacement-pattern manipulation
+Comparator: Usual oral glucocorticoid therapy
+Whether cortisol measured: Yes
+Assay type: Plasma cortisol in study context; abstract-only extraction
+Cognitive task: Neurocognitive battery including concentration and memory tasks
+PFC relevance: Partial
+Direction of effect: Mostly null; one digit-symbol outcome favored oral condition; higher cortisol correlated with poorer short-term memory
+Classification: Predominantly null, not enhancement
+Major confounders: Small pilot; abstract only; heterogeneous population
+Source-access grade: ABSTRACT_ONLY
+Evidence-strength note: Important because a more physiological night-time replacement did not produce broad cognitive gains.
+
+Study: S005
+Citation: Buning et al. 2015 randomized controlled trial in secondary adrenal insufficiency
+Species: Human
+Sex: Mixed
+Health state / model: Secondary adrenal insufficiency
+Endogenous glucocorticoid context: Chronic replacement state
+Intervention compound: Hydrocortisone low vs high dose
+Dose: Low 0.2-0.3 mg/kg/day versus high 0.4-0.6 mg/kg/day
+Route: Oral replacement regimen
+Timing relative to testing: After 10 weeks on each regimen
+Acute vs chronic: Chronic crossover dosing comparison
+Comparator: Lower-dose versus higher-dose physiological replacement
+Whether cortisol measured: Yes
+Assay type: Systemic cortisol measured 1 h after dose; abstract-level extraction
+Cognitive task: Memory, attention, executive function, social cognition battery
+PFC relevance: Yes for executive/attention components
+Direction of effect: No significant cognitive differences despite higher systemic cortisol in higher-dose condition
+Classification: Null dose-response within replacement range
+Major confounders: Abstract only; may not address pulsatility/rhythm
+Source-access grade: ABSTRACT_ONLY
+Evidence-strength note: Strongly argues against assuming that more replacement cortisol yields better cognition.
+
+Study: S006
+Citation: Tiemensma et al. 2016 mild cognitive deficits in PAI
+Species: Human
+Sex: Mixed
+Health state / model: Primary adrenal insufficiency
+Endogenous glucocorticoid context: Long-term morning hydrocortisone replacement
+Intervention compound: Regular morning hydrocortisone timing versus postponed morning dose in an additional cohort
+Dose: Standard replacement; exact schedule not fully extracted here
+Route: Oral
+Timing relative to testing: Tested after regular morning dosing and after postponement paradigm
+Acute vs chronic: Chronic treatment context with acute timing comparison
+Comparator: Healthy matched controls; postponement condition
+Whether cortisol measured: Not fully extracted in current round
+Assay type: Not fully extracted
+Cognitive task: Neuropsychological battery including memory and executive measures
+PFC relevance: Yes in executive tasks
+Direction of effect: Mild deficits relative to controls; postponing morning dose had no effect
+Classification: Residual deficit / no acute normalization by timing tweak
+Major confounders: Abstract only; disease burden and sleep factors may contribute
+Source-access grade: ABSTRACT_ONLY
+Evidence-strength note: Supports that standard replacement does not guarantee normalized cognition.
+
+Study: S016
+Citation: Krekeler et al. 2021 dual-release hydrocortisone study
+Species: Human
+Sex: Mixed
+Health state / model: Adrenal insufficiency on dual-release hydrocortisone
+Endogenous glucocorticoid context: Chronic replacement state
+Intervention compound: Dual-release hydrocortisone versus conventional hydrocortisone subgroup comparison
+Dose: Typical DR-HC regimens; exact individual schedules not fully extracted here
+Route: Oral modified-release
+Timing relative to testing: Chronic treatment context
+Acute vs chronic: Chronic
+Comparator: Conventional hydrocortisone subgroup and diagnosis subgroups
+Whether cortisol measured: Not clearly extracted in current round
+Assay type: Not extracted
+Cognitive task: Ten-test neuropsychological battery including executive function
+PFC relevance: Yes for executive outcomes
+Direction of effect: Trend toward better executive function with DR-HC; not definitive
+Classification: Possible partial normalization / weak positive signal, not general enhancement
+Major confounders: Small sample; subgroup/trend-level results; abstract only
+Source-access grade: ABSTRACT_ONLY
+Evidence-strength note: Hypothesis-generating only.
+
+Study: S017
+Citation: Schultebraucks et al. 2015 Addison’s disease cognition study
+Species: Human
+Sex: Mixed
+Health state / model: Primary adrenal insufficiency
+Endogenous glucocorticoid context: Long-term replacement state
+Intervention compound: Existing replacement regimen observationally assessed
+Dose: Regular replacement; details abstract-level only
+Route: Oral
+Timing relative to testing: Chronic treatment context
+Acute vs chronic: Chronic observational comparison
+Comparator: Matched controls
+Whether cortisol measured: Not fully extracted
+Assay type: Not extracted
+Cognitive task: Broad battery including executive and working-memory related measures
+PFC relevance: Yes
+Direction of effect: Mainly subtle verbal-learning decrement after adjustment; no broad executive deficit
+Classification: Mild/subtle deficit, disconfirming severe-generalized-impairment narratives
+Major confounders: Observational design; adjustment-dependent findings
+Source-access grade: ABSTRACT_ONLY
+Evidence-strength note: Useful contradiction source against exaggerating cognitive impairment in all AI patients.
+
+Study: S024
+Citation: Russell et al. 2024 PULSES trial
+Species: Human
+Sex: Mixed, mostly female; fMRI subset restricted in analysis for homogeneity
+Health state / model: Primary adrenal insufficiency (mostly Addison disease, some CAH)
+Endogenous glucocorticoid context: Cortisol-deficient clinical population receiving replacement
+Intervention compound: Usual total daily hydrocortisone delivered as pulsatile subcutaneous infusion versus standard oral therapy
+Dose: Usual total daily dose 20-30 mg/day
+Route: Pulsatile subcutaneous pump versus oral tablets
+Timing relative to testing: After 6 weeks on each treatment arm in randomized crossover design
+Acute vs chronic: Chronic short-term crossover pattern manipulation
+Comparator: Standard three-times-daily oral hydrocortisone
+Whether cortisol measured: Yes
+Assay type: 24 h blood sampling for cortisol and ACTH in a subset; other outcomes included questionnaires, ETB, N-back, and fMRI
+Cognitive task: FERT, ECAT, FDOT, EREC, N-back, fMRI emotional processing
+PFC relevance: Partial; emotional-processing networks plus working memory
+Direction of effect: Primary FERT null; ECAT/emotional-ambiguity signals improved on pulsatile; N-back null; subjective fatigue and positive affect improved; ease of awakening improved
+Classification: Mixed, consistent with partial normalization of affect/fatigue/emotional processing rather than general cognitive enhancement
+Major confounders: Small sample; higher cortisol AUC on pulsatile despite matched nominal dose; feasibility duration only 6 weeks; adrenal-insufficient population only
+Source-access grade: FULL_TEXT_OPENED
+Evidence-strength note: High-value replacement-context study showing that better physiology can improve some clinically relevant domains without producing broad objective cognitive enhancement.
+
+INTERIM PATTERN SUMMARY
+- Replacement studies do not support a general rule that more glucocorticoid replacement improves cognition.
+- Higher replacement dose can be null (S005).
+- More physiological timing/pattern can yield mixed benefits in fatigue, affect, or emotional ambiguity while leaving primary cognitive endpoints null (S004, S024).
+- Long-term treated patients may still show mild or subtle deficits relative to controls (S006, S017).
+- Best current interpretation is normalization-context dependence, not enhancement.
+
+PROVISIONAL INFERENCE (NOT A SOURCE)
+Human replacement evidence supports, at most, context-specific partial normalization in deficiency states. It does not justify a general cognition-enhancement conclusion for glucocorticoids.

@@ -1,0 +1,59 @@
+TITLE: 20c Formulation Feature Flags and Red Flags
+PURPOSE: Normalize ingredient-risk flags across products
+STATUS: complete
+SCOPE: Parfum, botanicals, harsh surfactants, preservatives, lactic acid, microbiome claims
+DEPENDENCIES: 20b
+KEY_QUESTIONS: Which ingredients should trigger downgrades?
+EVIDENCE_TIER: synthesis + market metadata
+SOURCE_IDS_USED: S05,S06,S07,S12,S13,S19-S23
+OPEN_ISSUES: Flags are heuristic, not proof of harm per user
+LAST_UPDATED: 2026-03-31
+
+
+High-priority downgrading flags:
+- fragrance/parfum,
+- explicit fragrance allergens (e.g., limonene, linalool, hexyl cinnamal),
+- essential oils / tea tree / peppermint / cooling agents / menthol,
+- heavy botanical burden,
+- harsh surfactants (SLS/SLES, alkylbenzene sulfonates, strong anionics),
+- Cocamide DEA,
+- antiseptic positioning,
+- complex “microbiome/probiotic/prebiotic” marketing in rinse-off formula.
+
+Potentially favorable flags:
+- fragrance-free,
+- short/simple formula,
+- mild surfactants (e.g., glucosides + amphoteric systems) without obvious high-risk extras,
+- no strong actives or deodorizing antiseptic gimmicks,
+- humectants/emollients when tolerated.
+
+Product notes:
+Tołpa — Tołpa Dermo Intima neutralny płyn do higieny intymnej 195 ml :: parfum; botanical extracts; Cocamide DEA; mild amphoteric surfactants; lactic acid; humectants
+Lactacyd — Lactacyd Pharma łagodzący płyn do higieny intymnej 250 ml :: parfum; botanical extracts; methylparaben; mild nonionic/amphoteric surfactants; lactic acid; emollient esters; microbiome claims
+Lactacyd — Lactacyd Pharma Prebiotic+ płyn do higieny intymnej 250 ml :: formulation uncertain; prebiotic claim; uncertainty bin
+Lactacyd — Lactacyd Pharma ultra-nawilżający 40+ 250 ml :: menopause-targeted; formulation uncertain
+Aptederm — Aptederm płyn do higieny intymnej 250 ml :: parfum; fragrance allergen hexyl cinnamal; botanical extract; mild surfactants; lactic acid; panthenol; prebiotic inulin
+Lactovaginal Intima — Lactovaginal Intima płyn ginekologiczny do higieny intymnej 300 ml :: parfum; lactobacillus ferment claim; mild surfactants; lactic acid; humectants
+Derma Eco — Derma Eco Woman Intimate Wash 150 ml :: fragrance-free claim; pH 4; uncertainty bin
+AA — AA Intymna Advanced Med+ specjalistyczna emulsja do higieny intymnej :: uncertainty bin; marketed medical-style language
+HydroVag — HydroVag emulsja do higieny intymnej dla kobiet 40+ 300 ml :: menopause-targeted; uncertainty bin
+Pink Mama — Pink Mama naturalny płyn do higieny intymnej 250 ml :: likely botanical-heavy; uncertainty bin
+Sylveco — Sylveco łagodny żel do higieny intymnej 150 ml :: likely botanical/natural; pH 3.9 claim; uncertainty bin
+Iladian — Iladian Pregna żel do higieny intymnej 180 ml :: pregnancy-targeted; antibacterial claims; uncertainty bin
+Ziaja — Ziaja Intima Neutral 200/500 ml :: neutral variant likely lower-risk than perfumed variants but current formula unverified
+Ziaja — Ziaja Intima z kwasem laktobionowym 500 ml :: likely acid/humectant system; uncertainty bin
+Ziaja — Ziaja Intima z kwasem hialuronowym 500 ml :: dryness-oriented; uncertainty bin
+Ziaja — Ziaja Oliwkowa płyn do higieny intymnej 200/500 ml :: emollient-oriented; uncertainty bin
+Ziaja — Ziaja Intima Konwalia 200 ml :: perfumed/floral variant likely higher irritation risk
+Ziaja — Ziaja Intima Nagietek lekarski 500 ml :: herbal extract claim; uncertainty bin
+Ziaja — Ziaja Mamma Mia ginekologiczny płyn do higieny intymnej 300 ml :: pregnancy-targeted; uncertainty bin
+OnlyBio — OnlyBio Everyday prebiotyczny płyn do higieny intymnej 250 ml :: parfum + fragrance allergens; sodium coco-sulfate; prebiotic claim; lactic acid; humectants
+Facelle — Facelle płyn do higieny intymnej Sensitive :: widely available sensitive variant; uncertainty bin
+Biały Jeleń — Biały Jeleń żel do higieny intymnej z macierzanką 500 ml :: herbal thyme variant; possible fragrance/botanical sensitization risk
+Green Pharmacy — Green Pharmacy żel do higieny intymnej drzewo herbaciane i nagietek 370 ml :: tea tree + calendula botanical/EO burden likely higher-risk
+Linea MammaBaby — Linea MammaBaby płyn do higieny intymnej dla dzieci 250 ml :: multiple botanical extracts despite pediatric positioning
+Malizia — Malizia płyn do higieny intymnej kojący Calendula & Fiori di Loto 200 ml :: calendula/lotus perfumed botanical profile likely higher-risk
+Api Gold — Api Gold płyn do higieny intymnej 280 ml :: SLES; Cocamide DEA; parfum; propolis allergen risk
+Bingospa — Bingospa Jedwab do higieny intymnej 300 ml :: harsh surfactants incl SLES + alkylbenzene sulfonate; Cocamide DEA
+PrOVag — PrOVag żel do okolic intymnych 30 g :: excluded from core ranking due to modality mismatch
+Trivagin — Trivagin żel do ochrony i pielęgnacji okolic intymnych 30 ml :: excluded from core ranking due to modality mismatch

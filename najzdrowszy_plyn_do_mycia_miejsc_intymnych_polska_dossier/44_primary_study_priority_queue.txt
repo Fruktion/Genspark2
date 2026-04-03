@@ -1,0 +1,17 @@
+TITLE: 44 Primary Study Priority Queue
+PURPOSE: List studies that would most improve recommendation confidence
+STATUS: complete
+SCOPE: Future evidence priorities
+DEPENDENCIES: 30-34
+KEY_QUESTIONS: What should be opened next?
+EVIDENCE_TIER: research planning
+SOURCE_IDS_USED: S08-S18
+OPEN_ISSUES: Helpful for future revision
+LAST_UPDATED: 2026-03-31
+
+
+Highest-priority next evidence:
+1. Full text of Murina 2020 RCT (S08) to inspect methods, product formulas, endpoints and funding.
+2. Any direct head-to-head study versus bland fragrance-free comparator or water-only routine care.
+3. Better primary evidence in menopause/postpartum vulvar cleansing rather than vaginal treatment.
+4. Human studies specifically testing fragrance-free vs fragranced intimate washes on irritation outcomes.

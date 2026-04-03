@@ -1,0 +1,16 @@
+TITLE: Measurement and controller limitations
+PURPOSE: Clarify what the scoring model can and cannot measure well.
+STATUS: DRAFT_IN_PROGRESS
+SCOPE: Decision-model limitations.
+DEPENDENCIES: 13_screening_rubric_and_weights.txt
+KEY_QUESTIONS: What hidden variables limit confidence?
+EVIDENCE_TIER: META_METHOD
+SOURCE_IDS_USED: NONE
+OPEN_ISSUES: Many product parameters remain latent.
+LAST_UPDATED: 2026-03-31
+
+Limitations:
+- INCI lists omit concentrations.
+- User tolerability varies with disease state, routines, contact time, water hardness, and cleansing technique.
+- Published data rarely compare current Polish formulas head-to-head.
+- Retail availability and price fluctuate rapidly.

@@ -1,0 +1,25 @@
+TITLE: Source access and verification log
+PURPOSE: Audit trail of what was actually opened and what remained inaccessible.
+STATUS: SUBSTANTIVE_DRAFT
+SCOPE: Source honesty log.
+DEPENDENCIES: 04_source_register.txt
+KEY_QUESTIONS: Which sources were opened full text and which only as abstract/metadata?
+EVIDENCE_TIER: ACCESS_LOG
+SOURCE_IDS_USED: S1; S2; S3; S4; S5
+OPEN_ISSUES: Full text for S1 and S3 not retrieved in this run.
+LAST_UPDATED: 2026-03-27
+
+- S1 opened at PubMed landing page; abstract inspected; full text not accessed.
+- S2 opened at PubMed and PMCID page; abstract/full text inspected; dosing and timing extracted.
+- S3 opened at PubMed landing page; abstract inspected; full text not accessed.
+- S4 opened at PMCID full text; methods/results inspected in detail, including drug formulation, doses, timing, antagonists, and microdialysis outcomes.
+- S5 opened at PMCID full text; methods/results inspected in detail for ICV dosing, behavioral timing, and electrophysiology.
+
+VERIFICATION_NOTES:
+- Formulation identity is explicit only in S4 among opened direct behavioral studies: oxytocin acetate from Bachem, doses expressed as salt.
+- S5 states oxytocin treatment but route is central ICV; not evidence for peripheral injection.
+- S2 is adjacent PK evidence, not outcome evidence.
+
+NEXT_ACTIONS:
+- Continue targeted searches for route-matched full texts, especially human peripheral injection PFC and parasympathetic studies.
+- Maintain separation between oxytocin acetate-specified studies and generic oxytocin formulations.

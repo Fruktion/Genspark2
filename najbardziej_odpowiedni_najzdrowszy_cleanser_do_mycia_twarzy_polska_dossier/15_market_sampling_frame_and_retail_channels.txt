@@ -1,0 +1,21 @@
+TITLE: Market sampling frame and retail channels
+PURPOSE: Define where Polish availability will be sampled from.
+STATUS: DRAFT_IN_PROGRESS
+SCOPE: Poland retail verification.
+DEPENDENCIES: 12_polish_market_longlist.txt
+KEY_QUESTIONS: Which channels count for availability and pricing snapshots?
+EVIDENCE_TIER: MARKET_METHOD
+SOURCE_IDS_USED: M01,M02,M03
+OPEN_ISSUES: Need pharmacy-specific page openings beyond category pages.
+LAST_UPDATED: 2026-03-31
+
+Primary Polish channels to use:
+- official brand Polish sites where available
+- major pharmacies: Gemini, Melissa, Dr.Max, DOZ, Ziko, Super-Pharm apteka
+- major drugstores: Rossmann, Hebe, Notino, Super-Pharm retail
+
+Channel logic:
+- at least 2 channels for availability confirmation
+- official site preferred for INCI if current
+- retailer image/pack shot useful as secondary verification
+- price snapshot should note date and channel volatility

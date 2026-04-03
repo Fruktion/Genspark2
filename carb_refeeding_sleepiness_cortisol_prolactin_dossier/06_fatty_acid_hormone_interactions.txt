@@ -1,0 +1,100 @@
+TITLE
+Fatty acid hormone interactions
+PURPOSE
+Evaluate how the specific fat profile—EPA+DHA, GLA, and oleic acid—could alter insulin sensitivity, inflammatory signaling, incretins, membrane behavior, and stress-hormone dynamics in the target phenotype.
+STATUS
+SUBSTANTIVE_DRAFT
+SCOPE
+EPA/DHA, GLA, oleic acid, combined-profile interpretation, and interaction with metabolic flexibility.
+DEPENDENCIES
+08_inflammatory_and_immune_mechanisms.txt, 04_prolactin_dopamine_axis.txt, 10_synthesis_of_mechanisms.txt.
+KEY_QUESTIONS
+Which effects of these fats are well supported, which are probable, and which remain speculative? Does the specific combination likely mitigate or worsen post-carbohydrate sleepiness?
+EVIDENCE_TIER
+Mixed; strongest for omega-3 inflammatory modulation, weaker for GLA endocrine claims and combination-specific effects.
+SOURCE_IDS_USED
+S005,S011,S017,S019,S020
+OPEN_ISSUES
+Need fuller direct evidence on oleic-acid incretin/OEA pathways and modern human GLA-endocrine data.
+LAST_UPDATED
+2026-04-03
+
+TOP-LINE ASSESSMENT
+The specific fatty-acid profile probably modifies the phenotype more than it creates it. EPA/DHA most likely reduce inflammatory/TLR4/NF-kB signaling and may modestly influence HPA tone in some settings [S005,S011]. Oleic-acid-related OEA/GPR119/GLP-1 pathways are biologically plausible but not yet directly sourced strongly enough in the opened set to carry major conclusions. GLA-related prolactin/cortisol/PGE1 claims are the weakest and most speculative. Overall, this fat profile may blunt some inflammatory consequences of refeeding but is unlikely to eliminate the primary metabolic-refeeding mismatch.
+
+1. EPA/DHA EFFECTS ON INFLAMMATION
+This is the strongest fat-specific section. S005 states that n-3 polyunsaturated fatty acids including EPA and DHA can suppress LPS- or saturated-fatty-acid-mediated NF-kB activation and modify inflammatory signaling downstream of TLR4-related pathways [S005]. Because postprandial high-fat/high-carbohydrate meals can increase LPS, IL-6, TNF-alpha, ROS, and leukocyte activity [S005], enrichment of dietary fat with EPA/DHA may reduce part of the postprandial inflammatory load.
+
+In practical causal terms:
+- EPA/DHA are more likely to buffer fatigue-amplifying inflammatory signals than to be primary causes of the sleepiness.
+- Therefore their presence may partially mask how bad the phenotype would otherwise be.
+
+2. EPA/DHA EFFECTS ON INSULIN SENSITIVITY AND GLUCOSE METABOLISM
+The currently opened source set provides only indirect support here. S005 supports anti-inflammatory mechanisms that could secondarily improve insulin signaling, but not a decisive claim that EPA/DHA at the user’s stated dose normalize carbohydrate refeeding response. S011 provides an abstract-level trial in abstinent alcoholics in which fish oil reduced basal cortisol across the day, suggesting some HPA-modulatory potential [S011]. However, dose, population, and generalizability are limited.
+
+Thus the safe conclusion is:
+- EPA/DHA may mildly improve the inflammatory context in which glucose handling occurs,
+- may modestly lower basal stress signaling in some populations,
+- but should not be assumed to override ketogenic-adaptation-associated reduction in carbohydrate tolerance.
+
+3. MEMBRANE FLUIDITY / RECEPTOR FUNCTION
+Biologically, EPA/DHA incorporation into membranes can alter receptor microenvironment, signaling behavior, and inflammatory mediator generation. This is widely plausible but not directly demonstrated in the exact phenotype by the currently opened sources. It belongs in the probable mechanistic background category, not the decisive-cause category.
+
+4. GLA EFFECTS AND PGE1 PATHWAYS
+GLA is commonly discussed as a precursor route toward dihomo-gamma-linolenic acid and certain series-1 prostaglandin-related signaling. Historically, this has been tied to endocrine and inflammatory hypotheses. The problem is evidentiary quality. In the currently opened evidence base, the GLA-prolactin/PGE1 story is largely historical, indirect, and conflicted. Some older search-opened materials even suggest that PGE1 can stimulate prolactin release in some settings, which warns against oversimplification.
+
+Therefore the dossier currently rates these possibilities as:
+- anti-inflammatory modulation: plausible,
+- prolactin-cortisol normalization: low-confidence,
+- direct cause of the phenotype: very low-confidence.
+
+5. OLEIC ACID EFFECTS
+Oleic acid is relevant because it can be converted to oleoylethanolamide (OEA), and lipid-derived ligands related to oleic-acid metabolism can signal through receptors such as GPR119, influencing incretin and satiety biology. Search-stage evidence outside the formal opened set strongly suggests this pathway is real, but because the opened source base on this specific mechanism remains thin, claims must be restrained.
+
+Best current wording:
+- Oleic-acid-related pathways may influence satiety and incretin signaling.
+- They may therefore shape how carbohydrate-containing meals are experienced.
+- Current dossier confidence is moderate-low until better direct sources are added.
+
+6. COMBINED EFFECT OF EPA/DHA + GLA + OLEIC ACID ON METABOLIC FLEXIBILITY
+There is no strong direct opened human source examining this exact combination at the stated dose and context. So the dossier must avoid pretending otherwise. The best current synthesis is:
+- EPA/DHA likely reduce inflammatory noise.
+- Oleic-acid-related metabolites may influence satiety/incretins.
+- GLA may alter eicosanoid balance, but endocrine claims are uncertain.
+- None of these strongly counteracts the primary low-carb adaptation effect on acute carbohydrate handling.
+
+This means the fat profile may shape the presentation of the phenotype—for example, perhaps less overt inflammatory malaise than with a saturated-fat-heavy diet—without preventing the core symptom if carbohydrate tolerance is impaired.
+
+7. RED TEAM / HOW THIS COULD BE WRONG
+- EPA/DHA could be more protective than estimated if dose and incorporation are high enough.
+- Oleic-acid incretin effects might matter more than currently weighted.
+- GLA effects may be negligible and not worth discussing beyond low-confidence context.
+- The specific ratio between these fats could matter more than total dose, but current evidence is insufficient.
+
+BOTTOM-LINE JUDGMENT
+Established:
+- EPA/DHA can dampen inflammatory signaling relevant to postprandial stress [S005].
+Probable:
+- This fat profile modifies but does not dominate the phenotype.
+Possible:
+- Oleic-acid-derived signaling influences satiety/incretin pathways.
+Speculative:
+- GLA/PGE1-centered prolactin/cortisol explanations are major drivers here.
+
+
+[ROUND 2 ADDITION]
+8. OEA/GPR119 PROVIDES THE BEST CURRENT OLEIC-ACID-LINKED MECHANISTIC PATHWAY
+S020 upgrades the oleic-acid section. OEA, an oleic-acid-derived lipid signal, stimulated GLP-1 secretion in human L-cells and in vivo rat intestine through GPR119, and insulin stimulation was evident only under hyperglycemic conditions [S020]. This is highly relevant because it shows oleic-acid-related signaling can influence incretin biology in a glucose-dependent way. It remains indirect for the target phenotype because the strongest in vivo work is rodent-based and the human data are largely cellular, but the pathway is now better grounded.
+
+9. WHY S020 IS NOT YET A MAJOR PHENOTYPE DRIVER
+The pathway is still indirect for three reasons:
+- It is not a symptom trial.
+- The human evidence is mainly cell-line based.
+- It demonstrates incretin signaling, not post-carbohydrate sleepiness itself.
+Therefore oleic-acid/OEA mechanisms should remain in the “plausible meal-response modifier” category.
+
+10. STRONGER OMEGA-3 HUMAN EVIDENCE
+S017 now lets the dossier say that omega-3 supplementation can reduce overall cortisol and IL-6 during stress in humans [S017]. This supports the idea that high EPA/DHA intake could partially reduce inflammatory and HPA amplification of the phenotype, even though it does not directly address carbohydrate refeeding.
+
+11. GLA CLAIMS ARE WEAKER AFTER S019
+S019 showed no significant prolactin change after long-term GLA-containing essential-fatty-acid treatment [S019]. Therefore GLA should be treated mainly as a low-confidence eicosanoid/tissue-sensitivity modifier, not a proven prolactin-normalizing intervention.

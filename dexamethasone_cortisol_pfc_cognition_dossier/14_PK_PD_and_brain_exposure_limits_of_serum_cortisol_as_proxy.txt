@@ -1,0 +1,39 @@
+TITLE: PK/PD and brain exposure limits of serum cortisol as proxy
+PURPOSE: Show why serum cortisol or post-dex cortisol is an imperfect proxy for brain exposure and cognition.
+STATUS: IN_PROGRESS
+SCOPE: Blood-to-brain translation, BBB transport, binding proteins, temporal patterns, and assay limits.
+DEPENDENCIES: 04_source_register.txt; 10_foundations_HPA_axis_circadian_ultradian_and_assay_limits.txt
+KEY_QUESTIONS: When can serum help; when does it mislead; why cognitive inference is especially weak.
+EVIDENCE_TIER: MIXED_FOUNDATIONAL
+SOURCE_IDS_USED: S008; S021; S022; S025
+OPEN_ISSUES: Direct human PFC tissue-level exposure data are lacking.
+LAST_UPDATED: 2026-04-01
+
+WHY SERUM IS NOT THE BRAIN
+1) BBB transport
+- Dexamethasone entry into brain is restricted by P-glycoprotein, limiting direct translation from blood levels to central receptor exposure (S008, S023 cross-reference).
+
+2) Protein binding
+- Total cortisol depends strongly on cortisol-binding globulin and albumin states; free cortisol can diverge materially from total cortisol in DST interpretation (S021).
+
+3) Temporal structure
+- Same daily dose can generate different brain/cognitive effects when delivered with different pulsatile patterns (S022).
+
+4) Local metabolism and tissue decoding
+- Review literature in ACI notes tissue-specific handling and response variability, including factors not captured by one serum sample (S025).
+
+IMPLICATION FOR DEXAMETHASONE QUESTION
+If serum total cortisol after dexamethasone is already vulnerable to binding and assay confounds, and dexamethasone itself has restricted brain entry, then post-dex blood values cannot serve as a reliable surrogate for PFC glucocorticoid state.
+
+WHAT SERUM MEASURES STILL CAN DO
+- Confirm broad endocrine directionality (e.g., hydrocortisone elevation, dexamethasone suppression, inadequate dex exposure suspicion).
+- Support pharmacologic manipulation checks in intervention studies.
+They cannot, on current evidence, uniquely specify receptor balance or cognitive consequence.
+
+CLAIM STATUS
+- “Serum cortisol is useful as an endocrine manipulation check” -> SUPPORTED [S003, S021]
+- “Serum/post-dex cortisol is a sufficient proxy for brain/PFC exposure” -> NOT SUPPORTED [S008, S021, S022]
+- “A blood-level conversion can stand in for cognitive equivalence” -> NOT SUPPORTED [S021, S022, S025]
+
+PROVISIONAL TAKEAWAY
+Serum values are necessary but not sufficient. For this dossier’s PFC question, blood levels are too coarse to justify a single dexamethasone-to-cortisol cognitive translation.

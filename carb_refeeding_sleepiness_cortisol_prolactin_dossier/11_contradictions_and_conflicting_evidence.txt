@@ -1,0 +1,137 @@
+TITLE
+Contradictions and conflicting evidence
+PURPOSE
+Document where the literature diverges, where candidate mechanisms may not generalize, and what methodological limits weaken certainty.
+STATUS
+SUBSTANTIVE_DRAFT
+SCOPE
+Conflicts across ketogenic adaptation, prolactin, reactive hypoglycemia, omega-3/HPA, inflammatory markers, circadian timing, and direct postprandial sleepiness studies.
+DEPENDENCIES
+04_source_register.txt, 04b_claim_to_source_traceability_matrix.txt.
+KEY_QUESTIONS
+Which findings oppose or limit the current model? In what populations might the model fail? Which null studies stop overreach?
+EVIDENCE_TIER
+Contradiction audit.
+SOURCE_IDS_USED
+S001,S002,S003,S004,S005,S006,S007,S008,S009,S010,S011,S012,S013,S014,S015,S016,S018,S019,S020
+OPEN_ISSUES
+GLA-specific modern human contradiction mapping remains weak because the source base itself is weak.
+LAST_UPDATED
+2026-04-03
+
+CONTRADICTION SET
+1. Ketogenic diets do not uniformly worsen glucose handling in every framing.
+- S001 shows impaired mixed-meal glucose tolerance and reduced GLUT4/INSR/AMPK after ketogenic adaptation [S001].
+- S002 shows no improvement in clamp insulin sensitivity, but also not a dramatic universal deterioration across all tissues over 10 days [S002].
+Interpretation: ketogenic adaptation can create refeeding vulnerability, but the magnitude and phenotype depend on duration, weight loss, population, and outcome measured.
+
+2. Some early ketogenic perturbations are transient rather than stable.
+- In S001, fasting glucose, apoB, CRP, and glycerol changes were present earlier but attenuated by week 12 despite sustained ketosis [S001].
+Interpretation: short-term disruption does not guarantee persistent worsening of every marker.
+
+3. Fasting does not have a simple one-direction prolactin effect.
+- S007 suggests fasting changes dopaminergic control of prolactin responsiveness in obese men [S007].
+- S016 found that after 56-hour fasting, TRH- and cimetidine-induced prolactin responses were broadly unaffected in healthy volunteers [S016].
+Interpretation: the current literature opposes any simplistic "fasting raises prolactin" rule.
+
+4. Thyroid-axis effects of fasting appear more consistent than prolactin effects.
+- S016 shows a strong fasting effect on TSH responsiveness but not a corresponding broad prolactin increase [S016].
+- S008/S009 suggest carbohydrate deprivation lowers T3-related markers [S008,S009].
+Interpretation: thyroid adaptation may be more reproducible than prolactin adaptation in this phenotype.
+
+5. Reactive hypoglycemia is a plausible explanation, but many symptomatic patients do not show clean biochemical hypoglycemia.
+- S004 supports delayed insulin overshoot as a mechanism for late symptoms [S004].
+- S014 suggests postprandial somnolence may track delayed hyperinsulinemia/insulin resistance rather than overt chronic hyperglycemia [S014].
+Interpretation: the model must allow sleepiness without documented low glucose.
+
+6. Objective postprandial sleepiness is real, but macronutrient differences are inconsistent across studies.
+- S012 found that solid meals decreased sleep latency versus water, but high-fat, high-carbohydrate, and mixed constituents did not differ significantly [S012].
+- S013 found pure carbohydrate increased subjective fatigue and slowed reaction time compared with pure fat or mixed meals [S013].
+Interpretation: postprandial sleepiness exists, but whether carbohydrate is uniquely dominant depends on meal format, dose, endpoints, and timing.
+
+7. Carbohydrate can both increase sleepiness and improve some sleep-related outcomes depending on timing and context.
+- S010 supports shorter sleep-onset latency after certain high-GI carbohydrate exposures [S010].
+- Yet circadian and sleep-architecture effects vary with timing, protein ratio, and background metabolic state [S010].
+Interpretation: carbohydrate is not intrinsically sedative in a uniform way.
+
+8. Meal timing clearly alters peripheral glucose rhythms, but not necessarily cortisol rhythm or subjective sleepiness.
+- S015 found a 5-hour delay in meal timing shifted plasma glucose rhythms and adipose PER2, but not cortisol, melatonin, subjective sleepiness, or actigraphy [S015].
+Interpretation: circadian meal timing is a strong moderator of peripheral metabolism, not proof that meal timing alone explains the symptom.
+
+9. Inflammation likely contributes to fatigue, but classical circulating cytokines are inconsistent as acute meal discriminators.
+- S018 found IL-1 antagonism reduced postprandial fatigue after a heavy high-fat/high-carbohydrate meal challenge [S018].
+- S019 found IL-6 rose variably and did not correlate with postprandial glucose or triglyceride excursions [S019].
+- S020 found meals differing in inflammatory potential did not differentially alter IL-6, IL-1beta, TNF-alpha, or IL-10 [S020].
+Interpretation: inflammatory fatigue is plausible, but classical cytokines are noisy, context-sensitive, and not always useful acute discriminators.
+
+10. Triglyceride-driven inflammatory models compete with glucose-centric models.
+- S019 suggests GlycA is more tightly linked to postprandial triglycerides and visceral fat than to glucose [S019].
+- The target phenotype centers on carbohydrate-triggered sleepiness, which would predict stronger glucose-centric mechanisms.
+Interpretation: different inflammatory biomarkers favor different mechanistic narratives; this weakens any single-axis explanation.
+
+11. EPA/DHA may reduce inflammatory or cortisol burden in some settings, but their effects are modest and population-specific.
+- S005 supports anti-inflammatory roles for EPA/DHA [S005].
+- S011 suggests reduced basal cortisol in abstinent alcoholics after fish oil [S011].
+Interpretation: omega-3s likely modify the background terrain but do not settle the primary causal question.
+
+12. Prolactin is mechanistically tempting but evidence for symptom-level causality is indirect.
+- S003 supports dopaminergic and metabolic effects of prolactin states [S003].
+- No direct human study in the current source set demonstrates that correcting prolactin alone reverses post-carbohydrate sleepiness.
+Interpretation: prolactin remains an amplifier candidate, not a proven dominant cause.
+
+13. Oleic-acid-derived incretin signaling is real, but not automatically sedating.
+- S017 shows 2-OG stimulates GLP-1/GIP release in humans more than oleic acid control [S017].
+- No direct evidence in the current dossier links this pathway to excessive sleepiness.
+Interpretation: incretin signaling may shape meal responses without being a principal explanation.
+
+14. GLA/PGE1 claims are historically rich but presently weak and internally unstable.
+- Historical materials suggest both prolactin stimulation and prolactin-modifying interpretations.
+- Modern human endocrine evidence is largely absent from the current source set.
+Interpretation: this mechanism is contradicted not only by mixed historical claims, but by the near-absence of decisive modern corroboration.
+
+15. Direct postprandial sleepiness studies and mechanistic low-carb refeeding studies are still poorly aligned.
+- S001/S002 address metabolic adaptation but not daytime sleepiness endpoints [S001,S002].
+- S012/S013/S014/S018 address sleepiness/fatigue but not the exact prolonged low-carb caloric-deficit adaptation state.
+Interpretation: the final model remains a synthesis across adjacent literatures rather than a single-study proof.
+
+METHODOLOGICAL LIMITATIONS DRIVING CONTRADICTIONS
+- Many endocrine studies are small and older.
+- Several important endocrine papers remain abstract-only.
+- Sleepiness studies often use healthy volunteers, liquid meals, or extreme protocols rather than the exact target phenotype.
+- Some fatigue studies use mixed high-fat/high-carbohydrate meals or exercise preloads, complicating attribution.
+- Cytokine markers may be confounded by cannulation, circadian drift, and sampling window.
+- Circadian laboratory studies are powerful but demographically narrow.
+
+BOTTOM-LINE RED-TEAM JUDGMENT
+The literature does not support a monocausal answer. The most defensible interpretation is that excessive sleepiness after carbohydrate reintroduction emerges from overlapping mechanisms whose importance changes with context: metabolic refeeding mismatch, CNS sleep-promoting responses, possible delayed hyperinsulinemia, inflammatory fatigue in some settings, and circadian/endocrine modulation. Null and boundary evidence materially limit overclaiming, especially for prolactin, cytokines, meal timing, and GLA.
+
+
+7. Low-carbohydrate diets can improve average glycemia while still impairing acute carbohydrate challenge tolerance.
+- S013 shows many overweight/obese T2D trials improve HbA1c and fasting glucose on low-carbohydrate diets [S013].
+- S001 and S012 show worsened mixed-meal or next-meal glucose handling after ketogenic or acute low-carbohydrate restriction [S001,S012].
+Interpretation: chronic average glycemia and acute carbohydrate tolerance are not the same endpoint.
+
+8. Meal timing can alter glucose rhythms without causing subjective sleepiness.
+- S021 delayed glucose rhythms by ~5.7 h but did not alter subjective sleepiness or cortisol phase [S021].
+Interpretation: peripheral glucose timing changes alone are insufficient to explain the symptom.
+
+9. Evening carbohydrate worsens glucose and insulin excursions, but not necessarily cortisol.
+- S022 showed larger evening glucose/insulin responses, especially with high carbohydrate meals, while postprandial cortisol time course remained unchanged [S022].
+Interpretation: immediate timing effects may be mediated more through glucose tolerance and CNS reward/arousal systems than through acute cortisol shifts.
+
+10. Inflammatory fatigue mechanisms can be real even when common inflammatory markers are unimpressive.
+- S015 reduced postprandial fatigue with IL-1 antagonism, yet CRP and IL-6 did not significantly change [S015].
+Interpretation: relying only on CRP/IL-6 risks missing relevant inflammatory fatigue biology.
+
+11. GLA-containing essential-fatty-acid interventions may improve symptoms without changing prolactin.
+- S019 improved PMS symptoms but did not significantly alter prolactin [S019].
+Interpretation: any GLA-related benefit may not be mediated by lowering circulating prolactin.
+
+12. Omega-3 lowers some stress/inflammation outputs but not all.
+- S017 lowered overall cortisol and IL-6 but not cortisol reactivity AUCi, TNF-alpha, or IL-12 [S017].
+Interpretation: omega-3 effects are selective and context-dependent, not universal normalization.
+
+13. Acute carbohydrate restriction may lower postprandial GLP-1 despite inducing a fasting-like state.
+- S012 showed lower postprandial GLP-1 after low-carbohydrate interventions [S012].
+- Oleic-acid/OEA pathways are often discussed as incretin-supportive [S020].
+Interpretation: the net incretin effect of the low-carb state is not straightforward and depends on context.

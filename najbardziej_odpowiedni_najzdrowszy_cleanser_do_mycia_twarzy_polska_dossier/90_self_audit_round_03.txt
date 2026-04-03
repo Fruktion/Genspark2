@@ -1,0 +1,35 @@
+TITLE: Self-audit round 03
+PURPOSE: Final internal challenge to current synthesis before user-facing summary.
+STATUS: COMPLETED
+SCOPE: Ranking validity, evidence depth, red-team adequacy, article-readiness.
+LAST_UPDATED: 2026-03-31
+
+RED-TEAM QUESTIONS
+Q1. Could current ranking be overturned by product reformulation? YES.
+- Current formula drift risk is real for mass dermocosmetics.
+- Lack of second-source INCI verification leaves moderate overturn risk.
+
+Q2. Could cleansing adequacy invert the top ranking for real users? YES.
+- For heavy sunscreen/makeup users, CLN-001 may underperform vs CLN-002 or CLN-007.
+- This is why no universal winner is justified.
+
+Q3. Is the dossier over-rewarding fragrance-free status? PARTLY, but guarded.
+- Scoring explicitly prevents fragrance-free from overriding weak cleansing and weak market verification.
+
+Q4. Are abstract-only allergy sources overused? CONTROLLED.
+- They are used as cautionary signals, not sole decisive proof of product inferiority.
+
+Q5. Is the shortlist too conservative toward pharmacy brands? POSSIBLY, but acceptable.
+- The shortlist privileges traceability, not prestige.
+
+Q6. Are Polish-market claims strong enough? IMPROVED BUT NOT FINAL.
+- Official product pages for 7 scored products were opened.
+- Retailer/apteka confirmations remain thinner than ideal.
+
+AUDIT VERDICT
+- STRUCTURE: strong enough.
+- TRACEABILITY: moderate.
+- RED TEAM: moderate.
+- PRIMARY EVIDENCE: moderate-low to moderate.
+- PRODUCT DATA: moderate for 7 products, weak for the rest.
+- ARTICLE READY: still NO.

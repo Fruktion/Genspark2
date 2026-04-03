@@ -1,0 +1,28 @@
+TITLE: Measurement and controller limitations - cognition, PFC, HRV, respiration handling
+PURPOSE: Detail measurement-validity constraints specific to this topic.
+STATUS: SUBSTANTIVE_DRAFT
+SCOPE: Core methods caveats.
+DEPENDENCIES: 33_contradictions_measurement_validity_and_inference_limits.txt
+KEY_QUESTIONS: What measurement flaws can falsely strengthen claims?
+EVIDENCE_TIER: METHODS_CRITIQUE
+SOURCE_IDS_USED: S1; S3; S4; S5
+OPEN_ISSUES: Full-text autonomic methods unavailable for S3.
+LAST_UPDATED: 2026-03-27
+
+COGNITION:
+- Social-cognition tasks should not be generalized to intelligence, working memory, or global cognition.
+- Disease-model rescue is not equivalent to enhancement in healthy subjects.
+
+PFC:
+- Task-based inference is weaker than direct electrophysiology or imaging.
+- S5 is stronger because it pairs 5-CSRT with hippocampal-prefrontal LTP.
+- S4 is valuable because it directly tested PFC monoamines and found no significant effect at the behaviorally active dose.
+
+PARASYMPATHETIC:
+- HR alone is insufficient.
+- Spectral HRV variables require caution; respiration, posture, speaking, contraction/labor context, and nonlinear metrics all matter.
+- Baseline tone, reactivity, and recovery should be separated; current opened evidence does not adequately cover all three.
+
+NEXT_ACTIONS:
+- Continue targeted searches for route-matched full texts, especially human peripheral injection PFC and parasympathetic studies.
+- Maintain separation between oxytocin acetate-specified studies and generic oxytocin formulations.

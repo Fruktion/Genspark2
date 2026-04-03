@@ -1,0 +1,23 @@
+TITLE: 07 Glossary and Prerequisites
+PURPOSE: Define technical terms
+STATUS: complete
+SCOPE: Gynecology/dermatology/cosmetic terms
+DEPENDENCIES: 06
+KEY_QUESTIONS: What terms must be understood?
+EVIDENCE_TIER: foundational
+SOURCE_IDS_USED: S04-S14
+OPEN_ISSUES: None
+LAST_UPDATED: 2026-03-31
+
+
+Vulva / srom: external genital structures including labia majora/minora, clitoral hood, vestibule.
+Vagina / pochwa: internal fibromuscular canal; not target of cleansing in this dossier.
+Rinse-off: product intended to be applied then washed away.
+Syndet: synthetic detergent-based cleanser, usually milder and lower pH than traditional soap.
+ACD: allergic contact dermatitis.
+ICD: irritant contact dermatitis.
+INCI: International Nomenclature of Cosmetic Ingredients.
+Humectant: water-binding ingredient such as glycerin.
+Emollient: softening/occlusive ingredient reducing water loss.
+Lactic acid claim: may refer to pH adjustment, buffering, or marketing around microbiota; not necessarily clinically meaningful in rinse-off.
+Prebiotic/probiotic/postbiotic claim: marketing descriptors often extrapolated from microbiome science; topical rinse-off relevance may be low.

@@ -1,0 +1,28 @@
+TITLE: Claim-to-source traceability matrix
+PURPOSE: Map major dossier claims to the exact sources and honesty level supporting them.
+STATUS: UPDATED_WITH_STRICTER_TRACEABILITY
+SCOPE: Mechanistic, clinical, product-level, market-level, and red-team claims.
+DEPENDENCIES: 04_source_register.txt, 35c_product_verification_packets.txt
+KEY_QUESTIONS: Which claim is supported by what source, and how strong is the support?
+EVIDENCE_TIER: TRACEABILITY
+LAST_UPDATED: 2026-03-31
+
+Claim_ID | Claim | Scientific_trace | Market_trace | Support_strength | Honesty_note
+C01 | Traditional soap is usually more disruptive to the skin barrier than well-formulated syndets. | A01, A02, A03 | none needed | STRONG | review-level, not product-specific.
+C02 | Low pH alone does not prove that a cleanser is mild. | A06 + A01 | none needed | MODERATE | A06 is abstract-only; use as corrective, not sole basis.
+C03 | For AD/reactive skin, mild non-soap cleansers around pH 5.5-6.0 are preferred over harsh soaps. | A03, A02 | none needed | STRONG-MODERATE | pH guidance is condition-level, not proof for any specific product unless pH is explicitly verified.
+C04 | For acne, syndet cleansing can be reasonable, but the evidence base is limited and often low quality. | A05, A09 | none needed | MODERATE | acne cleanser superiority claims should remain cautious.
+C05 | For rosacea-prone skin, gentle lipid-free or syndet cleansers with low irritant burden are favored. | A04, A02 | none needed | STRONG-MODERATE | product head-to-head trials are small and limited.
+C06 | Fragrance is a relevant avoidable risk for reactive or allergy-suspect users. | A04, A08, A03 | P01-P07 where fragrance-free or no fragrance in INCI is visible | MODERATE | cleanser-allergy prevalence source is abstract-only.
+C07 | MI in rinse-off products can matter clinically for MI-allergic users. | A07 | product INCI checks if MI present | MODERATE | abstract-only but strong red-team signal.
+C08 | Very mild cleansers may be suboptimal as one-step removal for heavy SPF/makeup. | A10 + A05 committee comments | P01/P03/P06 product-function interpretation | MODERATE-LOW | this is a caution, not a quantitative ranking proof.
+C09 | CeraVe Hydrating Cleanser is a strongly verified Polish-market barrier-first candidate. | A01-A04 mechanisms for mildness; no direct trial of this product | P01 + R02 + R03 | MODERATE | strong market trace, indirect scientific trace.
+C10 | CeraVe Foaming Cleanser is a stronger cleansing but still fragrance-free compromise candidate. | A01-A02 surfactant logic | P02 + R02 + R03 | MODERATE | no direct product trial opened.
+C11 | LRP Toleriane Emulsja Oczyszczająca is an excellent reactive-skin candidate but has coco-betaine subgroup caution. | A03, A04, A08 | P03 + R02 | MODERATE | ingredient-level extrapolation rather than direct intolerance proof.
+C12 | Bioderma Sensibio Gel Moussant is a balanced mild gel candidate with lower allergen burden than fragranced options. | A01, A04 | P04 + market snippets | MODERATE | second-source INCI still missing.
+C13 | BasicLab ultrawrażliwa emulsja is one of the most barrier-first Polish DTC options currently verified. | A01-A04 mechanism base | P06 | MODERATE | official-only INCI verification so far.
+C14 | No universal winner is justified yet. | A05, A10, A06 + cross-product verification limits | P01-P09, R01-R03, 45b unresolved cases | STRONG | driven by evidence limitations and scenario dependence, not indecision.
+
+RULE
+- Product verdicts in this dossier are mostly mechanistic + market-trace syntheses, not direct product RCT verdicts.
+- The matrix intentionally distinguishes direct clinical evidence from formula-based extrapolation.

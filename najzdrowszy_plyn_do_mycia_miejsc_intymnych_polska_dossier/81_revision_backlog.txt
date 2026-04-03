@@ -1,0 +1,16 @@
+TITLE: 81 Revision Backlog
+PURPOSE: List concrete revisions for next pass
+STATUS: complete
+SCOPE: Actionable next improvements
+DEPENDENCIES: 80
+KEY_QUESTIONS: What should the next auditor improve?
+EVIDENCE_TIER: revision planning
+SOURCE_IDS_USED: INFERENCE
+OPEN_ISSUES: None
+LAST_UPDATED: 2026-03-31
+
+
+Priority 1: strengthen product verification for tentative shortlist.
+Priority 2: add explicit comparator products in bland non-intimate category.
+Priority 3: obtain more full texts of direct cleanser trials.
+Priority 4: reduce reliance on search-result snippets for market metadata.

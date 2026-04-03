@@ -1,0 +1,23 @@
+TITLE: Revision backlog
+PURPOSE: Track unfinished but important dossier upgrades.
+STATUS: UPDATED
+SCOPE: Post-repair backlog before any final article stage.
+DEPENDENCIES: 80_gap_log_and_next_searches.txt
+LAST_UPDATED: 2026-03-31
+
+HIGH PRIORITY
+- Add second-source INCI verification for CLN-001 to CLN-007.
+- Resolve current Polish Cetaphil Gentle Skin Cleanser formula traceability.
+- Resolve current Polish SVR Sensifine Dermo-Nettoyant traceability.
+- Obtain at least one stable retailer/apteka product page per shortlisted product.
+- Re-run price snapshot with direct SKU pages.
+
+MEDIUM PRIORITY
+- Expand longlist verification depth for Eucerin, Pharmaceris, Mixa, Vichy, Ducray, Tołpa.
+- Add retailer-based size and pack confirmation fields to longlist rows.
+- Add more direct evidence on sunscreen/makeup removal and cleanser adequacy.
+
+LOWER PRIORITY
+- Upgrade learning files with more worked examples.
+- Add a compact decision appendix for retinoids/BPO/isotretinoin users.
+- Expand no-regret shortlist only after second-source formula checks.

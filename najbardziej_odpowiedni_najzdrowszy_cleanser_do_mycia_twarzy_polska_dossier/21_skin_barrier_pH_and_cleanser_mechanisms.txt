@@ -1,0 +1,20 @@
+TITLE: Skin barrier, pH, and cleanser mechanisms
+PURPOSE: Summarize what cleanser science most strongly supports.
+STATUS: DRAFT_IN_PROGRESS
+SCOPE: Barrier biology relevant to wash-off cleansers.
+DEPENDENCIES: 10_foundations_placeholder
+KEY_QUESTIONS: What mechanisms actually matter?
+EVIDENCE_TIER: REVIEW_SYNTHESIS
+SOURCE_IDS_USED: S01,S02,S03,S04,S07
+OPEN_ISSUES: More primary full-texts desirable.
+LAST_UPDATED: 2026-03-31
+
+High-level synthesis:
+- Cleansing necessarily trades off impurity removal against some interaction with SC lipids/proteins.
+- Soap/alkaline systems more often disrupt barrier, raise pH, increase dryness/tightness, and alter lipid/protein ultrastructure.
+- Skin-acid-mantle reasoning is directionally useful, but not enough by itself; pH cannot rescue a harsh anionic-heavy formula.
+- Residual irritancy and rinsability matter alongside surfactant chemistry.
+- Mild cleansers often combine gentler surfactants with humectants/emollients and avoid highly irritating extras.
+
+Implication for product ranking:
+Products should not be rewarded just for “low pH” marketing. Whole-formula mildness is the relevant construct.

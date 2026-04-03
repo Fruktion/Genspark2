@@ -1,0 +1,46 @@
+TITLE
+Circadian and chronobiological factors
+PURPOSE
+Evaluate how meal timing, fasting schedule, cortisol rhythm, and sleep-wake regulation may amplify or shape the phenotype.
+STATUS
+SUBSTANTIVE_DRAFT
+SCOPE
+Cortisol awakening response, fasting-related rhythm shifts, meal timing, and time-of-day dependence of postprandial sleepiness.
+DEPENDENCIES
+03_hpa_axis_and_stress_response.txt, 07_neurotransmitter_and_cns_mechanisms.txt.
+KEY_QUESTIONS
+How much of the phenotype may be timing-dependent? Can circadian factors explain inter-episode variability?
+EVIDENCE_TIER
+Moderate-low; mostly synthesis from fasting/cortisol and sleep/diet reviews.
+SOURCE_IDS_USED
+S006,S010,S016,S021,S022
+OPEN_ISSUES
+Need more direct human data on daytime timing of refeeding-induced sleepiness after restrictive dieting.
+LAST_UPDATED
+2026-04-03
+
+TOP-LINE ASSESSMENT
+Chronobiology is unlikely to be the primary cause, but it is a strong moderator. Fasting can alter cortisol timing and amplitude [S006], and carbohydrate affects sleep-related systems differently depending on when it is consumed [S010]. Therefore the phenotype likely has a strong time-of-day component even if the underlying vulnerability is metabolic.
+
+1. CORTISOL RHYTHM
+S006 indicates that fasting can increase cortisol and alter timing [S006]. If the person’s cortisol curve is shifted or flattened, subjective alertness may become more dependent on stress-hormone support and more vulnerable to post-meal decline.
+
+2. CARBOHYDRATE TIMING
+S010 reviews evidence that carbohydrate quality and timing influence sleep onset and architecture [S010]. Meals eaten closer to the normal sleep phase may therefore produce more obvious sedation than identical meals earlier in the day.
+
+3. HIDDEN SLEEP PRESSURE
+A fasting/cortisol-elevated state may mask accumulated sleep pressure. Once carbohydrate is eaten, central and autonomic conditions become more permissive for sleepiness. This means the meal is not always “causing” sleepiness from zero; it may be revealing preexisting physiological sleep pressure.
+
+BOTTOM-LINE JUDGMENT
+Circadian factors are best treated as amplifiers and timing determinants rather than sole causes.
+
+
+[ROUND 2 ADDITION]
+4. STRONG PRIMARY-HUMAN NULL: DELAYED MEALS SHIFT GLUCOSE RHYTHMS BUT NOT CORTISOL OR SLEEPINESS
+S021 is now a cornerstone chronobiology source. A 5-hour delay in meal timing delayed glucose rhythms and adipose PER2 expression, but did not change cortisol phase, melatonin phase, or subjective sleepiness [S021]. This means meal timing can strongly alter peripheral metabolic rhythms without producing obvious sleepiness on its own.
+
+5. EVENING IS A HIGHER-RISK TIME FOR CARBOHYDRATE-INDUCED METABOLIC DISTURBANCE
+S022 found that evening meals generated larger glucose and insulin excursions, especially when carbohydrate content was high [S022]. This supports a chronobiological amplifier model: if the user’s sleepiness episodes occur later in the day, the same carbohydrate dose may be more disruptive.
+
+6. CORTISOL IS NOT THE ONLY OR EVEN THE MOST IMMEDIATE CIRCADIAN MEDIATOR
+S022 also found that postprandial cortisol time course did not differ meaningfully between morning and evening or by carbohydrate content [S022]. Therefore timing effects may operate more through glucose tolerance, reward drive, and other circadian-output systems than through immediate post-meal cortisol shifts.

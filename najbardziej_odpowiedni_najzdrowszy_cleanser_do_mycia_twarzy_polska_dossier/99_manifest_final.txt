@@ -1,0 +1,28 @@
+TITLE: Final manifest snapshot
+PURPOSE: Summarize current dossier state after repair round.
+STATUS: UPDATED
+SCOPE: Final pre-article dossier state.
+LAST_UPDATED: 2026-03-31
+
+CURRENT DOSSIER STATE
+- Verified longlist built to 35 entries (mixed verification depth).
+- Real scoring executed on 7 currently moderate-confidence products.
+- Shortlist packets completed for 8 products including 1 unresolved comparator.
+- Audit rounds 02 and 03 completed.
+- Source honesty repaired with A/P/R/G/X ID system.
+- No-regret shortlist produced.
+- Universal-winner test fails.
+
+READINESS SUMMARY
+- STRUCTURE_READY: STRONG
+- TRACEABILITY_READY: MODERATE
+- RED_TEAM_READY: MODERATE
+- PRIMARY_EVIDENCE_READY: MODERATE
+- EVIDENCE_DEPTH_READY: MODERATE
+- MARKET_VERIFICATION_READY: MODERATE_LOW
+- PRODUCT_DATA_READY: MODERATE_LOW
+- ARTICLE_READY: FALSE
+
+FINAL INTERIM POSITION
+- The dossier can support careful scenario-based interim conclusions.
+- It should not yet be converted into a final consumer-facing article naming one best cleanser for everyone.

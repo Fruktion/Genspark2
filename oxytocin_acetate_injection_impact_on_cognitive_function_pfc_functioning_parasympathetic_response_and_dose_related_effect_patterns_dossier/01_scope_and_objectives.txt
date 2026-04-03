@@ -1,0 +1,26 @@
+TITLE: Scope and objectives
+PURPOSE: Define the main question, route-aware constraints, and what counts as direct evidence.
+STATUS: SUBSTANTIVE_DRAFT
+SCOPE: Injected oxytocin / oxytocin acetate and direct effects on cognition, PFC functioning, and parasympathetic response.
+DEPENDENCIES: 10_foundations_compound_identity_formulation_and_route_scope.txt; 03_search_strategy_and_queries.txt
+KEY_QUESTIONS: Which injected formulations are actually specified? Which routes and populations have direct primary evidence?
+EVIDENCE_TIER: INFERENCE_PLUS_PRIMARY_SOURCE_SCOPING
+SOURCE_IDS_USED: S1; S2; S3; S4; S5
+OPEN_ISSUES: Human IV cognition evidence is sparse; direct human IV/IM/SC PFC evidence not yet identified in opened primary full text.
+LAST_UPDATED: 2026-03-27
+
+PRIMARY_OBJECTIVE:
+Build a dossier that answers only route-matched questions. Intranasal evidence is adjacent context, not direct support for injection claims.
+
+DIRECT_EVIDENCE_REQUIREMENT:
+A study counts as direct only if oxytocin was administered by injection/infusion (human IV/IM/SC or animal peripheral/central injection) and the outcome directly matches cognition, PFC function, or parasympathetic metrics.
+
+TOP-LINE_SCOPE_LIMITS:
+1. Formulation identity must be stated when known; otherwise label as generic oxytocin formulation unspecified.
+2. Heart rate alone is not sufficient proof of parasympathetic activation.
+3. Task performance is not direct PFC evidence unless paired with neural measures.
+4. A single positive dose does not establish an optimal dose.
+
+NEXT_ACTIONS:
+- Continue targeted searches for route-matched full texts, especially human peripheral injection PFC and parasympathetic studies.
+- Maintain separation between oxytocin acetate-specified studies and generic oxytocin formulations.

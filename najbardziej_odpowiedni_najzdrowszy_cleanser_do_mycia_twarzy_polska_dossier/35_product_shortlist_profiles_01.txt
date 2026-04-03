@@ -1,0 +1,21 @@
+TITLE: Product shortlist profiles 01
+PURPOSE: Hold detailed profiles for best-looking candidates.
+STATUS: PLACEHOLDER_PENDING_VERIFICATION
+SCOPE: Top 8-15 likely products.
+DEPENDENCIES: 12_polish_market_longlist.txt, 14_product_data_capture_protocol.txt
+KEY_QUESTIONS: Which products deserve deep profile analysis?
+EVIDENCE_TIER: PRODUCT_LEVEL_PENDING
+SOURCE_IDS_USED: NONE
+OPEN_ISSUES: Requires verified current INCI.
+LAST_UPDATED: 2026-03-31
+
+Provisional profile slots to verify first:
+- CeraVe Hydrating Cleanser / Nawilżająca Emulsja do Mycia
+- La Roche-Posay Toleriane Dermo-Cleanser / łagodna emulsja do mycia
+- Cetaphil Gentle Skin Cleanser
+- Bioderma Sensibio Gel Moussant
+- SVR Sensifine Dermo-Nettoyant
+- BasicLab Micellis emulsja do mycia skóry wrażliwej
+
+Profile template reminder:
+full INCI / surfactant analysis / fragrance-EO-allergen review / preservative review / expected mildness / cleansing adequacy / red flags / best scenario / uncertainty.

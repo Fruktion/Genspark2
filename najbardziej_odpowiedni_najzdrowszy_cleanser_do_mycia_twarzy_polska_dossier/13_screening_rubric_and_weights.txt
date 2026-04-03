@@ -1,0 +1,40 @@
+TITLE: Screening rubric and weights
+PURPOSE: Define transparent filtering and scoring system.
+STATUS: DRAFT_IN_PROGRESS
+SCOPE: Product shortlist and scenario ranking.
+DEPENDENCIES: 01b_objective_function_constraints_and_scenarios.txt
+KEY_QUESTIONS: How are products compared fairly and corrigibly?
+EVIDENCE_TIER: METHOD
+SOURCE_IDS_USED: S01,S02,S03,S04,S07,S08
+OPEN_ISSUES: Needs sensitivity testing once data table is fuller.
+LAST_UPDATED: 2026-03-31
+
+Hard gates for top shortlist eligibility:
+- current INCI verified in >=2 sources
+- >=1 source official or packaging-photo based
+- availability in Poland confirmed in >=2 channels
+- no unresolved INCI discrepancy affecting major interpretation
+
+Scoring domains:
+A) Barrier/tolerability 0-10
+Signals favoring score: soap-free or likely syndet, milder surfactant blend, low fragrance burden, humectant/emollient support, scenario fit for sensitive skin.
+
+B) Allergen/sensitizer risk 0-10
+High score = lower expected risk. Penalize parfum, essential oils, high-risk fragrance allergens, MI/MCI if present, known ACD-associated surfactants/preservatives when applicable.
+
+C) Cleansing adequacy 0-10
+Need not be maximal; balance matters. Higher for oily/acne/SPF scenarios if formula plausibly removes sebum/SPF better.
+
+D) Evidence confidence 0-10
+Reflects literature support for the formula logic, not brand marketing.
+
+E) Market verification 0-10
+Reflects certainty of Polish formula/access snapshot.
+
+F) Price/access 0-10
+Reflects broad availability + reasonable cost per 100 ml.
+
+Baseline weights to test:
+A35/B20/C20/D10/E10/F5
+Alternative reactive-skin weighting: A45/B25/C10/D10/E5/F5
+Alternative oily-acne weighting: A25/B15/C35/D10/E10/F5

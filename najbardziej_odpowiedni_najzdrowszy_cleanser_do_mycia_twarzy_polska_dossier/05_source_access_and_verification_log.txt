@@ -1,0 +1,42 @@
+TITLE: Source access and verification log
+PURPOSE: Chronological log of what was opened versus what merely surfaced in search.
+STATUS: UPDATED
+SCOPE: Academic, regulatory, official product, and retailer/apteka verification actions.
+DEPENDENCIES: 04_source_register.txt
+LAST_UPDATED: 2026-03-31
+
+ACADEMIC / GUIDELINE OPENS
+- Opened full text A01 PMC8954092.
+- Opened full text A02 PMC3088928.
+- Opened full text A03 PMC3449106.
+- Opened full text A04 PMC3168246.
+- Opened full text A05 NCBI Bookshelf acne evidence review.
+- Opened metadata/abstract level A06, A07, A08, A09, A10.
+- Attempted but failed full text for X01, X02, X03.
+
+REGULATORY OPENS
+- Opened G01 EUR-Lex claims regulation.
+- Opened G02 EUR-Lex cosmetics regulation.
+- Opened G03 Commission technical document on cosmetic claims.
+
+OFFICIAL PRODUCT OPENS
+- P01 CeraVe Hydrating Cleanser page opened; official INCI visible.
+- P02 CeraVe Foaming Cleanser page opened; official INCI visible.
+- P03 LRP Toleriane Emulsja page opened; INCI recoverable from page source.
+- P04 Bioderma Sensibio Gel Moussant page opened; INCI visible in ingredient modal.
+- P05 Avène Tolérance cleansing balm-gel page opened; INCI recoverable from page source.
+- P06 BasicLab ultrawrażliwa emulsja page opened; INCI and price visible.
+- P07 BasicLab acne gel page opened; INCI and price visible.
+- P08 Cetaphil family page opened only; current product-level INCI unresolved.
+- P09 SVR French official page opened only; Polish official page unresolved.
+
+RETAILER / APTEKA ACTIONS
+- Rossmann category/search signal available (R01).
+- Super-Pharm product-family visibility from snippets only (R02).
+- Hebe family/category visibility from snippets only (R03).
+- Several direct retailer/apteka URLs returned 403, 404, 410, redirects, or family-level pages; not treated as fully opened product sources.
+
+VERIFICATION CONSEQUENCE
+- Product existence improved materially.
+- Product formula confidence improved for 7 products.
+- Two-source formula verification target remains unmet for the scored shortlist.

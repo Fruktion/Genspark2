@@ -1,0 +1,16 @@
+TITLE: 91 Revision Log Round 02
+PURPOSE: Repairs after audit 2
+STATUS: complete
+SCOPE: Changes after second audit
+DEPENDENCIES: 90_self_audit_round_02
+KEY_QUESTIONS: What was changed?
+EVIDENCE_TIER: revision log
+SOURCE_IDS_USED: INFERENCE
+OPEN_ISSUES: Proceed to final audit
+LAST_UPDATED: 2026-03-31
+
+
+Repairs implemented:
+- Expanded contradiction/null-result file.
+- Reinforced “commercial pages are metadata only” across synthesis.
+- Strengthened active-symptom scenario in 41.

@@ -1,0 +1,79 @@
+TITLE: Source register
+PURPOSE: Central registry of sources opened, access grade, evidentiary role, and limitations.
+STATUS: IN_PROGRESS
+SCOPE: Primary studies, reviews, and official reference documents opened for the dexamethasone/cortisol/PFC dossier.
+DEPENDENCIES: 03_search_strategy_and_queries.txt; 05_source_access_and_verification_log.txt
+KEY_QUESTIONS: Which sources are FULL_TEXT_OPENED versus ABSTRACT_ONLY; which are decisive for major claims; where evidence remains indirect.
+EVIDENCE_TIER: SOURCE_INDEX
+SOURCE_IDS_USED: S001-S025
+OPEN_ISSUES: Some direct dexamethasone cognition papers remain abstract-only; several decisive foundation/replacement sources are now full-text opened but more direct animal and dexamethasone cognition studies are still needed.
+LAST_UPDATED: 2026-04-01
+
+FIELDS
+- source_id
+- citation_or_document_name
+- source_type
+- opened_where
+- access_grade
+- decisive_for_major_claims
+- notes_on_limitations
+
+SOURCE REGISTER
+S001 | Wingenfeld et al. 2011. Working memory performance and cognitive flexibility after dexamethasone or hydrocortisone administration in healthy volunteers. Psychopharmacology. PMID 21484237. | primary_human_intervention | PubMed abstract opened via crawler | ABSTRACT_ONLY | YES_FOR_NULL_DIRECT_DEX_STUDY_BUT_NOT_SOLELY_DECISIVE | Healthy volunteers; dexamethasone arm is 4 mg day-before-testing; abstract reports null effects on WM/flexibility but full text not yet opened.
+
+S002 | Wingenfeld et al. 2011. Hydrocortisone impairs working memory in healthy humans, but not in patients with major depressive disorder. Psychopharmacology. PMID 21161185. | primary_human_intervention | PubMed abstract opened via crawler | ABSTRACT_ONLY | YES_FOR_DIRECT_HUMAN_TASK_EFFECT | Direct human hydrocortisone study; abstract only so effect details downgraded.
+
+S003 | Henckens et al. 2011. Time-dependent corticosteroid modulation of prefrontal working memory processing. PNAS. PMID 21436038; PMCID PMC3078384. | primary_human_intervention | PMC full text opened + targeted summarization | FULL_TEXT_OPENED | YES | Young healthy men only; hydrocortisone not dexamethasone; behavioral effect modest and timing-specific.
+
+S004 | Harbeck et al. 2009. Effects of short-term nocturnal cortisol replacement on cognitive function and quality of life in patients with primary or secondary adrenal insufficiency. PMID 19387826. | primary_human_intervention | PubMed abstract opened via crawler | ABSTRACT_ONLY | YES_FOR_REPLACEMENT_NULL_PILOT | Pilot study; small sample; abstract reports mostly null cognitive findings.
+
+S005 | Buning et al. 2015. The effects of two different doses of hydrocortisone on cognition in patients with secondary adrenal insufficiency. PMID 25705800. | primary_human_intervention | PubMed abstract opened via crawler | ABSTRACT_ONLY | YES_FOR_REPLACEMENT_DOSE_COMPARISON | Randomized crossover with measured systemic cortisol; abstract reports no cognitive difference between higher and lower physiological doses.
+
+S006 | Tiemensma et al. 2016. Mild cognitive deficits in patients with primary adrenal insufficiency. PMID 26454105. | primary_human_case_control_or_intervention | PubMed abstract opened via crawler | ABSTRACT_ONLY | YES_FOR_DEFICIENCY_STATE_CONTEXT | Shows residual mild deficits and no effect of postponing morning HC intake; abstract only.
+
+S007 | Mizoguchi et al. 2004. Endogenous glucocorticoids are essential for maintaining prefrontal cortical cognitive function. J Neurosci. PMID 15201321; PMCID PMC6729338. | primary_animal_manipulation | PMC full text opened + targeted summarization | FULL_TEXT_OPENED | YES | Rat ADX model uses corticosterone, not human cortisol; strong for normalization in deficiency model, not healthy enhancement.
+
+S008 | de Kloet/Meijer et al. 1998. Penetration of dexamethasone into brain glucocorticoid targets is enhanced in mdr1a P-glycoprotein knockout mice. Endocrinology. PMID 9528963. | primary_PK_PD_animal | PubMed abstract opened via crawler | ABSTRACT_ONLY | YES_FOR_BBB_LIMITATION | Strongly relevant to BBB/P-gp non-equivalence; abstract only but central mechanistic caution.
+
+S009 | Endotext: Glucocorticoid Therapy and Adrenal Suppression. NCBI Bookshelf NBK279156. | official_reference_review | NCBI Bookshelf full text opened + targeted summarization | OFFICIAL_DOCUMENT_OPENED | YES_FOR_EQUIVALENCE_DOMAIN_SEPARATION | Reference source, not primary cognition evidence; useful for dose equivalence table and HPA suppression distinctions only.
+
+S010 | Endotext: Glucocorticoid Receptor. NCBI Bookshelf NBK279171. | official_reference_review | NCBI Bookshelf full text opened | OFFICIAL_DOCUMENT_OPENED | NO | Receptor biology context; not direct cognition evidence.
+
+S011 | Arnsten 2009. Stress signalling pathways that impair prefrontal cortex structure and function. Nat Rev Neurosci. PMCID PMC2907136. | review_mechanistic | PMC full text opened + targeted summarization | FULL_TEXT_OPENED | YES_FOR_MECHANISTIC_FRAME | Review, not direct intervention study; still important for inverted-U and multivariate stress logic.
+
+S012 | Liston/Gould review 2017. Prefrontal cortex executive processes affected by stress in health and disease. PMCID PMC5756532. | review_mechanistic | PMC full text opened (partial) | FULL_TEXT_OPENED | NO | Broad review; secondary source.
+
+S013 | Shields et al. 2016. The effects of acute stress on core executive functions. PMCID PMC5003767. | meta_analysis_review | PMC full text opened (partial) | FULL_TEXT_OPENED | YES_FOR_BOUNDARY_CONDITIONS | Meta-analysis of stress, not steroid dosing directly; useful comparator showing stress ≠ cortisol-only.
+
+S014 | Porter et al. 2002. Effects of hydrocortisone administration on cognitive function in the elderly. PMID 11949774. | primary_human_intervention | PubMed abstract opened via crawler | ABSTRACT_ONLY | YES_FOR_NULL_HUMAN_STUDY | Healthy elderly only; abstract reports null effects despite ~10-fold salivary cortisol elevation.
+
+S015 | Young et al. 1999. The effects of chronic administration of hydrocortisone on cognitive function in normal male volunteers. PMID 10494574. | primary_human_intervention | PubMed abstract opened via crawler | ABSTRACT_ONLY | YES | Chronic healthy male study; abstract reports impairments in frontal-lobe-sensitive tasks.
+
+S016 | Krekeler et al. 2021. Dual-release hydrocortisone and its benefits on cognitive function and quality of sleep. PMID 33625720. | primary_human_replacement | PubMed abstract opened via crawler | ABSTRACT_ONLY | NO | Small study; benefits trend and subgroup differences; not definitive.
+
+S017 | Schultebraucks et al. 2015. Cognitive function in patients with primary adrenal insufficiency (Addison's disease). PMID 25705797. | primary_human_case_control | PubMed abstract opened via crawler | ABSTRACT_ONLY | YES_FOR_DISCONFIRMING_OVERSTATEMENT | Suggests only subtle deficits / no clinically relevant impairment overall.
+
+S018 | Mizoguchi et al. 2008. Suppression of glucocorticoid secretion enhances cholinergic transmission in rat hippocampus. PMID 18598852. | primary_animal_adjacent | PubMed abstract opened via crawler | ABSTRACT_ONLY | NO | Adjacent mechanistic follow-up, not direct PFC improvement evidence.
+
+S019 | Mager et al. 2003. Dose equivalency evaluation of major corticosteroids: pharmacokinetics and cell trafficking and cortisol dynamics. PMID 14551176. | primary_PK_PD_human | PubMed abstract opened via crawler | ABSTRACT_ONLY | YES_FOR_LIMITS_OF_EQUIVALENCE_TABLES | Biomarker/adrenal suppression focus; not CNS cognition.
+
+S020 | Schlosser et al. 2013. Effects of acute cortisol administration on response inhibition in patients with major depression and healthy controls. PMID 23332680. | primary_human_intervention | PubMed abstract opened via crawler | ABSTRACT_ONLY | YES | Demonstrates task-specific enhancement in healthy controls on inhibitory task; disease interaction important.
+
+S021 | Genere et al. 2022. Interpretation of Abnormal Dexamethasone Suppression Test is Enhanced With Use of Synchronous Free Cortisol Assessment. PMCID PMC9006975. | primary_endocrine_assay_DST | PMC full text opened + targeted summarization | FULL_TEXT_OPENED | YES_FOR_DST_INTERPRETATION_LIMITS | 1 mg DST rather than 0.5 mg; endocrine diagnostic study, not cognition study; decisive for assay/binding/metabolism confounds and for why post-DST cortisol is not a cortisol-equivalent brain exposure metric.
+
+S022 | Kalafatakis et al. 2018. Ultradian rhythmicity of plasma cortisol is necessary for normal emotional and cognitive responses in man. PMCID PMC5924881. | primary_human_intervention | PMC full text opened + targeted summarization | FULL_TEXT_OPENED | YES_FOR_RHYTHM_DEPENDENCE | Healthy male metyrapone block-and-replace study with fixed 20 mg hydrocortisone/day delivered in different temporal patterns; strong evidence that pattern/rhythm changes cognition independent of total dose.
+
+S023 | de Kloet et al. 2022. Mineralocorticoid receptor and glucocorticoid receptor work alone and together in cell-type-specific manner. PMCID PMC9118500. | review_mechanistic | PMC full text opened + targeted summarization | FULL_TEXT_OPENED | YES_FOR_MR_GR_NON_EQUIVALENCE | Review rather than primary intervention, but directly states dexamethasone poorly penetrates BBB, acts mainly at pituitary, has little MR affinity, and can create 'chemical adrenalectomy' rather than cortisol-like brain conditions.
+
+S024 | Russell et al. 2024. Ultradian hydrocortisone replacement alters neuronal processing, emotional ambiguity, affect and fatigue in adrenal insufficiency: the PULSES trial. PMCID PMC10952319. | primary_human_replacement | PMC full text opened + targeted summarization | FULL_TEXT_OPENED | YES_FOR_REPLACEMENT_BOUNDARIES | Adrenal-insufficiency crossover trial; emotional-processing and fatigue changes seen, but primary FERT null and N-back null; supports replacement-context nuance rather than generic cognitive enhancement.
+
+S025 | Ben-Shlomo et al. 2025. Cognitive Assessment in Adults With Adrenal Cortisol Insufficiency: Challenges and Opportunities. PMCID PMC12795706. | review_clinical_methodological | PMC full text opened + targeted summarization | FULL_TEXT_OPENED | YES_FOR_METHOD_LIMITS | Review of ACI cognition literature, emphasizing inconsistent objective findings, DiCO/dissonant cortisol oscillations, overtreatment risk, and methodological cautions; not primary efficacy evidence.
+
+COUNT SNAPSHOT
+- Academic records logged: 25
+- FULL_TEXT_OPENED: 10 (S003, S007, S011, S012, S013, S021, S022, S023, S024, S025)
+- OFFICIAL_DOCUMENT_OPENED: 2 (S009, S010)
+- ABSTRACT_ONLY: 13
+
+HONESTY NOTE
+This register now meets the minimum thresholds for academic records logged and full-text sources opened, but direct dexamethasone cognition evidence and animal-task diversity remain limited. Readiness therefore varies strongly by question/domain.

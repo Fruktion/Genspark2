@@ -1,0 +1,68 @@
+TITLE
+Open questions and assumptions
+PURPOSE
+Log the assumptions currently required for synthesis and the highest-value unresolved questions.
+STATUS
+SUBSTANTIVE_DRAFT
+SCOPE
+Current uncertainty register.
+DEPENDENCIES
+All evidence files.
+KEY_QUESTIONS
+Which assumptions are carrying the current model, and what remains genuinely unresolved?
+EVIDENCE_TIER
+Uncertainty-management layer.
+SOURCE_IDS_USED
+S001,S002,S003,S004,S005,S006,S007,S008,S009,S010,S011,S012,S013,S014,S015,S016,S017,S018,S019,S020
+OPEN_ISSUES
+Expanded after mandatory round-2 evidence pass.
+LAST_UPDATED
+2026-04-03
+
+ASSUMPTIONS CURRENTLY BEING MADE
+1. The reported carbohydrate restriction was long enough to produce meaningful fuel-adaptation and tissue-level glucose-handling changes.
+2. Elevated fasting cortisol is a real and repeated observation rather than a single stress-contaminated assay.
+3. Elevated fasting prolactin is real, but its causal meaning is less certain.
+4. The symptom is meaningfully caused by carbohydrate exposure and not just by meal size, circadian timing, or total calories.
+5. The specific fatty-acid profile matters, but probably as a modifier rather than the sole driver.
+
+OPEN QUESTIONS
+1. Was actual hypoglycemia documented at the time of sleepiness?
+2. Did sleepiness occur with pure carbohydrate, mixed meals, or all carb-containing meals?
+3. Is the symptom dose-dependent with carbohydrate amount or glycemic index?
+4. Were thyroid markers (T3/rT3), catecholamines, leptin, and ketones measured alongside cortisol/prolactin?
+5. Are there hidden confounders such as sleep restriction, overtraining, stimulant withdrawal, circadian disruption, or micronutrient deficits?
+6. Does GLA intake meaningfully alter prolactin or cortisol in modern human studies, or is this mostly historical hypothesis territory?
+
+HIGHEST-VALUE NEXT EVIDENCE NEEDS
+- Direct human refeeding studies after prolonged ketogenic adaptation.
+- Direct human studies of postprandial somnolence with glucose or CGM data.
+- Full-text access to primary fasting-prolactin and carb-thyroid studies.
+
+NEW OPEN QUESTIONS AFTER ROUND 2
+7. Is the dominant symptomatic pathway early orexin/serotonin-related sleepiness, later hyperinsulinemic crash, or a mix that differs by meal size and latency? [S013,S014]
+8. How often does excessive postprandial sleepiness occur without measurable biochemical hypoglycemia in otherwise healthy adults? [S012,S014]
+9. Is IL-1-mediated fatigue relevant only after large mixed meals or exercise-plus-meal stressors, or does it generalize to ordinary carbohydrate reintroduction? [S018]
+10. Are large postprandial triglyceride excursions more important than glucose excursions for the fatigue component in some individuals, given GlycA/TG coupling and weak IL-6/glucose linkage? [S019]
+11. Why do theoretically anti-inflammatory versus pro-inflammatory single meals often fail to differentially shift circulating cytokines? Is the issue marker choice, timing, statistical power, or true physiologic robustness? [S020]
+12. Does meal timing alter symptom severity mainly by shifting peripheral glucose rhythms rather than by changing cortisol or subjective baseline sleepiness? [S015]
+13. Is prolactin elevation in the target state actually causal, or does current evidence suggest the thyroid axis is the more consistent endocrine responder to fasting/carbohydrate deprivation? [S016]
+14. Does oleic-acid-derived incretin signaling meaningfully alter sleepiness phenomenology, or is it merely a satiety/GLP-1 modifier without major sedative impact? [S017]
+15. Are GLA/PGE1 claims functionally unsupported in modern human endocrine literature, such that the mechanism should remain permanently low-priority unless better evidence emerges?
+
+
+ROUND 2 ADDITIONS
+NEW OPEN QUESTIONS
+7. Does the sleepiness begin within 30-60 minutes, or only after 2-5 hours? This timing strongly changes the ranking of orexin/serotonin/inflammatory versus reactive-hypoglycemia mechanisms.
+8. Is carbohydrate reintroduced in the morning, afternoon, or evening? Round-2 evidence suggests evening carbohydrate loads may produce larger glucose/insulin excursions even in healthy people.
+9. Does a small amount of carbohydrate trigger symptoms, or only large/refined/high-glycemic loads?
+10. Are symptoms different with carbohydrate alone versus carbohydrate plus fat/protein?
+11. Does continuous glucose monitoring show a high early peak, a rapid fall, a later nadir, or no clear glucose abnormality at all?
+12. Would IL-1-related mechanisms still matter if CRP/IL-6 are normal? Round-2 evidence suggests yes.
+13. Is prolactin reproducibly elevated on repeated standardized morning fasting draws, or could it be lab/context noise?
+14. Does the specific fatty-acid blend alter subjective satiety or gastric emptying enough to change meal experience independently of glucose?
+
+NEW ASSUMPTIONS TO TRACK
+6. Acute and chronic low-carbohydrate states may produce overlapping but not identical mechanisms; round-2 evidence suggests both matter.
+7. A normal postprandial cortisol time course would not exclude strong meal-timing effects, because glucose timing may shift without cortisol shifting.
+8. Lack of biochemical hypoglycemia does not exclude cytokine- or orexin-mediated post-meal sleepiness.

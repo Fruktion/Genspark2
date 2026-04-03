@@ -1,0 +1,41 @@
+TITLE: Full-text allergy and irritation upgrade
+PURPOSE: Upgrade high-risk ingredient claims from weak abstract language to stronger documented statements where possible.
+STATUS: UPDATED
+SCOPE: MI, cleanser-associated contact dermatitis, SLS and surfactant irritation signals.
+DEPENDENCIES: 23_preservatives_fragrance_essential_oils_and_allergen_risk.txt
+LAST_UPDATED: 2026-03-31
+
+A07 Methylisothiazolinone in rinse-off products causes allergic contact dermatitis
+ACCESS: ABSTRACT_ONLY plus multiple metadata confirmations
+RETAINED CLAIM
+- In MI-allergic subjects, rinse-off soap containing 50 ppm or 100 ppm MI triggered repeated open application reactions; therefore MI is a real red-team concern, not a myth.
+HONESTY LIMIT
+- Full publisher PDF was not opened successfully; exact methods wording in dossier should remain cautious.
+
+A08 Contact Dermatitis Associated With Skin Cleansers
+ACCESS: ABSTRACT_ONLY; full-text attempt failed.
+RETAINED CLAIM
+- In North American Contact Dermatitis Group data, skin cleansers were linked to both allergic and irritant dermatitis; common allergens included quaternium-15, cocamidopropyl betaine, MCI/MI, fragrance mix, and related agents.
+HONESTY LIMIT
+- Because full text is unavailable here, prevalence figures should be described as abstract-derived and not over-interpreted as direct facial-risk estimates.
+
+A03 AD review full text upgrade
+- Strongly supports avoiding harsh soaps and SLS-heavy systems in atopic skin.
+- Supports mild syndets around pH 5.5–6.0 in AD care.
+
+A04 Rosacea review full text upgrade
+- Supports avoiding fragrances and multiple irritant categories.
+- Supports preference for mild syndet or lipid-free cleansers.
+- Explicitly documents study limitations, preventing overclaiming.
+
+A06 pH study correction
+ACCESS: ABSTRACT_ONLY / metadata only, but important corrective evidence.
+RETAINED CLAIM
+- Matching cleanser pH to skin pH does not guarantee mildness; surfactant system matters.
+DOSSIER RULE
+- pH is a secondary modifier after surfactant chemistry, not an independent proof of mildness.
+
+ALLERGY RED-TEAM TAKEAWAY
+- Fragrance-free is strongly favorable in reactive and allergy-suspect scenarios.
+- Coco-betaine / CAPB / glucoside-family surfactants are not automatically disqualifying, but they justify subgroup caution.
+- Preservative panic is not evidence-based in general; specific allergens matter more than vague “preservative-free” marketing.

@@ -1,0 +1,26 @@
+TITLE: Primary study priority queue - missing or inaccessible full texts
+PURPOSE: Identify the most decision-relevant missing studies.
+STATUS: SUBSTANTIVE_DRAFT
+SCOPE: Next retrieval targets.
+DEPENDENCIES: 80_gap_log_and_next_searches.txt
+KEY_QUESTIONS: Which inaccessible studies matter most?
+EVIDENCE_TIER: PRIORITY_QUEUE
+SOURCE_IDS_USED: S1; S3
+OPEN_ISSUES: High-priority retrieval remains needed.
+LAST_UPDATED: 2026-03-27
+
+PRIORITY 1:
+- Full text of S1 to extract exact IV dose, infusion rate, timing, and whether formulation was specified.
+
+PRIORITY 2:
+- Full text of S3 to extract exact oxytocin infusion protocol, HRV variables, and respiration/posture controls.
+
+PRIORITY 3:
+- Any direct human peripheral-injection PFC studies if they exist.
+
+PRIORITY 4:
+- Additional peripheral animal autonomic studies with HRV/baroreflex metrics.
+
+NEXT_ACTIONS:
+- Continue targeted searches for route-matched full texts, especially human peripheral injection PFC and parasympathetic studies.
+- Maintain separation between oxytocin acetate-specified studies and generic oxytocin formulations.

@@ -1,0 +1,41 @@
+TITLE: Scenario-specific optima
+PURPOSE: Name the current best provisional option for each scenario and explain why it wins that scenario specifically.
+STATUS: UPDATED
+SCOPE: Seven user scenarios plus universal-winner test.
+DEPENDENCIES: 39_scenario_specific_product_rankings.txt, 36b_raw_weighted_score_table.txt
+LAST_UPDATED: 2026-03-31
+
+SCENARIO OPTIMA
+Normal / sensitive skin:
+- CLN-001 CeraVe Nawilżająca Emulsja do Mycia
+Why: highest broad tolerability without obvious fragrance or surfactant aggressiveness.
+
+Dry / dehydrated:
+- CLN-001 CeraVe Nawilżająca Emulsja do Mycia
+Close second: CLN-006 BasicLab Emulsja myjąca ultrawrażliwa.
+
+Atopic / reactive:
+- CLN-006 BasicLab Emulsja myjąca ultrawrażliwa
+Why: strongest barrier-first, overtreated-skin fit among currently verified Polish pages.
+
+Oily / acne-prone:
+- CLN-007 BasicLab Normalizujący żel oczyszczający
+Close second: CLN-002 CeraVe Oczyszczający Żel do Mycia.
+
+Rosacea-prone:
+- CLN-001 CeraVe Nawilżająca Emulsja do Mycia
+Close second: CLN-005 Avène Tolérance cleansing balm-gel.
+
+Heavy SPF / makeup users:
+- CLN-002 CeraVe Oczyszczający Żel do Mycia
+Close second: CLN-007 BasicLab Normalizujący żel oczyszczający.
+
+Fragrance / EO allergy suspects:
+- CLN-001 CeraVe Nawilżająca Emulsja do Mycia
+Close second: CLN-006 BasicLab Emulsja myjąca ultrawrażliwa.
+
+UNIVERSAL-WINNER TEST
+Result: FAILED
+Reason:
+- CLN-001 wins many gentle-skin scenarios but loses too much cleansing adequacy for heavy SPF/makeup and some oily/acne users.
+- Scenario divergence is real and evidence-backed enough to reject a single universal best cleanser claim.

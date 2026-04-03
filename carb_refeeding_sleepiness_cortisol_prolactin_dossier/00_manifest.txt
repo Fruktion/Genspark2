@@ -1,0 +1,61 @@
+TITLE
+Final dossier manifest
+PURPOSE
+Provide a current inventory of dossier files, their roles, dependencies, round status, and readiness state for audit.
+STATUS
+ROUND_2_IN_PROGRESS
+SCOPE
+Whole dossier inventory across administrative, evidence, mechanism, synthesis, and review layers.
+DEPENDENCIES
+All dossier files.
+KEY_QUESTIONS
+What files exist, what do they contain, and which are editable this round?
+EVIDENCE_TIER
+Administrative metadata and audit layer.
+SOURCE_IDS_USED
+S001-S026
+OPEN_ISSUES
+Round-2 expanded evidence has improved coverage, but several endocrine and direct symptom-link studies remain indirect.
+LAST_UPDATED
+2026-04-03
+
+INVENTORY
+00_directory_tree.txt | Administrative tree listing | Existing | No substantive round-2 change required.
+00_manifest.txt | This manifest | Updated in round 2.
+00_review_packet.txt | Review packet snapshot | Not substantively revised this round except implied source-count dependence.
+01_scope_and_objectives.txt | Original scope/objectives scaffold | Retained.
+01_topic_scope_and_framework.txt | Phenotype definition, causal framework, evidence grading | Updated in round 2.
+01b_objective_function_constraints_and_scenarios.txt | Objective constraints/scenarios | Retained.
+02_research_questions.txt | Research questions | Retained.
+02_metabolic_adaptation_mechanisms.txt | Metabolic adaptation evidence | Updated with [ROUND 2 ADDITION].
+03_hpa_axis_and_stress_response.txt | HPA-axis evidence | Updated with [ROUND 2 ADDITION].
+03_search_strategy_and_queries.txt | Search pass log | Updated with 10 mandatory passes and opened results.
+04_prolactin_dopamine_axis.txt | Prolactin/dopamine evidence | Updated with [ROUND 2 ADDITION].
+04_source_register.txt | Source inventory | Expanded to S001-S026.
+04b_claim_to_source_traceability_matrix.txt | Claim-source mapping | Expanded in round 2.
+04c_evidence_depth_scorecard.txt | Quantitative evidence scorecard | Updated with round-2 counts.
+05_postprandial_hypoglycemia_and_somnolence.txt | Postprandial sleepiness mechanisms | Updated with [ROUND 2 ADDITION].
+05_source_access_and_verification_log.txt | Access-grade and verification audit | Updated with new source access records.
+06_concept_dependency_graph.txt | Concept map | Retained.
+06_fatty_acid_hormone_interactions.txt | Fatty-acid/endocrine interactions | Updated with [ROUND 2 ADDITION].
+07_glossary_and_prerequisites.txt | Glossary | Retained.
+07_neurotransmitter_and_cns_mechanisms.txt | CNS pathway evidence | Updated with [ROUND 2 ADDITION].
+08_inflammatory_and_immune_mechanisms.txt | Inflammatory evidence | Updated with [ROUND 2 ADDITION].
+08_learning_objectives_and_misconceptions.txt | Learning objectives | Retained.
+09_circadian_and_chronobiological_factors.txt | Chronobiology evidence | Updated with [ROUND 2 ADDITION].
+09_open_questions_and_assumptions.txt | Assumptions/gap log | Expanded in round 2.
+10_synthesis_of_mechanisms.txt | Synthesis layer | Intentionally not modified this round.
+11_contradictions_and_conflicting_evidence.txt | Contradiction audit | Expanded to >=10 contradictions in round 2.
+12_mitigation_and_intervention_strategies.txt | Interventions | Intentionally not modified this round.
+13_confidence_assessment.txt | Confidence layer | Intentionally not modified this round.
+14_references_and_sources.txt | Bibliography | Expanded to S001-S026.
+
+READINESS FLAGS
+structure_ready: YES
+traceability_ready: IMPROVED_PARTIAL_TO_STRONG
+red_team_ready: IMPROVED
+primary_evidence_ready: IMPROVED_BUT_NOT_COMPLETE
+round2_search_passes_complete: YES
+null_negative_studies_logged: YES
+mechanism_files_02_to_09_updated: YES
+non_editable_round_files_respected: YES

@@ -1,0 +1,16 @@
+TITLE: Revision log round 01
+PURPOSE: Record repairs made after audit round 01.
+STATUS: COMPLETE_FOR_ROUND
+SCOPE: First revision cycle.
+DEPENDENCIES: 90_self_audit_round_01.txt
+KEY_QUESTIONS: What changed after the audit?
+EVIDENCE_TIER: META_AUDIT
+SOURCE_IDS_USED: NONE
+OPEN_ISSUES: More repair rounds needed.
+LAST_UPDATED: 2026-03-31
+
+Repairs completed in round 01:
+- Added missing core scaffold files.
+- Added market-definition, screening-rubric, and scenario files.
+- Added contradiction and red-team structure.
+- Preserved conservative readiness flags instead of overstating completeness.

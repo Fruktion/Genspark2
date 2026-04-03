@@ -1,0 +1,47 @@
+TITLE: How to read INCI without pseudoscience
+PURPOSE: Teach a practical, evidence-based way to interpret cleanser INCI lists.
+STATUS: UPDATED_WITH_WORKED_EXAMPLE
+SCOPE: Wash-off facial cleansers in the Polish market dossier.
+DEPENDENCIES: 07_glossary_and_prerequisites.txt, 22_surfactant_taxonomy_and_irritancy.txt
+LAST_UPDATED: 2026-03-31
+
+CORE RULES
+1. Do not rank cleansers by one “hero ingredient”.
+2. In wash-off products, surfactant system, fragrance burden, and overall formula simplicity usually matter more than the presence of ceramides or plant extracts.
+3. “Natural” is not a synonym for low-irritation.
+4. A scary-sounding ingredient is not automatically harsh; context matters.
+5. Unknown pH is still unknown even if marketing says “balanced”.
+
+WORKED EXAMPLE A: CeraVe Nawilżająca Emulsja do Mycia
+Observed INCI highlights:
+- Glycerin
+- fatty alcohols (cetearyl alcohol, stearyl alcohol, cetyl alcohol)
+- ceramides, cholesterol, phytosphingosine
+- sodium lauroyl lactylate
+- no added fragrance claim
+How to read it:
+- This is not a classic foaming gel. It is a cream-emulsion cleanser.
+- Barrier-supportive lipids are plausible positives, but because rinse-off contact is short, the main practical advantage is that the cleanser system is not aggressive.
+- The likely trade-off is weaker one-step removal of heavy SPF/makeup.
+
+WORKED EXAMPLE B: BasicLab Normalizujący żel oczyszczający
+Observed INCI highlights:
+- Lauryl Glucoside + Sodium Cocoamphoacetate
+- no added fragrance claim
+- several anti-inflammatory / seboregulating actives
+How to read it:
+- The key is the mild gel surfactant system and fragrance-free positioning, not the marketing actives.
+- Better cleansing adequacy is plausible than with a very creamy lotion cleanser.
+- It may still not be ideal for the most reactive users because glucoside-family surfactants can still sting some people.
+
+WHAT TO DE-EMPHASIZE
+- tiny amounts of botanical extracts near the end of INCI
+- “dermatologically tested” without context
+- “hypoallergenic” without robust support
+- dramatic claims based on one barrier lipid ingredient
+
+WHEN INCI IS NOT ENOUGH
+- when reformulation is possible
+- when pH is central to the user’s decision but not explicitly published
+- when a user has known allergy to CAPB, glucosides, fragrance, MI, or formaldehyde releasers
+- when heavy sunscreen/makeup removal is the key use case

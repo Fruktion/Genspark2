@@ -1,0 +1,60 @@
+TITLE: Contradictions, null results, task dependence, and boundary conditions
+PURPOSE: Central contradiction log showing why simple pro- or anti-glucocorticoid narratives fail.
+STATUS: IN_PROGRESS
+SCOPE: Null findings, mixed findings, task/domain splits, population interactions, and timing dependence across human and animal evidence.
+DEPENDENCIES: 04_source_register.txt; 37_task_taxonomy_PFC_outcomes_working_memory_attention_flexibility_retrieval_consolidation.txt
+KEY_QUESTIONS: Where does evidence conflict; what boundary conditions explain disagreement; what should not be generalized.
+EVIDENCE_TIER: MIXED_CONTRADICTION_LOG
+SOURCE_IDS_USED: S001; S002; S003; S014; S015; S017; S020; S021; S024; S022
+OPEN_ISSUES: More direct dexamethasone studies would help stress-test the null-effect conclusion.
+LAST_UPDATED: 2026-04-01
+
+CONTRADICTION SET 1: “More glucocorticoid exposure improves cognition.”
+- Contradicted by S002: 10 mg hydrocortisone impaired working-memory/interference performance in healthy adults under negative interference.
+- Contradicted by S015: chronic hydrocortisone impaired frontal-lobe-sensitive tasks in healthy men.
+- Contradicted by S014: large salivary cortisol elevations in healthy elderly produced no significant cognitive effect.
+- Contradicted by S005: higher replacement dose in secondary adrenal insufficiency did not improve cognition.
+Status: DISCONFIRMED_AS_GENERAL_RULE
+
+CONTRADICTION SET 2: “More glucocorticoid exposure impairs cognition.”
+- Contradicted by S003: slow-timed hydrocortisone improved working-memory-related performance and DLPFC activation in healthy young men.
+- Contradicted by S020: acute hydrocortisone improved response inhibition in healthy controls.
+- Contradicted/qualified by S024 and S022: more physiological glucocorticoid patterning improved some functions even when total dose was held constant.
+Status: DISCONFIRMED_AS_GENERAL_RULE
+
+CONTRADICTION SET 3: “Dexamethasone suppression results can be read as cortisol-equivalent cognitive exposure.”
+- Contradicted by S021: post-DST cortisol depends on dexamethasone adequacy, binding proteins, and assay type; false positives occur.
+- Contradicted by S023: dexamethasone differs from cortisol in MR affinity and BBB penetration.
+Status: DISCONFIRMED
+
+CONTRADICTION SET 4: “Replacement normalization implies enhancement in healthy people.”
+- Contradicted by S007: corticosterone restored ADX-induced rat working-memory deficits to baseline rather than above baseline.
+- Contradicted by human AI literature S024/S005/S006: partial normalization or null results in deficiency states do not imply general enhancement.
+Status: DISCONFIRMED
+
+TASK-DEPENDENCE LOG
+- Working memory can worsen (S002), improve with delayed timing (S003), or remain unchanged (S014, S024).
+- Cognitive flexibility/WM can be null under dexamethasone despite endocrine change (S001).
+- Response inhibition may improve acutely in healthy controls (S020), which should not be generalized to all executive function.
+- Emotional ambiguity and affect may improve under more physiological replacement while N-back remains null (S024).
+
+POPULATION-DEPENDENCE LOG
+- Healthy young men: timing-sensitive enhancement seen with hydrocortisone (S003).
+- Healthy elderly: null despite large cortisol elevation (S014).
+- MDD patients: hydrocortisone effects can disappear relative to healthy controls (S002, S020).
+- Adrenal-insufficiency patients: mixed affect/fatigue improvements but weak objective cognitive gains (S024).
+
+TEMPORAL / PATTERN-DEPENDENCE LOG
+- Rapid versus slow hydrocortisone effects differ (S003).
+- Same total daily hydrocortisone dose delivered in different rhythms gives different working-memory outcomes (S022).
+- Acute versus chronic hydrocortisone do not behave alike (S003 vs S015).
+
+BOUNDARY CONDITIONS FOR INTERPRETATION
+1) Do not collapse executive functions into one outcome.
+2) Do not infer cognition from endocrine suppression.
+3) Do not generalize across healthy, deficient, depressed, or endocrine-disease populations.
+4) Do not equate acute timing effects with chronic replacement effects.
+5) Do not treat null primary outcomes as proof of no domain-specific benefit or harm.
+
+PROVISIONAL TAKEAWAY
+The contradiction pattern is not noise; it is the signal. Glucocorticoid effects on cognition are highly conditional on task, timing, population, deficiency state, and measurement domain.

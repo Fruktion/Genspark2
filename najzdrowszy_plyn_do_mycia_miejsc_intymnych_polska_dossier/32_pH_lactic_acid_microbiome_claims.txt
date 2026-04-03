@@ -1,0 +1,28 @@
+TITLE: 32 pH, Lactic Acid and Microbiome Claims
+PURPOSE: Test high-profile marketing narratives
+STATUS: complete
+SCOPE: Meaning and limits of pH/lactic acid/probiotic claims in rinse-off products
+DEPENDENCIES: 30,31
+KEY_QUESTIONS: How much should these claims matter?
+EVIDENCE_TIER: mechanistic extrapolation
+SOURCE_IDS_USED: S04,S09,S14
+OPEN_ISSUES: Direct comparative evidence limited
+LAST_UPDATED: 2026-03-31
+
+
+pH:
+- Vulvar pH is not uniform; vestibular values differ from external hair-bearing skin.
+- A mildly acidic cleanser is plausibly less disruptive than alkaline soap.
+- However, pH alone does not rescue a formula burdened with fragrance, botanicals or harsher surfactants.
+
+Lactic acid:
+- Biologically relevant in vaginal ecology, but that does not automatically translate into major clinical benefit from a rinse-off external wash.
+- In practice it may function mainly as pH adjuster/buffer plus a marketing anchor.
+
+Microbiome / probiotic / prebiotic claims:
+- In rinse-off cosmetics these are easily overinterpreted.
+- One product can be non-disruptive to measured diversity (S09), but that does not prove microbiome-enhancing clinical superiority.
+- Ferments, prebiotics or “probiotic” branding should not outweigh simpler risk minimization.
+
+Decision rule:
+Do not overweight pH or microbiome claims unless accompanied by a bland, low-allergen formula and strong verification.

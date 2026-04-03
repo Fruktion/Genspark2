@@ -1,0 +1,16 @@
+TITLE: System-level synthesis of cleanser market and science
+PURPOSE: Integrate science, market constraints, and decision logic.
+STATUS: DRAFT_IN_PROGRESS
+SCOPE: Whole-topic synthesis.
+DEPENDENCIES: 12_polish_market_longlist.txt, 30_direct_evidence_cleanser_reviews_and_guideline_signals.txt, 31_adjacent_evidence_allergy_irritation_and_acne_gaps.txt
+KEY_QUESTIONS: What is the current integrated take?
+EVIDENCE_TIER: SYNTHESIS
+SOURCE_IDS_USED: S01,S02,S03,S04,S05,S06,S07,S08,M01,M02,M03
+OPEN_ISSUES: Product verification bottleneck remains.
+LAST_UPDATED: 2026-03-31
+
+Current integrated take:
+- The likely winners will not come from classic soap-forward formulas.
+- Fragrance-free mild syndet/emulsion products are structurally advantaged for sensitive, dry, atopic, and rosacea-prone scenarios.
+- Slightly more cleansing-focused gels may win oily/acne and SPF-heavy scenarios.
+- Polish-market recommendation quality is currently limited more by product verification than by lack of general cleanser science.

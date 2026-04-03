@@ -1,0 +1,25 @@
+TITLE: Competing hypotheses and falsifiers
+PURPOSE: Make rival explanations explicit and testable.
+STATUS: DRAFT_IN_PROGRESS
+SCOPE: Main recommendation logic.
+DEPENDENCIES: 39_scenario_specific_product_rankings.txt
+KEY_QUESTIONS: What could overturn current preference patterns?
+EVIDENCE_TIER: RED_TEAM
+SOURCE_IDS_USED: S01,S02,S03,S04,S07,S08
+OPEN_ISSUES: Needs more direct product-level falsification evidence.
+LAST_UPDATED: 2026-03-31
+
+Competing hypothesis H1:
+The best cleanser is simply the lowest-pH product.
+Why likely incomplete: S07 suggests pH alone is insufficient.
+Falsifier: a neutral-pH better-tolerated formula outperforming skin-pH anionic-heavy cleansers.
+
+H2:
+The best cleanser is always the most fragrance-free and mildest.
+Why incomplete: may under-clean oily skin/heavy SPF users.
+Falsifier: repeated practical failure to remove sunscreen/makeup or poor acne/oil control tolerance tradeoff.
+
+H3:
+Pharmacy brands are inherently better.
+Why incomplete: channel is not formula quality.
+Falsifier: equal or better formula logic from non-apteka product with verified mild composition.

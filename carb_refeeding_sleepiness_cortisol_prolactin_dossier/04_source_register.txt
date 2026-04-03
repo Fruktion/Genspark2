@@ -1,0 +1,308 @@
+TITLE
+Source register
+PURPOSE
+Register all sources actually opened and inspected, with access grade, limitations, and source IDs.
+STATUS
+SUBSTANTIVE_DRAFT
+SCOPE
+Current working source base.
+DEPENDENCIES
+05_source_access_and_verification_log.txt, 14_references_and_sources.txt.
+KEY_QUESTIONS
+Which sources were actually opened? Which are decisive? Which are abstract-only or contextual?
+EVIDENCE_TIER
+Source inventory.
+SOURCE_IDS_USED
+S001,S002,S003,S004,S005,S006,S007,S008,S009,S010,S011,S012,S013,S014,S015,S016,S017,S018,S019,S020
+OPEN_ISSUES
+Round-2 mandatory passes completed; remaining weakness is limited full-text access for older thyroid and prolactin primary studies and the absence of strong modern human GLA endocrine trials.
+LAST_UPDATED
+2026-04-03
+
+SOURCE RECORDS
+
+source_id: S001
+citation_or_document_name: Hengist A, et al. Ketogenic diet but not free-sugar restriction alters glucose tolerance, lipid metabolism, peripheral tissue phenotype, and gut microbiome: RCT.
+exact URL or resolvable identifier: https://pmc.ncbi.nlm.nih.gov/articles/PMC11384946/
+source_type: peer-reviewed primary human RCT
+page_type: PMC full text
+opened_where: crawler + summarize_large_document
+access_grade: FULL_TEXT_OPENED
+opened_date: 2026-04-03
+decisive_for_major_claims: YES
+notes_on_limitations: Healthy adults, free-living, not exact user protocol; mixed-meal rather than symptom-focused design.
+
+source_id: S002
+citation_or_document_name: Effect of weight-maintaining ketogenic diet on glycemic control and insulin sensitivity in T2D (BMJ Open Diabetes Res Care / PMC11492932).
+exact URL or resolvable identifier: https://pmc.ncbi.nlm.nih.gov/articles/PMC11492932/
+source_type: peer-reviewed primary human clinical trial
+page_type: PMC full text
+opened_where: crawler + summarize_large_document
+access_grade: FULL_TEXT_OPENED
+opened_date: 2026-04-03
+decisive_for_major_claims: YES
+notes_on_limitations: T2D/obese population; 10-day duration; not healthy low-carb-adapted cohort.
+
+source_id: S003
+citation_or_document_name: Metabolic effects of prolactin and the role of dopamine agonists.
+exact URL or resolvable identifier: https://pmc.ncbi.nlm.nih.gov/articles/PMC9562454/
+source_type: peer-reviewed review
+page_type: PMC full text
+opened_where: crawler + summarize_large_document
+access_grade: FULL_TEXT_OPENED
+opened_date: 2026-04-03
+decisive_for_major_claims: NO
+notes_on_limitations: Review, not direct fasting-state study; useful for prolactin-dopamine-metabolism framework.
+
+source_id: S004
+citation_or_document_name: Postprandial Reactive Hypoglycemia.
+exact URL or resolvable identifier: https://pmc.ncbi.nlm.nih.gov/articles/PMC7192270/
+source_type: peer-reviewed review
+page_type: PMC full text
+opened_where: crawler
+access_grade: FULL_TEXT_OPENED
+opened_date: 2026-04-03
+decisive_for_major_claims: NO
+notes_on_limitations: Review with some controversial framing; useful for mechanism candidates and references, not decisive for all claims.
+
+source_id: S005
+citation_or_document_name: Human Postprandial Nutrient Metabolism and Low-Grade Inflammation.
+exact URL or resolvable identifier: https://pmc.ncbi.nlm.nih.gov/articles/PMC6950246/
+source_type: peer-reviewed review emphasizing human studies
+page_type: PMC full text
+opened_where: crawler + summarize_large_document
+access_grade: FULL_TEXT_OPENED
+opened_date: 2026-04-03
+decisive_for_major_claims: NO
+notes_on_limitations: Review-level; useful for inflammatory pathways and nutrient interactions.
+
+source_id: S006
+citation_or_document_name: Effects of Intermittent Fasting on the Circulating Levels and Circadian Rhythms of Hormones.
+exact URL or resolvable identifier: https://pmc.ncbi.nlm.nih.gov/articles/PMC8419605/
+source_type: peer-reviewed review
+page_type: PMC full text summary
+opened_where: summarize_large_document
+access_grade: FULL_TEXT_OPENED
+opened_date: 2026-04-03
+decisive_for_major_claims: NO
+notes_on_limitations: Review, mixed fasting protocols, not exact ketogenic/carb-refeed scenario.
+
+source_id: S007
+citation_or_document_name: Decreased dopaminergic control of prolactin secretion in male obesity: normalization by fasting.
+exact URL or resolvable identifier: PMID 1899123 / https://pubmed.ncbi.nlm.nih.gov/1899123/
+source_type: peer-reviewed primary study
+page_type: PubMed abstract
+opened_where: crawler
+access_grade: ABSTRACT_ONLY
+opened_date: 2026-04-03
+decisive_for_major_claims: NO
+notes_on_limitations: Obese men; challenge-response rather than baseline symptom study; abstract only.
+
+source_id: S008
+citation_or_document_name: Isocaloric carbohydrate deprivation induces protein catabolism despite a low T3-syndrome in healthy men.
+exact URL or resolvable identifier: PMID 11167929 / https://pubmed.ncbi.nlm.nih.gov/11167929/
+source_type: peer-reviewed primary human RCT
+page_type: PubMed abstract
+opened_where: crawler
+access_grade: ABSTRACT_ONLY
+opened_date: 2026-04-03
+decisive_for_major_claims: NO
+notes_on_limitations: Small study, abstract only, but directly relevant to carbohydrate deprivation and thyroid adaptation.
+
+source_id: S009
+citation_or_document_name: Effect of low-carbohydrate diets high in either fat or protein on thyroid function, plasma insulin, glucose, and triglycerides in healthy young adults.
+exact URL or resolvable identifier: PMID 3900181 / https://pubmed.ncbi.nlm.nih.gov/3900181/
+source_type: peer-reviewed primary human trial
+page_type: PubMed abstract
+opened_where: crawler
+access_grade: ABSTRACT_ONLY
+opened_date: 2026-04-03
+decisive_for_major_claims: NO
+notes_on_limitations: Older small trial; moderate rather than extreme low-carb; abstract only.
+
+source_id: S010
+citation_or_document_name: The interrelationship between sleep, diet, and glucose metabolism.
+exact URL or resolvable identifier: https://pmc.ncbi.nlm.nih.gov/articles/PMC10247426/
+source_type: peer-reviewed review
+page_type: PMC full text
+opened_where: crawler + summarize_large_document
+access_grade: FULL_TEXT_OPENED
+opened_date: 2026-04-03
+decisive_for_major_claims: NO
+notes_on_limitations: Sleep-focused review; much evidence indirect for daytime postprandial somnolence.
+
+source_id: S011
+citation_or_document_name: Fish oil supplementation reduces cortisol basal levels and perceived stress: randomized placebo-controlled trial in abstinent alcoholics; plus GLA/PGE1 historical search-derived supporting context.
+exact URL or resolvable identifier: PMID 23390041 / https://pubmed.ncbi.nlm.nih.gov/23390041/
+source_type: peer-reviewed primary trial (fish oil) plus adjacent historical context for GLA/PGE1 from search-opened records
+page_type: PubMed abstract
+opened_where: crawler and search result inspection
+access_grade: ABSTRACT_ONLY
+opened_date: 2026-04-03
+decisive_for_major_claims: NO
+notes_on_limitations: Population-specific; fish-oil dose low; GLA/PGE1 evidence remains heterogeneous and mostly non-decisive.
+
+source_id: S012
+citation_or_document_name: Orr WC, et al. Meal composition and its effect on postprandial sleepiness.
+exact URL or resolvable identifier: PMID 9284488 / https://pubmed.ncbi.nlm.nih.gov/9284488/
+source_type: peer-reviewed primary human clinical trial
+page_type: PubMed abstract with linked publisher record
+opened_where: crawler
+access_grade: ABSTRACT_ONLY
+opened_date: 2026-04-03
+decisive_for_major_claims: NO
+notes_on_limitations: Small study in healthy men; objective nap-latency design but limited mechanistic measurements. Important null/boundary finding because meal constituents did not significantly differ.
+
+source_id: S013
+citation_or_document_name: Wells AS, et al. Post-prandial changes in measures of fatigue: effect of a mixed or a pure carbohydrate or pure fat meal.
+exact URL or resolvable identifier: PMID 9426358 / https://pubmed.ncbi.nlm.nih.gov/9426358/
+source_type: peer-reviewed primary human clinical trial
+page_type: PubMed abstract/full record
+opened_where: crawler
+access_grade: ABSTRACT_ONLY
+opened_date: 2026-04-03
+decisive_for_major_claims: YES
+notes_on_limitations: Sixteen healthy volunteers; liquid test meals and questionnaire/performance endpoints rather than low-carb-adapted individuals. Directly relevant for carb-vs-fat fatigue and Trp:LNAA mechanism.
+
+source_id: S014
+citation_or_document_name: Excessive Postprandial Sleepiness in Two Young Adults Effectively Treated with Antidiabetic Medications.
+exact URL or resolvable identifier: https://pmc.ncbi.nlm.nih.gov/articles/PMC11651837/
+source_type: peer-reviewed case report
+page_type: PMC full text
+opened_where: crawler + summarize_large_document
+access_grade: FULL_TEXT_OPENED
+opened_date: 2026-04-03
+decisive_for_major_claims: NO
+notes_on_limitations: Only two cases; uncontrolled and observational. Valuable direct evidence that OGTT-reproduced sleepiness can track delayed hyperinsulinemia/insulin resistance with normal HbA1c.
+
+source_id: S015
+citation_or_document_name: Wehrens SMT, et al. Meal Timing Regulates the Human Circadian System.
+exact URL or resolvable identifier: https://pmc.ncbi.nlm.nih.gov/articles/PMC5483233/
+source_type: peer-reviewed primary human laboratory trial
+page_type: PMC full text
+opened_where: crawler + summarize_large_document
+access_grade: FULL_TEXT_OPENED
+opened_date: 2026-04-03
+decisive_for_major_claims: YES
+notes_on_limitations: Ten healthy young men in highly controlled laboratory conditions; not a low-carb refeeding study. Strong circadian-moderator evidence and important null evidence for cortisol/sleepiness non-shift.
+
+source_id: S016
+citation_or_document_name: Are fasting-induced effects on thyrotropin and prolactin secretion mediated by dopamine?
+exact URL or resolvable identifier: PMID 6404923 / https://pubmed.ncbi.nlm.nih.gov/6404923/
+source_type: peer-reviewed primary human endocrine study
+page_type: PubMed abstract/full record
+opened_where: crawler
+access_grade: ABSTRACT_ONLY
+opened_date: 2026-04-03
+decisive_for_major_claims: YES
+notes_on_limitations: Small study; challenge-test design rather than free-living symptom study. Strong boundary evidence showing 56-h fasting reduced TSH responsiveness but did not broadly augment prolactin responses.
+
+source_id: S017
+citation_or_document_name: Hansen KB, et al. 2-Oleoyl glycerol is a GPR119 agonist and signals GLP-1 release in humans.
+exact URL or resolvable identifier: PMID 21778222 / https://pubmed.ncbi.nlm.nih.gov/21778222/
+source_type: peer-reviewed primary translational human study
+page_type: PubMed abstract/full record
+opened_where: crawler
+access_grade: ABSTRACT_ONLY
+opened_date: 2026-04-03
+decisive_for_major_claims: NO
+notes_on_limitations: Eight healthy volunteers; jejunal bolus model is mechanistically informative but not a typical mixed-meal design. Supports oleic-acid-derived lipid signaling as a modifier of incretin response.
+
+source_id: S018
+citation_or_document_name: Lehrskov LL, et al. The role of IL-1 in postprandial fatigue.
+exact URL or resolvable identifier: https://pmc.ncbi.nlm.nih.gov/articles/PMC6001918/
+source_type: peer-reviewed primary human crossover trial
+page_type: PMC full text
+opened_where: crawler
+access_grade: FULL_TEXT_OPENED
+opened_date: 2026-04-03
+decisive_for_major_claims: YES
+notes_on_limitations: Sixteen men (8 lean, 8 obese); exercise plus heavy high-fat/high-carbohydrate meal used to amplify fatigue, so ecological validity is imperfect. Strong direct evidence for IL-1 contribution to postprandial fatigue.
+
+source_id: S019
+citation_or_document_name: Berry SE, et al. Meal-induced inflammation: postprandial insights from the PREDICT study in 1000 participants.
+exact URL or resolvable identifier: https://pmc.ncbi.nlm.nih.gov/articles/PMC8408875/
+source_type: peer-reviewed primary human cohort-style meal-challenge study
+page_type: PMC full text
+opened_where: crawler + summarize_large_document
+access_grade: FULL_TEXT_OPENED
+opened_date: 2026-04-03
+decisive_for_major_claims: YES
+notes_on_limitations: Large and high-value for inflammatory variability, but not designed around sleepiness. IL-6 may be confounded by cannulation; best used as inflammation domain evidence and null/boundary evidence for glucose-centric explanations.
+
+source_id: S020
+citation_or_document_name: Meals That Differ in Nutrient Composition and Inflammatory Potential Do Not Differentially Impact Postprandial Circulating Cytokines in Older Adults above a Healthy Weight.
+exact URL or resolvable identifier: https://pmc.ncbi.nlm.nih.gov/articles/PMC9003235/
+source_type: peer-reviewed primary human crossover pilot trial
+page_type: PMC full text
+opened_where: crawler + summarize_large_document
+access_grade: FULL_TEXT_OPENED
+opened_date: 2026-04-03
+decisive_for_major_claims: YES
+notes_on_limitations: Small pilot (n=11), older overweight adults, high variability, and likely underpowered. Important null study because meals differing in theoretical inflammatory potential did not differentially change circulating cytokines.
+
+source_id: S021
+citation_or_document_name: Meal Timing Regulates the Human Circadian System.
+exact URL or resolvable identifier: https://pmc.ncbi.nlm.nih.gov/articles/PMC5483233/
+source_type: peer-reviewed primary human laboratory study
+page_type: PMC full text
+opened_where: crawler + summarize_large_document
+access_grade: FULL_TEXT_OPENED
+opened_date: 2026-04-03
+decisive_for_major_claims: YES
+notes_on_limitations: n=10 young men, tightly controlled lab setting, circadian protocol not symptom phenotype.
+
+source_id: S022
+citation_or_document_name: Meal Timing and Macronutrient Composition Modulate Human Metabolism and Reward-Related Drive to Eat.
+exact URL or resolvable identifier: https://pmc.ncbi.nlm.nih.gov/articles/PMC8839823/
+source_type: peer-reviewed primary human experimental study
+page_type: PMC full text
+opened_where: crawler + summarize_large_document
+access_grade: FULL_TEXT_OPENED
+opened_date: 2026-04-03
+decisive_for_major_claims: YES
+notes_on_limitations: Healthy young men; not low-carb adapted; focuses on evening-vs-morning meal effects.
+
+source_id: S023
+citation_or_document_name: Influences of fat and carbohydrate on postprandial sleepiness, mood and performance.
+exact URL or resolvable identifier: PMID 9145937 / https://pubmed.ncbi.nlm.nih.gov/9145937/
+source_type: peer-reviewed primary human study
+page_type: PubMed abstract
+opened_where: search result inspection
+access_grade: ABSTRACT_ONLY
+opened_date: 2026-04-03
+decisive_for_major_claims: NO
+notes_on_limitations: Abstract only; useful as adjacent historical human symptom evidence.
+
+source_id: S024
+citation_or_document_name: Meal composition and its effect on postprandial sleepiness.
+exact URL or resolvable identifier: PMID 9284488 / https://pubmed.ncbi.nlm.nih.gov/9284488/
+source_type: peer-reviewed primary human study
+page_type: PubMed abstract
+opened_where: search result inspection
+access_grade: ABSTRACT_ONLY
+opened_date: 2026-04-03
+decisive_for_major_claims: NO
+notes_on_limitations: Abstract only; historical and limited-mechanism context.
+
+source_id: S025
+citation_or_document_name: The effect of a mixed or a pure carbohydrate or pure fat meal on postprandial mood and performance.
+exact URL or resolvable identifier: PMID 9426358 / https://pubmed.ncbi.nlm.nih.gov/9426358/
+source_type: peer-reviewed primary human study
+page_type: PubMed abstract
+opened_where: search result inspection
+access_grade: ABSTRACT_ONLY
+opened_date: 2026-04-03
+decisive_for_major_claims: NO
+notes_on_limitations: Abstract only; useful adjacent evidence on fatigue after pure carbohydrate meals.
+
+source_id: S026
+citation_or_document_name: Fasting effects on metabolic hormones and functions review with included human prolonged-fasting contradiction details.
+exact URL or resolvable identifier: https://pmc.ncbi.nlm.nih.gov/articles/PMC11560338/
+source_type: peer-reviewed narrative review
+page_type: PMC full text
+opened_where: crawler + summarize_large_document
+access_grade: FULL_TEXT_OPENED
+opened_date: 2026-04-03
+decisive_for_major_claims: NO
+notes_on_limitations: Review-level and broad; useful mainly for contradiction logging and human-study pointers.

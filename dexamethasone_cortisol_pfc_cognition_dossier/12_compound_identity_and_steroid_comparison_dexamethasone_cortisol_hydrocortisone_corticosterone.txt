@@ -1,0 +1,42 @@
+TITLE: Compound identity and steroid comparison: dexamethasone, cortisol, hydrocortisone, corticosterone
+PURPOSE: Keep compound identities separate and prevent conflation across species and use-cases.
+STATUS: IN_PROGRESS
+SCOPE: Human cortisol/hydrocortisone, synthetic dexamethasone, and rodent corticosterone.
+DEPENDENCIES: 04_source_register.txt; 15_species_translation_human_cortisol_vs_rodent_corticosterone.txt
+KEY_QUESTIONS: What each compound is; why they are not interchangeable; what each is used for in the evidence base.
+EVIDENCE_TIER: FOUNDATIONAL_MIXED
+SOURCE_IDS_USED: S009; S023; S007; S022
+OPEN_ISSUES: Quantitative cross-compound CNS equivalence remains unresolved.
+LAST_UPDATED: 2026-04-01
+
+COMPOUND IDENTITY
+- Cortisol: principal endogenous glucocorticoid in humans.
+- Hydrocortisone: pharmaceutical cortisol; generally used as the direct replacement analog in humans.
+- Dexamethasone: synthetic glucocorticoid with high GR potency, negligible mineralocorticoid activity, strong HPA-suppressive action, and distinct PK/brain-access profile (S009, S023).
+- Corticosterone: principal endogenous glucocorticoid in rodents; should not be conflated with human cortisol even though both are endogenous glucocorticoids in their respective species (S007).
+
+USE-CASE SEPARATION IN THIS DOSSIER
+- Dexamethasone literature is most relevant for HPA suppression, DST logic, and sparse direct cognition studies.
+- Hydrocortisone/cortisol literature is most relevant for human intervention studies of cognition and for replacement studies.
+- Corticosterone literature is most relevant for rodent adrenalectomy/replacement causality and stress models.
+
+KEY NON-EQUIVALENCE NOTES
+- Hydrocortisone is the closest direct pharmacologic stand-in for human cortisol, but even it does not recreate normal physiology automatically because timing/pulsatility matter (S022, S025).
+- Dexamethasone is not a simple “stronger cortisol” for brain function because it differs in MR affinity, BBB transport, and feedback behavior (S023).
+- Rodent corticosterone replacement restoring ADX-induced working-memory deficits is evidence about restoring endogenous rodent glucocorticoid context, not about human dexamethasone enhancement (S007).
+
+WHAT THE OPENED SOURCES DIRECTLY SUPPORT
+- Endotext provides clinical equivalence-table context and shows dexamethasone differs from cortisol/hydrocortisone in HPA suppression, mineralocorticoid activity, and half-life (S009).
+- MR/GR review explicitly notes dexamethasone may function like “chemical adrenalectomy” for brain states because it suppresses endogenous corticosterone while poorly substituting in MR-rich brain compartments (S023).
+- Human pulse-pattern work used hydrocortisone, not dexamethasone, underscoring that replacement physiology questions are usually asked with cortisol/hydrocortisone analogs (S022).
+- Rat ADX rescue used corticosterone at physiological levels, not dexamethasone (S007).
+
+DOSSIER GUARDRAIL
+Never collapse the following distinctions:
+1) dexamethasone vs cortisol/hydrocortisone
+2) human cortisol vs rodent corticosterone
+3) replacement/normalization vs enhancement
+4) endocrine feedback suppression vs direct brain receptor engagement
+
+PROVISIONAL TAKEAWAY
+The compounds in this dossier participate in related but non-identical biological domains. Any argument that treats dexamethasone, hydrocortisone, cortisol, and corticosterone as interchangeable will overstate the evidence.

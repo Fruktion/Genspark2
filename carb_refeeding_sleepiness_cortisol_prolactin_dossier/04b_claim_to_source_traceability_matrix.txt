@@ -1,0 +1,283 @@
+TITLE
+Claim to source traceability matrix
+PURPOSE
+Map major claims to actual opened sources and label inference strength honestly.
+STATUS
+SUBSTANTIVE_DRAFT
+SCOPE
+Major claims currently used in the dossier.
+DEPENDENCIES
+04_source_register.txt, mechanism files.
+KEY_QUESTIONS
+Which major claims are directly supported by opened full text versus abstract-only or inference?
+EVIDENCE_TIER
+Traceability layer.
+SOURCE_IDS_USED
+S001,S002,S003,S004,S005,S006,S007,S008,S009,S010,S011,S012,S013,S014,S015,S016,S017,S018,S019,S020
+OPEN_ISSUES
+Round-2 expansion now maps additional direct, null, and boundary evidence across sleepiness, prolactin, inflammatory, and circadian domains.
+LAST_UPDATED
+2026-04-03
+
+CLAIM MATRIX
+1. Claim:
+Weeks of ketogenic carbohydrate restriction can reduce glucose tolerance in humans even while ketosis persists.
+Support:
+S001 direct full text.
+Strength label:
+DIRECT_HUMAN_PRIMARY
+Notes:
+Strongest current mechanism source.
+
+2. Claim:
+Ketogenic adaptation can increase early muscle PDK4 and later decrease GLUT4, insulin receptor, and AMPK in skeletal muscle.
+Support:
+S001 direct full text.
+Strength label:
+DIRECT_HUMAN_PRIMARY
+Notes:
+This is central to the metabolic-inflexibility/refeeding hypothesis.
+
+3. Claim:
+Weight-maintaining ketogenic dieting in T2D does not improve clamp-measured muscle/liver/adipose insulin sensitivity over 10 days and may increase insulin secretion during OGTT.
+Support:
+S002 direct full text.
+Strength label:
+DIRECT_HUMAN_PRIMARY
+Notes:
+Useful boundary-condition evidence; not directly generalizable to healthy individuals.
+
+4. Claim:
+Fasting/intermittent fasting generally increases cortisol levels or secretion frequency and can alter cortisol timing in humans.
+Support:
+S006 review full text.
+Strength label:
+HUMAN_REVIEW_SUPPORTED
+Notes:
+Needs more direct original studies for final confidence.
+
+5. Claim:
+Fasting-associated prolactin changes are heterogeneous; altered dopaminergic control may be more consistent than simple baseline rise.
+Support:
+S007 abstract; S003 review.
+Strength label:
+ADJACENT_HUMAN_PLUS_INFERENCE
+Notes:
+Do not overstate this claim.
+
+6. Claim:
+Carbohydrate ingestion may increase tryptophan/LNAA ratio, favoring serotonin/melatonin synthesis and potentially sleepiness.
+Support:
+S010 review full text.
+Strength label:
+MECHANISTIC_REVIEW_SUPPORTED
+Notes:
+Direct evidence mainly on sleep onset and sleep architecture, not exact daytime post-meal somnolence.
+
+7. Claim:
+Postprandial high-fat/high-carbohydrate meals can increase LPS, IL-6, TNF-alpha, NF-kB, ROS, and leukocyte activity in humans.
+Support:
+S005 review full text.
+Strength label:
+HUMAN_REVIEW_SUPPORTED
+Notes:
+Supports inflammatory-amplifier model.
+
+8. Claim:
+EPA/DHA can suppress LPS- or saturated-fatty-acid-mediated NF-kB signaling.
+Support:
+S005 review full text; S011 adjacent omega-3 trial for HPA.
+Strength label:
+MECHANISTIC_PLUS_ADJACENT_HUMAN
+Notes:
+Stronger for inflammatory modulation than for symptom relief.
+
+9. Claim:
+Carbohydrate deprivation can lower T3 and raise rT3-like adaptation even without classic starvation.
+Support:
+S008 abstract; S009 abstract.
+Strength label:
+ABSTRACT_LEVEL_HUMAN
+Notes:
+Promising but not decisive until full texts added.
+
+10. Claim:
+Reactive hypoglycemia can result from diminished early insulin release and delayed excessive later insulin response.
+Support:
+S004 review and cited primary literature.
+Strength label:
+HUMAN_REVIEW_SUPPORTED
+Notes:
+Diagnostic boundaries remain debated.
+
+11. Claim:
+Elevated prolactin can reduce dopaminergic tone and contribute to lower arousal/metabolic dysfunction.
+Support:
+S003 review.
+Strength label:
+REVIEW_SUPPORTED_MIXED_HUMAN_AND_MECHANISTIC
+Notes:
+Direct fasting-specific symptom linkage remains weak.
+
+12. Claim:
+GLA/PGE1-prolactin interaction is a plausible but low-confidence mechanism in this specific phenotype.
+Support:
+S011 historical context and search-opened materials.
+Strength label:
+SPECULATIVE_ADJACENT
+Notes:
+Must remain clearly marked as lower confidence.
+
+13. Claim:
+Objective postprandial sleepiness can be documented in humans, but meal macronutrient composition does not always distinguish the effect cleanly.
+Support:
+S012 direct human primary.
+Strength label:
+DIRECT_HUMAN_PRIMARY_NULL_BOUNDARY
+Notes:
+Solid meals shortened sleep latency versus water, but high-fat, high-carbohydrate, and mixed meal constituents did not significantly differ.
+
+14. Claim:
+Pure carbohydrate can increase subjective fatigue and slow reaction time compared with pure fat or mixed liquid meals, partly tracking higher Trp:LNAA ratio.
+Support:
+S013 direct human primary.
+Strength label:
+DIRECT_HUMAN_PRIMARY
+Notes:
+Important direct evidence linking carbohydrate exposure to fatigue and central arousal shifts in healthy volunteers.
+
+15. Claim:
+Postprandial sleepiness can present clinically as excessive daytime sleepiness and may be reproduced during OGTT with delayed hyperinsulinemic patterns despite normal HbA1c.
+Support:
+S014 direct full text case report.
+Strength label:
+DIRECT_HUMAN_CASE_LEVEL
+Notes:
+Useful direct-support evidence, but sample size is only two and treatments were uncontrolled.
+
+16. Claim:
+Meal timing shifts peripheral glucose circadian rhythms without significantly shifting cortisol rhythm, melatonin rhythm, subjective sleepiness, or actigraphic sleep markers.
+Support:
+S015 direct full text.
+Strength label:
+DIRECT_HUMAN_PRIMARY_NULL_BOUNDARY
+Notes:
+Strong circadian-moderator evidence and strong null evidence against simple cortisol/sleepiness explanations from meal timing alone.
+
+17. Claim:
+A 56-hour fast suppresses TSH responsiveness but does not simply increase prolactin responses, arguing against a universal fasting-prolactin-rise model.
+Support:
+S016 direct human primary.
+Strength label:
+DIRECT_HUMAN_PRIMARY_BOUNDARY
+Notes:
+Important boundary evidence for prolactin and stronger support for thyroid-axis sensitivity.
+
+18. Claim:
+Oleic-acid-derived lipid signaling can modify incretin biology in humans via GPR119-related pathways, but this is meal-response modifier evidence rather than direct sleepiness evidence.
+Support:
+S017 direct human translational study.
+Strength label:
+DIRECT_HUMAN_TRANSLATIONAL
+Notes:
+2-OG raised GLP-1/GIP relative to oleic acid and vehicle.
+
+19. Claim:
+IL-1 contributes causally to postprandial fatigue in humans after a high-fat/high-carbohydrate meal challenge.
+Support:
+S018 direct full text.
+Strength label:
+DIRECT_HUMAN_PRIMARY
+Notes:
+Anakinra reduced postprandial fatigue, especially around 1-1.5 h after the meal; exercise preload and small sample are limitations.
+
+20. Claim:
+Postprandial inflammatory responses are highly variable, and triglyceride-driven GlycA is a stronger signal than glucose-linked IL-6 for many individuals.
+Support:
+S019 direct full text.
+Strength label:
+DIRECT_HUMAN_PRIMARY
+Notes:
+Useful for inflammation domain and for limiting glucose-centric overinterpretation.
+
+21. Claim:
+Single meals differing in theoretical inflammatory potential may fail to differentially change circulating cytokines even when triglyceride responses differ.
+Support:
+S020 direct full text.
+Strength label:
+DIRECT_HUMAN_PRIMARY_NULL
+Notes:
+Important null study and caution against overclaiming acute meal-composition cytokine effects.
+
+
+13. Claim:
+Acute carbohydrate restriction alone, even without calorie restriction, can increase next-meal postprandial glucose and lower postprandial GLP-1 while increasing ketone/fat-oxidation signatures.
+Support:
+S012 direct full text.
+Strength label:
+DIRECT_HUMAN_PRIMARY
+Notes:
+Important bridge between acute low-carb adaptation and symptom-provoking refeeds.
+
+14. Claim:
+Postprandial fatigue in humans can be reduced by IL-1 antagonism after a high-fat/high-carbohydrate meal challenge.
+Support:
+S015 direct full text.
+Strength label:
+DIRECT_HUMAN_PRIMARY
+Notes:
+Strongest direct human intervention evidence for inflammatory contribution to postprandial fatigue.
+
+15. Claim:
+Delaying meals by 5 hours can delay plasma glucose rhythms without changing cortisol phase or subjective sleepiness.
+Support:
+S021 direct full text.
+Strength label:
+DIRECT_HUMAN_PRIMARY
+Notes:
+Important null/contradiction source; shows glucose rhythm changes do not automatically produce subjective sleepiness.
+
+16. Claim:
+Evening meals, especially high-carbohydrate meals, produce larger and more prolonged glucose and insulin excursions than morning meals in healthy men.
+Support:
+S022 direct full text.
+Strength label:
+DIRECT_HUMAN_PRIMARY
+Notes:
+Useful chronobiology amplifier evidence.
+
+17. Claim:
+Meal timing or high-carbohydrate content does not necessarily change postprandial cortisol time course in healthy young men.
+Support:
+S022 direct full text.
+Strength label:
+DIRECT_HUMAN_PRIMARY_NULL
+Notes:
+Helps prevent overclaiming cortisol as the universal immediate post-meal mediator.
+
+18. Claim:
+GLA-containing essential-fatty-acid supplementation did not significantly change prolactin in a randomized human trial.
+Support:
+S019 direct full text.
+Strength label:
+DIRECT_HUMAN_PRIMARY_NULL
+Notes:
+Directly weakens strong GLA-lowers-prolactin narratives.
+
+19. Claim:
+OEA/GPR119 signaling can stimulate GLP-1 and glucose-dependent insulin release, providing a plausible oleic-acid-related incretin modifier.
+Support:
+S020 full text mechanistic study.
+Strength label:
+MECHANISTIC_MIXED_HUMAN_CELL_AND_ANIMAL
+Notes:
+Relevant but indirect for symptom-level claims.
+
+20. Claim:
+Omega-3 supplementation can lower overall cortisol and IL-6 during stress while leaving some reactivity measures and other cytokines unchanged.
+Support:
+S017 direct full text.
+Strength label:
+DIRECT_HUMAN_PRIMARY_CONTEXT_SPECIFIC
+Notes:
+Supports modest HPA/inflammatory modulation but not direct meal-refeed symptom relief.

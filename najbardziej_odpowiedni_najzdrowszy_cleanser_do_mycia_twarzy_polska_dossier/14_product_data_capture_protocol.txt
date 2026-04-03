@@ -1,0 +1,37 @@
+TITLE: Product data capture protocol
+PURPOSE: Standardize how each product is recorded and verified.
+STATUS: DRAFT_IN_PROGRESS
+SCOPE: Longlist and shortlist products.
+DEPENDENCIES: 13_screening_rubric_and_weights.txt
+KEY_QUESTIONS: What exact fields and verification rules apply?
+EVIDENCE_TIER: METHOD
+SOURCE_IDS_USED: NONE
+OPEN_ISSUES: Awaiting systematic population.
+LAST_UPDATED: 2026-03-31
+
+Required fields for each product:
+- Product_ID
+- marka
+- pełna nazwa
+- typ produktu
+- kanał sprzedaży w Polsce
+- min. 2 źródła rynkowe
+- oficjalna polska strona? tak/nie
+- data snapshotu
+- pojemność
+- cena
+- cena/100 ml
+- pełne INCI
+- źródło INCI: official text / package photo / retailer text
+- INCI verified in >=2 sources? tak/nie
+- discrepancy? tak/nie + notes
+- deklarowane pH + źródło if available
+- soap-free documented vs inferred
+- parfum present?
+- EO or fragrant botanical extracts present?
+- główny układ surfaktantów
+- czerwone flagi alergologiczne
+- czerwone flagi drażniące
+- plusy barierowe
+- scenariusze użycia
+- główny status niepewności

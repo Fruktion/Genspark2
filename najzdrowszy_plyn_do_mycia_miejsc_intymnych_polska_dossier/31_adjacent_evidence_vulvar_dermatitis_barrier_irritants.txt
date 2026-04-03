@@ -1,0 +1,21 @@
+TITLE: 31 Adjacent Evidence: Vulvar Dermatitis, Barrier and Irritants
+PURPOSE: Use adjacent dermatology evidence to inform risk model
+STATUS: complete
+SCOPE: Vulvar ACD/ICD, barrier susceptibility, allergen classes
+DEPENDENCIES: 30
+KEY_QUESTIONS: Which adjacent evidence most changes expected risk?
+EVIDENCE_TIER: adjacent evidence
+SOURCE_IDS_USED: S05,S06,S07,S11-S17
+OPEN_ISSUES: Some mechanistic citations abstract-only
+LAST_UPDATED: 2026-03-31
+
+
+High-confidence adjacent findings:
+- Vulvar contact dermatitis is common in vulvar clinics.
+- Fragrances and preservatives repeatedly emerge as clinically relevant allergen classes.
+- Topical self-treatment and excessive hygiene can worsen or perpetuate disease.
+- Botanicals and spice/herb-related allergens are not niche curiosities; they recur in vulvar ACD literature.
+- Weak irritants and cumulative exposure matter, especially in already irritated skin.
+
+Implication for cleanser optimization:
+Expected harm is lowered by reducing unnecessary exposure to fragrance, botanicals, and harsh surfactants—not by chasing “feminine hygiene” branding.

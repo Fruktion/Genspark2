@@ -1,0 +1,50 @@
+TITLE: Polish market longlist
+PURPOSE: Capture a broad initial registry of candidate products available in Poland.
+STATUS: SKELETON_ONLY
+SCOPE: Minimum target 25-50 products.
+DEPENDENCIES: 11_market_definition_and_boundary_conditions.txt, 15_market_sampling_frame_and_retail_channels.txt
+KEY_QUESTIONS: Which real products populate the Polish market across channels?
+EVIDENCE_TIER: MARKET
+SOURCE_IDS_USED: M01,M02,M03
+OPEN_ISSUES: INCI/cena/source verification incomplete for most entries.
+LAST_UPDATED: 2026-03-31
+
+Provisional longlist families identified for detailed verification:
+1. CeraVe Nawilżająca Emulsja do Mycia
+2. CeraVe Oczyszczający Żel do Mycia
+3. La Roche-Posay Toleriane Dermo-Cleanser / łagodna emulsja do mycia
+4. La Roche-Posay Effaclar Gel
+5. Bioderma Sensibio Gel Moussant
+6. Bioderma Atoderm Intensive Gel Moussant
+7. Bioderma Atoderm Huile de douche (boundary case if used on face)
+8. Avène Tolérance Extremely Gentle Cleanser / lotion-emulsion family
+9. Avène Cleanance Hydra / cleansing family boundary checks
+10. Cetaphil Gentle Skin Cleanser / emulsja do mycia
+11. Cetaphil EM / PRO / Healthy Radiance cleanser variants to separate
+12. Eucerin DermatoCLEAN Hyaluron cleansing gel
+13. Eucerin pH5 cleansing family boundary checks
+14. Uriage Xémose soothing cleansing oil (boundary case)
+15. Uriage Eau Thermale Cleansing Cream/Foam families
+16. SVR Sensifine Dermo-Nettoyant
+17. SVR Topialyse Gel Lavant (boundary case)
+18. A-Derma Biology / Exomega cleansing families
+19. Emolium Dermocare / A-Topic cleansing emulsion families
+20. Pharmaceris A Puri-Sensilium pianka/żel families
+21. Pharmaceris T Sebo-Gel / anti-acne cleansing family
+22. BasicLab Micellis emulsja do mycia skóry wrażliwej
+23. BasicLab Famillias / capillus excluded unless face explicit
+24. Tołpa Dermo Face Physio / Rosacal / Sebio cleansing families
+25. Vichy Pureté Thermale Fresh cleansing gel
+26. Vichy Normaderm Phytosolution cleansing gel
+27. Ducray Ictyane / Keracnyl cleansing families
+28. Mustela Stelatopia cleansing gel/cream (face-use boundary)
+29. Aveeno Calm+Restore Nourishing Oat Cleanser if sold in Poland
+30. Mixa Anti-Redness / Anti-Reaction cleansing emulsion
+31. Curel foaming wash if current Polish market presence confirmed
+32. Nacomi / Bielenda / Basic mass-market fragrance-free candidates pending screen
+33. Say Hi Smoothie Skin emulsja do mycia twarzy
+34. Czysta / Frudia / Korean low-pH products pending evidence-based screen
+35. Ziaja Med / dermatological cleanser lines pending face-specific verification
+
+Interpretation note:
+This is a market-building register, not a quality ranking. Presence here does not imply recommendation.

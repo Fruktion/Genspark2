@@ -1,0 +1,22 @@
+TITLE: 50 Competing Hypotheses and Falsifiers
+PURPOSE: Formalize rival explanations
+STATUS: complete
+SCOPE: Competing models for what is “best”
+DEPENDENCIES: 41
+KEY_QUESTIONS: What rival hypotheses exist?
+EVIDENCE_TIER: critical synthesis
+SOURCE_IDS_USED: S01-S23
+OPEN_ISSUES: Useful for later article writing
+LAST_UPDATED: 2026-03-31
+
+
+H1: A dedicated intimate wash with acidic pH/lactic acid is best for most users.
+Falsifier: robust evidence that water-only or bland fragrance-free cleanser performs as well or better on irritation and satisfaction.
+
+H2: No dedicated intimate wash is needed for most healthy users.
+Falsifier: robust comparative evidence showing consistent superior outcomes for a bland dedicated wash without added harm.
+
+H3: The healthiest market option is simply the blandest fragrance-free formula, regardless of category label.
+Falsifier: evidence that intimate-specific formulation properties materially outperform equally bland non-intimate syndets.
+
+Current favored model: H2/H3 family, not H1.

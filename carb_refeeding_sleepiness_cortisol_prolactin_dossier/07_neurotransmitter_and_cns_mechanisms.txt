@@ -1,0 +1,61 @@
+TITLE
+Neurotransmitter and CNS mechanisms
+PURPOSE
+Map central nervous system pathways through which carbohydrate ingestion, fasting adaptation, cortisol, and prolactin-related dopaminergic changes may alter wakefulness and sleep pressure.
+STATUS
+SUBSTANTIVE_DRAFT
+SCOPE
+Orexin/hypocretin, serotonin, melatonin, dopamine, histamine, GABA/glutamate, adenosine, and CNS integration of meal responses.
+DEPENDENCIES
+04_prolactin_dopamine_axis.txt, 05_postprandial_hypoglycemia_and_somnolence.txt, 09_circadian_and_chronobiological_factors.txt.
+KEY_QUESTIONS
+Which CNS pathways most plausibly explain excessive sleepiness after carbohydrate intake in this metabolic state?
+EVIDENCE_TIER
+Moderate; strongest for orexin and tryptophan/serotonin plausibility, weaker for exact daytime symptom mapping.
+SOURCE_IDS_USED
+S003,S010,S014,S015,S020,S022
+OPEN_ISSUES
+Need more direct human daytime postprandial vigilance studies.
+LAST_UPDATED
+2026-04-03
+
+TOP-LINE ASSESSMENT
+The CNS likely converts the peripheral refeeding event into the subjective symptom. The two most defensible CNS mechanisms are: (1) glucose- and insulin-related suppression of orexin/hypocretin wakefulness systems, and (2) increased brain tryptophan availability favoring serotonin/melatonin-related sleep-promoting signaling [S010]. Reduced dopaminergic tone related to elevated prolactin is a plausible amplifier of this response [S003].
+
+1. OREXIN / HYPOCRETIN
+Orexin neurons help maintain wakefulness and integrate energy state with arousal. S010 highlights that these neurons are glucose-sensitive [S010]. Acute carbohydrate ingestion can therefore directly reduce orexin-mediated wake drive. In a low-carbohydrate-adapted person, this may feel especially dramatic because baseline wakefulness may have been maintained partly through fasting-related counter-regulatory and orexin-linked states.
+
+2. SEROTONIN AND MELATONIN
+Carbohydrate-induced shifts in Trp/LNAA ratio can favor brain tryptophan uptake and downstream serotonin/melatonin synthesis [S010]. This is one of the classic mechanisms by which high-glycemic meals can reduce sleep onset latency. It likely does not explain the entire phenotype, but it gives a direct brain-level path from carbohydrate to sleepiness.
+
+3. DOPAMINE
+S003 supports the idea that elevated prolactin and reduced dopaminergic tone can worsen appetite regulation, reward signaling, and metabolic profile [S003]. Extending that to arousal is reasonable because dopamine is a core arousal/salience transmitter. If dopaminergic tone is already low, the wake-promoting system may be easier to suppress after a meal.
+
+4. HISTAMINE
+The currently opened source set does not directly address histamine in this phenotype. Histaminergic wake systems are important biologically, but specific claims here would be too inferential. Histamine should remain a background possibility rather than a highlighted mechanism at this stage.
+
+5. GABA/GLUTAMATE
+Likewise, carbohydrate intake can indirectly change excitatory/inhibitory CNS balance, but the current opened source base is insufficient for strong mechanistic claims specific to this phenotype. This remains a speculative secondary pathway.
+
+6. ADENOSINE / SLEEP PRESSURE
+Adenosine is a general homeostatic sleep-pressure signal. The key contribution here is not that carbohydrate uniquely generates adenosine, but that fasting/stress states may conceal accumulated sleep pressure, while postprandial changes reveal it. This is a plausible synthesis-level amplifier rather than an established primary trigger in the source set.
+
+BOTTOM-LINE JUDGMENT
+Primary CNS mechanisms: orexin suppression and serotonin-related sleep promotion [S010].
+Probable amplifier: reduced dopaminergic tone associated with prolactin dysregulation [S003].
+Secondary/speculative: histamine, GABA/glutamate, adenosine interactions.
+
+
+[ROUND 2 ADDITION]
+7. HUMAN MEAL-TIMING DATA SUPPORT A STRONGER ROLE FOR CNS REWARD/AROUSAL CONTEXT THAN FOR HOMEOSTATIC HUNGER ALONE
+S022 showed that the hedonic drive to eat was higher in the evening, while the homeostatic drive was not equivalently shifted, and that evening carbohydrate-rich meals produced larger glucose and insulin excursions [S022]. This supports a broader CNS framing: the brain state into which carbohydrate is delivered changes the experiential outcome. The same meal can be processed differently depending on circadian and reward context.
+
+8. IL-1 CONTRIBUTION IMPLIES THAT CNS FATIGUE PATHWAYS ARE NOT JUST OREXIN/SEROTONIN
+S015 showed that blocking IL-1 signaling reduced postprandial fatigue [S015]. Because systemic CRP and IL-6 did not change significantly, the result is consistent with the possibility that centrally relevant cytokine signaling or local inflammatory signaling can alter vigilance even when standard peripheral markers appear quiet.
+
+9. ROUND-2 JUDGMENT UPDATE
+The CNS model now has three better-grounded layers:
+- orexin/hypocretin suppression by glucose [S010],
+- serotonin-related sleep promotion via Trp/LNAA shifts [S010],
+- cytokine-linked central fatigue signaling via IL-1 pathways [S015].
+Dopamine/prolactin remains an amplifier rather than a principal final common pathway.

@@ -1,0 +1,20 @@
+TITLE: Contradictions - measurement validity and inference limits
+PURPOSE: Document why some apparent evidence is weaker than it first appears.
+STATUS: SUBSTANTIVE_DRAFT
+SCOPE: Outcome validity concerns.
+DEPENDENCIES: 43_measurement_and_controller_limitations*.txt
+KEY_QUESTIONS: Which measures are being overinterpreted?
+EVIDENCE_TIER: METHODS_CRITIQUE
+SOURCE_IDS_USED: S1; S3; S4; S5
+OPEN_ISSUES: None beyond need for richer methods access.
+LAST_UPDATED: 2026-03-27
+
+MEASUREMENT LIMITS:
+- S1 measures social-affective speech retention, not global cognition.
+- S3 reports spectral HRV changes and heart-rate slowing in pregnancy; this is not the same as robust proof of parasympathetic activation or recovery improvement.
+- S4 social interaction is a behavioral outcome influenced by locomotion, temperature, salience, and reward; authors partially controlled these, but not all interpretive ambiguity disappears.
+- S5 5-CSRT is PFC-inferred behavior, though the same paper strengthens inference with direct hippocampal-prefrontal electrophysiology.
+
+NEXT_ACTIONS:
+- Continue targeted searches for route-matched full texts, especially human peripheral injection PFC and parasympathetic studies.
+- Maintain separation between oxytocin acetate-specified studies and generic oxytocin formulations.

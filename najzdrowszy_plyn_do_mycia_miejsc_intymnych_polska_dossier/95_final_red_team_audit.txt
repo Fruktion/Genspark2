@@ -1,0 +1,16 @@
+TITLE: 95 Final Red Team Audit
+PURPOSE: Final adversarial audit before delivery
+STATUS: complete
+SCOPE: Adversarial challenge to verdict
+DEPENDENCIES: all
+KEY_QUESTIONS: Does the current verdict overclaim?
+EVIDENCE_TIER: red-team audit
+SOURCE_IDS_USED: INFERENCE,S01-S23
+OPEN_ISSUES: Still no universal winner
+LAST_UPDATED: 2026-03-31
+
+
+Final red-team verdict:
+The dossier is strongest when it refuses to crown a single universal intimate wash.
+If a later writer turns this into “the healthiest product in Poland is X”, that would exceed the evidence.
+The highest-confidence practical takeaway remains a scenario-based shortlist led by minimal-exposure options.

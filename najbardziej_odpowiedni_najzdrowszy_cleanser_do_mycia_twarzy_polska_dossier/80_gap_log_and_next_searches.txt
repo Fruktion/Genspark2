@@ -1,0 +1,30 @@
+TITLE: Gap log and next searches
+PURPOSE: Record the highest-impact remaining gaps and the exact next searches needed.
+STATUS: UPDATED
+SCOPE: Product verification, retailer access, and evidence-depth gaps.
+DEPENDENCIES: 45b_product_verification_failures_and_unresolved_cases.txt
+LAST_UPDATED: 2026-03-31
+
+TOP GAPS
+1. Missing second-source INCI for all scored shortlist products.
+2. Missing current Polish product-specific Cetaphil Gentle Skin Cleanser page and INCI.
+3. Missing current Polish official or retailer confirmation for SVR Sensifine Dermo-Nettoyant.
+4. Missing explicit pH values for all scored products.
+5. Weak retailer/apteka product-page opens for price and size confirmation.
+6. Missing opened full texts for A06-A08.
+
+NEXT SEARCHES
+- site:gemini.pl "Nawilżająca Emulsja do Mycia" CeraVe 236 ml skład
+- site:doz.pl CeraVe Nawilżająca Emulsja do Mycia skład
+- site:drmax.pl Toleriane emulsja oczyszczająca skład
+- site:gemini.pl Bioderma Sensibio Gel Moussant skład
+- site:hebe.pl BasicLab dermatologiczna emulsja myjąca skład
+- site:rossmann.pl Mixa emulsja do mycia twarzy anti reaction skład
+- site:cetaphil.pl/cetaphil-gentle-skin-cleanser current product URL Poland
+- site:svr.com/pl sensifine dermo nettoyant skład
+- direct image / packshot confirmation if HTML pages continue to fail
+
+EVIDENCE NEXT STEPS
+- retry X01-X03 with alternate accessible mirrors or institutional full text if available
+- identify direct fragrance allergy rinse-off review full text
+- identify cleanser studies specifically in retinoid / isotretinoin-treated skin if available

@@ -1,0 +1,19 @@
+TITLE: 40 System-Level Synthesis: Market Plus Evidence
+PURPOSE: Integrate evidence and market logic globally
+STATUS: complete
+SCOPE: Whole-system decision synthesis
+DEPENDENCIES: all
+KEY_QUESTIONS: What is the most honest overall synthesis?
+EVIDENCE_TIER: system synthesis
+SOURCE_IDS_USED: S01-S23
+OPEN_ISSUES: No universal best product established
+LAST_UPDATED: 2026-03-31
+
+
+The market contains many intimate washes, but the evidence does not support treating this category as inherently superior.
+The cleanest system-level synthesis is:
+- start from the least-exposure option that still works for the user,
+- heavily penalize fragrance and unnecessary sensitizers,
+- treat pH/lactic/microbiome claims as secondary modifiers,
+- downgrade products with weak formulation verification,
+- never substitute cleanser shopping for diagnosis of symptoms.

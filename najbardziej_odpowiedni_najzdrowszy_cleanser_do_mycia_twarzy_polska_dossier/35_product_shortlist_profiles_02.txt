@@ -1,0 +1,19 @@
+TITLE: Product shortlist profiles 02
+PURPOSE: Continue detailed shortlist profiling.
+STATUS: PLACEHOLDER_PENDING_VERIFICATION
+SCOPE: Additional shortlist and scenario-specific options.
+DEPENDENCIES: 35_product_shortlist_profiles_01.txt
+KEY_QUESTIONS: Which additional products matter for acne/oily and barrier-impaired scenarios?
+EVIDENCE_TIER: PRODUCT_LEVEL_PENDING
+SOURCE_IDS_USED: NONE
+OPEN_ISSUES: Requires verified current INCI.
+LAST_UPDATED: 2026-03-31
+
+Provisional profile slots to verify next:
+- CeraVe Foaming Cleanser / Oczyszczający Żel do Mycia
+- La Roche-Posay Effaclar Gel
+- Bioderma Atoderm Intensive Gel Moussant
+- Avène Tolérance Extremely Gentle Cleanser
+- Pharmaceris A mild cleanser family
+- Eucerin DermatoCLEAN Hyaluron Cleansing Gel
+- Mixa Anti-Redness/Anti-Reaction cleansing emulsion
