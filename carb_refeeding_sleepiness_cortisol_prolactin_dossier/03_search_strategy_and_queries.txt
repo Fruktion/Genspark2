@@ -1,0 +1,418 @@
+TITLE
+Search strategy and queries
+PURPOSE
+Log exact searches, opened results, why they were selected, and what changed in the dossier because of them.
+STATUS
+SUBSTANTIVE_DRAFT
+SCOPE
+Discovery and verification searches completed so far.
+DEPENDENCIES
+04_source_register.txt, 05_source_access_and_verification_log.txt.
+KEY_QUESTIONS
+Which queries were used, which sources were actually opened, and what evidentiary gaps remain?
+EVIDENCE_TIER
+Search-process documentation.
+SOURCE_IDS_USED
+S001,S002,S003,S004,S005,S006,S007,S008,S009,S010,S011
+OPEN_ISSUES
+Second-pass evidence expansion completed for required search domains; additional full-text upgrades still desirable for thyroid and prolactin endocrine papers.
+LAST_UPDATED
+2026-04-03
+
+SEARCH LOG
+1. Query:
+PubMed low carbohydrate diet muscle physiological insulin resistance GLUT4 refeeding cortisol prolactin fasting reactive hypoglycemia postprandial somnolence EPA DHA GLA oleic acid glucose metabolism review human studies 2026
+Results opened:
+- PMC article on ketogenic diet and glucose tolerance in healthy adults -> S001.
+Why selected:
+- Directly relevant human RCT with 12-week intervention and mechanistic tissue data.
+What changed:
+- Elevated confidence that low-carb adaptation can reduce glucose tolerance and alter muscle GLUT4/INSR/AMPK while sustained ketosis continues.
+Unresolved:
+- Need direct refeeding-duration studies beyond 12-week mixed-meal testing.
+
+2. Query:
+PubMed ketogenic diet refeeding glucose tolerance human study
+Results opened:
+- S001 (healthy adults, 12 weeks)
+- S002 (weight-maintaining T2D ketogenic trial, 10 days)
+Why selected:
+- Gives direct human evidence on oral or mixed-meal glucose handling under ketogenic conditions.
+What changed:
+- Reinforced that weight loss is a major confounder; ketones alone do not guarantee improved glucose tolerance.
+Unresolved:
+- Need healthy humans undergoing abrupt carbohydrate reintroduction protocols.
+
+3. Query:
+PubMed fasting prolactin humans caloric restriction prolactin dopamine study
+Results opened:
+- S003 review on prolactin metabolism
+- S007 abstract on fasting-induced PRL responsiveness
+Why selected:
+- Needed direct and adjacent evidence for prolactin-dopamine-arousal claims.
+What changed:
+- Lowered confidence that fasting universally raises prolactin in a simple way; the literature suggests altered dopaminergic control and context-dependent responses rather than one-direction baseline elevation.
+Unresolved:
+- Need more direct fasting serial-prolactin human measurements.
+
+4. Query:
+PubMed postprandial somnolence carbohydrate orexin serotonin reactive hypoglycemia human study
+Results opened:
+- S004 postprandial reactive hypoglycemia review
+- S010 sleep/diet/glucose review
+Why selected:
+- Covers both reactive hypoglycemia and CNS sleepiness pathways.
+What changed:
+- Established that postprandial sleepiness cannot be reduced to only “reactive hypoglycemia”; orexin and tryptophan pathways matter.
+Unresolved:
+- Need direct studies correlating sleepiness ratings with glycemic trajectory in low-carb-adapted individuals.
+
+5. Query:
+PubMed gamma linolenic acid prostaglandin E1 prolactin review
+Results opened:
+- S011 historical/hypothesis-oriented GLA/PGE1 material via search outputs and related review-level evidence.
+Why selected:
+- Required by prompt; needed to assess Horrobin-style hypothesis.
+What changed:
+- Increased caution: many GLA-prolactin claims are historical, indirect, or contradictory.
+Unresolved:
+- Need stronger modern human endocrine studies.
+
+6. Query:
+PubMed EPA DHA insulin sensitivity cortisol inflammation human trial review
+Results opened:
+- S005 postprandial inflammation review
+- S011 omega-3 cortisol RCT abstract
+Why selected:
+- Needed inflammatory and HPA modulation evidence.
+What changed:
+- Support for EPA/DHA reducing inflammatory signaling is stronger than support for large direct cortisol-lowering effects in general populations.
+Unresolved:
+- Need more dose-specific EPA/DHA HPA-axis trials.
+
+7. Query:
+PubMed low T3 syndrome low carbohydrate diet human trial review
+Results opened:
+- S008 eucaloric carbohydrate deprivation trial
+- S009 low-carb/high-fat vs high-protein thyroid trial
+Why selected:
+- Needed thyroid adaptation mechanisms.
+What changed:
+- Elevated confidence that carbohydrate deprivation alone can lower T3, sometimes raise rT3, without requiring classic starvation.
+Unresolved:
+- Need data linking low-T3 adaptation directly to postprandial sleepiness after refeeding.
+
+8. Query:
+PubMed fasting cortisol carbohydrate restriction human study circadian meal timing cortisol
+Results opened:
+- S006 fasting review and additional fasting/circadian search results.
+Why selected:
+- Needed fasting/HPA axis evidence.
+What changed:
+- Elevated confidence that fasting can raise cortisol level/frequency and shift timing, especially with multi-day fasting.
+Unresolved:
+- Need more direct carbohydrate refeeding/cortisol dynamic studies.
+
+9. Query:
+PubMed reactive hypoglycemia first phase insulin diminished early insulin release human study
+Results opened:
+- S004 plus older beta-cell/first-phase insulin literature identified from references.
+Why selected:
+- Needed mechanistic explanation of late insulin overshoot.
+What changed:
+- Strengthened the delayed/second-phase-excess framework but also highlighted diagnostic controversy in idiopathic RH.
+Unresolved:
+- Need better mixed-meal rather than OGTT analogs.
+
+10. Query:
+PubMed EPA DHA cortisol stress response human randomized trial
+Results opened:
+- S011 fish-oil/cortisol RCT abstract.
+Why selected:
+- Needed some direct HPA evidence for omega-3s.
+What changed:
+- Supports possible modest basal cortisol reduction in at-risk populations; does not justify strong universal claims.
+Unresolved:
+- Generalizability limited.
+
+ROUND 2 MANDATORY EVIDENCE-EXPANSION PASSES
+11. Pass label:
+REFEEDING
+Query:
+ketogenic diet glucose tolerance GLUT4 human trial PMC11384946; ketogenic diet no change insulin sensitivity humans PMC11492932
+Results opened:
+- S001 ketogenic RCT full text (boundary reread for null findings)
+- S002 weight-maintaining ketogenic trial full text (null/boundary)
+What changed:
+- Added explicit boundary evidence that several early ketogenic perturbations attenuate by week 12 and that weight-maintaining ketogenic feeding does not uniformly worsen clamp-measured insulin sensitivity.
+Null/negative findings:
+- Fasting glucose, apoB, CRP, and glycerol changes in S001 attenuated by week 12; S002 showed no improvement in clamp insulin sensitivity.
+
+12. Pass label:
+POSTPRANDIAL SOMNOLENCE
+Query:
+meal composition postprandial sleepiness 9284488 9426358; postprandial somnolence reactive hypoglycemia young adults PMC11651837
+Results opened:
+- S012 PMID 9284488 abstract/full PubMed page
+- S013 PMID 9426358 abstract/full PubMed page
+- S014 PMC11651837 full text case report
+What changed:
+- Added direct human evidence that subjective/objective post-meal sleepiness can occur without strong macronutrient differentiation in one design, while pure carbohydrate can increase subjective fatigue and slower reaction time in another.
+- Added case-level evidence that OGTT-reproduced sleepiness can track delayed hyperinsulinemia and improve with antidiabetic medication.
+Null/negative findings:
+- S012 found no significant differences in sleep latency among high-fat, high-carbohydrate, or mixed meal constituents.
+
+13. Pass label:
+HPA-CORTISOL
+Query:
+circadian meal timing cortisol human trial PMC; fasting cortisol carbohydrate restriction meal timing human trial PMC
+Results opened:
+- S015 PMC5483233 full text
+- S006 fasting/cortisol review retained as contextual support
+What changed:
+- Added primary human evidence that delaying meals shifts glucose circadian rhythm without shifting cortisol rhythm or subjective sleepiness, sharpening the distinction between peripheral metabolic clocks and SCN/HPA markers.
+Null/negative findings:
+- S015 found no significant effect of meal timing on cortisol phase, melatonin phase, subjective sleepiness, insulin rhythm, or triglyceride rhythm.
+
+14. Pass label:
+PROLACTIN
+Query:
+fasting prolactin dopamine human 1899123 6404923
+Results opened:
+- S007 fasting-dopaminergic-control abstract (retained)
+- S016 PMID 6404923 abstract/full PubMed page
+What changed:
+- Added stronger boundary evidence that 56-hour fasting suppresses TSH responsiveness but leaves TRH- and cimetidine-induced prolactin responses unaffected in healthy volunteers.
+Null/negative findings:
+- S016 argues against a simple universal fasting-induced prolactin rise.
+
+15. Pass label:
+GLA
+Query:
+gamma linolenic acid prolactin PGE1 humans PMID
+Results opened:
+- Search-opened historical records only; no decisive modern human endocrine full text located.
+What changed:
+- Confidence downgraded further; GLA remains a speculative modifier rather than supported driver.
+Null/negative findings:
+- Negative by omission: no strong modern human source demonstrating GLA-driven prolactin elevation or normalization in the target phenotype.
+
+16. Pass label:
+OLEIC ACID/OEA
+Query:
+oleoylethanolamide GPR119 GLP-1 humans 21778222
+Results opened:
+- S017 PMID 21778222 abstract/full PubMed page
+What changed:
+- Added direct human evidence that jejunal 2-oleoyl glycerol increases GLP-1 and GIP versus oleic acid and vehicle, supporting oleic-acid-derived lipid signaling as a meal-response modifier rather than a sleepiness-specific cause.
+Null/negative findings:
+- Oleic acid control did not reproduce the incretin effect seen with 2-OG.
+
+17. Pass label:
+THYROID
+Query:
+low carbohydrate diet T3 reverse T3 healthy men 11167929 full text; fasting prolactin dopamine human 6404923
+Results opened:
+- S008 thyroid/carbohydrate deprivation abstract revisited
+- S016 fasting/TRH-PRL-TSH abstract (thyroid boundary relevance)
+What changed:
+- Strengthened claim that fasting/carbohydrate deprivation affects TSH/T3 axes more consistently than prolactin, and that thyroid adaptation is better supported than prolactin adaptation in the current dossier.
+Null/negative findings:
+- S016 showed fasting did not restore TSH responsiveness through D2 blockade and did not increase PRL responses broadly.
+
+18. Pass label:
+INFLAMMATORY
+Query:
+postprandial inflammation cytokines meal humans fatigue PMC
+Results opened:
+- S018 PMC6001918 full text
+- S019 PMC8408875 full text/summary
+- S020 PMC9003235 full text/summary
+What changed:
+- Added direct human evidence that IL-1 antagonism can reduce postprandial fatigue after a high-fat/high-carbohydrate meal, but also large-cohort and pilot data showing high variability and weak meal-composition discrimination for classical cytokines.
+Null/negative findings:
+- S020 found no differential cytokine response between anti-inflammatory, neutral, and pro-inflammatory test meals despite triglyceride differences.
+- S019 found IL-6 did not correlate with postprandial glucose or triglyceride excursions.
+
+19. Pass label:
+NULL-STUDIES
+Query:
+ketogenic diet no change insulin sensitivity humans PMC11492932; Meals That Differ in Nutrient Composition and Inflammatory Potential Do Not Differentially Impact Postprandial Circulating Cytokines; meal timing subjective sleepiness no effect PMC5483233
+Results opened:
+- S002 full text
+- S020 full text
+- S015 full text
+What changed:
+- Added explicit null-study cluster covering ketogenic, inflammatory, and circadian domains.
+Null/negative findings:
+- No clamp improvement with weight-maintaining ketogenic feeding [S002].
+- No differential postprandial cytokine effect of meal inflammatory potential [S020].
+- No meal-timing effect on subjective sleepiness or cortisol rhythm [S015].
+
+20. Pass label:
+CIRCADIAN
+Query:
+circadian meal timing cortisol human trial PMC5483233
+Results opened:
+- S015 PMC5483233 full text
+What changed:
+- Added direct evidence that meal timing is a peripheral circadian moderator for glucose/PER2 but not a universal driver of cortisol or sleepiness changes.
+Null/negative findings:
+- Subjective sleepiness and actigraphic sleep markers unchanged despite altered glucose rhythm.
+
+
+ROUND 2 MANDATORY PASSES
+11. PASS NAME:
+Refeeding and glucose tolerance
+Queries run:
+- ketogenic diet refeeding glucose tolerance GLUT4 PDK4 human trial PMC11384946
+- low carbohydrate glucose tolerance refeeding human PMC11926029
+- ketogenic diet no change glucose tolerance human study full text null
+Opened full texts:
+- S012 PMC11926029 acute 36 h crossover study of low-carbohydrate energy-balanced and energy-restricted diets.
+- S013 PMC11743357 meta-analysis of overweight/obese T2D low-carbohydrate RCTs for contradiction and boundary-condition analysis.
+Why selected:
+- Needed direct human evidence on acute carbohydrate restriction effects plus a larger contradictory literature base showing settings where low-carb improves glycemia.
+What changed:
+- Added evidence that even one day of carbohydrate restriction can raise next-meal postprandial glucose and lower GLP-1 without changing insulin.
+- Added contradiction that many T2D/obese low-carb trials improve HbA1c/FPG, showing population and weight-loss dependence.
+Null/negative findings logged:
+- S013: LDL and total cholesterol often unchanged; long-term superiority attenuates.
+
+12. PASS NAME:
+Post-prandial somnolence mechanisms
+Queries run:
+- postprandial sleepiness carbohydrate human study PubMed 9145937
+- postprandial fatigue IL-1 meal humans PMC6001918
+- workplace sleepiness postprandial hypoglycemia blood glucose review PMC12566848
+Opened full texts:
+- S014 PMC12566848 scoping review on food, blood glucose, and work sleepiness.
+- S015 PMC6001918 IL-1 antagonism study of postprandial fatigue in lean and obese men.
+Why selected:
+- Needed stronger human evidence directly linking meals to fatigue/sleepiness and at least one mechanistic interventional study.
+What changed:
+- Added evidence that postprandial fatigue can be reduced by IL-1 antagonism.
+- Added null findings where meal timing shifted glucose rhythm without shifting subjective sleepiness.
+Null/negative findings logged:
+- S014 includes multiple studies where activity reduced fatigue without materially changing glucose.
+
+13. PASS NAME:
+HPA-cortisol-carbohydrate interaction
+Queries run:
+- meal timing cortisol circadian human carbohydrate study PMC
+- effects of food and nutrients on daily cortisol secretion PMC12653711
+- omega-3 cortisol stress reactivity PMC8510994
+Opened full texts:
+- S016 PMC12653711 chrononutrition/cortisol review.
+- S017 PMC8510994 human omega-3 RCT on cortisol/IL-6 stress responses.
+Why selected:
+- Needed direct human trial evidence and broader review-level synthesis on meal timing, fasting, and cortisol.
+What changed:
+- Added evidence that meals raise cortisol transiently, breakfast skipping reduces morning cortisol and shifts later exposure, and high-glycemic diets may increase cortisol.
+- Added a null finding that omega-3 altered total cortisol exposure but not cortisol reactivity AUCi.
+
+14. PASS NAME:
+Prolactin and fasting
+Queries run:
+- fasting prolactin dopamine metoclopramide healthy men 56 hour fast PMID 1899123
+- J Clin Endocrinol Metab 1983 fasting thyrotropin prolactin dopamine PMID 6404923
+- fasting prolactin human full text dopamine prolactin secretion study
+Opened results/read:
+- Re-reviewed S007 abstract.
+- Upgraded via direct source details from PMID 6404923 search output for fasting/TRH/cimetidine study -> S018.
+Why selected:
+- Needed to upgrade abstract-only fasting prolactin evidence and clarify whether fasting truly raises PRL.
+What changed:
+- Added contradictory primary evidence that prolonged fasting blunts TSH responses but leaves stimulated prolactin responses largely unchanged, weakening simple “fasting raises prolactin” narratives.
+Null/negative findings logged:
+- S018: prolactin responses were not globally increased by fasting.
+
+15. PASS NAME:
+GLA endocrine effects
+Queries run:
+- gamma linolenic acid prolactin endocrine human full text study
+- PMC3033240 essential fatty acids prolactin total cholesterol
+Opened full texts:
+- S019 PMC3033240 randomized controlled PMS trial with GLA-containing essential fatty acid preparation.
+Why selected:
+- Required direct human evidence rather than historical hypothesis-only material.
+What changed:
+- Added decisive null finding: GLA-containing intervention improved symptoms but did not lower prolactin or total cholesterol.
+Null/negative findings logged:
+- S019: no significant prolactin change after 6 months.
+
+16. PASS NAME:
+Oleic acid and OEA
+Queries run:
+- oleoylethanolamide GPR119 GLP-1 human 2-oleoyl glycerol study PMID 21778222
+- GPR119 is essential for OEA induced GLP-1 PMC2671052
+Opened full texts:
+- S020 PMC2671052 OEA/GPR119/GLP-1 mechanistic paper.
+Why selected:
+- Needed direct mechanistic source for oleic-acid-derived signaling relevance.
+What changed:
+- Added evidence that OEA stimulates GLP-1 through GPR119 and that insulin effects are glucose-dependent, supporting relevance to mixed-meal satiety/incretin physiology while remaining indirect for sleepiness.
+Null/negative findings logged:
+- S020: intravenous OEA did not increase GLP-1 or insulin in vivo; insulin rise required hyperglycemia.
+
+17. PASS NAME:
+Thyroid adaptation upgrades
+Queries run:
+- isocaloric carbohydrate deprivation low T3 syndrome healthy men PMID 11167929 full text
+- low carbohydrate diets fat or protein thyroid insulin glucose triglycerides healthy young adults PMID 3900181
+Opened results/read:
+- Re-reviewed S008 and S009 with fuller details from source outputs.
+Why selected:
+- Needed to upgrade thyroid-adaptation claims beyond minimal abstracts.
+What changed:
+- Added exact T3/rT3 details and emphasized that carb deprivation alone can lower T3 while TSH remains unchanged.
+Null/negative findings logged:
+- S008/S009: TSH often unchanged despite marked T3 decline.
+
+18. PASS NAME:
+Inflammatory and immune mechanisms
+Queries run:
+- postprandial inflammation meal cytokines human full text study IL-6 TNF LPS
+- the role of IL-1 in postprandial fatigue PMC6001918
+Opened full texts:
+- S015 PMC6001918 IL-1/postprandial fatigue trial.
+- Re-used S005 with targeted comparison.
+Why selected:
+- Needed direct fatigue-linked inflammatory intervention evidence.
+What changed:
+- Elevated confidence that IL-1-family signaling contributes to postprandial fatigue, especially as an amplifier rather than sole cause.
+Null/negative findings logged:
+- S015: CRP and IL-6 did not significantly change despite fatigue reduction, limiting simple peripheral-marker narratives.
+
+19. PASS NAME:
+Null and negative studies
+Queries run:
+- ketogenic diet no change glucose tolerance human study full text null
+- meal timing glucose shift but no sleepiness study
+- omega-3 cortisol no change reactivity
+Opened full texts:
+- S013 low-carb meta-analysis for long-term attenuation and neutral LDL/TC.
+- S021 PMC5483233 meal timing circadian study.
+- S017 PMC8510994 omega-3 stress trial.
+Why selected:
+- Required explicit null studies.
+What changed:
+- Logged no effect of meal timing on cortisol phase or subjective sleepiness despite strong glucose-rhythm effects.
+- Logged no significant omega-3 effect on cortisol reactivity AUCi, TNF-alpha, or IL-12.
+- Logged low-carb long-term attenuation and neutral LDL/TC.
+
+20. PASS NAME:
+Circadian timing
+Queries run:
+- meal timing regulates human circadian system PMC5483233
+- meal timing and macronutrient composition modulate human metabolism reward drive PMC8839823
+Opened full texts:
+- S021 PMC5483233 meal timing regulates human circadian system.
+- S022 PMC8839823 meal timing/macronutrient study.
+Why selected:
+- Needed direct primary evidence on time-of-day, glucose, insulin, cortisol, and subjective appetite/reward.
+What changed:
+- Added evidence that delayed meals shift glucose rhythms without shifting cortisol or sleepiness, and that evening high-carbohydrate meals produce larger glucose and insulin excursions with unchanged postprandial cortisol.
+Null/negative findings logged:
+- S021: no meal-timing effect on cortisol or subjective sleepiness.
+- S022: no postprandial cortisol effect of mealtime or carbohydrate content.

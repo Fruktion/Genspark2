@@ -1,0 +1,128 @@
+TITLE
+Metabolic adaptation mechanisms
+PURPOSE
+Summarize the strongest evidence that prolonged carbohydrate restriction plus caloric deficit can create a refeeding-vulnerable metabolic state characterized by impaired carbohydrate tolerance, altered insulin signaling, and thyroid adaptation.
+STATUS
+SUBSTANTIVE_DRAFT
+SCOPE
+Ketosis and fat adaptation, muscle glucose handling, insulin signaling, mitochondrial fuel selection, thyroid adaptation, and persistence/attenuation of changes during refeeding.
+DEPENDENCIES
+04_source_register.txt, 04b_claim_to_source_traceability_matrix.txt, 10_synthesis_of_mechanisms.txt.
+KEY_QUESTIONS
+How does complete carbohydrate restriction alter tissue glucose handling? How long do these changes last? Which findings are primary in humans versus extrapolated? What could explain exaggerated sleepiness when carbohydrates are reintroduced?
+EVIDENCE_TIER
+Mixed, anchored by direct human RCTs and supplemented by abstract-level thyroid studies and reviews.
+SOURCE_IDS_USED
+S001,S002,S008,S009,S010,S012,S013
+OPEN_ISSUES
+Direct human studies of symptom-linked carbohydrate refeeding after prolonged ketogenic dieting remain sparse; some thyroid data are abstract-only.
+LAST_UPDATED
+2026-04-03
+
+TOP-LINE ASSESSMENT
+The best-supported primary mechanism in the whole dossier is a low-carbohydrate-adaptation state that can make acute carbohydrate reintroduction physiologically “mismatched” to recent tissue metabolism. In humans, weeks of ketogenic restriction can lower fasting glycemia yet simultaneously worsen postprandial glucose tolerance and alter skeletal-muscle proteins that normally support insulin-stimulated glucose uptake and glucose oxidation [S001]. This creates a coherent route by which carbohydrate exposure after prolonged restriction may produce larger glycemic excursions, stronger insulin/incretin responses, and greater risk of downstream somnolence than would occur in a metabolically flexible mixed-diet state.
+
+1. KETOSIS AND FAT ADAPTATION PHYSIOLOGY
+Complete or near-complete carbohydrate restriction shifts whole-body substrate use toward fat oxidation and ketone utilization. In the 12-week human RCT by Hengist et al., urinary acetoacetate remained elevated and respiratory exchange ratio fell in fasting, postprandial, and exercise conditions throughout the low-carbohydrate intervention, confirming durable substrate adaptation rather than merely transient diet noncompliance [S001]. In the 10-day weight-maintaining T2D trial, indirect calorimetry similarly showed decreased carbohydrate oxidation and increased fat oxidation with ketogenic feeding [S002].
+
+Mechanistically, this state increases reliance on hepatic ketogenesis and favors conservation of limited carbohydrate for tissues with obligatory or preferred glucose demand. That adaptation can be beneficial for sustaining function during carbohydrate scarcity, but it does not imply preserved tolerance for abrupt carbohydrate reintroduction. The available human data instead suggest the opposite: fasting glycemia may fall while mixed-meal glucose handling worsens [S001,S002].
+
+2. GLUT4 DOWNREGULATION AND PERIPHERAL GLUCOSE DISPOSAL
+The most important human tissue-level evidence comes from S001. In that 12-week randomized trial, ketogenic carbohydrate restriction reduced skeletal-muscle GLUT4 protein by week 12 and also reduced insulin receptor (INSR) and AMPK content [S001]. GLUT4 is the principal insulin-responsive glucose transporter in skeletal muscle, the major sink for postprandial glucose disposal. Lower muscle GLUT4 content provides a direct mechanistic basis for reduced insulin-stimulated glucose uptake after carbohydrate refeeding. Reduced INSR implies less proximal insulin signaling capacity, while reduced AMPK suggests altered nutrient-sensing and metabolic flexibility [S001].
+
+This is highly relevant to the reported symptom because slower or less-efficient peripheral glucose disposal can increase the amplitude or duration of postprandial glycemic excursions after carbohydrate intake. Even if frank hypoglycemia never occurs, a larger initial excursion followed by a stronger insulin response and then a rapid decline in glucose may increase subjective “crash” phenomena and sleepiness.
+
+3. PDK4 INCREASE AND FUEL SWITCHING AWAY FROM CARBOHYDRATE OXIDATION
+S001 found an increase in skeletal-muscle pyruvate dehydrogenase kinase 4 (PDK4) at week 4 of ketogenic restriction [S001]. PDK4 phosphorylates and inhibits pyruvate dehydrogenase, thereby restraining entry of glycolytically derived pyruvate into mitochondrial oxidation. In plain terms: it biases muscle away from burning carbohydrate-derived carbon and toward fat-based fuel use.
+
+This matters because postprandial glucose handling is not only about getting glucose into the cell but also about how readily the cell can oxidize or store it. A muscle cell primed toward fat oxidation and away from pyruvate oxidation is less ready to dispose of a sudden carbohydrate load smoothly. The same study found lower postprandial lactate response after ketogenic adaptation [S001], supporting reduced glycolytic/carbohydrate flux after meal challenge. That finding is consistent with reduced peripheral carbohydrate handling and can help explain why acute carbohydrate intake feels physiologically different in the adapted state.
+
+4. “PHYSIOLOGICAL INSULIN RESISTANCE” VS PATHOLOGICAL INSULIN RESISTANCE
+A crucial nuance: low-carbohydrate adaptation is sometimes described as “physiological insulin resistance,” meaning reduced glucose disposal that may be adaptive to carbohydrate scarcity rather than identical to classic pathological insulin resistance. The human evidence here supports a real reduction in glucose tolerance after ketogenic adaptation [S001], but not necessarily all of the inflammatory/lipotoxic phenotype seen in chronic metabolic disease.
+
+This distinction matters because the observed state can still plausibly cause symptoms even if it is partly adaptive. From the perspective of the reported phenotype, what matters is not whether the state is “good” or “bad” globally, but whether it makes carbohydrate reintroduction produce exaggerated glycemic and neuroendocrine responses. S001 strongly supports that possibility.
+
+5. IRS PHOSPHORYLATION / INSULIN SIGNALING CHANGES
+The current source set does not include a decisive full-text human study directly quantifying IRS-1/IRS-2 phosphorylation after prolonged ketogenic adaptation in this exact scenario. Therefore, claims about IRS phosphorylation must remain inferential. However, reduced skeletal-muscle insulin receptor content and reduced GLUT4/AMPK after low-carbohydrate adaptation [S001] point to a broader shift in insulin signaling capacity. In addition, S002 showed that 10 days of weight-maintaining ketogenic diet in T2D did not improve clamp-measured muscle, hepatic, or adipose insulin sensitivity, while glucose-stimulated insulin secretion increased [S002].
+
+Reasonable inference: some combination of proximal signaling change, altered transporter abundance, altered PDH regulation, and altered substrate competition likely underlies the worsened mixed-meal response. But because opened evidence on IRS phosphorylation per se is insufficient, this dossier treats detailed IRS-serine/tyrosine-phosphorylation language as probable mechanistic extrapolation, not established fact in this exact phenotype.
+
+6. MITOCHONDRIAL FUEL SWITCHING AND METABOLIC INFLEXIBILITY
+S001 and S002 together support the existence of an adapted fuel-oxidation state favoring lipids/ketones over carbohydrate [S001,S002]. The symptom question is whether that state can create metabolic inflexibility when carbohydrate is suddenly consumed. The answer is probably yes. Reduced ability to switch from fat-based to carbohydrate-based oxidation could produce:
+- larger postprandial glucose excursions,
+- stronger compensatory insulin secretion,
+- altered lactate production,
+- altered autonomic and CNS sensing of available fuel,
+- stronger counter-regulatory or fatigue-like responses if glucose falls rapidly after the peak.
+
+This mechanism is especially persuasive because it links the upstream fasting/ketotic state to the downstream meal-triggered symptom without needing to assume true biochemical hypoglycemia every time.
+
+7. EVIDENCE ON PERSISTENCE VS ATTENUATION OF ADAPTATION
+The time course is important. In S001, some ketogenic-diet effects were strongest at week 4 and attenuated by week 12, while others persisted [S001].
+- Fasting glucose was lower at week 4 but not significantly different by week 12.
+- Postprandial glucose response remained elevated at week 4 and week 12, although peak-glucose significance weakened by week 12.
+- Postprandial lactate suppression persisted.
+- Muscle PDK4 elevation was evident early (week 4), whereas reduced GLUT4/INSR/AMPK was detected later (week 12).
+
+Interpretation: the phenotype is not static. Early restriction may combine acute energy deficit, strong lipolysis, and rapid fuel-switching; later restriction may partially normalize some systemic metrics while leaving tissue-level adaptations that still impair smooth carbohydrate handling. For the user’s phenotype, this means excessive sleepiness could persist even if some laboratory markers look “adapted” over time.
+
+8. LOW-T3 / THYROID ADAPTATION
+The thyroid-adaptation literature, while weaker in the currently opened set, still matters. In a randomized human study, eucaloric carbohydrate deprivation lowered T3 and raised reverse-T3-like indices despite no change in TSH, consistent with a low-T3 adaptation driven by carbohydrate scarcity rather than only calorie deprivation [S008]. Another older trial found larger T3 decline on the lower-carbohydrate, higher-fat diet than on the higher-protein comparison diet [S009].
+
+This does not prove that low T3 causes postprandial sleepiness directly. But it plausibly lowers thermogenesis, subjective energy, and metabolic resilience, especially during caloric deficit. In such a state, carbohydrate ingestion may expose the mismatch between central “availability” cues and slower peripheral use, making sedation/crash symptoms more prominent. Confidence here is moderate-low because current support is abstract-only.
+
+9. WHAT REFEEDING LIKELY LOOKS LIKE IN THIS STATE
+Based on S001 and S002, the most plausible refeeding sequence is:
+1. Carbohydrate enters the system after a period of tissue adaptation away from carbohydrate oxidation.
+2. Blood glucose rises more than usual because muscle glucose uptake/oxidation capacity is temporarily less favorable.
+3. Pancreatic insulin secretion may be amplified or prolonged relative to the adapted tissues’ ability to dispose of glucose smoothly [S002; S004 adjacent].
+4. CNS/arousal systems sense changing glucose and insulin conditions, while orexin and serotonin-related pathways shift in a more sleep-promoting direction [cross-link to S010].
+5. Subjective sleepiness occurs, with or without a later measurable reactive glucose nadir.
+
+10. RED TEAM / HOW THIS COULD BE WRONG
+- The reduced glucose tolerance in ketogenic adaptation might not be severe enough in every individual to cause symptoms. True.
+- Sleepiness may require concurrent factors—sleep debt, large meal size, circadian timing, or high glycemic index. Also true.
+- Some low-carb-adapted individuals tolerate moderate carbohydrate reintroduction without symptoms. This means adaptation alone is not sufficient in everyone.
+- The exact user protocol includes high protein and special fats; those could modify the response in ways not captured by S001/S002.
+
+[ROUND 2 ADDITION]
+11. NULLS AND BOUNDARY CONDITIONS INSIDE THE KETOGENIC LITERATURE
+Round-2 reinspection sharpened an important point: even the strongest ketogenic-adaptation study in hand does not support a simplistic "everything worsens continuously" narrative. In S001, several early changes weakened or disappeared by week 12 despite sustained ketosis, including fasting glucose lowering, apoB elevation, CRP elevation, and fasting glycerol differences [S001]. S001 also reported no meaningful change in skeletal-muscle glycogen at week 4 or week 12, and no meaningful change in resting metabolic rate or physical activity expenditure [S001].
+
+This matters for the dossier because it means the refeeding-vulnerability hypothesis must not be framed as generalized metabolic collapse. A more accurate statement is that selected tissue-level carbohydrate-handling changes can persist even while several systemic markers partially normalize.
+
+[ROUND 2 ADDITION]
+12. DIRECT NULL / BOUNDARY HUMAN EVIDENCE FROM WEIGHT-MAINTAINING KETOGENIC FEEDING
+S002 remains especially important as a boundary-condition study. In overweight/obese people with T2D, a 10-day weight-maintaining ketogenic diet did not improve clamp-measured muscle, hepatic, or adipose insulin sensitivity, even though insulin/C-peptide secretion during OGTT increased [S002]. Thus, ketogenic feeding without weight loss is not uniformly metabolically beneficial, but neither does S002 prove dramatic global insulin resistance worsening in every tissue [S002].
+
+The contradiction with popular narratives is useful: weight loss and disease context can dominate many low-carb outcomes. For the target phenotype, the most relevant takeaway is narrower—carbohydrate reintroduction may be handled awkwardly even when fasting-state metrics do not look uniformly worse.
+
+BOTTOM-LINE JUDGMENT
+Established:
+- Prolonged ketogenic carbohydrate restriction in humans can worsen mixed-meal glucose tolerance and alter skeletal-muscle proteins involved in insulin-stimulated glucose uptake and carbohydrate oxidation [S001].
+Probable:
+- This creates a form of refeeding vulnerability or metabolic inflexibility that can be a primary driver of excessive post-carbohydrate sleepiness.
+Possible but less certain:
+- Low-T3 adaptation and more granular insulin-signaling alterations further amplify the symptom burden [S008,S009].
+Boundary reminder:
+- Not every metabolic marker worsens continuously; several changes attenuate or normalize over time, and some null studies show no clamp-measured improvement rather than universal harm [S001,S002].
+
+
+[ROUND 2 ADDITION]
+11. ACUTE CARBOHYDRATE RESTRICTION CAN REPRODUCE A REFEED-VULNERABLE STATE EVEN BEFORE LONGER-TERM ADAPTATION
+S012 is important because it shows that only 36 hours of carbohydrate restriction (50 g/day), even without energy restriction, can increase next-morning postprandial glucose relative to a normal-carbohydrate energy-balanced control while simultaneously increasing ketone markers and lowering respiratory quotient [S012]. The low-carbohydrate energy-balanced arm showed significantly higher postprandial glucose and both low-carbohydrate arms showed lower postprandial GLP-1 despite no significant change in insulin responses [S012]. This means a refeed-vulnerable state does not require months of dieting to emerge; even acute carbohydrate withdrawal can bias the next meal toward higher glucose exposure.
+
+12. WHY S012 MATTERS BESIDES S001
+S001 proves tissue-level adaptation after weeks of ketogenic dieting. S012 shows that a smaller-scale version of this mismatch can appear after just one day of carbohydrate restriction. Together they support a spectrum model:
+- acute low-carb restriction -> transient glucose-sparing, higher next-meal glucose, lower GLP-1 [S012]
+- prolonged restriction -> tissue-level remodeling with reduced GLUT4/INSR/AMPK and worsened mixed-meal tolerance [S001]
+This strengthens the dossier because the user’s symptom could emerge both in established adaptation and in repeated short low-carb cycles.
+
+13. POPULATION-SPECIFIC CONTRADICTION: LOW-CARB DIETS OFTEN IMPROVE GLYCEMIA IN OVERWEIGHT/OBESE T2D
+S013 adds an important corrective. Across 17 RCTs in overweight/obese patients with T2D, low-carbohydrate diets reduced HbA1c and fasting glucose, lowered triglycerides, raised HDL-C, and reduced body weight and waist circumference [S013]. This appears to conflict with the “low-carb worsens glucose tolerance” story. The resolution is that these are different questions in different populations. In insulin-resistant or diabetic cohorts, reducing habitual carbohydrate burden and promoting weight loss can improve average glycemic control even if acute carbohydrate challenge tolerance is not improved. Therefore, chronic glucose metrics and acute refeed tolerance must be kept conceptually separate.
+
+14. NULL AND BOUNDARY FINDINGS FROM S013
+S013 also matters because it logs negative findings: LDL-C and total cholesterol were often unchanged across pooled T2D trials, and the weight-loss/glycemic superiority of low-carbohydrate diets tended to attenuate over longer follow-up [S013]. In other words, low-carb benefits are real in many disease-state populations but are not uniform, permanent, or infinitely scalable. This supports the dossier’s insistence on context rather than ideology.
+
+15. GLP-1 REDUCTION AS A NEW ROUND-2 COMPLICATION
+A major addition from S012 is that postprandial GLP-1 was lower after acute low-carbohydrate diets [S012]. This complicates simple narratives in which incretins always rise or always smooth the transition back to carbohydrate. Lower GLP-1 could reduce insulinotropic support and alter satiety/gastric-emptying dynamics, potentially permitting a higher glucose excursion without obvious insulin amplification. That pattern fits a “metabolic mismatch” model and may be especially relevant when symptoms occur after mixed meals rather than isolated glucose.

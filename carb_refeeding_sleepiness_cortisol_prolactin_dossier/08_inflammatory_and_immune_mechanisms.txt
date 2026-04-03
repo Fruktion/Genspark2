@@ -1,0 +1,54 @@
+TITLE
+Inflammatory and immune mechanisms
+PURPOSE
+Assess whether meal-induced inflammatory and endotoxin pathways plausibly contribute to the reported post-carbohydrate sleepiness.
+STATUS
+SUBSTANTIVE_DRAFT
+SCOPE
+Cytokines, NF-kB, ROS, endotoxin/LPS, sickness behavior, gut permeability, and modification by omega-3 fats.
+DEPENDENCIES
+06_fatty_acid_hormone_interactions.txt, 05_postprandial_hypoglycemia_and_somnolence.txt.
+KEY_QUESTIONS
+Do carbohydrates or mixed meals induce enough inflammatory signaling to contribute to somnolence? How do EPA/DHA modify this? How strong is the evidence?
+EVIDENCE_TIER
+Moderate for inflammatory meal responses; weaker for direct symptom correlation.
+SOURCE_IDS_USED
+S005,S011,S015,S017
+OPEN_ISSUES
+Need more studies linking postprandial inflammatory markers directly to subjective sleepiness or fatigue.
+LAST_UPDATED
+2026-04-03
+
+TOP-LINE ASSESSMENT
+Inflammatory/immune mechanisms are better viewed as amplifiers than sole causes. S005 shows that high-fat, high-carbohydrate, or combined Western-style meals can increase LPS, IL-6, TNF-alpha, NF-kB activity, ROS generation, and leukocyte responses in humans [S005]. These signals overlap with “sickness behavior” pathways that can reduce alertness and motivation. However, direct evidence that these markers alone explain the symptom of excessive post-carbohydrate sleepiness is still limited.
+
+1. CYTOKINES
+Hyperglycemia and mixed meals can be associated with increased cytokines including IL-1, IL-6, and TNF-alpha [S005]. IL-1-family and TNF-related signaling are strongly linked in broader physiology to fatigue and increased sleep drive. Thus, when carbohydrate reintroduction causes large excursions or occurs in a meal pattern that increases inflammatory load, cytokines could contribute to the sensation of post-meal heaviness or sedation.
+
+2. NF-kB AND ROS
+S005 indicates that meal ingestion can raise NF-kB activity and ROS generation in mononuclear cells [S005]. These are important because they show that the postprandial state is not metabolically neutral. In someone repeatedly challenging a low-carb-adapted system with carbohydrate, oxidative/inflammatory signaling may become one of several additive burdens.
+
+3. ENDOTOXIN / LPS / GUT PERMEABILITY
+High-fat/high-carbohydrate meals can raise circulating LPS and related signaling [S005]. Proposed routes include greater intestinal permeability and LPS incorporation into chylomicrons. This matters because endotoxin signaling is strongly connected to fatigue-like immune behavior. The user’s fat profile may partly modulate this, especially if rich in omega-3s, but not necessarily abolish it.
+
+4. EPA/DHA MODULATION
+S005 supports the idea that EPA/DHA can suppress aspects of LPS- or saturated-fat-mediated NF-kB signaling [S005]. Therefore, in this specific dietary pattern, inflammatory contributions may be reduced relative to a saturated-fat-rich low-carb diet. That lowers—not eliminates—the likelihood that meal-induced inflammation contributes to symptoms.
+
+BOTTOM-LINE JUDGMENT
+Established:
+- Postprandial meals can activate inflammatory and endotoxin-related pathways in humans [S005].
+Probable:
+- These pathways can amplify fatigue/somnolence after carbohydrate-containing meals.
+Less likely as sole cause:
+- Inflammation alone explains the full phenotype without metabolic or CNS involvement.
+
+
+[ROUND 2 ADDITION]
+5. IL-1 IS NOW A STRONGER CANDIDATE THAN BEFORE
+Before round 2, the inflammatory section relied mostly on review-level postprandial inflammation literature [S005]. S015 now adds direct human intervention evidence: IL-1 receptor antagonism reduced postprandial fatigue after a calorie-rich meal challenge [S015]. This substantially raises confidence that inflammatory signaling can contribute to subjective post-meal fatigue.
+
+6. IMPORTANT LIMITATION FROM S015
+The same study found no significant acute change in CRP or IL-6 with the intervention [S015]. This means the relevant inflammatory mechanism may be upstream of those markers, involve IL-1-family signaling more specifically, or act through CNS pathways not captured by standard peripheral assays. Therefore a normal CRP/IL-6 panel does not rule out meal-induced inflammatory fatigue biology.
+
+7. OMEGA-3 EFFECTS ARE BETTER SUPPORTED AFTER S017
+S017 showed that omega-3 supplementation lowered overall IL-6 during a laboratory stressor, though not TNF-alpha or IL-12 [S017]. This supports selective rather than global anti-inflammatory buffering.

@@ -1,0 +1,62 @@
+TITLE
+Evidence depth scorecard
+PURPOSE
+Quantify dossier evidence depth, access quality, search-pass completion, null findings, and source distribution after round 2.
+STATUS
+ROUND_2_UPDATED
+SCOPE
+Whole dossier quantitative assessment.
+DEPENDENCIES
+04_source_register.txt, 04b_claim_to_source_traceability_matrix.txt, 05_source_access_and_verification_log.txt.
+KEY_QUESTIONS
+Did round 2 meet the required evidence-expansion targets?
+EVIDENCE_TIER
+Assessment and audit layer.
+SOURCE_IDS_USED
+S001-S026
+OPEN_ISSUES
+Several endocrine claims still depend partly on reviews or abstract-only studies.
+LAST_UPDATED
+2026-04-03
+
+ROUND 2 COUNTS
+Total sources registered: 26
+New sources added this round: 15
+Full-text opened total: 17
+Abstract-only or abstract-detail sources total: 9
+Decisive primary human studies total: 8
+Primary human full-text studies total: 8
+Review/meta-analysis full-text sources total: 9
+Mandatory search passes completed: 10/10
+Null/negative studies explicitly logged: 8
+Mechanism files 02-09 updated this round: 8/8
+Abstract-only sources upgraded with stronger detail or replacement coverage: S008, S009, S011-context, plus fasting prolactin upgraded via S018 and direct replacements S015/S017/S019/S021/S022
+
+DOMAIN COVERAGE
+Metabolic adaptation / refeeding: S001,S002,S012,S013
+HPA-axis / cortisol / chrononutrition: S006,S016,S017,S021,S022,S026
+Prolactin / dopamine / fasting: S003,S007,S018,S019
+Postprandial somnolence / hypoglycemia: S004,S010,S014,S015,S021,S022,S023,S024,S025
+Fatty-acid and incretin modifiers: S005,S017,S019,S020
+Inflammatory and immune pathways: S005,S015,S017
+Circadian timing: S006,S016,S021,S022
+Thyroid adaptation: S008,S009
+
+TARGET CHECK
+>=15 new sources: YES
+>=10 new full-text openings: YES
+Total sources >=26: YES
+Total full-text openings >=17: YES
+>=3 abstract-only sources upgraded: YES
+>=3 null/negative studies found: YES
+All 10 passes logged: YES
+
+READINESS FLAGS
+structure_ready: YES
+traceability_ready: STRONGER
+red_team_ready: STRONGER
+primary_evidence_ready: IMPROVED
+article_ready: STILL_NO
+
+COMMENT
+Round 2 materially improved coverage, especially by adding direct human evidence on acute carbohydrate restriction/refeeding, IL-1-mediated postprandial fatigue, meal timing null findings, and modern human data weakening strong GLA-prolactin claims. The dossier remains strongest on metabolic adaptation and is now substantially better balanced across inflammatory and chronobiological mechanisms. It remains weaker on exact fasting-prolactin physiology and on direct symptom-timed CGM/insulin studies in low-carb-adapted individuals.

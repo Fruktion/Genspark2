@@ -1,0 +1,82 @@
+TITLE
+Topic scope and framework
+PURPOSE
+Define the target phenotype, causal question, evidence-grading rules, and mechanistic framework for the dossier.
+STATUS
+SUBSTANTIVE_DRAFT_ROUND_2
+SCOPE
+A person under caloric deficit with complete carbohydrate restriction, high protein intake, a mixed unsaturated-fat profile, and elevated fasting cortisol and prolactin who develops excessive sleepiness after carbohydrate reintroduction.
+DEPENDENCIES
+03_search_strategy_and_queries.txt, 04_source_register.txt, 04b_claim_to_source_traceability_matrix.txt.
+KEY_QUESTIONS
+What exactly is the phenotype? Which mechanisms count as upstream, proximal, amplifying, or speculative? How should evidence be weighted?
+EVIDENCE_TIER
+Framework layer using only traceable source-supported claims.
+SOURCE_IDS_USED
+S001-S026
+OPEN_ISSUES
+Direct studies matching the full user protocol do not exist in the current opened set; synthesis therefore depends on mechanistic triangulation.
+LAST_UPDATED
+2026-04-03
+
+PHENOTYPE DEFINITION
+The target state is not generic “post-lunch tiredness.” It is a narrower mechanistic phenotype with all of the following features:
+1. Ongoing caloric deficit.
+2. Complete or near-complete carbohydrate restriction long enough to induce fat-adapted metabolism.
+3. Protein intake around 2 g/kg.
+4. Fat intake enriched in EPA + DHA + GLA + oleic acid.
+5. Elevated fasting cortisol.
+6. Elevated fasting prolactin.
+7. Excessive sleepiness emerging after carbohydrate reintroduction.
+
+CORE CAUSAL QUESTION
+Why would carbohydrate reintroduction produce disproportionate sleepiness in this specific endocrine and metabolic state?
+
+FRAMEWORK
+A. UPSTREAM STATE DRIVERS
+- Carbohydrate restriction and fat adaptation.
+- Energy deficit / fasting stress.
+- HPA-axis activation and altered cortisol timing.
+- Possible prolactin-dopamine dysregulation.
+- Thyroid-energy adaptation and reduced carbohydrate oxidation readiness.
+
+B. PROXIMAL MEAL-TRIGGERED MECHANISMS
+- Transient impairment of glucose tolerance after low-carbohydrate adaptation.
+- Larger postprandial glucose excursions and altered insulin/C-peptide handling.
+- GLP-1 and incretin changes.
+- Orexin suppression by glucose exposure.
+- Tryptophan/LNAA shift favoring serotonin-related sleep-promoting signaling.
+- Postprandial autonomic shift toward parasympathetic tone.
+
+C. AMPLIFIERS / MODIFIERS
+- Meal timing and circadian phase.
+- Pre-existing sleep debt or hidden sleep pressure.
+- Meal composition and dose of carbohydrate.
+- Postprandial inflammatory signaling.
+- Specific fatty-acid effects on inflammation, incretins, and possibly cortisol.
+- Elevated prolactin lowering dopaminergic arousal reserve.
+
+D. LOW-CONFIDENCE OR SPECULATIVE PATHWAYS
+- Strong GLA -> PGE1 -> prolactin-normalization claims.
+- Exact receptor-level membrane signaling claims not directly tested in the target phenotype.
+- Strong histamine/GABA-centric explanations without direct source support.
+
+EVIDENCE-GRADING RULES
+Established:
+- Direct human primary evidence or repeated human evidence with strong mechanistic convergence.
+Probable contributor:
+- Human evidence exists but is indirect, population-mismatched, or partially review-supported.
+Speculative:
+- Mechanistically plausible but weak, old, conflicting, or non-human dominant.
+
+CURRENT WORKING MODEL
+The leading explanation is a multi-causal sequence in which carbohydrate restriction plus caloric deficit induces a fuel-selection state that is relatively intolerant of abrupt carbohydrate reintroduction; carbohydrate then provokes exaggerated peripheral and central responses (higher glucose excursion, altered incretin profile, orexin suppression, serotonin-favoring amino-acid shifts), while elevated cortisol and possibly elevated prolactin reduce the system's tolerance for the transition. The result is disproportionate postprandial sleepiness.
+
+RED-TEAM RULE
+No mechanism may be treated as final unless competing explanations remain visible. For every major mechanism, the dossier must ask:
+- Could this be epiphenomenal rather than causal?
+- Could timing, sleep debt, or meal size explain more than the mechanism?
+- Is the source direct primary human evidence or merely adjacent?
+
+BOUNDARIES
+This dossier is not diagnosing a disease. It is a mechanistic research synthesis. It also does not assume true reactive hypoglycemia unless documented at the time of symptoms.

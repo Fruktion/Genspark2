@@ -1,0 +1,40 @@
+TITLE
+Learning objectives and misconceptions
+PURPOSE
+Identify what an auditor or later writer should understand after reading the dossier, and which simplistic explanations should be avoided.
+STATUS
+SUBSTANTIVE_DRAFT
+SCOPE
+Pedagogic framing for later synthesis.
+DEPENDENCIES
+Mechanism files.
+KEY_QUESTIONS
+What must readers understand, and what common misconceptions should be corrected?
+EVIDENCE_TIER
+Teaching support layer.
+SOURCE_IDS_USED
+S001,S003,S004,S005,S006,S010
+OPEN_ISSUES
+Will need updating after full synthesis.
+LAST_UPDATED
+2026-04-03
+
+LEARNING OBJECTIVES
+1. Understand that post-carbohydrate sleepiness in this state is likely multi-causal, not a single insulin-only phenomenon.
+2. Understand that strict low-carbohydrate adaptation can impair measured carbohydrate tolerance without necessarily implying pathology in all contexts [S001,S002].
+3. Understand that elevated fasting cortisol is expected in fasting/energy-deficit states more often than elevated prolactin is [S006 vs S007].
+4. Understand that prolactin’s role is probably modulatory through dopamine/arousal/metabolic pathways rather than the sole trigger of carbohydrate-induced sleepiness [S003].
+5. Understand that inflammatory and endotoxin pathways may amplify fatigue after meals, especially high-fat/high-carbohydrate meals [S005].
+6. Understand that serotonin/melatonin and orexin pathways offer a central nervous system bridge between carbohydrate ingestion and sleepiness [S010].
+
+MISCONCEPTIONS TO AVOID
+- “Food coma” is just blood going to the stomach.
+  This is oversimplified and poorly explanatory.
+- If ketosis lowers fasting glucose, it must improve all glucose handling.
+  Human evidence contradicts that assumption [S001,S002].
+- Elevated prolactin always means the same thing physiologically.
+  Effects are context-dependent and can reflect multiple upstream processes [S003].
+- Reactive hypoglycemia is the only explanation for postprandial sleepiness.
+  Orexin, serotonin, autonomic, and inflammatory pathways also matter [S004,S010].
+- Omega-3 intake necessarily prevents all inflammatory or stress-related meal responses.
+  Evidence supports modulation, not total protection [S005,S011].

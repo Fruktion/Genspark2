@@ -1,0 +1,37 @@
+TITLE
+Confidence assessment
+PURPOSE
+Rate the strength of evidence for each major mechanism and specify what is established, probable, or speculative.
+STATUS
+SUBSTANTIVE_DRAFT
+SCOPE
+Cross-mechanism evidence ranking.
+DEPENDENCIES
+04b_claim_to_source_traceability_matrix.txt, 10_synthesis_of_mechanisms.txt.
+KEY_QUESTIONS
+Which mechanisms are strongest, and where are the largest knowledge gaps?
+EVIDENCE_TIER
+Assessment layer.
+SOURCE_IDS_USED
+S001,S002,S003,S004,S005,S006,S007,S008,S009,S010,S011
+OPEN_ISSUES
+Should be updated after more direct primary studies are opened.
+LAST_UPDATED
+2026-04-03
+
+HIGH CONFIDENCE
+1. Low-carbohydrate adaptation can worsen carbohydrate tolerance and alter muscle glucose-handling proteins [S001].
+2. Fasting/restrictive eating can elevate cortisol and alter cortisol timing [S006].
+3. Carbohydrate ingestion can engage CNS sleep-promoting pathways including orexin suppression and tryptophan-related signaling [S010].
+
+MODERATE CONFIDENCE
+4. Reactive or rapid-decline glycemic phenomena contribute in at least a subset of cases [S004].
+5. Postprandial inflammatory signaling can amplify fatigue/somnolence [S005].
+6. Low-T3 adaptation likely lowers resilience but is not yet strongly tied to the symptom directly [S008,S009].
+
+LOW-MODERATE CONFIDENCE
+7. Elevated prolactin / reduced dopaminergic tone materially amplify the symptom [S003,S007].
+
+LOW CONFIDENCE / SPECULATIVE
+8. GLA/PGE1-centered prolactin-cortisol mechanism is a major driver [S011].
+9. Oleic-acid-specific incretin signaling is a major determinant in this phenotype with current opened evidence.

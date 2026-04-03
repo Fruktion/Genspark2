@@ -1,0 +1,64 @@
+TITLE
+Source access and verification log
+PURPOSE
+Record what was actually opened, by what method, and whether it is sufficient for decisive use.
+STATUS
+SUBSTANTIVE_DRAFT
+SCOPE
+Access honesty and verification constraints.
+DEPENDENCIES
+04_source_register.txt.
+KEY_QUESTIONS
+What was actually inspected, and what limitations follow from access level?
+EVIDENCE_TIER
+Audit log.
+SOURCE_IDS_USED
+S001,S002,S003,S004,S005,S006,S007,S008,S009,S010,S011,S012,S013,S014,S015,S016,S017,S018,S019,S020
+OPEN_ISSUES
+Need more full-text upgrades from older abstract-only endocrine records; round-2 verification completed for newly opened sources.
+LAST_UPDATED
+2026-04-03
+
+VERIFICATION LOG
+S001 - Verified by crawler full-text review and targeted summary. Decisive for major claims on ketogenic adaptation and glucose tolerance.
+S002 - Verified by crawler full-text review and targeted summary. Decisive for weight-maintaining ketogenic/T2D boundary condition claims.
+S003 - Verified by crawler full text and targeted summary. Useful review framework, not decisive alone.
+S004 - Verified by crawler full text. Used cautiously because review framing contains debated elements.
+S005 - Verified by crawler full text and targeted summary. Adequate for inflammatory pathway synthesis.
+S006 - Verified via targeted large-document summary from PMC review. Useful for fasting-cortisol overview; direct primary studies still desirable.
+S007 - Verified only at abstract level from PubMed. Not used as sole support for major conclusions.
+S008 - Verified only at abstract level from PubMed. Used only for provisional thyroid-adaptation support.
+S009 - Verified only at abstract level from PubMed. Used only as adjacent support.
+S010 - Verified by crawler full text and targeted summary. Useful for CNS/sleep pathway synthesis.
+S011 - Fish-oil study verified at abstract level only; GLA/PGE1 support remains historical/adjacent and non-decisive.
+S012 - Verified at abstract/PubMed record level. Useful for objective nap-latency evidence and for null finding that meal constituents did not significantly differ in sleep latency.
+S013 - Verified at abstract/PubMed record level. Directly relevant for pure carbohydrate increasing subjective fatigue and reaction-time slowing; limited by healthy-volunteer liquid-meal design.
+S014 - Verified by PMC full text and targeted summary. Useful direct case evidence that OGTT can reproduce postprandial sleepiness linked to hyperinsulinemic/insulin-resistant patterns.
+S015 - Verified by PMC full text and targeted summary. Strong circadian moderator evidence; important null evidence because meal timing did not shift cortisol or subjective sleepiness.
+S016 - Verified at abstract/PubMed record level. Valuable boundary evidence showing fasting suppressed TSH responsiveness while prolactin responses remained broadly unaffected.
+S017 - Verified at abstract/PubMed record level. Mechanistic modifier evidence for 2-OG/GPR119/GLP-1 pathway in humans; not sleepiness-specific.
+S018 - Verified by PMC full text. Strong direct human evidence that IL-1 contributes to postprandial fatigue after a high-fat/high-carbohydrate meal challenge.
+S019 - Verified by PMC full text and targeted summary. Large human inflammation study; best for interindividual variability, TG-driven GlycA responses, and null/boundary evidence on IL-6/glucose linkage.
+S020 - Verified by PMC full text and targeted summary. Strong null study for differential postprandial cytokine responses to theoretically pro- vs anti-inflammatory single meals.
+
+ACCESS HONESTY RULE APPLICATION
+- No major claim rests solely on search snippets.
+- Full-text-opened sources are weighted most heavily.
+- Abstract-only sources are explicitly labeled non-decisive.
+- Historical GLA/PGE1 material is treated as low-confidence context, not as a settled mechanism.
+
+S012 - Verified by crawler full text and targeted summary. Important primary human crossover evidence for acute carb restriction/refeeding.
+S013 - Verified by crawler full text and targeted summary. Used as contradiction and population-boundary source, not decisive for phenotype-specific causality.
+S014 - Verified by crawler full text and targeted summary. Useful review of direct and null workplace sleepiness/glucose literature.
+S015 - Verified by crawler full text and targeted summary. Decisive primary human support that IL-1 signaling contributes to postprandial fatigue.
+S016 - Verified by crawler full text and targeted summary. Review-level evidence on meal timing, fasting, glycemic load and cortisol.
+S017 - Verified by crawler full text and targeted summary. Primary human RCT for omega-3 stress/cortisol/IL-6 modulation; meal relevance indirect.
+S018 - Verified only from PubMed details/search-output extraction, not full text. Used only for careful contradiction logging on fasting-prolactin interpretation.
+S019 - Verified by crawler full text and targeted summary. Useful direct null human evidence against strong GLA-lowers-prolactin claims.
+S020 - Verified by crawler full text and targeted summary. Mechanistic source for OEA/GPR119/GLP-1 pathway; indirect for phenotype.
+S021 - Verified by crawler full text and targeted summary. Strong primary human circadian timing source with important null findings.
+S022 - Verified by crawler full text and targeted summary. Strong primary human meal-timing/macronutrient source with key null cortisol findings.
+S023 - Verified only at abstract/search result level. Adjacent historical sleepiness evidence.
+S024 - Verified only at abstract/search result level. Adjacent historical sleepiness evidence.
+S025 - Verified only at abstract/search result level. Adjacent historical meal/fatigue evidence.
+S026 - Verified by crawler full text and targeted summary. Broad fasting review used to log contradictions, not decisive alone.

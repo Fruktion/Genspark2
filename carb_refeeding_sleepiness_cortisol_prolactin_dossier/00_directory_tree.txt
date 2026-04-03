@@ -1,0 +1,37 @@
+TITLE
+Directory tree
+PURPOSE
+Provide plaintext tree for auditing dossier completeness.
+STATUS
+SUBSTANTIVE_DRAFT
+SCOPE
+All current dossier files.
+DEPENDENCIES
+Manifest.
+KEY_QUESTIONS
+What files currently exist?
+EVIDENCE_TIER
+Administrative metadata.
+SOURCE_IDS_USED
+None
+OPEN_ISSUES
+Tree will change as files are added.
+LAST_UPDATED
+2026-04-03
+
+- 00_manifest.txt
+- 00_review_packet.txt
+- 01_topic_scope_and_framework.txt
+- 02_metabolic_adaptation_mechanisms.txt
+- 03_hpa_axis_and_stress_response.txt
+- 04_prolactin_dopamine_axis.txt
+- 05_postprandial_hypoglycemia_and_somnolence.txt
+- 06_fatty_acid_hormone_interactions.txt
+- 07_neurotransmitter_and_cns_mechanisms.txt
+- 08_inflammatory_and_immune_mechanisms.txt
+- 09_circadian_and_chronobiological_factors.txt
+- 10_synthesis_of_mechanisms.txt
+- 11_contradictions_and_conflicting_evidence.txt
+- 12_mitigation_and_intervention_strategies.txt
+- 13_confidence_assessment.txt
+- 14_references_and_sources.txt

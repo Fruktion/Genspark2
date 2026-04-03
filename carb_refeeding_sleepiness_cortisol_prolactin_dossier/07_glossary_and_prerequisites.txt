@@ -1,0 +1,38 @@
+TITLE
+Glossary and prerequisites
+PURPOSE
+Define technical terms required to review the dossier without ambiguity.
+STATUS
+SUBSTANTIVE_DRAFT
+SCOPE
+Core metabolic, endocrine, CNS, and inflammatory terminology.
+DEPENDENCIES
+None.
+KEY_QUESTIONS
+What terms need standardized meaning across files?
+EVIDENCE_TIER
+Terminology support.
+SOURCE_IDS_USED
+S001,S003,S004,S005,S006,S008,S010
+OPEN_ISSUES
+Can be expanded later as new concepts appear.
+LAST_UPDATED
+2026-04-03
+
+TERMS
+Ketosis: A metabolic state in which ketone bodies become a major circulating fuel due to very low carbohydrate availability.
+Metabolic inflexibility: Reduced ability to switch efficiently between fat- and carbohydrate-based fuel oxidation.
+GLUT4: Insulin-responsive glucose transporter, especially important in skeletal muscle and adipose tissue.
+PDK4: Pyruvate dehydrogenase kinase 4; inhibits pyruvate dehydrogenase and shifts metabolism away from carbohydrate oxidation.
+HPA axis: Hypothalamic-pituitary-adrenal axis governing cortisol secretion and stress responses.
+Prolactin: Pituitary hormone classically linked to lactation but also involved in metabolism and dopaminergic regulation.
+Dopaminergic tone: Functional influence of dopamine signaling over target tissues and circuits.
+Reactive hypoglycemia: Postprandial low glucose or symptomatic rapid glucose decline after eating.
+Orexin/hypocretin: Hypothalamic neuropeptide system promoting wakefulness and integrating energy state with arousal.
+Trp/LNAA ratio: Ratio of tryptophan to competing large neutral amino acids; influences brain tryptophan entry.
+NF-kB: Major transcription factor involved in inflammatory signaling.
+LPS: Lipopolysaccharide; endotoxin from gram-negative bacteria that can enter circulation postprandially.
+TGR5 / FXR: Bile-acid-sensitive receptors with metabolic and anti-inflammatory roles.
+Low T3 syndrome: Fall in triiodothyronine with normal/low-normal TSH and often increased reverse T3-like pattern during stress or underfeeding states.
+OEA: Oleoylethanolamide, a lipid-derived satiety mediator related to oleic-acid metabolism.
+GPR119: Receptor involved in incretin and metabolic signaling responsive to lipid-derived ligands.

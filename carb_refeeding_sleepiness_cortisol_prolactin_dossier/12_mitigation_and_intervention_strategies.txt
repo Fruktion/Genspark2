@@ -1,0 +1,68 @@
+TITLE
+Mitigation and intervention strategies
+PURPOSE
+List evidence-based or mechanistically defensible strategies that could reduce post-carbohydrate sleepiness or normalize the upstream state, while clearly separating better-supported from speculative strategies.
+STATUS
+SUBSTANTIVE_DRAFT
+SCOPE
+Dietary composition, carbohydrate type/amount/timing, gradual reintroduction, monitoring, supplements/drugs with supporting rationale.
+DEPENDENCIES
+10_synthesis_of_mechanisms.txt, 13_confidence_assessment.txt.
+KEY_QUESTIONS
+What interventions logically target the leading mechanisms, and how strong is the supporting evidence?
+EVIDENCE_TIER
+Mixed clinical and mechanistic evidence.
+SOURCE_IDS_USED
+S001,S002,S004,S005,S006,S010,S011
+OPEN_ISSUES
+Few interventions directly studied in the exact phenotype; many recommendations remain mechanism-driven.
+LAST_UPDATED
+2026-04-03
+
+PRINCIPLE
+Mitigation should target the highest-confidence mechanisms first: exaggerated carbohydrate perturbation after low-carb adaptation, fasting/HPA overactivation, and timing-sensitive CNS sleep-promoting responses.
+
+1. GRADUAL RATHER THAN ABRUPT CARBOHYDRATE REINTRODUCTION
+Rationale:
+If tissue glucose-handling machinery has adapted away from carbohydrate use [S001], abrupt large carbohydrate loads should be expected to produce a larger perturbation than gradual titration.
+Evidence level:
+Probable / mechanism-driven.
+Why it may help:
+- smaller excursions,
+- less need for large insulin/incretin responses,
+- more time for metabolic flexibility to return.
+
+2. REDUCE CARBOHYDRATE DOSE PER MEAL AND LOWER GLYCEMIC LOAD
+Rationale:
+High-glycemic and larger carbohydrate exposures are more likely to provoke steep glucose-insulin dynamics and stronger CNS sleep-promoting responses [S010].
+Evidence level:
+Moderate.
+Why it may help:
+- smaller orexin suppression,
+- less risk of reactive decline,
+- less dramatic Trp/LNAA shift.
+
+3. AVOID REFEEDING CARBOHYDRATE AFTER PROLONGED FASTS OR AT VULNERABLE CIRCADIAN TIMES
+Rationale:
+If cortisol and wakefulness are being supported by fasting-state stress physiology [S006], a large carbohydrate meal after a long fast may generate a bigger “state switch.”
+Evidence level:
+Probable.
+
+4. VERIFY WHETHER TRUE REACTIVE HYPOGLYCEMIA EXISTS
+Rationale:
+CGM or symptom-timed glucose testing can distinguish true low glucose from rapid-fall or purely central/autonomic sleepiness.
+Evidence level:
+High practical value.
+
+5. IMPROVE SLEEP AND REDUCE CHRONIC HPA LOAD
+Rationale:
+If hidden sleep pressure and cortisol-supported alertness are part of the syndrome, improving sleep quantity/quality may reduce the size of the post-meal crash.
+Evidence level:
+Probable.
+
+6. PHARMACOLOGIC OR SUPPLEMENT OPTIONS
+- For proven reactive hypoglycemia/prediabetic patterns, agents such as acarbose or metformin appear in adjacent literature [S004], but this depends on diagnosis and is not a generic recommendation.
+- Omega-3 intake may modestly improve inflammatory/HPA context, but does not appear sufficient as a standalone fix [S011].
+
+BOTTOM-LINE
+Most evidence-based first-line interventions are behavioral/dietary: smaller carbohydrate doses, lower glycemic load, gradual reintroduction, better timing, and objective monitoring.

@@ -1,0 +1,60 @@
+TITLE
+References and sources
+PURPOSE
+Provide the current bibliography used in the dossier with identifiers, URLs/DOIs, source type, and brief evidence notes.
+STATUS
+SUBSTANTIVE_DRAFT
+SCOPE
+All currently registered sources actually opened during rounds 1 and 2.
+DEPENDENCIES
+04_source_register.txt.
+KEY_QUESTIONS
+Which sources support the dossier currently, and what kind of evidence does each source provide?
+EVIDENCE_TIER
+Bibliographic layer.
+SOURCE_IDS_USED
+S001,S002,S003,S004,S005,S006,S007,S008,S009,S010,S011,S012,S013,S014,S015,S016,S017,S018,S019,S020
+OPEN_ISSUES
+Older endocrine studies remain abstract-only unless later full-text access is obtained.
+LAST_UPDATED
+2026-04-03
+
+S001. Hengist A, et al. Ketogenic diet but not free-sugar restriction alters glucose tolerance, lipid metabolism, peripheral tissue phenotype, and gut microbiome: RCT. Full text opened at https://pmc.ncbi.nlm.nih.gov/articles/PMC11384946/ . Primary human RCT; decisive for ketogenic adaptation, GLUT4/INSR/AMPK, and boundary findings that several early changes attenuate by week 12.
+
+S002. Effect of weight-maintaining ketogenic diet on glycemic control and insulin sensitivity in T2D. Full text opened at https://pmc.ncbi.nlm.nih.gov/articles/PMC11492932/ . Primary human clinical trial; important null/boundary evidence because clamp-measured insulin sensitivity did not improve.
+
+S003. Ponce J, et al. Metabolic effects of prolactin and the role of dopamine agonists. Front Endocrinol (Lausanne). 2022. Full text opened at https://pmc.ncbi.nlm.nih.gov/articles/PMC9562454/ . Review supporting prolactin-dopamine-metabolism framework.
+
+S004. Postprandial Reactive Hypoglycemia. Full text opened at https://pmc.ncbi.nlm.nih.gov/articles/PMC7192270/ . Review source for delayed insulin-overshoot / reactive hypoglycemia mechanisms.
+
+S005. Human Postprandial Nutrient Metabolism and Low-Grade Inflammation. Full text opened at https://pmc.ncbi.nlm.nih.gov/articles/PMC6950246/ . Review source for postprandial inflammation, endotoxemia, and omega-3 modulation.
+
+S006. Effects of Intermittent Fasting on the Circulating Levels and Circadian Rhythms of Hormones. Full text summary obtained from https://pmc.ncbi.nlm.nih.gov/articles/PMC8419605/ . Review support for fasting-cortisol elevation and circadian-shift possibilities.
+
+S007. Decreased dopaminergic control of prolactin secretion in male obesity: normalization by fasting. Metabolism. 1991;40(2):191-195. PMID 1899123. URL: https://pubmed.ncbi.nlm.nih.gov/1899123/ . Abstract opened; boundary evidence on fasting and prolactin responsiveness.
+
+S008. Bisschop PH, et al. Isocaloric carbohydrate deprivation induces protein catabolism despite a low T3-syndrome in healthy men. Clin Endocrinol (Oxf). 2001;54(1):75-80. PMID 11167929. DOI: 10.1046/j.1365-2265.2001.01158.x . URL: https://pubmed.ncbi.nlm.nih.gov/11167929/ . Abstract opened; thyroid adaptation support.
+
+S009. Effect of low-carbohydrate diets high in either fat or protein on thyroid function, plasma insulin, glucose, and triglycerides in healthy young adults. J Am Coll Nutr. 1985;4(4):451-459. PMID 3900181. DOI: 10.1080/07315724.1985.10720087 . URL: https://pubmed.ncbi.nlm.nih.gov/3900181/ . Abstract opened; adjacent thyroid/metabolic boundary evidence.
+
+S010. The interrelationship between sleep, diet, and glucose metabolism. Full text opened at https://pmc.ncbi.nlm.nih.gov/articles/PMC10247426/ . Review source for orexin, Trp/LNAA, carbohydrate timing, and sleep architecture.
+
+S011. Del Arco A, et al. Fish oil supplementation reduces cortisol basal levels and perceived stress: a randomized, placebo-controlled trial in abstinent alcoholics. Mol Nutr Food Res. 2013;57(6):1110-1114. PMID 23390041. DOI: 10.1002/mnfr.201200676 . URL: https://pubmed.ncbi.nlm.nih.gov/23390041/ . Abstract opened; population-specific HPA evidence. Also accompanied by adjacent historical GLA/PGE1 search context.
+
+S012. Orr WC, Harnish MJ. Meal composition and its effect on postprandial sleepiness. Physiol Behav. 1997 Oct. PMID 9284488. URL: https://pubmed.ncbi.nlm.nih.gov/9284488/ . Abstract/full PubMed record opened; direct human objective sleep-latency study with important null finding across meal constituents.
+
+S013. Wells AS, Read NW, Idzikowski C, Jones J. Post-prandial changes in measures of fatigue: effect of a mixed or a pure carbohydrate or pure fat meal. Eur J Clin Nutr. 1997;51(12):831-838. PMID 9426358. DOI: 10.1038/sj.ejcn.1600496 . URL: https://pubmed.ncbi.nlm.nih.gov/9426358/ . Abstract/full PubMed record opened; direct human evidence that pure carbohydrate increased subjective fatigue and slowed reaction time.
+
+S014. Kuroda S, et al. Excessive Postprandial Sleepiness in Two Young Adults Effectively Treated with Antidiabetic Medications. Full text opened at https://pmc.ncbi.nlm.nih.gov/articles/PMC11651837/ . Case-report evidence linking delayed postprandial sleepiness, OGTT hyperinsulinemic patterns, and symptom improvement with antidiabetic treatment.
+
+S015. Wehrens SMT, et al. Meal Timing Regulates the Human Circadian System. Curr Biol. 2017;27(12):1768-1775.e3. Full text opened at https://pmc.ncbi.nlm.nih.gov/articles/PMC5483233/ . Primary human circadian study; key boundary evidence because meal timing shifted glucose rhythms but not cortisol or subjective sleepiness.
+
+S016. Van Cauter E, et al. Are fasting-induced effects on thyrotropin and prolactin secretion mediated by dopamine? J Clin Endocrinol Metab. 1983;56(6):1266-1270. PMID 6404923. DOI: 10.1210/jcem-56-6-1266 . URL: https://pubmed.ncbi.nlm.nih.gov/6404923/ . Abstract/full PubMed record opened; boundary evidence against a simple fasting-prolactin-rise model.
+
+S017. Hansen KB, Rosenkilde MM, Knop FK, Wellner N, Diep TA, Rehfeld JF, Andersen UB, Holst JJ, Hansen HS. 2-Oleoyl glycerol is a GPR119 agonist and signals GLP-1 release in humans. J Clin Endocrinol Metab. 2011;96(9):E1409-E1417. PMID 21778222. DOI: 10.1210/jc.2011-0647 . URL: https://pubmed.ncbi.nlm.nih.gov/21778222/ . Abstract/full PubMed record opened; direct human translational support for oleic-acid-derived incretin signaling.
+
+S018. Lehrskov LL, Christensen RH, Wedell-Neergaard AS, et al. The role of IL-1 in postprandial fatigue. URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC6001918/ . Full text opened; direct human crossover evidence that IL-1 antagonism reduced postprandial fatigue after a high-fat/high-carbohydrate meal challenge.
+
+S019. Berry SE, Valdes AM, Drew DA, et al. Meal-induced inflammation: postprandial insights from the Personalised REsponses to DIetary Composition Trial (PREDICT) study in 1000 participants. Am J Clin Nutr. Full text opened at https://pmc.ncbi.nlm.nih.gov/articles/PMC8408875/ . Large primary human meal-challenge study showing wide inflammatory variability and stronger TG-GlycA than glucose-IL6 coupling.
+
+S020. Dyer KA, et al. Meals That Differ in Nutrient Composition and Inflammatory Potential Do Not Differentially Impact Postprandial Circulating Cytokines in Older Adults above a Healthy Weight. Full text opened at https://pmc.ncbi.nlm.nih.gov/articles/PMC9003235/ . Primary human pilot crossover null study for acute cytokine discrimination by meal inflammatory potential.

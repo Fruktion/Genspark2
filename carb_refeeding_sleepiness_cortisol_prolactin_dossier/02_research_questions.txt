@@ -1,0 +1,46 @@
+TITLE
+Research questions
+PURPOSE
+Decompose the overall topic into testable subquestions that can be answered or constrained by literature.
+STATUS
+SUBSTANTIVE_DRAFT
+SCOPE
+Core and secondary research questions.
+DEPENDENCIES
+01_scope_and_objectives.txt, 03_search_strategy_and_queries.txt.
+KEY_QUESTIONS
+What specific questions must be answered to explain the phenotype adequately?
+EVIDENCE_TIER
+Question map; not itself evidentiary.
+SOURCE_IDS_USED
+S001,S002,S003,S004,S005,S006,S007,S008,S009,S010,S011
+OPEN_ISSUES
+Some questions remain only partially answerable with current direct literature.
+LAST_UPDATED
+2026-04-03
+
+PRIMARY QUESTIONS
+1. Does prolonged carbohydrate restriction produce a human state of reduced tolerance to carbohydrate refeeding, and if so by what mechanisms?
+2. How often does low-carbohydrate adaptation alter skeletal-muscle glucose uptake machinery (GLUT4, insulin receptor, PDK4, AMPK), and on what timescale do these changes appear and attenuate [S001, S002]?
+3. How do caloric deficit and fasting alter baseline cortisol concentration, pulse frequency, and circadian timing in humans [S006]?
+4. Is elevated fasting prolactin a reproducible feature of fasting/caloric restriction, or is it context-, assay-, obesity-, or challenge-dependent [S003, S007]?
+5. Why can carbohydrate refeeding provoke somnolence? Which pathways are best supported: reactive hypoglycemia, orexin suppression, serotonin/melatonin, parasympathetic activation, inflammatory response, or others [S004, S005, S010]?
+6. How do cortisol and carbohydrate ingestion interact temporally? Can carbohydrate ingestion reduce a stress-elevated arousal state and thereby unmask sleepiness?
+7. Could the reported symptom reflect true biochemical reactive hypoglycemia, or only rapid decline in glucose without documented hypoglycemia [S004]?
+8. What role do high protein and the specific fatty-acid profile play in modifying glucose response, arousal, inflammation, and hormone signaling [S005, S011]?
+9. How strong is the evidence for GLA/PGE1-prolactin/cortisol interaction claims versus their historical or speculative status [S011]?
+10. What contradictory evidence exists, and under what boundary conditions do proposed mechanisms fail?
+
+SECONDARY QUESTIONS
+11. Does low-carbohydrate dieting induce a low-T3 or euthyroid-sick-like adaptation, and could that reduce resilience to postprandial sedation [S008, S009]?
+12. Are meal timing and circadian alignment important moderators of cortisol rhythms and postprandial sleepiness [S006, S010]?
+13. Do EPA/DHA reduce postprandial inflammatory signaling enough to offset refeeding fatigue mechanisms [S005, S011]?
+14. Is elevated prolactin acting mainly through dopamine/arousal, through metabolic effects, or as a marker of broader hypothalamic stress signaling [S003]?
+15. Are there analogous clinical situations—bariatric reactive hypoglycemia, postprandial somnolence, insulin-resistant states—that provide useful mechanistic parallels [S004]?
+
+RED-TEAM QUESTIONS
+16. Could the whole pattern be explained without prolactin at all?
+17. Could excessive sleepiness be due mainly to sleep debt, circadian misalignment, or underfeeding rather than carbohydrate per se?
+18. Could the issue be exaggerated insulin secretion without true metabolic inflexibility?
+19. Could the fatty-acid profile protect against, rather than worsen, some candidate mechanisms?
+20. What findings would overturn the current leading model?

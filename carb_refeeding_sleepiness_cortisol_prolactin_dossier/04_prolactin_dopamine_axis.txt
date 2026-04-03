@@ -1,0 +1,122 @@
+TITLE
+Prolactin dopamine axis
+PURPOSE
+Assess how elevated prolactin, altered dopaminergic tone, fasting, and possible GLA/PGE1-related pathways could contribute to reduced arousal and post-carbohydrate sleepiness.
+STATUS
+SUBSTANTIVE_DRAFT
+SCOPE
+Fasting prolactin physiology, dopamine suppression, prolactin-cortisol interaction, GLA/PGE1 hypothesis, and arousal implications.
+DEPENDENCIES
+03_hpa_axis_and_stress_response.txt, 07_neurotransmitter_and_cns_mechanisms.txt, 11_contradictions_and_conflicting_evidence.txt.
+KEY_QUESTIONS
+Is elevated prolactin a primary cause, a contributor, or only a marker? What is directly supported in humans? How credible are GLA/PGE1 claims in this context?
+EVIDENCE_TIER
+Mixed; strongest for prolactin-dopamine-metabolism framework, weaker for fasting-specific and GLA-specific claims.
+SOURCE_IDS_USED
+S003,S007,S018,S019
+OPEN_ISSUES
+Need stronger primary human fasting-prolactin data and modern GLA-endocrine studies.
+LAST_UPDATED
+2026-04-03
+
+TOP-LINE ASSESSMENT
+Prolactin is probably not the single primary explanation for carbohydrate-triggered sleepiness, but it is a credible amplifier. The best current evidence supports a general framework in which high prolactin and reduced dopaminergic tone are associated with lower arousal, altered appetite/reward regulation, and worse metabolic profiles [S003]. What is less well established is whether fasting reliably raises basal prolactin in a simple way. The currently opened primary fasting study more strongly suggests altered dopaminergic control of prolactin responsiveness than a universal fasting-induced prolactin rise [S007]. Thus, the safest current stance is: prolactin/dopamine dysregulation is a probable contributor, but weaker than the metabolic-refeeding and HPA-axis mechanisms.
+
+1. PROLACTIN PHYSIOLOGY MOST RELEVANT TO THIS DOSSIER
+Prolactin is tonically inhibited by hypothalamic dopamine via D2 receptor signaling. It is therefore unusual among pituitary hormones in being under strong inhibitory rather than stimulatory hypothalamic control [S003]. When prolactin rises, it can feed back into dopaminergic systems, but chronic high-prolactin states can also be associated with altered or refractory central dopaminergic tone [S003].
+
+Why this matters here: dopamine is a major wakefulness, motivation, and salience neurotransmitter. If prolactin is elevated and dopaminergic tone is reduced, the person’s baseline arousal reserve may already be compromised. In that state, any meal-induced sleep-promoting mechanisms—orexin suppression, serotonin bias, parasympathetic shift—could feel much more dramatic.
+
+2. DOES FASTING ELEVATE PROLACTIN?
+This is more complicated than the cortisol story. The currently opened fasting literature does not justify a strong universal statement that fasting straightforwardly raises basal prolactin in all humans.
+- S007 found that in obese men, prolactin responsiveness to metoclopramide was blunted in the fed state and “normalized” after a 56-hour fast, suggesting fasting altered dopaminergic control of lactotroph function [S007].
+- Another opened abstract (PMID 6404923, included conceptually in the source-search process but not assigned a new source ID here) reported that prolonged fasting affected thyrotropin responsiveness while prolactin responses to TRH/cimetidine were not simply increased, again arguing against an overly simple “fasting raises PRL” rule.
+
+Therefore, if the user reports elevated fasting prolactin, the finding should be taken seriously, but the literature currently in hand suggests that its interpretation is state- and context-dependent. Possible meanings include:
+- altered hypothalamic dopaminergic restraint,
+- stress-related neuroendocrine dysregulation,
+- measurement timing/context effect,
+- or a genuine fasting-associated shift in this individual.
+
+3. HOW ELEVATED PROLACTIN COULD REDUCE AROUSAL
+S003 provides the main conceptual support. The review links hyperprolactinemia to disruption of CNS dopaminergic tone, hyperphagia, weight gain, and insulin-resistance-related changes [S003]. Although the review is not specifically about alertness, reduced dopaminergic tone is highly relevant to wakefulness and motivation. The resulting picture is that elevated prolactin can create a lower-arousal baseline, even before meals.
+
+This would not by itself explain the carbohydrate specificity of the symptom, but it can explain why the person crashes more easily after a carbohydrate-triggered postprandial shift.
+
+4. PROLACTIN AND METABOLIC FUNCTION
+S003 emphasizes that prolactin has complex metabolic actions on adipose tissue, pancreas, liver, and appetite circuitry [S003]. High pathological prolactin states are associated with worse insulin resistance, dyslipidemia, and obesity, while a “goldilocks zone” may exist in which normal-high prolactin is metabolically neutral or beneficial [S003].
+
+For this dossier, two takeaways matter:
+- The meaning of “elevated prolactin” depends on magnitude and context.
+- Prolactin can interact with glucose handling and appetite/arousal circuitry, making it reasonable to treat as a contributor to postprandial symptoms.
+
+5. DOPAMINE SUPPRESSION AND POSTPRANDIAL SLEEPINESS
+If prolactin elevation reflects reduced hypothalamic dopaminergic restraint, then postprandial sleepiness could become worse for at least three reasons:
+1. Lower baseline motivational/arousal tone.
+2. Lower resistance to meal-induced serotonin/orexin-related sleep pressure.
+3. Greater susceptibility to the subjective “shut-down” or reduced reward-drive feeling that some people describe after meals.
+
+This is conceptually coherent but still not directly proven in the exact phenotype.
+
+6. PROLACTIN-CORTISOL INTERACTION
+The prompt asks for mutual amplification. The currently opened evidence base is not strong enough to claim a well-established, direct cortisol-prolactin mutual amplification loop in this exact setting. What can be said safely is that both hormones are stress-responsive in some contexts, both can interact with hypothalamic regulation, and both can alter metabolic state. They may co-occur during neuroendocrine strain, but whether one is driving the other in this scenario remains uncertain. This belongs in the “probable co-regulation / possible mutual reinforcement” category rather than “established loop.”
+
+7. GLA, PGE1, AND HORROBIN-TYPE HYPOTHESES
+This is the weakest portion of the requested mechanism set. Historical literature and review-level materials suggest that GLA, through conversion to dihomo-gamma-linolenic acid and then PGE1-related pathways, has been hypothesized to modulate prolactin actions and endocrine symptoms. But the available material is old, heterogeneous, and sometimes internally contradictory. Search-opened records also show older findings that PGE1 can stimulate prolactin release in some experimental settings, which complicates simplistic claims that PGE1 necessarily antagonizes prolactin effects.
+
+Therefore:
+- It is reasonable to mention GLA/PGE1 as a speculative modifier.
+- It is not reasonable, based on current opened evidence, to treat GLA as a major established cause of elevated prolactin or of the reported sleepiness.
+
+8. RED TEAM / HOW THIS COULD BE WRONG
+- Elevated prolactin may be epiphenomenal rather than causal.
+- Dopaminergic tone may be reduced for reasons unrelated to prolactin.
+- Fasting prolactin elevation may not be reproducible if remeasured under standardized conditions.
+- The symptom could remain unchanged even if prolactin were normalized, implying it is not a primary driver.
+- GLA may have little or no meaningful endocrine effect in this context.
+
+[ROUND 2 ADDITION]
+9. STRONGER BOUNDARY EVIDENCE AGAINST A SIMPLE FASTING-PROLACTIN MODEL
+Round-2 expansion added S016, which is more constraining than supportive for strong prolactin claims. In healthy volunteers, 56-hour fasting markedly suppressed TSH responsiveness, but TRH- and cimetidine-induced prolactin responses were broadly unaffected [S016]. This means the current dossier has better direct support for fasting sensitivity of the thyroid axis than for a generalized fasting-induced prolactin elevation model.
+
+That does not make the reported elevated fasting prolactin irrelevant. It does mean the safest interpretation is now narrower:
+- elevated prolactin may still act as an amplifier of reduced arousal reserve,
+- but fasting per se is not strongly established as a universal causal explanation for that elevation,
+- and prolactin evidence is weaker than the metabolic-refeeding and CNS pathways.
+
+[ROUND 2 ADDITION]
+10. CONSEQUENCE FOR DOPAMINE-AROUSAL FRAMING
+The most defensible role for the prolactin/dopamine axis after round 2 is an amplifier model rather than a central-driver model. S003 still supports the broader biology of prolactin-dopamine-metabolism interaction [S003], and S007 supports altered dopaminergic regulation in a fasting context [S007]. But S016 prevents overreach by showing that prolonged fasting does not simply amplify prolactin responsiveness across the board [S016].
+
+BOTTOM-LINE JUDGMENT
+Established:
+- Prolactin is tightly linked to dopaminergic control and broader metabolic regulation [S003].
+Probable:
+- Elevated prolactin / reduced dopaminergic tone can lower arousal reserve and amplify postprandial sleepiness.
+Uncertain:
+- Whether fasting is the direct reason prolactin is elevated in this case.
+Low confidence / speculative:
+- Strong GLA/PGE1-centered explanations for the phenotype.
+Boundary reminder:
+- Direct human fasting evidence currently weighs more strongly for thyroid-axis changes than for a universal prolactin-rise model [S016].
+
+
+[ROUND 2 ADDITION]
+9. NEW DIRECT HUMAN NULL EVIDENCE AGAINST A STRONG GLA-LOWERS-PROLACTIN CLAIM
+S019 is highly useful because it finally adds a modern randomized human full-text source rather than relying only on older hypotheses. In women with PMS treated for six months with an essential-fatty-acid preparation containing gamma-linolenic acid, linoleic acid, oleic acid, and vitamin E, symptoms improved but serum prolactin did not significantly change [S019]. This directly weakens any simplistic claim that GLA-containing preparations reliably lower circulating prolactin in humans.
+
+10. HOW S019 CHANGES THE GLA INTERPRETATION
+The safest interpretation after S019 is:
+- GLA-containing interventions may alter symptoms in some contexts.
+- The effect is not convincingly mediated by lowering basal serum prolactin.
+- If any prolactin-related effect exists, it is more likely via altered tissue sensitivity or downstream signaling than via robust serum-level reduction [S019].
+This moves GLA-centered endocrine claims from “possible contributor” toward “low-confidence modifier only.”
+
+11. NEW FASTING-PROLACTIN CONTRADICTION FROM S018
+S018 adds another important primary-human contradiction. In healthy volunteers, a 56-hour fast markedly suppressed TSH responsiveness but did not restore or globally increase prolactin responses in a way that would support a simple “fasting raises prolactin” model. Metoclopramide altered some prolactin responses, but the broader picture remained one of selective pituitary adaptation rather than a uniform prolactin increase [S018].
+
+12. ROUND-2 JUDGMENT UPDATE
+With S018 and S019 added, prolactin remains plausible as an arousal amplifier, but fasting-induced hyperprolactinemia is now even less convincing as a default explanation. The dossier should therefore emphasize:
+- prolactin elevation in the user may be real,
+- but fasting does not appear to raise prolactin in a simple, reliable, one-direction way,
+- and GLA-containing fats do not have good direct evidence for lowering circulating prolactin.

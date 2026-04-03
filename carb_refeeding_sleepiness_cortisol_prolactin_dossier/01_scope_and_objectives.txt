@@ -1,0 +1,80 @@
+TITLE
+Scope and objectives
+PURPOSE
+Define the exact physiological state under investigation, delimit scope, and specify the causal-standard framework for the dossier.
+STATUS
+SUBSTANTIVE_DRAFT
+SCOPE
+Case definition, variables, causal taxonomy, domains, exclusions.
+DEPENDENCIES
+03_search_strategy_and_queries.txt, 04_source_register.txt, 06_concept_dependency_graph.txt.
+KEY_QUESTIONS
+What phenotype is being explained? What counts as a cause versus contributor or correlation? What domains must be covered to explain post-carbohydrate somnolence in this low-carb, calorie-deficit state?
+EVIDENCE_TIER
+Mixed: conceptual synthesis grounded in human metabolic and endocrine literature.
+SOURCE_IDS_USED
+S001,S002,S003,S004,S005,S006,S007,S008,S009,S010,S011
+OPEN_ISSUES
+No single direct study reproduces the exact full phenotype with the exact reported macronutrient/fatty-acid composition; final model therefore requires triangulation from direct and adjacent evidence.
+LAST_UPDATED
+2026-04-03
+
+STATE UNDER INVESTIGATION
+The target state is a combined metabolic-neuroendocrine phenotype with these defining features: (1) sustained caloric deficit; (2) complete or near-complete carbohydrate restriction sufficient to induce ketosis/adaptation to fat-based fuel use; (3) protein intake around 2 g/kg/day; (4) fat intake around 1 g/kg/day with an unusually specific composition enriched in EPA+DHA, gamma-linolenic acid (GLA), and oleic acid; (5) fasting-state elevation of cortisol and prolactin; and (6) marked excessive sleepiness after carbohydrates are reintroduced. The question is not merely why carbohydrate intake can make some people drowsy in general, but why this happens excessively in a person already adapted to fasting/low-carbohydrate energy metabolism and already showing hormonal evidence of stress-axis activation and altered lactotroph/dopaminergic regulation.
+
+PRIMARY PHENOTYPE TO EXPLAIN
+The core symptom is post-carbohydrate somnolence. For this dossier, that means a reproducible, disproportionately strong increase in sleep pressure, lethargy, reduced vigilance, or urge to sleep after eating carbohydrate-containing food, beyond ordinary satiety. The phrase “after consumption of carbohydrates starts becoming excessively sleepy” implies a state-dependent change: minimal or less-prominent sleepiness during fasting/strict carbohydrate restriction, but prominent sleepiness after carbohydrate exposure. This points toward a refeeding-specific interaction between prior adaptation state and acute meal response.
+
+KEY VARIABLES
+1. Complete carbohydrate restriction:
+- Relevant because human low-carbohydrate/ketogenic adaptation can change skeletal muscle glucose handling, respiratory quotient, counter-regulatory hormone balance, thyroid hormone patterns, and brain/gut signaling [S001, S002, S009, S010].
+2. Caloric deficit:
+- Relevant because calorie deficit independently activates the HPA axis, lowers leptin, can lower T3, and alters prolactin/thyrotroph responses [S006, S008, S009].
+3. High protein intake (~2 g/kg):
+- Relevant because high protein changes gluconeogenic flux, incretin response, insulin response, tryptophan/LNAA competition, and amino-acid inflammatory signaling [S005, S010].
+4. Fat intake (~1 g/kg) from EPA+DHA, GLA, oleic acid:
+- Relevant because these fatty acids can modify inflammation, membrane composition, incretin pathways, eicosanoid balance, and possibly stress-axis tone, but the combined-profile evidence is mostly indirect [S005, S011].
+5. Elevated fasting cortisol:
+- Relevant because cortisol increases during fasting and low-energy/carbohydrate states, can alter glucose production, sleep-wake biology, and meal responses [S006].
+6. Elevated fasting prolactin:
+- Relevant because prolactin interacts bidirectionally with dopamine, appetite/arousal systems, and metabolic control; however direct fasting-human evidence is weaker and more heterogeneous than for cortisol [S003, S007].
+
+MECHANISTIC DOMAINS REQUIRED
+1. Metabolic adaptation:
+- Ketosis, tissue insulin sensitivity distribution, muscle glucose transporter content, pyruvate dehydrogenase regulation, glycogen, gluconeogenesis, hepatic versus peripheral glucose handling.
+2. Hormonal/endocrine:
+- Cortisol/HPA axis, prolactin-dopamine axis, thyroid adaptation, glucagon, catecholamines, incretins.
+3. Neurotransmitter/CNS:
+- Orexin/hypocretin, serotonin, melatonin, dopamine, histamine, GABA/glutamate, adenosine.
+4. Inflammatory/immune:
+- Meal-induced IL-1/IL-6/TNF-alpha, NF-kB, ROS, endotoxin/LPS, sickness-behavior overlap [S005].
+5. Circadian/chronobiological:
+- Meal timing, cortisol rhythm, wakefulness drive, sleep debt, chronotype, postprandial timing effects [S006, S010].
+6. Autonomic/hemodynamic/gut-brain:
+- Parasympathetic activation, gastric emptying, vagal signaling, incretin signaling, possible reactive hypoglycemia or rapid glycemic decline.
+
+WHAT COUNTS AS A CAUSE VS CONTRIBUTOR VS CORRELATION
+Cause:
+A cause in this dossier is a mechanism that is both biologically capable of producing the phenotype and has evidence linking it to the relevant state transition. Example: low-carbohydrate adaptation reducing glucose tolerance and lowering muscle GLUT4/insulin-receptor content after weeks of ketogenic feeding is a candidate causal mechanism because it can plausibly change the physiological response to carbohydrate reintroduction [S001].
+
+Contributor:
+A contributor is a mechanism that plausibly amplifies or biases the state without being sufficient alone. Example: elevated prolactin lowering dopaminergic tone may reduce arousal and worsen subjective sleepiness, but by itself may not fully explain why sleepiness is triggered specifically by carbohydrate intake [S003].
+
+Correlation:
+A correlation is an associated observation without sufficient mechanistic or temporal evidence. Example: an elevated lab value measured during fasting could be incidental, compensatory, or downstream. For major claims, correlation alone is insufficient.
+
+CAUSAL STANDARD USED HERE
+The dossier uses a layered standard:
+- Established mechanism: replicated human evidence or strong human-plus-mechanistic coherence.
+- Probable contributor: indirect but convergent evidence from human studies plus mechanistic plausibility.
+- Speculative possibility: biologically coherent but not directly evidenced in this exact phenotype.
+
+WORKING HYPOTHESIS
+The leading working model is that prolonged carbohydrate restriction plus caloric deficit creates a fasting-adapted, cortisol-elevated state in which peripheral glucose handling becomes transiently less efficient on carbohydrate re-exposure, while central arousal systems are simultaneously made more vulnerable by stress-axis activation, possible low-T3 adaptation, and prolactin/dopamine changes. Carbohydrate ingestion then triggers a mixed response: insulin and incretin signaling, altered glucose disposal, orexin suppression, increased tryptophan availability to the brain, autonomic shift toward parasympathetic tone, and sometimes inflammatory/endotoxin signaling. Excessive sleepiness emerges from the convergence of these pathways rather than from a single “food coma” explanation.
+
+EXCLUSIONS / NON-GOALS
+This dossier is not primarily about:
+- Idiopathic chronic fatigue unrelated to meals.
+- Narcolepsy or primary central hypersomnia unless discussed as differential-like boundary conditions.
+- Diabetes treatment generally, except where directly relevant to reactive/postprandial physiology.
+- Product or supplement recommendation beyond evidence review.

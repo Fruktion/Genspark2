@@ -1,0 +1,70 @@
+TITLE
+Objective function constraints and scenarios
+PURPOSE
+Frame the research question as a constrained causal-inference and optimization problem rather than a search for one universal explanation.
+STATUS
+SUBSTANTIVE_DRAFT
+SCOPE
+Objectives, constraints, scenario assumptions, decision context.
+DEPENDENCIES
+01_scope_and_objectives.txt, 10_synthesis_of_mechanisms.txt, 12_mitigation_and_intervention_strategies.txt.
+KEY_QUESTIONS
+What is the explanatory objective? What assumptions constrain interpretation? Which scenario differences change the optimal explanation or mitigation strategy?
+EVIDENCE_TIER
+Analytic framing layer built on source-backed mechanism files.
+SOURCE_IDS_USED
+S001,S002,S003,S004,S005,S006,S008,S009,S010,S011
+OPEN_ISSUES
+Need more direct evidence to rank scenario-specific explanations quantitatively.
+LAST_UPDATED
+2026-04-03
+
+OBJECTIVE FUNCTION
+The primary objective is to identify all physiologically credible causes of this state and rank them by explanatory power, evidence quality, and specificity to the reported scenario. The dossier must explain:
+1. Why fasting cortisol is elevated.
+2. Why fasting prolactin is elevated or functionally dysregulated.
+3. Why carbohydrate ingestion specifically triggers excessive sleepiness after low-carbohydrate adaptation.
+4. How the chosen fatty-acid profile may modify or amplify the state.
+
+SECONDARY OBJECTIVES
+- Distinguish direct causes from state-amplifiers.
+- Identify mechanisms likely to produce symptoms within minutes, 1-3 hours, or multiple hours after refeeding.
+- Identify which mitigation strategies would logically target the dominant mechanism under different scenarios.
+
+CONSTRAINTS
+1. Exact-matching evidence is sparse.
+There are very few or no studies using the exact combination of complete carbohydrate restriction + caloric deficit + 2 g/kg protein + 1 g/kg fat specifically from EPA/DHA + GLA + oleic acid + elevated fasting cortisol/prolactin + post-carb somnolence. Therefore the explanation must rely on structured triangulation rather than exact protocol matching.
+2. Human evidence is prioritized.
+Animal and in vitro data can support mechanistic plausibility but are not sufficient for decisive human conclusions.
+3. Temporal specificity matters.
+A mechanism explaining chronic fatigue but not immediate post-carbohydrate sleepiness ranks lower for the main symptom.
+4. Bidirectional and compensatory physiology matters.
+Elevated cortisol or prolactin may be adaptive, compensatory, causal, or downstream. The dossier must not assume directional causality prematurely.
+
+SCENARIOS THAT COULD CHANGE THE OPTIMAL EXPLANATION
+Scenario A: Sleepiness within 15-60 minutes of carbs.
+- More compatible with rapid orexin suppression, insulin/incretin response, vagal/parasympathetic shift, or acute cerebral subjective effects of rapid glycemic change than with late biochemical hypoglycemia.
+
+Scenario B: Sleepiness 2-5 hours after carbs.
+- More compatible with reactive/postprandial hypoglycemia, delayed excessive second-phase insulin response, inflammatory/endotoxin signaling, or circadian interaction [S004, S010].
+
+Scenario C: Sleepiness only after large/high-GI carb loads.
+- Favors exaggerated glycemic excursion, insulin dynamics, and tryptophan-serotonin mechanisms.
+
+Scenario D: Sleepiness after even small carb amounts.
+- Raises suspicion for extreme low-carb adaptation/metabolic inflexibility, strong HPA withdrawal-like response, or unusually low arousal reserve due to prolactin/dopamine/circadian factors.
+
+Scenario E: Sleepiness occurs mostly in morning vs evening.
+- Changes the weighting of cortisol rhythm, cortisol awakening response, circadian phase, and carbohydrate-sleep timing interactions.
+
+OBJECTIVE-FUNCTION TRADEOFFS
+- Specificity vs breadth: a mechanism may be real in humans but not specific to this phenotype.
+- Direct evidence vs physiological plausibility: some of the most likely mechanisms have only adjacent direct evidence.
+- Acute symptom explanation vs upstream-state explanation: e.g., cortisol may explain the fasting state while glucose intolerance explains the post-meal trigger.
+
+PRELIMINARY OPTIMIZATION RESULT
+At this stage, the best explanatory package is not a single winner but a multi-objective bundle:
+- Primary upstream state drivers: fasting/caloric deficit stress response and low-carbohydrate adaptation.
+- Primary trigger mechanisms: impaired carbohydrate handling on reintroduction, insulin/incretin-glycemia dynamics, orexin/serotonin shifts.
+- Primary amplifiers: prolactin-dopamine tone, circadian misalignment, inflammatory meal response.
+- Modifiers with lower confidence: fatty-acid-profile-specific hormone interactions, especially GLA/PGE1-prolactin claims.

@@ -1,0 +1,60 @@
+TITLE
+Concept dependency graph
+PURPOSE
+Map how the major concepts depend on one another mechanistically and evidentially.
+STATUS
+SUBSTANTIVE_DRAFT
+SCOPE
+Cross-domain causal structure.
+DEPENDENCIES
+01_scope_and_objectives.txt, mechanism files.
+KEY_QUESTIONS
+Which upstream states create the downstream symptom, and which relationships are direct versus indirect?
+EVIDENCE_TIER
+Analytic synthesis layer.
+SOURCE_IDS_USED
+S001,S002,S003,S004,S005,S006,S008,S010,S011
+OPEN_ISSUES
+Some edges remain tentative pending more direct evidence.
+LAST_UPDATED
+2026-04-03
+
+GRAPH (TEXT FORM)
+A. Complete carbohydrate restriction + caloric deficit
+-> ketosis / altered substrate oxidation [S001,S002]
+-> fasting stress response / HPA activation [S006]
+-> low leptin / altered thyroid signaling [S001,S008]
+-> altered dopaminergic-lactotroph regulation (possible) [S003,S007]
+
+B. Ketotic adaptation
+-> increased PDK4 [S001]
+-> reduced muscle glycolytic flux and postprandial lactate response [S001]
+-> reduced GLUT4 / INSR / AMPK over time [S001]
+-> worsened carbohydrate tolerance on refeeding [S001,S002]
+
+C. Carbohydrate reintroduction
+-> glucose rise + insulin/incretin response [S002,S004,S010]
+-> rapid orexin suppression / altered central arousal [S010]
+-> increased Trp/LNAA ratio -> serotonin/melatonin bias [S010]
+-> possible delayed excessive insulin response / reactive decline [S004]
+-> parasympathetic dominance / satiety signaling
+-> postprandial inflammatory signaling in some contexts [S005]
+
+D. Elevated fasting cortisol
+-> increased baseline arousal and hepatic glucose support [S006]
+-> sleep fragility and chronobiological disruption
+-> carbohydrate ingestion may reduce relative stress drive or shift autonomic balance -> perceived sleepiness (inference)
+
+E. Elevated prolactin / reduced dopaminergic tone
+-> lower arousal, motivation, reward drive [S003]
+-> metabolic dysregulation tendencies [S003]
+-> may amplify postprandial sleepiness rather than uniquely trigger it
+
+F. Fatty-acid profile
+EPA/DHA -> suppress NF-kB/TLR4-type inflammatory signaling [S005,S011]
+Oleic acid -> OEA/GPR119/GLP-1 adjacent mechanisms (requires more sourcing)
+GLA -> DGLA/PGE1 historical endocrine/inflammatory hypotheses [S011 low confidence]
+
+PRIMARY PATHWAY CURRENTLY FAVORED
+A -> B -> C -> symptom
+with D and E as upstream amplifiers and F as mixed modifiers.

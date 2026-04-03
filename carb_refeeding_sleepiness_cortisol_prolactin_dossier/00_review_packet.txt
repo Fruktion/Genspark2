@@ -1,0 +1,82 @@
+TITLE
+Review packet
+PURPOSE
+Provide chat-auditable overview, progress scorecard, current conclusions, blockers, and audit instructions for the dossier.
+STATUS
+SUBSTANTIVE_DRAFT
+SCOPE
+Whole dossier at current pass.
+DEPENDENCIES
+Manifest, directory tree, source register, traceability matrix, core mechanism files.
+KEY_QUESTIONS
+What has been built, what evidence was opened, how ready is the dossier, and what remains unresolved?
+EVIDENCE_TIER
+Administrative synthesis with source-derived counts.
+SOURCE_IDS_USED
+S001,S002,S003,S004,S005,S006,S007,S008,S009,S010,S011
+OPEN_ISSUES
+Need deeper direct human evidence on prolactin during fasting and direct low-carb refeed somnolence studies.
+LAST_UPDATED
+2026-04-03
+
+DOSSIER STAGE CLASSIFICATION
+PRELIMINARY_NOT_FINAL
+
+TOPIC
+Physiological causes of excessive sleepiness after reintroducing carbohydrates during caloric deficit with complete carbohydrate restriction, high protein intake (~2 g/kg), high fat intake (~1 g/kg from EPA+DHA, GLA, and oleic acid), and elevated fasting cortisol/prolactin.
+
+CURRENT WORKING MODEL
+The most defensible current model is multi-causal rather than single-cause. The leading primary mechanisms are: (1) low-carbohydrate adaptation causing transient peripheral glucose intolerance and reduced muscle glucose disposal capacity on refeeding; (2) HPA-axis activation from fasting/caloric deficit/carb restriction; (3) postprandial glycemic overshoot and sometimes reactive glycemic decline with orexin suppression/counter-regulatory instability; (4) altered arousal tone from elevated prolactin and reduced dopaminergic tone; and (5) postprandial inflammatory and autonomic signals that can amplify fatigue. Fatty-acid composition likely modifies these processes, but the exact combination-specific effect of EPA+DHA + GLA + oleic acid is supported mainly by adjacent rather than direct evidence.
+
+PROGRESS SCORECARD
+- academic full texts opened: 6
+- academic abstracts only opened directly: 5
+- academic review/full-text targeted summaries obtained: 6
+- official product pages opened: 0
+- retailer/pharmacy product pages opened: 0
+- packaging images inspected: 0
+- longlist product rows populated: 0
+- products with >=2-source INCI verification: 0
+- products with unresolved discrepancies: 0
+- shortlist profiles populated: 0
+- scoring-matrix rows populated: 0
+- completed substantive audit rounds: 0
+
+WHAT CHANGED IN THIS PASS
+1. Project environment verified and repo state inspected.
+2. Topic-specific dossier directory created.
+3. Initial source base established around ketogenic adaptation, fasting/cortisol, prolactin/dopamine, postprandial hypoglycemia, postprandial inflammation, and carbohydrate-sleep mechanisms.
+4. Initial mechanism model sharpened by direct review of one 12-week human RCT showing ketogenic-diet-associated impairment of glucose tolerance and reduced GLUT4/INSR/AMPK in muscle, plus increased PDK4 early in adaptation.
+5. Evidence captured that short-term weight-maintaining ketogenic feeding in T2D does not improve clamp-measured insulin sensitivity and may increase insulin secretion during OGTT.
+6. Evidence captured that fasting elevates cortisol and can shift cortisol timing; evidence for fasting-related prolactin alterations is more heterogeneous and often indirect.
+7. Evidence captured that high-carb/high-fat meals can increase LPS, IL-6, TNF-alpha, NF-kB, ROS, and leukocyte activity in humans, supporting fatigue-amplifying inflammatory hypotheses.
+8. Evidence captured that carbohydrate ingestion can increase tryptophan/LNAA ratio and plausibly favor serotonin/melatonin pathways, while glucose dynamics also affect orexin signaling.
+
+READINESS FLAGS
+- structure_ready: YES
+- traceability_ready: PARTIAL
+- red_team_ready: PARTIAL
+- primary_evidence_ready: PARTIAL
+- article_ready: NO
+- dossier_reviewable_in_chat: YES
+
+MOST IMPORTANT CURRENT FINDINGS
+1. Human randomized evidence supports a state of reduced carbohydrate tolerance after weeks of ketogenic restriction, with early increased PDK4 and later decreased skeletal-muscle GLUT4, insulin receptor, and AMPK. This makes reduced peripheral glucose disposal a primary-candidate mechanism for exaggerated post-carb symptoms.
+2. Human fasting/time-restricted-feeding literature supports elevated cortisol output and altered cortisol timing during fasting states, plausibly increasing baseline hyperarousal and making carbohydrate ingestion feel relatively sedating as cortisol falls and parasympathetic/postprandial processes dominate.
+3. Postprandial sleepiness is mechanistically plausible through combined serotonin-melatonin, orexin suppression, vagal activation, glycemic excursion, and inflammatory signaling rather than any single "blood-flow redistribution" explanation.
+4. Elevated prolactin can coexist with reduced dopaminergic tone and lower arousal/motivation, but direct proof that fasting-induced prolactin elevation is the main driver in this phenotype is weaker than the metabolic-refeeding mechanism.
+5. EPA/DHA likely dampen inflammatory/TLR4/NF-kB signaling; this may blunt some postprandial inflammatory consequences, but does not eliminate glucose-tolerance or HPA-axis mechanisms.
+6. GLA/PGE1 claims around prolactin are historically interesting but more weakly evidenced and internally conflicted than the metabolic/HPA mechanisms.
+
+MAJOR UNCERTAINTIES
+1. Whether this phenotype reflects true reactive hypoglycemia, rapid glucose decline without biochemical hypoglycemia, or predominantly central/autonomic postprandial somnolence.
+2. The extent to which elevated prolactin is a stable fasting adaptation versus a context-specific or measurement-timing artifact.
+3. Whether the specific high-dose EPA+DHA/GLA/oleic-acid combination meaningfully alters incretin response, cerebral perfusion, or cortisol-prolactin coupling in humans.
+4. How much caloric deficit magnitude, sleep debt, and meal timing explain variance across individuals.
+
+AUDIT INSTRUCTIONS FOR NEXT PASS
+- Add direct source-citation mapping for every major causal statement.
+- Expand direct human evidence on cortisol-carbohydrate interaction and fasting prolactin.
+- Search for refeeding studies after ketogenic adaptation and for case/series on postprandial somnolence improved by glucose-lowering therapies.
+- Separate established from probable from speculative claims more aggressively.
+- Add explicit falsifiers and competing hypotheses.
